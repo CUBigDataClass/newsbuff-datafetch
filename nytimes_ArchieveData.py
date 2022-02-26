@@ -4,7 +4,7 @@ from asyncio.windows_events import NULL
 from pynytimes import NYTAPI
 import datetime
 
-myKey = "br2UmSMINrYwhsA6D3B1zzkJ2pLQ6eVV"
+myKey = "xxx"
 #outputFile = "C:\Users\Shiva\Desktop\Anu\UC BOULDERS\Courses\Spring 2022\ATLS 5214_Big Data Architecture\Project\output.txt"
 nyt = NYTAPI(myKey, parse_dates=True)
 
