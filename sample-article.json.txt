@@ -1,1 +1,173 @@
-{'abstract': 'Progress on women’s rights was stalling, and then Donald Trump came along.', 'web_url': 'https://www.nytimes.com/2018/01/31/opinion/courtland-sykes-senate-me-too.html', 'snippet': 'Progress on women’s rights was stalling, and then Donald Trump came along.', 'lead_paragraph': 'In Missouri, an acolyte of President Trump is running for the U.S. Senate and denouncing “manophobic hell-bent feminist she-devils.”', 'print_section': 'A', 'print_page': '23', 'source': 'The New York Times', 'multimedia': [{'rank': 0, 'subtype': 'xlarge', 'caption': None, 'credit': None, 'type': 'image', 'url': 'images/2018/02/01/opinion/01kristof-2web/merlin_132604004_c9dd411a-a928-4a5e-86d4-29db8489a45b-articleLarge.jpg', 'height': 400, 'width': 600, 'subType': 'xlarge', 'crop_name': 'articleLarge', 'legacy': {'xlarge': 'images/2018/02/01/opinion/01kristof-2web/merlin_132604004_c9dd411a-a928-4a5e-86d4-29db8489a45b-articleLarge.jpg', 'xlargewidth': 600, 'xlargeheight': 400}}, {'rank': 0, 'subtype': 'jumbo', 'caption': None, 'credit': None, 'type': 'image', 'url': 'images/2018/02/01/opinion/01kristof-2web/merlin_132604004_c9dd411a-a928-4a5e-86d4-29db8489a45b-jumbo.jpg', 'height': 683, 'width': 1024, 'subType': 'jumbo', 'crop_name': 'jumbo', 'legacy': {}}, {'rank': 0, 'subtype': 'superJumbo', 'caption': None, 'credit': None, 'type': 'image', 'url': 'images/2018/02/01/opinion/01kristof-2web/merlin_132604004_c9dd411a-a928-4a5e-86d4-29db8489a45b-superJumbo.jpg', 'height': 1365, 'width': 2048, 'subType': 'superJumbo', 'crop_name': 'superJumbo', 'legacy': {}}, {'rank': 0, 'subtype': 'thumbnail', 'caption': None, 'credit': None, 'type': 'image', 'url': 'images/2018/02/01/opinion/01kristof-2web/01kristof-2web-thumbStandard.jpg', 'height': 75, 'width': 75, 'subType': 'thumbnail', 'crop_name': 'thumbStandard', 'legacy': {'thumbnail': 'images/2018/02/01/opinion/01kristof-2web/01kristof-2web-thumbStandard.jpg', 'thumbnailwidth': 75, 'thumbnailheight': 75}}, {'rank': 0, 'subtype': 'thumbLarge', 'caption': None, 'credit': None, 'type': 'image', 'url': 'images/2018/02/01/opinion/01kristof-2web/01kristof-2web-thumbLarge.jpg', 'height': 150, 'width': 150, 'subType': 'thumbLarge', 'crop_name': 'thumbLarge', 'legacy': {}}], 'headline': {'main': 'I Stand With the ‘She-Devils’', 'kicker': 'Op-Ed Columnist', 'content_kicker': None, 'print_headline': 'I Stand  With the ‘She-Devils’', 'name': None, 'seo': None, 'sub': None}, 'keywords': [{'name': 'subject', 'value': 'Women and Girls', 'rank': 1, 'major': 'N'}, {'name': 'subject', 'value': "Women's Rights", 'rank': 2, 'major': 'N'}, {'name': 'subject', 'value': 'United States Politics and Government', 'rank': 3, 'major': 'N'}, {'name': 'subject', 'value': '#MeToo Movement', 'rank': 4, 'major': 'N'}, {'name': 'subject', 'value': 'Sexual Harassment', 'rank': 5, 'major': 'N'}, {'name': 'subject', 'value': 'Elections, Senate', 'rank': 6, 'major': 'N'}, {'name': 'persons', 'value': 'Smith, Margaret Chase', 'rank': 7, 'major': 'N'}, {'name': 'glocations', 'value': 'Missouri', 'rank': 8, 'major': 'N'}], 'pub_date': datetime.datetime(2018, 2, 1, 0, 1, 36, tzinfo=datetime.timezone.utc), 'document_type': 'article', 'news_desk': 'OpEd', 'section_name': 'Opinion', 'byline': {'original': 'By Nicholas Kristof', 'person': [{'firstname': 'Nicholas', 'middlename': None, 'lastname': 'Kristof', 'qualifier': None, 'title': None, 'role': 'reported', 'organization': '', 'rank': 1}], 'organization': None}, 'type_of_material': 'Op-Ed', '_id': 'nyt://article/bc46838d-e7ce-54f0-976b-5bcca53d2615', 'word_count': 835, 'uri': 'nyt://article/bc46838d-e7ce-54f0-976b-5bcca53d2615'}
+{
+   "abstract":"Progress on women’s rights was stalling, and then Donald Trump came along.",
+   "web_url":"https://www.nytimes.com/2018/01/31/opinion/courtland-sykes-senate-me-too.html",
+   "snippet":"Progress on women’s rights was stalling, and then Donald Trump came along.",
+   "lead_paragraph":"In Missouri, an acolyte of President Trump is running for the U.S. Senate and denouncing “manophobic hell-bent feminist she-devils.”",
+   "print_section":"A",
+   "print_page":"23",
+   "source":"The New York Times",
+   "multimedia":[
+      {
+         "rank":0,
+         "subtype":"xlarge",
+         "caption":"None",
+         "credit":"None",
+         "type":"image",
+         "url":"images/2018/02/01/opinion/01kristof-2web/merlin_132604004_c9dd411a-a928-4a5e-86d4-29db8489a45b-articleLarge.jpg",
+         "height":400,
+         "width":600,
+         "subType":"xlarge",
+         "crop_name":"articleLarge",
+         "legacy":{
+            "xlarge":"images/2018/02/01/opinion/01kristof-2web/merlin_132604004_c9dd411a-a928-4a5e-86d4-29db8489a45b-articleLarge.jpg",
+            "xlargewidth":600,
+            "xlargeheight":400
+         }
+      },
+      {
+         "rank":0,
+         "subtype":"jumbo",
+         "caption":"None",
+         "credit":"None",
+         "type":"image",
+         "url":"images/2018/02/01/opinion/01kristof-2web/merlin_132604004_c9dd411a-a928-4a5e-86d4-29db8489a45b-jumbo.jpg",
+         "height":683,
+         "width":1024,
+         "subType":"jumbo",
+         "crop_name":"jumbo",
+         "legacy":{
+            
+         }
+      },
+      {
+         "rank":0,
+         "subtype":"superJumbo",
+         "caption":"None",
+         "credit":"None",
+         "type":"image",
+         "url":"images/2018/02/01/opinion/01kristof-2web/merlin_132604004_c9dd411a-a928-4a5e-86d4-29db8489a45b-superJumbo.jpg",
+         "height":1365,
+         "width":2048,
+         "subType":"superJumbo",
+         "crop_name":"superJumbo",
+         "legacy":{
+            
+         }
+      },
+      {
+         "rank":0,
+         "subtype":"thumbnail",
+         "caption":"None",
+         "credit":"None",
+         "type":"image",
+         "url":"images/2018/02/01/opinion/01kristof-2web/01kristof-2web-thumbStandard.jpg",
+         "height":75,
+         "width":75,
+         "subType":"thumbnail",
+         "crop_name":"thumbStandard",
+         "legacy":{
+            "thumbnail":"images/2018/02/01/opinion/01kristof-2web/01kristof-2web-thumbStandard.jpg",
+            "thumbnailwidth":75,
+            "thumbnailheight":75
+         }
+      },
+      {
+         "rank":0,
+         "subtype":"thumbLarge",
+         "caption":"None",
+         "credit":"None",
+         "type":"image",
+         "url":"images/2018/02/01/opinion/01kristof-2web/01kristof-2web-thumbLarge.jpg",
+         "height":150,
+         "width":150,
+         "subType":"thumbLarge",
+         "crop_name":"thumbLarge",
+         "legacy":{
+            
+         }
+      }
+   ],
+   "headline":{
+      "main":"I Stand With the ‘She-Devils’",
+      "kicker":"Op-Ed Columnist",
+      "content_kicker":"None",
+      "print_headline":"I Stand  With the ‘She-Devils’",
+      "name":"None",
+      "seo":"None",
+      "sub":"None"
+   },
+   "keywords":[
+      {
+         "name":"subject",
+         "value":"Women and Girls",
+         "rank":1,
+         "major":"N"
+      },
+      {
+         "name":"subject",
+         "value":"Women's Rights",
+         "rank":2,
+         "major":"N"
+      },
+      {
+         "name":"subject",
+         "value":"United States Politics and Government",
+         "rank":3,
+         "major":"N"
+      },
+      {
+         "name":"subject",
+         "value":"#MeToo Movement",
+         "rank":4,
+         "major":"N"
+      },
+      {
+         "name":"subject",
+         "value":"Sexual Harassment",
+         "rank":5,
+         "major":"N"
+      },
+      {
+         "name":"subject",
+         "value":"Elections, Senate",
+         "rank":6,
+         "major":"N"
+      },
+      {
+         "name":"persons",
+         "value":"Smith, Margaret Chase",
+         "rank":7,
+         "major":"N"
+      },
+      {
+         "name":"glocations",
+         "value":"Missouri",
+         "rank":8,
+         "major":"N"
+      }
+   ],
+   "pub_date":datetime.datetime(2018, 2, 1, 0, 1, 36, "tzinfo=datetime.timezone.utc)",
+   "document_type":"article",
+   "news_desk":"OpEd",
+   "section_name":"Opinion",
+   "byline":{
+      "original":"By Nicholas Kristof",
+      "person":[
+         {
+            "firstname":"Nicholas",
+            "middlename":"None",
+            "lastname":"Kristof",
+            "qualifier":"None",
+            "title":"None",
+            "role":"reported",
+            "organization":"",
+            "rank":1
+         }
+      ],
+      "organization":"None"
+   },
+   "type_of_material":"Op-Ed",
+   "_id":"nyt://article/bc46838d-e7ce-54f0-976b-5bcca53d2615",
+   "word_count":835,
+   "uri":"nyt://article/bc46838d-e7ce-54f0-976b-5bcca53d2615"
+}

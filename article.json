@@ -1,4 +1,5 @@
-{'datetime': datetime.datetime(2021, 1, 1, 0, 16, 53, tzinfo=datetime.timezone.utc), 
+{
+    'datetime': datetime.datetime(2021, 1, 1, 0, 16, 53, tzinfo=datetime.timezone.utc), 
     'section': 'U.S.', 
     'subsection': 'null', 
     'headline': 'The video shows a man raising something to his car window before a bang is heard. An officer ducks for cover and then fires several rounds at the man.', 
