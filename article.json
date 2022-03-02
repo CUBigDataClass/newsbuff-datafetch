@@ -1,0 +1,9 @@
+{'datetime': datetime.datetime(2021, 1, 1, 0, 16, 53, tzinfo=datetime.timezone.utc), 
+    'section': 'U.S.', 
+    'subsection': 'null', 
+    'headline': 'The video shows a man raising something to his car window before a bang is heard. An officer ducks for cover and then fires several rounds at the man.', 
+    'description': 'The Minneapolis Police Department released body camera footage on Thursday that shed new light on a fatal police shooting the night before, the first killing by a city police officer since George Floyd’s death in the spring.', 
+    'location': 'Minneapolis (Minn)', 
+    'webURL': 'https://www.nytimes.com/2020/12/31/us/george-floyd-minneapolis-police-body-cam.html', 
+    'imageURL': 'images/2021/01/30/us/31minneapolis-bodycam/30minneapolis-bodycam-articleLarge.png'
+}
