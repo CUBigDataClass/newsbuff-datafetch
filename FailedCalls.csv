@@ -1,0 +1,7 @@
+{'runtime': datetime.datetime(2022, 3, 5, 17, 17, 2, 629518), 'exceptionDetails': 'No failed calls in this run.'}
+{'runtime': datetime.datetime(2022, 3, 5, 17, 19, 9, 376615), 'exceptionDetails': 'No failed calls in this run.'}
+{'runtime': datetime.datetime(2022, 3, 5, 17, 28, 20, 776708), 'exceptionDetails': [{'year': 2020, 'month': 1, 'failureReason': (<class 'ValueError'>, ValueError('Error 400: Invalid input'), <traceback object at 0x0000015FC8293240>)}]}
+{'runtime': datetime.datetime(2022, 3, 5, 17, 29, 14, 309060), 'exceptionDetails': [{'year': 2020, 'month': 2, 'failureReason': (<class 'ValueError'>, ValueError('Error 400: Invalid input'), <traceback object at 0x0000024C37DA31C0>)}]}
+{'runtime': datetime.datetime(2022, 3, 5, 17, 31, 19, 516218), 'exceptionDetails': [{'year': 2020, 'month': 2, 'failureReason': (<class 'ValueError'>, ValueError('Error 400: Invalid input'), <traceback object at 0x000001959B963180>)}, {'year': 2020, 'month': 3, 'failureReason': (<class 'ValueError'>, ValueError('Error 400: Invalid input'), <traceback object at 0x000001959B974D00>)}]}
+{'runtime': datetime.datetime(2022, 3, 5, 17, 33, 11, 685089), 'exceptionDetails': 'No failed calls in this run.'}
+{'runtime': datetime.datetime(2022, 3, 5, 17, 33, 58, 613163), 'exceptionDetails': 'No failed calls in this run.'}
