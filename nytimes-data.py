@@ -8,6 +8,8 @@ import json
 import sys
 import time
 import pandas
+import pymongo
+import mongodbconfig
 
 # Specify API key to fetch the data
 myKey = ""
@@ -81,5 +83,11 @@ print(myArticle[0])
 print(exceptionData)
 print("length of exception data:", len(exceptionData))
 
-        
-
+# Replace the uri string with your MongoDB deployment's connection string.
+conn_str = "mongodb+srv://newsbuff:"+mongodbconfig.mongoDBPwd+"@newbuffcluster.j94k7.mongodb.net/test?retryWrites=true&w=majority"
+# set a 5-second connection timeout
+client = pymongo.MongoClient(conn_str, serverSelectionTimeoutMS=5000)
+try:
+    print(client.server_info())
+except Exception:
+    print("Unable to connect to the server.")
