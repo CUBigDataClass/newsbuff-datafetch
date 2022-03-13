@@ -1,12 +1,9 @@
 #"nytimes"
 
 import datetime
-import json
 import sys
-import time
 from datetime import datetime
 
-import pandas
 import pymongo
 from pynytimes import NYTAPI
 
@@ -125,7 +122,7 @@ print(exceptionData)
 print("Number of articles with No location:", len(myArticleNoLocation))
 print("Number of articles with One location:", len(myArticleOneLocation))
 print("Number of articles with Many locations:", len(myArticleManyLocations))
-print("length of exception data:", len(exceptionData))
+print("Number of exceptions:", len(exceptionData))
 print(endTime-startTime)
 
 
