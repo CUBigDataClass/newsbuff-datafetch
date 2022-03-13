@@ -9,11 +9,12 @@ from datetime import datetime
 
 import mongodbconfig
 import pandas
-import pymongo
+#import pymongo
 from pynytimes import NYTAPI
 
 # Specify API key to fetch the data
-myKey = "Ba9OgKF9Ofgo7wIDiroKUnuBZhYxyMFb"
+# Ba9OgKF9Ofgo7wIDiroKUnuBZhYxyMFb
+myKey = ""
 nyt = NYTAPI(myKey, parse_dates=True)
 currentTime = datetime.now()
 
@@ -33,12 +34,12 @@ myArticle = []
 exceptionData = []
 for year in range(2019, 2020, 1):
 #    myArticle.clear()    #Clearing out the list of dictionaries to append new data for every year.
-    for month in range(1, 13, 1):
+    for month in range(1, 4, 1):
         print("Attempting to fetch data for year {year} and month {month}:".format(year = str(year), month = str(month)))
 
         try:
             clearOutputFile()
-            #print("Inside try block.")
+            print("Inside try block.")
             startTime = datetime.now()
             articles = getData(year, month)
             print("No. of articles in {year} and {month} is {len}".format(year = str(year), month = str(month), len = str(len(articles))))
@@ -76,7 +77,7 @@ for year in range(2019, 2020, 1):
 
 
 # Writing exception details to csv file
-fileName = "FailedCalls.csv"
+fileName = "FailedCalls.txt"
 
 def getFailedCalls():
     if len(exceptionData) < 1:
@@ -87,17 +88,21 @@ def getFailedCalls():
 
 # Write failed calls details into FailedCalls.json file
 exceptions = getFailedCalls()
+"""
 with open('FailedCalls.json', mode='a+', encoding='utf-8') as f:
     json.dump(exceptions, f, ensure_ascii=False, indent=4, sort_keys=True, default=str)
+    f.write(",")
+"""
 
-#file = open(fileName, 'a', newline='')
-#file.write(exceptions+"\n")
-#file.close
+file = open(fileName, 'a', newline='')
+file.write(str(exceptions)+"\n")
+file.close
 
 print(exceptionData)
 print("Number of articles with g_locations:", len(myArticle))
 print("length of exception data:", len(exceptionData))
 print(endTime-startTime)
+
 
 # Replace the uri string with your MongoDB deployment's connection string.
 conn_str = "mongodb+srv://newsbuff:"+mongodbconfig.mongoDBPwd+"@newbuffcluster.j94k7.mongodb.net/test?retryWrites=true&w=majority"
@@ -107,3 +112,4 @@ try:
     print(client.server_info())
 except Exception:
     print("Unable to connect to the server.")
+
