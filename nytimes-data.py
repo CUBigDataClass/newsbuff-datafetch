@@ -26,12 +26,19 @@ def getData(year, month):
     return data
 
 def clearOutputFile():
-    with open("output.txt",'w') as f:
+    with open("myArticleNoLocation.txt",'w') as f:
+        pass
+    with open("myArticleOneLocation.txt",'w') as f:
+        pass
+    with open("myArticleManyLocations.txt",'w') as f:
         pass
 
 # Looping to fetch the data repeatedly for specified period of time.
-myArticle = []
+myArticleNoLocation = []
+myArticleOneLocation = []
+myArticleManyLocations = []
 exceptionData = []
+
 for year in range(2019, 2020, 1):
 #    myArticle.clear()    #Clearing out the list of dictionaries to append new data for every year.
     for month in range(1, 4, 1):
@@ -39,13 +46,14 @@ for year in range(2019, 2020, 1):
 
         try:
             clearOutputFile()
-            print("Inside try block.")
             startTime = datetime.now()
             articles = getData(year, month)
             print("No. of articles in {year} and {month} is {len}".format(year = str(year), month = str(month), len = str(len(articles))))
             for article in articles:
+                location=[]
                 dateTime = article["pub_date"]
                 dateTime = dateTime.isoformat()
+
                 if "subsection_name" in article.keys():
                     subsection_name = article['subsection_name']
                 else:
@@ -58,23 +66,39 @@ for year in range(2019, 2020, 1):
 
                 for keyword in article["keywords"]:
                     if keyword["name"] == "glocations":
-                        location = keyword["value"]
-                        # Extracting only needed attributes from each article.
-                        elements = {"datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
-                        "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
-                        "webURL":article['web_url'] , "imageURL":imageURL}
-                        myArticle.append(elements)
-                        data = myArticle
-            file1 = open(r"output.txt","w+", encoding="utf-8")
-            file1.write(str(data))
+                        location.append(keyword["value"])
+
+                # Extracting only needed attributes from each article.
+                if(len(location) == 0):
+                    myArticleNoLocation.append({"datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
+                    "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
+                    "webURL":article['web_url'] , "imageURL":imageURL})
+                
+                elif(len(location) == 1):
+                    myArticleOneLocation.append({"datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
+                    "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
+                    "webURL":article['web_url'] , "imageURL":imageURL})
+                
+                else:
+                    myArticleManyLocations.append({"datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
+                    "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
+                    "webURL":article['web_url'] , "imageURL":imageURL})
+
+            file1 = open(r"myArticleNoLocation.txt","w+", encoding="utf-8")
+            file1.write(str(myArticleNoLocation))
+
+            file2 = open(r"myArticleOneLocation.txt","w+", encoding="utf-8")
+            file2.write(str(myArticleOneLocation))
+
+            file3 = open(r"myArticleManyLocations.txt","w+", encoding="utf-8")
+            file3.write(str(myArticleManyLocations))
+
             endTime = datetime.now()
 
         except:
             e  = sys.exc_info()
             exceptionDetails = {"year": year, "month": month, "failureReason": e}
             exceptionData.append(exceptionDetails)
-
-
 
 # Writing exception details to csv file
 fileName = "FailedCalls.txt"
@@ -99,7 +123,9 @@ file.write(str(exceptions)+"\n")
 file.close
 
 print(exceptionData)
-print("Number of articles with g_locations:", len(myArticle))
+print("Number of articles with No location:", len(myArticleNoLocation))
+print("Number of articles with One location:", len(myArticleOneLocation))
+print("Number of articles with Many locations:", len(myArticleManyLocations))
 print("length of exception data:", len(exceptionData))
 print(endTime-startTime)
 
@@ -107,9 +133,10 @@ print(endTime-startTime)
 # Replace the uri string with your MongoDB deployment's connection string.
 conn_str = "mongodb+srv://newsbuff:"+mongodbconfig.mongoDBPwd+"@newbuffcluster.j94k7.mongodb.net/test?retryWrites=true&w=majority"
 # set a 5-second connection timeout
+"""
 client = pymongo.MongoClient(conn_str, serverSelectionTimeoutMS=5000)
 try:
     print(client.server_info())
 except Exception:
     print("Unable to connect to the server.")
-
+"""
