@@ -1,1 +1,1 @@
-mongoDBPwd = "headliners123"
+mongoDBPwd = ""
