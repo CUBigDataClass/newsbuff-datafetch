@@ -1,1 +1,1 @@
-mongoDBPwd = "newsbuff"
+mongoDBPwd = ""
