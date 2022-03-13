@@ -31,7 +31,7 @@ def clearOutputFile():
 # Looping to fetch the data repeatedly for specified period of time.
 myArticle = []
 exceptionData = []
-for year in range(2020, 2021, 1):
+for year in range(2019, 2020, 1):
 #    myArticle.clear()    #Clearing out the list of dictionaries to append new data for every year.
     for month in range(1, 13, 1):
         print("Attempting to fetch data for year {year} and month {month}:".format(year = str(year), month = str(month)))
