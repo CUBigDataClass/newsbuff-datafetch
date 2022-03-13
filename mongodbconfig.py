@@ -1,1 +1,1 @@
-mongoDBPwd = ""
+mongoDBPwd = "testpswd"
