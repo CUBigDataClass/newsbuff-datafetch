@@ -71,10 +71,14 @@ def getFailedCalls():
         exceptionDict = {"runtime": currentTime, "exceptionDetails": exceptionData}
     return exceptionDict
 
-file = open(fileName, 'a', newline='')
+# Write failed calls details into FailedCalls.json file
 exceptions = getFailedCalls()
-file.write(str(exceptions)+"\n")
-file.close
+with open('FailedCalls.json', mode='a+', encoding='utf-8') as f:
+    json.dump(exceptions, f, ensure_ascii=False, indent=4, sort_keys=True, default=str)
+
+#file = open(fileName, 'a', newline='')
+#file.write(exceptions+"\n")
+#file.close
 
 print("Number of articles with g_locations:", len(myArticle))
 print(myArticle[0])
