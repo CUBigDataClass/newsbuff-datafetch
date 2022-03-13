@@ -1,20 +1,19 @@
 #"nytimes"
 
-
 import datetime
 import json
 import sys
 import time
 from datetime import datetime
 
-import mongodbconfig
 import pandas
-#import pymongo
+import pymongo
 from pynytimes import NYTAPI
 
+import mongodbconfig
+
 # Specify API key to fetch the data
-# Ba9OgKF9Ofgo7wIDiroKUnuBZhYxyMFb
-myKey = ""
+myKey = "Ba9OgKF9Ofgo7wIDiroKUnuBZhYxyMFb"
 nyt = NYTAPI(myKey, parse_dates=True)
 currentTime = datetime.now()
 
@@ -40,8 +39,8 @@ myArticleManyLocations = []
 exceptionData = []
 
 for year in range(2019, 2020, 1):
-#    myArticle.clear()    #Clearing out the list of dictionaries to append new data for every year.
-    for month in range(1, 4, 1):
+    #myArticle.clear()    #Clearing out the list of dictionaries to append new data for every year.
+    for month in range(1, 13, 1):
         print("Attempting to fetch data for year {year} and month {month}:".format(year = str(year), month = str(month)))
 
         try:
@@ -133,10 +132,9 @@ print(endTime-startTime)
 # Replace the uri string with your MongoDB deployment's connection string.
 conn_str = "mongodb+srv://newsbuff:"+mongodbconfig.mongoDBPwd+"@newbuffcluster.j94k7.mongodb.net/test?retryWrites=true&w=majority"
 # set a 5-second connection timeout
-"""
 client = pymongo.MongoClient(conn_str, serverSelectionTimeoutMS=5000)
 try:
     print(client.server_info())
 except Exception:
     print("Unable to connect to the server.")
-"""
+
