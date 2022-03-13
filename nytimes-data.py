@@ -7,7 +7,7 @@ import sys
 import time
 from datetime import datetime
 
-#import mongodbconfig
+import mongodbconfig
 import pandas
 import pymongo
 from pynytimes import NYTAPI
@@ -100,11 +100,10 @@ print("length of exception data:", len(exceptionData))
 print(endTime-startTime)
 
 # Replace the uri string with your MongoDB deployment's connection string.
-#conn_str = "mongodb+srv://newsbuff:"+mongodbconfig.mongoDBPwd+"@newbuffcluster.j94k7.mongodb.net/test?retryWrites=true&w=majority"
+conn_str = "mongodb+srv://newsbuff:"+mongodbconfig.mongoDBPwd+"@newbuffcluster.j94k7.mongodb.net/test?retryWrites=true&w=majority"
 # set a 5-second connection timeout
-#client = pymongo.MongoClient(conn_str, serverSelectionTimeoutMS=5000)
-"""try:
+client = pymongo.MongoClient(conn_str, serverSelectionTimeoutMS=5000)
+try:
     print(client.server_info())
 except Exception:
     print("Unable to connect to the server.")
-    """
