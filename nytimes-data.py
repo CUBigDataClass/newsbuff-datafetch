@@ -36,8 +36,10 @@ def clearOutputFile():
 
 
 def main():
+    
     client = mongodb.dbConnection()
     mydb = mongodb.createdb(client)
+    
     mycol1 = mydb["customers1"]
     mycol2 = mydb["customers2"]
     mycol3 = mydb["customers3"]

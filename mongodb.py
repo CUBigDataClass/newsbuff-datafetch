@@ -17,14 +17,10 @@ def dbConnection():
         print("Unable to connect to the server.")
 
 def createdb(client):
-    dblist = client.list_database_names()
-    if "testdbnewsbuff" in dblist:
-        print("The database exists.")
-    else:
-        mydb = client["testdbnewsbuff"]
+    mydb = client["testdbnewsbuff"]
     return mydb
 
 def createclusters(mydb):
-    mycol = mydb["customers1"]
+    mycol1 = mydb["customers1"]
     mycol = mydb["customers2"]
     mycol = mydb["customers3"]
