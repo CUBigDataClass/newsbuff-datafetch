@@ -70,7 +70,7 @@ def main():
                         subsection_name = "null"
 
                     if "multimedia" in article.keys() and len(article['multimedia']) > 0:
-                        imageURL = article['multimedia'][0]['url']
+                        imageURL = "https://www.nytimes.com/" + article['multimedia'][0]['url']
                     else:
                         imageURL = "null"
 
