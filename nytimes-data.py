@@ -80,17 +80,17 @@ def main():
 
                     # Extracting only needed attributes from each article.
                     if(len(location) == 0):
-                        myArticleNoLocation.append({"datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
+                        myArticleNoLocation.append({"year": year, "month": month, "datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
                         "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
                         "webURL":article['web_url'] , "imageURL":imageURL})
                     
                     elif(len(location) == 1):
-                        myArticleOneLocation.append({"datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
+                        myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
                         "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
                         "webURL":article['web_url'] , "imageURL":imageURL})
                     
                     else:
-                        myArticleManyLocations.append({"datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
+                        myArticleManyLocations.append({"year": year, "month": month, "datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
                         "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
                         "webURL":article['web_url'] , "imageURL":imageURL})
 
