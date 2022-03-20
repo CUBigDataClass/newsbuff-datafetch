@@ -86,7 +86,7 @@ def main():
                     
                     elif(len(location) == 1):
                         myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
-                        "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
+                        "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location[0] , 
                         "webURL":article['web_url'] , "imageURL":imageURL})
                     
                     else:
