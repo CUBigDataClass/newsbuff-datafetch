@@ -11,7 +11,9 @@
             "description": "The Supreme Court has decided that it\u2019s so vital to let President Trump keep transgender people out of the military that it has allowed his ban on their service or enlistment to go forward before even hearing arguments on the validity of his discriminatory decision. ",
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/23/opinion/trump-transgender-military-ban.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/22/opinion/22transedWeb/merlin_147201021_9c6d764b-32fd-4d58-8cf8-5c802ef4737c-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/22/opinion/22transedWeb/merlin_147201021_9c6d764b-32fd-4d58-8cf8-5c802ef4737c-articleLarge.jpg",
+            "lat": "51.4678",
+            "lng": "4.4700"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "HAVANA \u2014 It has been 60 years since Fidel Castro marched into Havana, so it\u2019s time for both Cuba and the United States to grow up. Let\u2019s let Cuba be a normal country again.",
             "location": "Cuba",
             "webURL": "https://www.nytimes.com/2019/01/23/opinion/cuba-embargo.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/opinion/23kristof2/merlin_149290629_356d11df-f08e-4e30-ac32-f6d0c16fddf3-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/opinion/23kristof2/merlin_149290629_356d11df-f08e-4e30-ac32-f6d0c16fddf3-articleLarge.jpg",
+            "lat": "40.0227",
+            "lng": "-75.6239"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "Footage shows the moment a police armored vehicle rammed the door of a bank where five people were fatally shot. Later, a man was led out in handcuffs.",
             "location": "SEBRING (FLA)",
             "webURL": "https://www.nytimes.com/video/us/100000006322795/police-arrest-suspect-in-florida-bank-shooting.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/autossell/24xp-suntrust-breach/merlin_149661249_767ffb6e-7983-4f45-b9a6-1c60261c2758-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/autossell/24xp-suntrust-breach/merlin_149661249_767ffb6e-7983-4f45-b9a6-1c60261c2758-articleLarge.jpg",
+            "lat": "-34.4000",
+            "lng": "-71.1667"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/238-million-penthouse-sale.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24NYPENTHOUSE1/merlin_149650848_ecdeaa58-8913-44bc-9d4a-84d152016be3-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24NYPENTHOUSE1/merlin_149650848_ecdeaa58-8913-44bc-9d4a-84d152016be3-articleLarge.jpg",
+            "lat": "61.4847",
+            "lng": "21.7972"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "More than a year before the Mexican drug lord Joaqu\u00edn Guzm\u00e1n Loera pulled off one of the most notorious prison breaks in history, he got word to his associates of how he planned to escape through an unlikely source: his wife, Emma Coronel Aispuro.",
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/el-chapo-trial.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24chapo1/merlin_149591610_0e18f538-7053-4e36-94cf-c165aaa9c4be-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24chapo1/merlin_149591610_0e18f538-7053-4e36-94cf-c165aaa9c4be-articleLarge.jpg",
+            "lat": "-6.6178",
+            "lng": "-35.6319"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "The New Museum of Contemporary Art has long identified the need for diversity and free expression as core values, often programming events that reflect that mission.",
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/23/arts/design/union-vote-sparks-debate-at-new-museum.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25busting1/merlin_149654766_b1f9f200-b754-4332-9a66-0e1be94ec820-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25busting1/merlin_149654766_b1f9f200-b754-4332-9a66-0e1be94ec820-articleLarge.jpg",
+            "lat": "37.4833",
+            "lng": "102.5742"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "BANGKOK \u2014 It began with a political jest and culminated in a shocking prison sentence.",
             "location": "Indonesia",
             "webURL": "https://www.nytimes.com/2019/01/23/world/asia/basuki-tjahaja-purnama-ahok-indonesia-jakarta.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25indonesia-1/merlin_121812149_3d86d3ce-82c4-4b6b-9cf0-d76d64db4b7a-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25indonesia-1/merlin_121812149_3d86d3ce-82c4-4b6b-9cf0-d76d64db4b7a-articleLarge.jpg",
+            "lat": "8.8572",
+            "lng": "-75.2767"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "SHANGHAI \u2014 Under China\u2019s president, Xi Jinping, the last vestiges of the global internet have slowly disappeared from an online world that had already shut out Twitter, Google and Facebook.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/23/business/china-microsoft-bing.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/business/00bing/00bing-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/business/00bing/00bing-articleLarge.jpg",
+            "lat": "35.6947",
+            "lng": "139.9825"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "SOUILLAC, France \u2014 At 9:23 p.m., after nearly six hours of talk, President Emmanuel Macron took up the subject of nursing homes. At 9:48 p.m., into the seventh hour, he was speaking about France\u2019s \u201cfood independence.\u201d Past 10 o\u2019clock, with some of his listeners visibly wilting on plastic chairs, it was on to the French minimum wage.",
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/23/world/europe/macron-yellow-vests-france.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/23/world/xxfrance1/merlin_149403195_cd300b3e-85cd-4907-b184-e9fe1c0143f7-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/23/world/xxfrance1/merlin_149403195_cd300b3e-85cd-4907-b184-e9fe1c0143f7-articleLarge.jpg",
+            "lat": "40.9989",
+            "lng": "-74.1676"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "The number of pending immigration cases has grown by nearly 50 percent under President Trump, what many lawyers and advocates say is a crisis.",
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/interactive/2019/01/24/us/migrants-border-immigration-court.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/23/us/migrants-crisis-at-border-and-in-court-promo-1548289949216/migrants-crisis-at-border-and-in-court-promo-1548289949216-articleLarge-v3.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/23/us/migrants-crisis-at-border-and-in-court-promo-1548289949216/migrants-crisis-at-border-and-in-court-promo-1548289949216-articleLarge-v3.jpg",
+            "lat": "33.9800",
+            "lng": "-118.2167"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "Mitch McConnell, the Republican senator from Kentucky and current Senate majority leader, has had a complex relationship with President Trump. McConnell has been \u201cthe principal enabler of the Trump agenda,\u201d as McConnell\u2019s longtime adviser J. Scott Jennings describes him, and much of his enduring legacy has been established during Trump\u2019s presidency. But McConnell, a man of institutions and establishments, has also found himself in the position of supporting a president who seems hellbent on burning both to the ground, and is now trying to navigate a prolonged shutdown of Trump\u2019s making. \u201cI\u2019m perplexed,\u201d he said earlier this month, \u201cas to how this ends.\u201d",
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/24/magazine/mitch-mcconnell-trump-legacy.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/27/magazine/27mag-mcconnell-image3/27mag-mcconnell-image3-articleLarge.png"
+            "imageURL": "https://www.nytimes.com/images/2019/01/27/magazine/27mag-mcconnell-image3/27mag-mcconnell-image3-articleLarge.png",
+            "lat": "40.3475",
+            "lng": "-4.0272"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "More than anywhere else in this multiethnic country, Salvador is steeped in Afro-Brazilian culture \u2014 from the worship of Yoruba deities (orix\u00e1s), to the acrobatic practice of capoeira, to a cuisine tinged with deep orange dend\u00ea oil and smoldering with a stronger dose of hot peppers than the delicate-tongued rest of the country can handle. The city\u2019s history is rich in literature \u2014 it was the home of Jorge Amado, among others \u2014 and intertwined with colonialism and the slave trade (Salvador was Brazil\u2019s first capital, from 1549 to 1763). Today, its youthful energy and deep musical traditions make for a vibrant, often open-air night life, even when it\u2019s not Carnaval (this year from Feb. 28 to March 5). And when it is \u2014 well, let\u2019s just say Rio\u2019s version looks like teatime at Buckingham Palace by comparison. Alas, crime rates mean not every stretch of town can be explored at will, but dirt-cheap ride-share services make it easy to get around safely.",
             "location": "Salvador (Brazil)",
             "webURL": "https://www.nytimes.com/2019/01/24/travel/what-to-do-in-salvador-brazil.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/27/travel/27Hours-Salvador1/merlin_149153610_108860d9-a08a-4275-ac98-22f7986a79a8-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/27/travel/27Hours-Salvador1/merlin_149153610_108860d9-a08a-4275-ac98-22f7986a79a8-articleLarge.jpg",
+            "lat": "38.1768",
+            "lng": "-8.5689"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "$109 to $629",
             "location": "New Orleans (La)",
             "webURL": "https://www.nytimes.com/2019/01/24/travel/hotel-review-hotel-peter-paul-new-orleans.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/27/travel/27checkin-neworleans1/27checkin-neworleans1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/27/travel/27checkin-neworleans1/27checkin-neworleans1-articleLarge.jpg",
+            "lat": "-29.6689",
+            "lng": "-52.7889"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "Nearly half of Canadians cannot name a single concentration camp or ghetto that existed in Europe during the Holocaust, a new study found.",
             "location": "Canada",
             "webURL": "https://www.nytimes.com/2019/01/24/world/canada/canadians-holocaust.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/autossell/25xp-holocaust/merlin_133296678_65335c62-6d17-44ea-a579-2ab33c58fb6a-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/autossell/25xp-holocaust/merlin_133296678_65335c62-6d17-44ea-a579-2ab33c58fb6a-articleLarge.jpg",
+            "lat": "-17.8050",
+            "lng": "-49.6139"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "Wendy MacNaughton is a graphic journalist based in San Francisco. You can find her via website and Instagram.",
             "location": "Idaho",
             "webURL": "https://www.nytimes.com/2019/01/24/business/dark-sky-tourism-idaho.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/27/business/27meanwhile-promo/27meanwhile-promo-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/27/business/27meanwhile-promo/27meanwhile-promo-articleLarge.jpg",
+            "lat": "48.5967",
+            "lng": "8.8708"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "Najib Razak, the former Malaysian prime minister who was ousted at the polls last year and now faces dozens of corruption-related charges, pleaded his case this week. But not before a judge.",
             "location": "Malaysia",
             "webURL": "https://www.nytimes.com/2019/01/24/world/asia/malaysia-najib-razak-song.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/asia/25malaysia-song-1/25malaysia-song-1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/asia/25malaysia-song-1/25malaysia-song-1-articleLarge.jpg",
+            "lat": "50.8333",
+            "lng": "25.8833"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": " [Want to get New York Today by email? Here's the sign-up.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/newyorktoday/new-york-news-subway-fare-hike-mta.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24nytoday-promo/24nytoday-promo-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24nytoday-promo/24nytoday-promo-articleLarge.jpg",
+            "lat": "42.0333",
+            "lng": "45.2000"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "Second of two articles.",
             "location": "St Louis County (Mo)",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/humanizing-social-systems.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/opinion/24FIXES/24FIXES-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/opinion/24FIXES/24FIXES-articleLarge.jpg",
+            "lat": "-39.0100",
+            "lng": "-68.4300"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "Diana Athill, an Englishwoman who wrote a series of critically lauded memoirs chronicling her romantic and sexual liaisons over much of the 20th century, but who attained international literary celebrity in her 90s with the publication of an installment about the waning of desire, died on Wednesday in London. She was 101.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/24/obituaries/diana-athill-dead-british-author.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25Athill1/25Athill1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25Athill1/25Athill1-articleLarge.jpg",
+            "lat": "43.2972",
+            "lng": "-2.2569"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "As animation has trended toward the precision that comes from working with computers, it has become refreshing to encounter throwbacks to less \u201cperfect\u201d styles.",
             "location": "Brazil",
             "webURL": "https://www.nytimes.com/2019/01/24/movies/review-tito-and-the-birds.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25titopix/merlin_149493405_dee2e2b3-77c2-4c4a-b887-94164a06740f-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25titopix/merlin_149493405_dee2e2b3-77c2-4c4a-b887-94164a06740f-articleLarge.jpg",
+            "lat": "52.0917",
+            "lng": "7.6083"
         }
     ]
 }

@@ -11,7 +11,9 @@
             "description": "Peter Magowan, who in 1992 \u2014 decades after he had watched the New York Giants play at the Polo Grounds as a boy \u2014 led a group that bought the team to keep it from relocating to Florida from San Francisco, died on Sunday at his home in San Francisco. He was 76.",
             "location": "San Francisco (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/28/obituaries/peter-magowan-dead.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/29/obituaries/29MAGOWAN2/merlin_19408171_b7881662-9ae3-48cb-8953-a77e10ce70bf-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/29/obituaries/29MAGOWAN2/merlin_19408171_b7881662-9ae3-48cb-8953-a77e10ce70bf-articleLarge.jpg",
+            "lat": "40.8441",
+            "lng": "-73.6442"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "Staten Island (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/28/nyregion/michael-stewart-angelo-nesimi.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/29/nyregion/29simurder1/29simurder1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/29/nyregion/29simurder1/29simurder1-articleLarge.jpg",
+            "lat": "25.8878",
+            "lng": "-80.1335"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "WASHINGTON \u2014 President Trump\u2019s headway in Afghan peace negotiations with the Taliban raises the same question that has bedeviled other presidents who extracted American troops from foreign wars: Will the departing Americans end up handing over the country to the same ruthless militants that the United States went to war to dislodge?",
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/28/us/politics/us-withdrawal-afghanistan-taliban.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/29/us/29dc-prexy1/29dc-prexy1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/29/us/29dc-prexy1/29dc-prexy1-articleLarge.jpg",
+            "lat": "36.5585",
+            "lng": "104.6765"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "Lawyers for the family of Stephon Clark, the unarmed black man who was fatally shot last March by Sacramento police officers, filed a wrongful-death lawsuit on Monday alleging that the officers who fired had racially profiled the 22-year-old and used excessive force.",
             "location": "Sacramento (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/28/us/stephon-clark-lawsuit.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/29/us/29xp-Clark-print/merlin_136205925_7540fce3-bd04-4847-a578-2149b6d6fb65-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/29/us/29xp-Clark-print/merlin_136205925_7540fce3-bd04-4847-a578-2149b6d6fb65-articleLarge.jpg",
+            "lat": "36.3480",
+            "lng": "37.5300"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "WASHINGTON \u2014 Several prominent veteran Democrats, alarmed by the party\u2019s drift from its longstanding alignment with Israel, are starting a new political group that will try to counter the rising skepticism on the left toward the Jewish state by supporting lawmakers and candidates in 2020 who stand unwaveringly with the country.",
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/28/us/politics/democrats-israel-palestine.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/29/us/politics/29israel-dems-print/merlin_149911869_93e1c7e9-0781-4221-b955-b903f103c529-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/29/us/politics/29israel-dems-print/merlin_149911869_93e1c7e9-0781-4221-b955-b903f103c529-articleLarge.jpg",
+            "lat": "41.2894",
+            "lng": "28.0046"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "LOS ANGELES \u2014 Pacific Gas and Electric\u2019s bankruptcy filing on Tuesday, to deal with billions of dollars in wildfire liability, set off a scramble by the company, investors and elected leaders in California to protect themselves and influence what happens next.",
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/29/business/energy-environment/pge-file-bankruptcy.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/29/business/29utility02/merlin_149655927_1f1ad7a7-fc24-4091-b1c1-2cb43dfcba34-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/29/business/29utility02/merlin_149655927_1f1ad7a7-fc24-4091-b1c1-2cb43dfcba34-articleLarge.jpg",
+            "lat": "42.3044",
+            "lng": "14.1806"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "The past informs the present in the work of Sheila Pree Bright, who has been photographing the Black Lives Matter movement since 2014. As an artist who draws connections between today\u2019s young activists and their civil rights forebears, she seemed a natural choice to be among 11 socially conscious artists selected to create murals highlighting Atlanta\u2019s past, present and future in time for the Super Bowl, when the city will be in the spotlight.",
             "location": "Atlanta (Ga)",
             "webURL": "https://www.nytimes.com/2019/01/29/lens/sheila-pree-bright-civil-rights-black-lives-matter-mothers-atlanta.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/30/lens/29Bright1/29Bright1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/30/lens/29Bright1/29Bright1-articleLarge.jpg",
+            "lat": "21.4062",
+            "lng": "-157.7904"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "He was internationally crowned the \u201cworld\u2019s loneliest duck,\u201d but that clearly wasn\u2019t true. There haven\u2019t been many ducks as loved as Trevor.",
             "location": "Niue",
             "webURL": "https://www.nytimes.com/2019/01/29/world/asia/niue-loneliest-duck.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/30/world/30xp-duck-1/merlin_149888952_bd552fc3-7ec0-47d5-8de9-0a39776169fa-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/30/world/30xp-duck-1/merlin_149888952_bd552fc3-7ec0-47d5-8de9-0a39776169fa-articleLarge.jpg",
+            "lat": "-28.6469",
+            "lng": "-54.1219"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "In the Canadian city where I used to live, there was a nude beach where I spent a lot of time. It was no rare occurrence to find, near the beach\u2019s northern boundary, a small but fervent cohort of nude baby boomers distributing Naturism 101 pamphlets. In an outsize font on an ancient webpage they\u2019d set up, the beach naturists dared visitors to \u201c!!BE NATURAL AND FEEL THE FREEDOM!!\u201d They outlined etiquette (no come-ons, no sex) and suggested recreational pursuits (flag football, a potluck). The naturists could be a little doctrinaire \u2014 once, someone wearing nothing but a Tilley hat chided me for my bikini bottom, bellowing, \u201cWay to be clothed!\u201d \u2014 but they would usually feign tolerance at the beachgoing public\u2019s ignorance of their framing principles.",
             "location": "Canada",
             "webURL": "https://www.nytimes.com/2019/01/29/magazine/letter-of-recommendation-naturism.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/03/magazine/03mag-LOR-pic/03mag-LOR-pic-articleLarge.png"
+            "imageURL": "https://www.nytimes.com/images/2019/02/03/magazine/03mag-LOR-pic/03mag-LOR-pic-articleLarge.png",
+            "lat": "53.2000",
+            "lng": "45.0000"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "The partial government shutdown ended last week after 35 days, but conservationists have warned that its impact may be felt for hundreds of years in at least one part of the country: Joshua Tree National Park.",
             "location": "Joshua Tree National Park (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/29/us/joshua-tree-shutdown.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/05/us/29xp-joshuatree1/29xp-joshuatree1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/05/us/29xp-joshuatree1/29xp-joshuatree1-articleLarge.jpg",
+            "lat": "54.9500",
+            "lng": "20.2167"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "COLUMBIA, S.C. \u2014 As Senator Kamala Harris attempts her own version of former President Barack Obama\u2019s historic rise from first-term senator to the White House, one of her political tests will be trying to secure the overwhelming support from black voters that buoyed Mr. Obama in 2008. Ms. Harris wants that support, but it does not come automatically.",
             "location": "South Carolina",
             "webURL": "https://www.nytimes.com/2019/01/29/us/politics/kamala-harris-black-voters.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/28/us/politics/28harris1/merlin_149769657_fffe6f2b-18f3-4384-b18c-4978ba3c57ea-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/28/us/politics/28harris1/merlin_149769657_fffe6f2b-18f3-4384-b18c-4978ba3c57ea-articleLarge.jpg",
+            "lat": "40.9813",
+            "lng": "-74.9984"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "The axolotl, sometimes called the Mexican walking fish, is a cheerful tube sock with four legs, a crown of feathery gills and a long, tapered tail fin. It can be pale pink, golden, gray or black, speckled or not, with a countenance resembling the \u201cslightly smiling face\u201d emoji. Unusual among amphibians for not undergoing metamorphosis, it reaches sexual maturity and spends its life as a giant tadpole baby.",
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/29/science/axolotl-dna-genome-sequence.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/12/science/25tb-axolotl/merlin_149695563_424703c5-2aef-45a6-b84e-969e0559bb02-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/12/science/25tb-axolotl/merlin_149695563_424703c5-2aef-45a6-b84e-969e0559bb02-articleLarge.jpg",
+            "lat": "34.0747",
+            "lng": "134.4406"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "Inside one of Surf Simply resort\u2019s three gleaming new glass-walled video-coaching suites, I\u2019m staring at a giant screen freeze-frame of myself taking off into an overhead wave. It is a glorious shot, hair flying, stance low, a white-water trail streaming behind me to the lip of the wave.",
             "location": "Costa Rica",
             "webURL": "https://www.nytimes.com/2019/01/29/travel/surf-camp-tech.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/03/travel/03costarica-surf01-promo/03costarica-surf01-promo-articleLarge-v2.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/03/travel/03costarica-surf01-promo/03costarica-surf01-promo-articleLarge-v2.jpg",
+            "lat": "48.1000",
+            "lng": "-0.7908"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "The 1962 home was miraculously intact, but it needed some updating. Two decades later, it\u2019s nearly done.",
             "location": "Highland Park (Tex)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/29/realestate/bauhaus-revisited-in-highland-park.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/03/realestate/03ONLOCATION-DALLAS-slide-NPI3/03ONLOCATION-DALLAS-slide-NPI3-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/03/realestate/03ONLOCATION-DALLAS-slide-NPI3/03ONLOCATION-DALLAS-slide-NPI3-articleLarge.jpg",
+            "lat": "27.1163",
+            "lng": "-82.4135"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "Emily Summers is a champion of modern design, past and present. With a Dallas firm known for interiors that are crisp and edited, yet equally comfortable, she has become one of Texas\u2019s most prominent designers. But as a preservationist appointed to the Advisory Council on Historic Preservation by former president George W. Bush, she also has a soft spot for maintaining the work of modernists who preceded her.",
             "location": "Highland Park (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/29/realestate/a-modernist-restoration-texas-style.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/03/realestate/03ONLOCATION-DALLAS-slide-M838/03ONLOCATION-DALLAS-slide-M838-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/03/realestate/03ONLOCATION-DALLAS-slide-M838/03ONLOCATION-DALLAS-slide-M838-articleLarge.jpg",
+            "lat": "42.3475",
+            "lng": "27.1789"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "Fahim Abed, 30, and Fatima Faizi, 24, are Afghan reporters for The New York Times in Kabul.",
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/29/world/asia/afghanistan-peace-dreams.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/28/world/00afghan-dreams-1-promo/00afghan-dreams-1-promo-articleLarge-v2.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/28/world/00afghan-dreams-1-promo/00afghan-dreams-1-promo-articleLarge-v2.jpg",
+            "lat": "16.1553",
+            "lng": "119.9808"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": " [Want to get New York Today by email? Here's the sign-up.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/29/nyregion/newyorktoday/new-york-news-sex-harassment-de-blasio.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/29/nyregion/29nytoday-1/merlin_149716605_1fdbdf93-f49b-4d21-bea2-e557908188ac-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/29/nyregion/29nytoday-1/merlin_149716605_1fdbdf93-f49b-4d21-bea2-e557908188ac-articleLarge.jpg",
+            "lat": "47.2872",
+            "lng": "11.4581"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/29/nyregion/l-train-bike-lanes-buses.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/30/nyregion/30lplans1/merlin_146033520_713437e0-ca7d-4ee9-83e2-1f75febc089f-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/30/nyregion/30lplans1/merlin_146033520_713437e0-ca7d-4ee9-83e2-1f75febc089f-articleLarge.jpg",
+            "lat": "32.7711",
+            "lng": "35.0394"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "LONDON \u2014 Prime Minister Theresa May of Britain survived a critical vote in Parliament on Tuesday that could have delayed Brexit, undermined her strategy for leaving the European Union and undercut the country\u2019s constitutional protocol.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/29/world/europe/brexit-vote.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "55.0833",
+            "lng": "21.8833"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "HONG KONG \u2014 Singapore takes pride in being a technology hub where municipal decisions are driven by cutting-edge data science.",
             "location": "Singapore",
             "webURL": "https://www.nytimes.com/2019/01/29/world/asia/singapore-data-breach-hiv.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/30/world/30singapore-2/merlin_141513918_78f61a98-9696-4f2f-b13f-027b11f86f36-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/30/world/30singapore-2/merlin_141513918_78f61a98-9696-4f2f-b13f-027b11f86f36-articleLarge.jpg",
+            "lat": "41.8136",
+            "lng": "19.5939"
         }
     ]
 }

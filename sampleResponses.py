@@ -50,6 +50,7 @@ def main():
                     response = { 'success': True, 'rows': rowsDict[currentYear][currentMonth] }
                     json.dump(response, f, indent=4)
         locationList = list(locationSet)
+        locationList.sort()
         with open('locations.json', 'w', encoding='utf-8') as f:
             json.dump(locationList, f, indent=4)
 

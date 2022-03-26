@@ -11,7 +11,9 @@
             "description": "PARIS \u2014 In 1996 Andr\u00e9 Leon Talley, then a contributing editor at Vanity Fair and famously often the only black person on the front row at fashion shows, styled a shoot for the magazine titled \u201cScarlett \u2019n the Hood.\u201d It reimagined \u201cGone With the Wind\u201d with the races reversed: Naomi Campbell, then one of the few black supermodels, played Scarlett; John Galliano, then at Givenchy, played a maid.",
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/24/fashion/couture-valentino-balmain-paris.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/27/fashion/24VALENTINO-sub/24VALENTINO-sub-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/27/fashion/24VALENTINO-sub/24VALENTINO-sub-articleLarge.jpg",
+            "lat": "37.4504",
+            "lng": "24.9333"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "This article is part of David Leonhardt\u2019s newsletter. You can sign up here to receive it each weekday.",
             "location": "South Bend (Ind)",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/pete-buttigieg-2020-election.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/opinion/24leonhardt-newsletter/merlin_149637072_5f563ce3-782d-479b-b26f-f03504749474-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/opinion/24leonhardt-newsletter/merlin_149637072_5f563ce3-782d-479b-b26f-f03504749474-articleLarge.jpg",
+            "lat": "19.4614",
+            "lng": "0.8589"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "LONDON \u2014 There\u2019s been a gathering head of steam about \u201cWhen We Have Sufficiently Tortured Each Other,\u201d the Martin Crimp play that returns Cate Blanchett to the London stage for the first time in nearly seven years.",
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/24/theater/cate-blanchett-london-when-we-have-sufficiently-tortured-each-other.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25londontheater1/25londontheater1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25londontheater1/25londontheater1-articleLarge.jpg",
+            "lat": "-3.9419",
+            "lng": "-42.9250"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "SACRAMENTO \u2014 In the backyard of California\u2019s Capitol sits Franklin Boulevard, a largely industrial area where many residents earn a living keeping old vehicles on the road. The state, which has been aggressively pushing toward an electric-car future, has made few such inroads in this working-class neighborhood.",
             "location": "Sacramento (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/24/business/electric-vehicles-electrify-america-sacramento.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25wheels-1/merlin_149658972_51141a94-33ab-459d-a8a9-0ebcce36ce54-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25wheels-1/merlin_149658972_51141a94-33ab-459d-a8a9-0ebcce36ce54-articleLarge.jpg",
+            "lat": "-16.1328",
+            "lng": "-45.7419"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "PARIS \u2014 Renault announced new leadership on Thursday after Carlos Ghosn resigned as chairman and chief executive from his jail cell, ending his reign as one of the world\u2019s most powerful industrialists and opening a crucial new chapter for the world\u2019s biggest auto alliance.",
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/24/business/renault-nissan-carlos-ghosn.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25renault-print/merlin_149686065_efe7d5b5-f9a3-4eda-9bb7-78eb3649d503-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25renault-print/merlin_149686065_efe7d5b5-f9a3-4eda-9bb7-78eb3649d503-articleLarge.jpg",
+            "lat": "51.2383",
+            "lng": "4.8242"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "LONDON \u2014 Alex Salmond, the former first minister of Scotland who for years led a campaign for Scottish independence, has been arrested and charged with two counts of attempted rape and several counts of sexual assault, a public prosecutor said on Thursday.",
             "location": "Scotland",
             "webURL": "https://www.nytimes.com/2019/01/24/world/europe/scotland-alex-salmond.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25salmond/merlin_148901745_fc5c8848-96ed-4ba6-aff6-e7401c017959-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25salmond/merlin_148901745_fc5c8848-96ed-4ba6-aff6-e7401c017959-articleLarge.jpg",
+            "lat": "21.1547",
+            "lng": "-98.9039"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "LONDON \u2014 Prince William, who has long spoken publicly about his emotional struggles, has taken his campaign for mental health awareness to Davos, Switzerland, urging global leaders to help break the stigma.",
             "location": "Davos (Switzerland)",
             "webURL": "https://www.nytimes.com/2019/01/24/world/europe/prince-william-mental-health.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "41.6333",
+            "lng": "15.9167"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "In this series for T, the author Reggie Nadelson revisits New York institutions that have defined cool for decades, from time-honored restaurants to unsung dives.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/t-magazine/indochine-restaurant-history.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/t-magazine/food/indochine-slide-14IB/indochine-slide-14IB-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/t-magazine/food/indochine-slide-14IB/indochine-slide-14IB-articleLarge.jpg",
+            "lat": "35.2494",
+            "lng": "-81.1853"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "ATHENS \u2014 Greek lawmakers were expected on Friday to approve a pact changing the name of neighboring Macedonia, despite vehement protests inside and outside the Parliament over a contentious issue that touches on Greece\u2019s history, national identity and unity.",
             "location": "Greece",
             "webURL": "https://www.nytimes.com/2019/01/24/world/europe/greece-parliament-macedonia.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25Greece1/merlin_149680872_d6a2dc79-22ce-4604-bc3f-f7f1879a71cc-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25Greece1/merlin_149680872_d6a2dc79-22ce-4604-bc3f-f7f1879a71cc-articleLarge.jpg",
+            "lat": "36.3921",
+            "lng": "-86.1568"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "Of the many wonderful transformations that have characterized the last decade in wine, perhaps the most heartening has been the stylistic swing back toward balance and nuance.",
             "location": "Rhone Valley (France)",
             "webURL": "https://www.nytimes.com/2019/01/24/dining/drinks/wine-review-chateauneuf-du-pape-2016.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/30/dining/30wine5/merlin_148711890_fcdfeea6-100b-46fb-90d3-6594bf9df462-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/30/dining/30wine5/merlin_148711890_fcdfeea6-100b-46fb-90d3-6594bf9df462-articleLarge.jpg",
+            "lat": "-22.0139",
+            "lng": "-57.0239"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "LONDON \u2014 They are among the last drawings that Michelangelo ever produced: ethereal depictions of Christ on the cross, his legs a nebulous haze, his face a spectral blur. Grieving at his feet are the Virgin Mary and St. John the Evangelist.",
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/design/bill-viola-michelangelo-royal-academy-london.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25VIOLA-1/merlin_149632776_9f98bcc4-aae6-4392-adb6-62eee636bb28-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25VIOLA-1/merlin_149632776_9f98bcc4-aae6-4392-adb6-62eee636bb28-articleLarge.jpg",
+            "lat": "56.0169",
+            "lng": "39.9494"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "Joseph R. Biden Jr. defended his decision to praise an embattled Republican lawmaker during a paid speech in Michigan last fall, telling a group of mayors on Thursday morning that it reflected his philosophy of how to \u201cget things done.\u201d",
             "location": "Benton Harbor (Mich)",
             "webURL": "https://www.nytimes.com/2019/01/24/us/politics/biden-praise-republican-speaking-fee.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "33.5838",
+            "lng": "-117.6235"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "As I got off a train in Manhattan on Wednesday, I paid little attention to a flutter out of the corner of my eye on the subway. Then another passenger told me that I had dropped some money.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/i-found-money-what-to-do.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/26/autossell/26xp-found/merlin_148988541_3d1a13c2-eb82-4882-8df8-b5bb2823c7bb-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/26/autossell/26xp-found/merlin_148988541_3d1a13c2-eb82-4882-8df8-b5bb2823c7bb-articleLarge.jpg",
+            "lat": "48.9956",
+            "lng": "2.3808"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "SAN FRANCISCO \u2014 In October, the Chinese province of Guangdong \u2014 the manufacturing center on the southern coast that drives 12 percent of the country\u2019s economy \u2014 stopped publishing a monthly report on the health of its local factories.",
             "location": "Guangdong Province (China)",
             "webURL": "https://www.nytimes.com/2019/01/24/technology/satellites-artificial-intelligence.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25SATELLITEAI01/merlin_149341389_289f9043-7513-4595-b945-a1f8e628d82f-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25SATELLITEAI01/merlin_149341389_289f9043-7513-4595-b945-a1f8e628d82f-articleLarge.jpg",
+            "lat": "14.0821",
+            "lng": "5.8153"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "Marc Newson",
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/24/style/a-tour-of-marc-newsons-library-in-london.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/27/fashion/27myspace-newson2/merlin_149220135_d8a64249-bf93-4751-bf65-a42524463515-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/27/fashion/27myspace-newson2/merlin_149220135_d8a64249-bf93-4751-bf65-a42524463515-articleLarge.jpg",
+            "lat": "9.7333",
+            "lng": "125.4167"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "Sixty years ago this month, the sinister dictator Fulgencio Batista abandoned Cuba to Fidel Castro and his guerrilla army. As anyone who has seen \u201cThe Godfather: Part Two\u201d roughly knows, Batista gathered his cronies for a New Year\u2019s Eve party, then declared that he was going to slink off in the night. The inner circle stampeded to the airfield and at 2:40 a.m. took off for Florida (Jacksonville, not Miami, which was considered too \u201cpro-Fidel\u201d) and, in the dictator\u2019s case, the Dominican Republic.",
             "location": "Cuba",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/cuba-fidel-castro-1959.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/26/opinion/24Perrottet/24Perrottet-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/26/opinion/24Perrottet/24Perrottet-articleLarge.jpg",
+            "lat": "13.4745",
+            "lng": "144.7504"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "The German-Swiss novelist Benedict Wells developed an intimate understanding of Bavarian boarding schools. He spent 13 years from the age of 6 to 19 in three different ones. What he most remembers is the hunger, both literal and figurative, that these rudimentary state-run schools induced in him. \u201cIt actually helped me a lot with my writing,\u201d Wells, said in a recent interview. \u201cBut now at the age of 34, I think I should get rid of that hunger.\u201d",
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/24/books/end-of-loneliness-german-novelist-benedict-wells.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/books/25BENEDICTWELLS2/merlin_149549283_6842523c-1ccb-421f-9036-b333f8ace2ce-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/books/25BENEDICTWELLS2/merlin_149549283_6842523c-1ccb-421f-9036-b333f8ace2ce-articleLarge.jpg",
+            "lat": "49.4733",
+            "lng": "5.9578"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "WASHINGTON \u2014 President Trump has finally met a strongman he does not like. After making friends with autocrats around the world, Mr. Trump has drawn a red line with Nicol\u00e1s Maduro, demanding that the iron-fisted president of Venezuela hand power to his opposition.",
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/24/world/americas/donald-trump-venezuela.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "49.3194",
+            "lng": "8.4311"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "\u201cMagic Mike\u201d could always dance. Now he\u2019s going to sing.",
             "location": "Boston (Mass)",
             "webURL": "https://www.nytimes.com/2019/01/24/theater/magic-mike-broadway-musical-boston.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25magicmike-item1/merlin_61006739_77ae4bb2-11d0-4d4b-93c2-4d12c71baa8e-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25magicmike-item1/merlin_61006739_77ae4bb2-11d0-4d4b-93c2-4d12c71baa8e-articleLarge.jpg",
+            "lat": "37.4000",
+            "lng": "49.6667"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "To the Editor:",
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/letters/new-york-state-voting-elections.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/04/nyregion/04NYLAWprint/merlin_148965021_b76efbf1-feb7-42e5-860c-d476135e5b68-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/04/nyregion/04NYLAWprint/merlin_148965021_b76efbf1-feb7-42e5-860c-d476135e5b68-articleLarge.jpg",
+            "lat": "5.9500",
+            "lng": "80.5333"
         }
     ]
 }

@@ -11,7 +11,9 @@
             "description": "A winter storm that slammed some parts of the Midwest and that officials say contributed to the deaths of at least nine people moved east on Sunday, causing travel disruptions and power failures.",
             "location": "Midwestern States (US)",
             "webURL": "https://www.nytimes.com/2019/01/13/us/winter-storm-round-2.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14xp-stormupdate/merlin_149096976_29590ae3-be55-4aaf-8b6d-3dad19f0ae19-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14xp-stormupdate/merlin_149096976_29590ae3-be55-4aaf-8b6d-3dad19f0ae19-articleLarge.jpg",
+            "lat": "51.7667",
+            "lng": "20.2500"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "Sinaloa (Mexico)",
             "webURL": "https://www.nytimes.com/2019/01/13/nyregion/el-chapo-trial.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/09/nyregion/09chapo/merlin_148100967_27085968-c374-4700-8a24-cb03374c6fa4-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/09/nyregion/09chapo/merlin_148100967_27085968-c374-4700-8a24-cb03374c6fa4-articleLarge.jpg",
+            "lat": "33.1116",
+            "lng": "-96.1098"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "When the largest daily newspaper in Maine decided it was going to stop publishing regional book reviews, it caused an uproar among local writers \u2014 one local writer in particular.",
             "location": "Maine",
             "webURL": "https://www.nytimes.com/2019/01/13/business/media/stephen-king-portland-press-herald.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14-XP-King-paper/14xp-king-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14-XP-King-paper/14xp-king-articleLarge.jpg",
+            "lat": "35.1884",
+            "lng": "136.8037"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "CARACAS, Venezuela \u2014 The president of Venezuela\u2019s opposition-controlled National Assembly was briefly arrested on Sunday, two days after declaring that he was prepared to take over temporarily as the country\u2019s leader in a renewed push to oust President Nicol\u00e1s Maduro from power.",
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/13/world/americas/venezeula-juan-guaido-arrest.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/world/14venezuela/merlin_149103477_514cf983-b142-4732-bc76-6218cb1886e4-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/world/14venezuela/merlin_149103477_514cf983-b142-4732-bc76-6218cb1886e4-articleLarge.jpg",
+            "lat": "14.5500",
+            "lng": "77.1000"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "The N.F.L. on Sunday ended months of uncertainty by officially announcing Maroon 5 and the rappers Travis Scott and Big Boi as the lineup for this year\u2019s Super Bowl halftime show.",
             "location": "Atlanta (Ga)",
             "webURL": "https://www.nytimes.com/2019/01/13/arts/music/super-bowl-halftime-maroon-5-travis-scott-big-boi.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/arts/music/14travis1/merlin_142598199_08414183-0f11-454c-836a-989501c41edf-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/arts/music/14travis1/merlin_142598199_08414183-0f11-454c-836a-989501c41edf-articleLarge.jpg",
+            "lat": "54.2479",
+            "lng": "-6.9708"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "WASHINGTON \u2014 President Trump\u2019s efforts to hide his conversations with President Vladimir V. Putin of Russia and new details about the F.B.I. inquiry into his ties to Moscow have intensified debate over his relationship with Russia, adding fuel to Democrats\u2019 budding investigations of his presidency and potentially setting up a clash between the White House and Congress.",
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/13/us/politics/trump-putin-russia-meetings.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14dc-trumprussia1/14dc-trumprussia1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14dc-trumprussia1/14dc-trumprussia1-articleLarge.jpg",
+            "lat": "40.7834",
+            "lng": "-73.9662"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "Lindsey Jarratt\u2019s son, Brayden, was a year old when the Child Protective Services of Dinwiddie, Va., took him to live with strangers. There are things about the months surrounding that moment that Ms. Jarratt can\u2019t remember \u2014 heroin has a way of erasing time. But this much is still etched in her mind: how he screamed and sobbed, the way his baby fists clutched at the nape of her shirt, the feel of his tiny body pressed so desperately against hers that the two had to be pried apart.",
             "location": "Virginia",
             "webURL": "https://www.nytimes.com/2019/01/13/opinion/mothers-addiction-custody.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/13/opinion/13obs1web/merlin_148963191_e4669d5d-0976-4dd6-97b4-551e73cf26ac-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/13/opinion/13obs1web/merlin_148963191_e4669d5d-0976-4dd6-97b4-551e73cf26ac-articleLarge.jpg",
+            "lat": "-11.8100",
+            "lng": "-39.3819"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "WASHINGTON \u2014 Senior Pentagon officials are voicing deepening fears that President Trump\u2019s hawkish national security adviser, John R. Bolton, could precipitate a conflict with Iran at a time when Mr. Trump is losing leverage in the Middle East by pulling out American troops.",
             "location": "Iran",
             "webURL": "https://www.nytimes.com/2019/01/13/us/politics/bolton-iran-pentagon.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14dc-military1/14dc-military1-articleLarge-v3.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14dc-military1/14dc-military1-articleLarge-v3.jpg",
+            "lat": "45.8488",
+            "lng": "-66.4788"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "A Connecticut theater that was known for its Shakespearean productions and where Oscar-winning actors once took their bows was reduced to a smoldering mound of mangled steel after a fire early on Sunday morning, officials said.",
             "location": "Stratford (Conn)",
             "webURL": "https://www.nytimes.com/2019/01/13/arts/stratford-shakespeare-theater-fire.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15xp-shakespeare/14xp-shakespeare-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15xp-shakespeare/14xp-shakespeare-articleLarge.jpg",
+            "lat": "-23.6889",
+            "lng": "-49.8339"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "A federal judge on Sunday granted a request by more than a dozen states to temporarily block the Trump administration from putting into effect new rules that would make it easier for employers to deny women health insurance coverage for contraceptives.",
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/14/us/politics/trump-birth-control-mandate.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14xp-birthcontrol3/14xp-birthcontrol3-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14xp-birthcontrol3/14xp-birthcontrol3-articleLarge.jpg",
+            "lat": "-31.7444",
+            "lng": "-60.5175"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "MELBOURNE, Australia \u2014 The last time Serena Williams came here for the Australian Open, in 2017, the talk swirling around her focused on tennis. Could she capture her 23rd major title and break past Steffi Graf on the list of Grand Slam title winners since the sport went professional?",
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/14/sports/serena-williams-australian-open.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/sports/14serena1/merlin_148960260_bd172067-556a-40f5-ac3b-96aa2d2b8853-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/sports/14serena1/merlin_148960260_bd172067-556a-40f5-ac3b-96aa2d2b8853-articleLarge.jpg",
+            "lat": "53.3647",
+            "lng": "13.0636"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "Dear Diary:",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/14/nyregion/metropolitan-diary.html",
-            "imageURL": "https://www.nytimes.com/images/2018/12/14/nyregion/14diary-5/14diary-5-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2018/12/14/nyregion/14diary-5/14diary-5-articleLarge.jpg",
+            "lat": "51.1236",
+            "lng": "8.0681"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "Video arcades \u2014 those recreational arenas of illuminated screens and 8-bit soundtracks \u2014 have been fading from the cultural landscape since the end of the Donkey Kong \u201980s. The advent of home video game consoles, hand-held gaming devices and smartphones has all but rendered them relics of a Gen X childhood. ",
             "location": "Chinatown (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/14/style/old-arcades-new-york-chinatown-fair.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/13/fashion/13ARCADE1/merlin_138943098_3f54d3d3-e028-41ba-9311-0c2f43528d2b-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/13/fashion/13ARCADE1/merlin_138943098_3f54d3d3-e028-41ba-9311-0c2f43528d2b-articleLarge.jpg",
+            "lat": "49.7167",
+            "lng": "11.9000"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "LOS ANGELES \u2014 More than 30,000 Los Angeles public-school teachers began a strike on Monday, the first in three decades in the district. Holding plastic-covered signs on rain-drenched picket lines across the city, they demanded higher pay, smaller classes and more support staff in schools.",
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/14/us/lausd-teachers-strike.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "32.9100",
+            "lng": "-96.6305"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "Can you find Bhutan on a map? What else do you know about this country in Southern Asia with 760,000 people.",
             "location": "Bhutan",
             "webURL": "https://www.nytimes.com/interactive/2019/01/14/learning/14BhutanGeographyQuizLN.html",
-            "imageURL": "https://www.nytimes.com/images/2016/11/29/world/03BHUTAN-1-LN2/03BHUTAN-1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2016/11/29/world/03BHUTAN-1-LN2/03BHUTAN-1-articleLarge.jpg",
+            "lat": "-8.5908",
+            "lng": "-35.1158"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "NASHVILLE \u2014 In 2004, Johnny Allen, a real estate broker in his 40s, picked up a 16-year-old girl named Cyntoia Brown at a drive-in restaurant here. Mr. Allen bought her some food and then took her to his house, agreeing to pay her $150 for sex. Ms. Brown shot him to death as he slept, taking his money and two of his handguns with her when she fled in his truck.",
             "location": "Tennessee",
             "webURL": "https://www.nytimes.com/2019/01/14/opinion/cyntoia-brown-mercy.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14RENKL/14RENKL-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14RENKL/14RENKL-articleLarge.jpg",
+            "lat": "37.3667",
+            "lng": "14.2000"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "Accused of helping to carry out an international multibillion-dollar fraud, Goldman Sachs has tried to pin the blame on a few rogue bankers.",
             "location": "Malaysia",
             "webURL": "https://www.nytimes.com/2019/01/14/business/malaysia-goldman-sachs-1mdb.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/world/15Malaysiagoldman1/merlin_141414384_30075789-64ac-4d64-a7da-4fbd61047681-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/world/15Malaysiagoldman1/merlin_141414384_30075789-64ac-4d64-a7da-4fbd61047681-articleLarge.jpg",
+            "lat": "29.4470",
+            "lng": "-90.3096"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "LOS ANGELES \u2014 Pacific Gas and Electric said on Monday that it would seek bankruptcy protection as \u201cthe only viable option\u201d as the giant California utility faces billions of dollars in liability claims from two years of deadly wildfires.",
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/14/business/energy-environment/pge-bankruptcy-california.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/business/15utlity2/15utlity2-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/business/15utlity2/15utlity2-articleLarge.jpg",
+            "lat": "46.8300",
+            "lng": "1.7058"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "This article is part of David Leonhardt\u2019s newsletter. You can sign up here to receive it each weekday.",
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/14/opinion/joe-biden-2020-democrats.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14leonhardt-newsletter/merlin_145228218_eb2094c4-c740-4692-98b8-1bf9686205b6-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14leonhardt-newsletter/merlin_145228218_eb2094c4-c740-4692-98b8-1bf9686205b6-articleLarge.jpg",
+            "lat": "45.6333",
+            "lng": "9.9833"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "Kips Bay (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/14/nyregion/airbnb-illegal-brokers-real-estate.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15airbnb1/15airbnb1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15airbnb1/15airbnb1-articleLarge.jpg",
+            "lat": "36.7500",
+            "lng": "-3.9500"
         }
     ]
 }

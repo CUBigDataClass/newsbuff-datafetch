@@ -11,7 +11,9 @@
             "description": "A nurse at a Phoenix nursing home who had been assigned to care for a woman in a vegetative state who was raped and later gave birth to a child was charged on Wednesday with sexual assault, the police said.",
             "location": "Phoenix (Ariz)",
             "webURL": "https://www.nytimes.com/2019/01/23/us/nathan-sutherland-vegetative-arizona.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "50.5151",
+            "lng": "14.0511"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "MELBOURNE, Australia \u2014 To show a fuller picture of the sport, women\u2019s tennis is shining the spotlight on the coaches who travel the tour with its players.",
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/23/sports/australian-open-wta-coaching.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/sports/24tennis-coaches-1/merlin_149564283_90198f6f-5807-416c-b45e-452488973531-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/sports/24tennis-coaches-1/merlin_149564283_90198f6f-5807-416c-b45e-452488973531-articleLarge.jpg",
+            "lat": "39.8333",
+            "lng": "-8.3833"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "PARIS \u2014 Carlos Ghosn has resigned as chairman and chief executive of Renault, according to France\u2019s finance minister, as the French automaker turns its focus to securing the future of the world\u2019s biggest auto alliance.",
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/23/business/renault-ghosn-nissan.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/22/business/22RENAULT/merlin_148983834_020cc054-c207-48f1-983c-7560b821a49a-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/22/business/22RENAULT/merlin_148983834_020cc054-c207-48f1-983c-7560b821a49a-articleLarge.jpg",
+            "lat": "47.2803",
+            "lng": "7.3708"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "The Michael Jackson musical is taking its first steps onto the dance floor.",
             "location": "Chicago (Ill)",
             "webURL": "https://www.nytimes.com/2019/01/23/theater/michael-jackson-musical-chicago.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/arts/24dontstop-item1/merlin_142578996_c61dc50d-051f-4cbe-9d20-ce3adff6ae0c-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/arts/24dontstop-item1/merlin_142578996_c61dc50d-051f-4cbe-9d20-ce3adff6ae0c-articleLarge.jpg",
+            "lat": "41.4237",
+            "lng": "123.3203"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "He hated black men. He wanted to kill one, and he did.",
             "location": "Midtown Area (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/timothy-caughman-white-supremacist-guilty.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24hate/24hate-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24hate/24hate-articleLarge.jpg",
+            "lat": "40.5833",
+            "lng": "15.6833"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "In the first episode of the final season of \u201cBroad City,\u201d BFFs Abbi (Abbi Jacobson) and Ilana (Ilana Glazer) celebrate Abbi\u2019s 30th birthday by walking the length of Manhattan, Inwood to the Battery. They shoot video of dirty water \u2014 \u201ccity juice\u201d \u2014 on the subway tracks. They visit the stately Morris-Jumel Mansion. They get chicken and waffles at Red Rooster in Harlem. They get their hair braided on the sidewalk.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/23/arts/television/broad-city-high-maintenance-unbreakable-kimmy-schmidt-review.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/arts/24broadcity-notebook1/24broadcity-notebook1-articleLarge-v2.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/arts/24broadcity-notebook1/24broadcity-notebook1-articleLarge-v2.jpg",
+            "lat": "40.5696",
+            "lng": "-74.6092"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "BREAKING NEWS The Remaking of Journalism and Why It Matters Now By Alan Rusbridger 440 pp. Farrar, Straus & Giroux. $30.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/23/books/review/alan-rusbridger-breaking-news.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/03/books/review/03Lipinski/03Lipinski-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/03/books/review/03Lipinski/03Lipinski-articleLarge.jpg",
+            "lat": "47.3653",
+            "lng": "7.3472"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "ISLAMABAD, Pakistan \u2014 The Pakistan Supreme Court on Wednesday overturned the acquittal of a man accused of stabbing a woman 23 times, nearly three years after the attack prompted a national debate on violence against women.",
             "location": "Pakistan",
             "webURL": "https://www.nytimes.com/2019/01/23/world/asia/pakistan-stabbing-khadija-siddiqi.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/world/24pakistan/merlin_139533909_c087e677-83cf-433a-8f36-8c607689ae57-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/world/24pakistan/merlin_139533909_c087e677-83cf-433a-8f36-8c607689ae57-articleLarge.jpg",
+            "lat": "23.6630",
+            "lng": "101.8853"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/harvey-weinstein-new-lawyers.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24weinstein/merlin_140996202_99a9ffae-28c1-4643-bdcf-6884605a3ded-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24weinstein/merlin_140996202_99a9ffae-28c1-4643-bdcf-6884605a3ded-articleLarge.jpg",
+            "lat": "43.9167",
+            "lng": "-80.8667"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "JERUSALEM \u2014 He kept quiet for months, his poll numbers creeping up against Prime Minister Benjamin Netanyahu. But Benny Gantz, a former chief of staff of the Israel Defense Forces who is offering himself up as a savior to the opposition, is finally making some noise.",
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/23/world/middleeast/benny-gantz-israel-netanyahu.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/world/24gantz-print/merlin_149209056_a86c556c-72cc-4748-85b4-ea281593ba8a-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/world/24gantz-print/merlin_149209056_a86c556c-72cc-4748-85b4-ea281593ba8a-articleLarge.jpg",
+            "lat": "42.6267",
+            "lng": "-70.8580"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "America\u2019s corporate leaders are shrugging off a monthslong trade war, a protracted government shutdown and other looming economic threats, projecting that revenue growth in 2019 will be strong largely on the assumption that President Trump will reach a deal with China.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/23/us/politics/china-trump-trade-deals.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/business/24DC-CHINACEO-3/24DC-CHINACEO-3-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/business/24DC-CHINACEO-3/24DC-CHINACEO-3-articleLarge.jpg",
+            "lat": "43.2371",
+            "lng": "23.1251"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "Jonas Mekas, a filmmaker, curator, archivist, critic and all-around evangelist for independently made movies in general, and for those variously known as experimental, underground or avant-garde in particular, died on Wednesday at his home in Brooklyn. He was 96.",
             "location": "Lithuania",
             "webURL": "https://www.nytimes.com/2019/01/23/obituaries/jonas-mekas-dead.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/obituaries/24MEKAS7/merlin_149651352_66da64b8-02af-4cdb-890a-7fbaf80175c9-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/obituaries/24MEKAS7/merlin_149651352_66da64b8-02af-4cdb-890a-7fbaf80175c9-articleLarge.jpg",
+            "lat": "39.5583",
+            "lng": "27.0983"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "Newark (NJ)",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/newark-airport-drones.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24drones01/24drones01-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24drones01/24drones01-articleLarge.jpg",
+            "lat": "40.8167",
+            "lng": "16.5500"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "PARIS \u00a0\u2014\u00a0Poggy, also known as Poggy the Man, governmentally known as Motofumi Kogi, is familiar in image and plumage to those who follow men\u2019s fashion, particularly the version of it that walks the streets, not the runway. Street-style photographers have been panting after him for years. ",
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/23/fashion/poggy-box-japanese-fashion.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/23/fashion/23POGGY-1/merlin_149383392_ba4427a2-f091-41d4-b0ac-e837969c3315-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/23/fashion/23POGGY-1/merlin_149383392_ba4427a2-f091-41d4-b0ac-e837969c3315-articleLarge.jpg",
+            "lat": "49.9019",
+            "lng": "16.4473"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "Get the DealBook newsletter to make sense of major business and policy headlines \u2014 and the power-brokers who shape them.__________",
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/23/business/dealbook/yahoo-cyber-security-settlement.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/business/24db-anotherview1/merlin_145729827_d360a55e-f58f-4ad1-927c-38bdb50b6b06-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/business/24db-anotherview1/merlin_145729827_d360a55e-f58f-4ad1-927c-38bdb50b6b06-articleLarge.jpg",
+            "lat": "33.8914",
+            "lng": "135.1525"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/dream-act-bill-passed.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/23/nyregion/00nydream01/merlin_149176692_d2d7ca7e-c566-4ee6-8246-58cf8610d3fc-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/23/nyregion/00nydream01/merlin_149176692_d2d7ca7e-c566-4ee6-8246-58cf8610d3fc-articleLarge.jpg",
+            "lat": "50.7546",
+            "lng": "59.5400"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "Read Thursday\u2019s story on the shooting at a bank in Florida that police say left five dead.",
             "location": "SEBRING (FLA)",
             "webURL": "https://www.nytimes.com/2019/01/23/us/florida-bank-shooting-suntrust.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "32.7721",
+            "lng": "-7.4942"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "A year ago, Dr. Matthew Porteus, a genetics researcher at Stanford, received an out-of-the-blue email from a young Chinese scientist, asking to meet.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/23/health/gene-editing-babies-crispr.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/19/science/00GENE-zhang/00GENE-zhang-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/19/science/00GENE-zhang/00GENE-zhang-articleLarge.jpg",
+            "lat": "17.0167",
+            "lng": "121.8500"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "Edward A. Morrison, a former New York deputy mayor whose avowal that John Lennon was a valuable cultural asset to the city helped Lennon avoid deportation in the 1970s, died on Saturday in Ocala, Fla. He was 85.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/23/obituaries/edward-morrison-dead.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/24/obituaries/24MORRISON1/merlin_149589183_336e729b-5029-4095-a1df-c1cb9af5d86e-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/24/obituaries/24MORRISON1/merlin_149589183_336e729b-5029-4095-a1df-c1cb9af5d86e-articleLarge.jpg",
+            "lat": "26.9167",
+            "lng": "70.9167"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "The 35-year-old opposition leader Juan Guaid\u00f3 just swore himself in as Venezuela\u2019s interim president. Who is he?",
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/video/world/americas/100000006319607/juan-guaido-venezuela-history.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/24venezeulaprotests10/merlin_149646357_72f41125-f415-46b8-a87c-f8a329b2c9b8-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/25/world/24venezeulaprotests10/merlin_149646357_72f41125-f415-46b8-a87c-f8a329b2c9b8-articleLarge.jpg",
+            "lat": "51.9833",
+            "lng": "116.5833"
         }
     ]
 }

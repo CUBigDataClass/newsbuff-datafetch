@@ -11,7 +11,9 @@
             "description": "SAN FRANCISCO \u2014 The e-scooter boom began in Santa Monica, Calif., about 16 months ago. Electric scooters, owned by start-ups looking to mimic the success of ride-hailing companies like Uber, appeared around town. The idea was simple: Use a smartphone app to rent a scooter and then leave it at the end of the ride for the next person.",
             "location": "Portland (Ore)",
             "webURL": "https://www.nytimes.com/2019/01/15/technology/electric-scooters-portland-oregon.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16scooters01/merlin_138301821_477e4413-8e76-456c-bcaa-5d6c9fc10273-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16scooters01/merlin_138301821_477e4413-8e76-456c-bcaa-5d6c9fc10273-articleLarge.jpg",
+            "lat": "39.6000",
+            "lng": "-8.8167"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "Adam Moss, whose visual savvy and ear for the zeitgeist made him one of the leading magazine editors of his generation, said on Tuesday that he would step down from New York magazine, his canvas for the past 15 years.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/15/business/media/new-york-magazine-adam-moss-resigns.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16magazine/16magazine-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16magazine/16magazine-articleLarge.jpg",
+            "lat": "47.2519",
+            "lng": "26.7231"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "Netflix is raising prices.",
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/15/business/media/netflix-price-increase.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16NETFLIX/merlin_149022990_7920c3c0-ff98-4431-8a9b-f7a24df195a9-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16NETFLIX/merlin_149022990_7920c3c0-ff98-4431-8a9b-f7a24df195a9-articleLarge.jpg",
+            "lat": "40.2997",
+            "lng": "-76.8068"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "MELBOURNE, Australia \u2014 For Simona Halep, it was better to think that the United States Open wasn\u2019t held last year.",
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/15/sports/simona-halep-manages-to-beat-kaia-kanepi-this-time.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/sports/16halepWEB1/merlin_149205849_5c77596c-b7d4-4290-adbc-eda34819a61c-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/sports/16halepWEB1/merlin_149205849_5c77596c-b7d4-4290-adbc-eda34819a61c-articleLarge.jpg",
+            "lat": "-6.8719",
+            "lng": "-36.9189"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "The news that the SoHo location of Souen is closing at the end of January has triggered strong responses \u2014 from me as well. That\u2019s because the macrobiotic restaurant has Last Dodo status, and its demise hits upon a few key New York obsessions: real estate, food and people\u2019s obsessions with their bodies. Oh, and money. ",
             "location": "SoHo (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/15/dining/souen-nyc-closing.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/dining/15Souen/merlin_149215194_1e0ff7d8-edb1-475c-abf8-e34855941090-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/dining/15Souen/merlin_149215194_1e0ff7d8-edb1-475c-abf8-e34855941090-articleLarge.jpg",
+            "lat": "47.9850",
+            "lng": "8.8233"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "The threats began at the strike of noon, when Aleksey Krasovskiy, a Russian film director, started getting phone calls and messages about \u201cHoliday,\u201d a movie he was working on.",
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/15/movies/russia-film-censorship-holiday.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/arts/15RUSSIA-COMEDY3/merlin_149214186_663d3ff8-8fa3-45e1-8b69-a9461c373ca9-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/arts/15RUSSIA-COMEDY3/merlin_149214186_663d3ff8-8fa3-45e1-8b69-a9461c373ca9-articleLarge.jpg",
+            "lat": "55.2833",
+            "lng": "23.9667"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "MELBOURNE, Australia \u2014 When Andy Murray announced that he planned to retire from tennis this year because of chronic hip pain, the news generated the expected plaudits and empathy from the rivals who had shared a locker room with him for years.",
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/15/sports/andy-murray-womens-tennis.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/sports/16murray1-sub/merlin_149161524_82aa4d24-a93b-4ea0-af3f-e0d290fa6628-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/sports/16murray1-sub/merlin_149161524_82aa4d24-a93b-4ea0-af3f-e0d290fa6628-articleLarge.jpg",
+            "lat": "6.8900",
+            "lng": "-6.4500"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "Benno is the third of three dining operations opened by the chef Jonathan Benno in the Evelyn Hotel, inside a 1905 building.",
             "location": "NoMad (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/15/dining/benno-nyc.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/dining/16REST-slide-E0WB/16REST-slide-E0WB-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/dining/16REST-slide-E0WB/16REST-slide-E0WB-articleLarge.jpg",
+            "lat": "46.0000",
+            "lng": "8.7500"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "Dated was the word one friend used after going to Benno, and if you\u2019ve eaten there, too, you\u2019ll know why. It\u2019s as if the past 15 years in food never happened. The menu seems to be stuck in some time between 1994, when Thomas Keller bought the French Laundry, and 2004, when he opened Per Se with a young Jonathan Benno leading the kitchen.",
             "location": "NoMad (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/15/dining/benno-restaurant-review.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/dining/16REST-slide-E0WB/16REST-slide-E0WB-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/dining/16REST-slide-E0WB/16REST-slide-E0WB-articleLarge.jpg",
+            "lat": "53.5833",
+            "lng": "25.8167"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "The other day I issued a warning about the Chinese economy. It is, I wrote, \u201cemerging as a danger spot in a world economy that really, really doesn\u2019t need this right now.\u201d",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/15/opinion/will-chinas-economy-hit-a-great-wall.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/opinion/150119krugmanblog1/merlin_149148900_67da623b-6720-4d39-9242-bb7cdc3247dc-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/opinion/150119krugmanblog1/merlin_149148900_67da623b-6720-4d39-9242-bb7cdc3247dc-articleLarge.jpg",
+            "lat": "53.3633",
+            "lng": "-113.7322"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "Theo Adam, a German opera singer whose varied career spanned the second half of the last century and who made a particularly strong impression internationally with his Wagnerian roles, died on Thursday in Dresden, Germany. He was 92.",
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/15/obituaries/theo-adam-dead.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/obituaries/15ADAM2/merlin_149168619_4ec85f8f-a80a-4c58-872e-15d0ff0b9352-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/obituaries/15ADAM2/merlin_149168619_4ec85f8f-a80a-4c58-872e-15d0ff0b9352-articleLarge.jpg",
+            "lat": "42.2237",
+            "lng": "-83.3660"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "More than 30,000 Los Angeles public schoolteachers went on strike on Monday after months of unfruitful negotiations with the Los Angeles Unified School District. The teachers are asking for higher wages, smaller class sizes and more support staff in schools, including nurses, librarians and guidance counselors. Here are three books on teachers\u2019 historical battle for improved working conditions and one mother\u2019s year navigating the public school system in Los Angeles.",
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/15/books/los-angeles-teachers-strike-education-schools.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/19/books/15newsbook-teachersstrike4/15newsbook-teachersstrike4-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/19/books/15newsbook-teachersstrike4/15newsbook-teachersstrike4-articleLarge.jpg",
+            "lat": "43.1848",
+            "lng": "13.7955"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "To the Editor:",
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/15/opinion/letters/trump-nato-russia.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15dc-trumpnato-1/merlin_141156909_cfa4e9a4-a737-4809-aae5-718916f5b72c-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15dc-trumpnato-1/merlin_141156909_cfa4e9a4-a737-4809-aae5-718916f5b72c-articleLarge.jpg",
+            "lat": "44.7167",
+            "lng": "10.2333"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "LONDON \u2014 Prime Minister Theresa May on Tuesday suffered a humiliating defeat over her plan to withdraw Britain from the European Union, thrusting the country further into political chaos with only 10 weeks to go until it is scheduled to leave the bloc.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/15/world/europe/brexit-vote-theresa-may.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "50.0500",
+            "lng": "10.2333"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "DAKAR, Senegal \u2014 The 19th-century sword rests in a glass case alongside a frail Quran in a spacious gallery where scrolls hang from the wall and soft religious chanting is piped in. The saber\u2019s etched copper handle is shaped like a swan\u2019s beak, with a ring at the end. Its leather sheath rests nearby.",
             "location": "Dakar (Senegal)",
             "webURL": "https://www.nytimes.com/2019/01/15/arts/design/museum-of-black-civilizations-restitution-senegal-macron.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/arts/16senegal-museum1/merlin_148316526_15256c5c-0da2-41c9-bc4d-6b896cee4ce8-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/arts/16senegal-museum1/merlin_148316526_15256c5c-0da2-41c9-bc4d-6b896cee4ce8-articleLarge.jpg",
+            "lat": "41.1101",
+            "lng": "-74.5886"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "CARACAS, Venezuela \u2014 Leaders of Venezuela\u2019s opposition on Tuesday set in motion a plan to try to oust President Nicol\u00e1s Maduro and create a caretaker government until new elections can be held.",
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/15/world/americas/guaido-maduro-venezuela.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16venezuela-1-print/merlin_149104932_1e294e6d-9ac2-4983-b5d0-40a13571a4fd-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16venezuela-1-print/merlin_149104932_1e294e6d-9ac2-4983-b5d0-40a13571a4fd-articleLarge.jpg",
+            "lat": "62.6167",
+            "lng": "22.4000"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "WASHINGTON \u2014 By the time a Republican challenged Representative Steve King of Iowa in the 2016 party primary, Mr. King had already courted far-right foreign leaders, proposed electric wiring atop a border wall to treat illegal immigrants like straying livestock, and said young migrants had \u201ccalves the size of cantaloupes because they\u2019re hauling 75 pounds of marijuana across the desert.\u201d",
             "location": "Iowa",
             "webURL": "https://www.nytimes.com/2019/01/15/us/politics/steve-king-white-supremacy.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/us/politics/16steveking1/merlin_149179383_158c0e6c-398c-40d6-b4d7-27283d75f4e6-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/us/politics/16steveking1/merlin_149179383_158c0e6c-398c-40d6-b4d7-27283d75f4e6-articleLarge.jpg",
+            "lat": "36.1586",
+            "lng": "140.5164"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "PARIS \u2014 After weeks of national turmoil spurred by the Yellow Vest protests, President Emmanuel Macron on Tuesday kicked off what he intended as a peacemaking exercise, and what the French government billed as the \u201cGreat National Debate.\u201d",
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/15/world/europe/macron-yellow-vests-menace.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16france1-print/merlin_149215845_70d5ecf9-3fbe-42b3-8367-341f25e3ba92-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16france1-print/merlin_149215845_70d5ecf9-3fbe-42b3-8367-341f25e3ba92-articleLarge.jpg",
+            "lat": "54.9333",
+            "lng": "58.8000"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "LONDON \u2014 This week, as an anxious Britain prepared to witness Prime Minister Theresa May\u2019s Brexit plan crashing to defeat, Nicholas Soames, Winston Churchill\u2019s grandson, tweeted out one of his grandfather\u2019s solemn warnings from the 1930s.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/15/opinion/brexit-vote-corbyn-may.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/opinion/15RUSSELL-promo2/merlin_149228448_ab94d58f-5a15-4b8c-a867-34862b16058f-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/opinion/15RUSSELL-promo2/merlin_149228448_ab94d58f-5a15-4b8c-a867-34862b16058f-articleLarge.jpg",
+            "lat": "48.6417",
+            "lng": "2.2297"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "LONDON \u2014 The Birmingham Royal Ballet is leaping into a new era. On Tuesday, the company announced that Carlos Acosta, the Cuban-born star who is generally considered one of the greatest male dancers of his generation, will be its next director. He succeeds David Bintley, who has led the company for 24 years, and who will step down at the end of this season, in July.",
             "location": "Birmingham (England)",
             "webURL": "https://www.nytimes.com/2019/01/15/arts/dance/carlos-acosta-birmingham-royal-ballet.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/arts/16ACOSTA-ITEM2/merlin_149217330_fd795695-96dc-4130-b36d-a37a72db5449-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/arts/16ACOSTA-ITEM2/merlin_149217330_fd795695-96dc-4130-b36d-a37a72db5449-articleLarge.jpg",
+            "lat": "32.6333",
+            "lng": "65.8667"
         }
     ]
 }

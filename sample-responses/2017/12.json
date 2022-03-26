@@ -11,7 +11,9 @@
             "description": "House Republican leaders removed Representative Steve King of Iowa from the Judiciary and Agriculture Committees on Monday night as party officials scrambled to appear tough on racism and contain damage from comments Mr. King made to The New York Times questioning why white supremacy is considered offensive.",
             "location": "Iowa",
             "webURL": "https://www.nytimes.com/2019/01/14/us/politics/steve-king-white-supremacy.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/politics/15kingrepubs-print-promo/15kingrepubs-print-promo-articleLarge-v2.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/politics/15kingrepubs-print-promo/15kingrepubs-print-promo-articleLarge-v2.jpg",
+            "lat": "52.8494",
+            "lng": "8.7267"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "It\u2019s been more than a century since the Wounded Knee massacre and the Battle of Little Bighorn, but both of these notorious conflicts were thrust into a national conversation about Native Americans and race following President Trump\u2019s Sunday night tweet directed at Senator Elizabeth Warren.",
             "location": "Wounded Knee (SD)",
             "webURL": "https://www.nytimes.com/2019/01/14/us/politics/wounded-knee-trump-warren.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/politics/15xp-woundedknee2/merlin_149160660_1a719332-b43d-4ecb-9369-cd0f762f0191-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/politics/15xp-woundedknee2/merlin_149160660_1a719332-b43d-4ecb-9369-cd0f762f0191-articleLarge.jpg",
+            "lat": "-3.8369",
+            "lng": "-62.0569"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/14/nyregion/nypd-black-lives-matter-surveillance.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15blm/merlin_89756836_8e8db24e-463b-4b3a-8ff4-f4a736f66339-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15blm/merlin_89756836_8e8db24e-463b-4b3a-8ff4-f4a736f66339-articleLarge.jpg",
+            "lat": "51.8333",
+            "lng": "4.3167"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "WASHINGTON \u2014 Private donors put up $107 million to usher Donald J. Trump into office in style two years ago, and it is now clear just how enthusiastically his inaugural committee went to town with it.",
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/14/us/politics/trump-inauguration-spending.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15dc-inaugural-1sub/merlin_149176377_b50351be-65e1-408f-a113-772ef12f9d93-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15dc-inaugural-1sub/merlin_149176377_b50351be-65e1-408f-a113-772ef12f9d93-articleLarge.jpg",
+            "lat": "50.7067",
+            "lng": "1.5733"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "",
             "location": "Turkey",
             "webURL": "https://www.nytimes.com/2019/01/14/opinion/trump-turkey-tweet.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14chappatte/14chappatte-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14chappatte/14chappatte-articleLarge.jpg",
+            "lat": "51.7784",
+            "lng": "0.9168"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "BEIJING \u2014 One of China\u2019s most prominent human rights activists, the blogger Huang Qi, went on trial on Monday on charges of leaking state secrets, and American diplomats seeking to attend the proceedings said they had been denied access.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/14/world/asia/china-trial-huang-qi.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/world/15China-dissident/merlin_138643980_0043ace0-24e8-4f52-96a5-85cd831433eb-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/world/15China-dissident/merlin_138643980_0043ace0-24e8-4f52-96a5-85cd831433eb-articleLarge.jpg",
+            "lat": "-2.5208",
+            "lng": "-45.0828"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "The deployment of active-duty United States troops at the border with Mexico will most likely be extended through September, the Pentagon said Monday.",
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/14/us/troops-border-wall.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15xp-bordertroops1/15xp-bordertroops1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15xp-bordertroops1/15xp-bordertroops1-articleLarge.jpg",
+            "lat": "38.9667",
+            "lng": "-3.9500"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "WASHINGTON \u2014 Pound for pound, the deadliest arms of all time are not nuclear but biological. A single gallon of anthrax, if suitably distributed, could end human life on Earth.",
             "location": "North Korea",
             "webURL": "https://www.nytimes.com/2019/01/15/science/north-korea-biological-weapons.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/science/00NKBIO1/00NKBIO1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/science/00NKBIO1/00NKBIO1-articleLarge.jpg",
+            "lat": "54.3122",
+            "lng": "-130.3271"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/15/nyregion/cuomo-plastic-bag-ban.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15nyplasticbagban/merlin_137229834_f2051f9c-8d31-4b87-a18d-cde6d57e6996-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15nyplasticbagban/merlin_137229834_f2051f9c-8d31-4b87-a18d-cde6d57e6996-articleLarge.jpg",
+            "lat": "43.3108",
+            "lng": "-3.0056"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/15/nyregion/l-train-mta-subway.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/nyregion/16subway-promo/16subway-promo-articleLarge-v2.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/nyregion/16subway-promo/16subway-promo-articleLarge-v2.jpg",
+            "lat": "-8.3833",
+            "lng": "-74.5500"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "From the street, the Seattle house is French Norman style; from the backyard, it\u2019s a modernist showplace.",
             "location": "Seattle (Wash)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/15/realestate/a-turret-in-front-a-glass-box-in-back.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/20/realestate/20LOCATION-SEATTLE-slide-0L8E/00LOCATION-SEATTLE-slide-0L8E-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/20/realestate/20LOCATION-SEATTLE-slide-0L8E/00LOCATION-SEATTLE-slide-0L8E-articleLarge.jpg",
+            "lat": "17.0465",
+            "lng": "-96.6363"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "When Bob Boyce and Victor Ren first saw their home in the Capitol Hill neighborhood of Seattle, \u201cit was not the kind of house we were looking for,\u201d said Mr. Boyce, 48.",
             "location": "Seattle (Wash)",
             "webURL": "https://www.nytimes.com/2019/01/15/realestate/split-personality-in-seattle.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/20/realestate/00LOCATION-SEATTLE-slide-KP57/00LOCATION-SEATTLE-slide-KP57-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/20/realestate/00LOCATION-SEATTLE-slide-KP57/00LOCATION-SEATTLE-slide-KP57-articleLarge.jpg",
+            "lat": "-24.2888",
+            "lng": "-47.1332"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "TEHRAN \u2014 Iranian officials said on Tuesday that a satellite launch that had been condemned by the Trump administration failed when the carrier rocket could not reach orbit.",
             "location": "Tehran (Iran)",
             "webURL": "https://www.nytimes.com/2019/01/15/world/middleeast/iran-satellite-launch-fail.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16iran/merlin_149199594_81e03adb-bc8a-4a39-8229-7398824e3d1e-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16iran/merlin_149199594_81e03adb-bc8a-4a39-8229-7398824e3d1e-articleLarge.jpg",
+            "lat": "-17.9708",
+            "lng": "-50.3389"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": " [Want to get New York Today by email? Here's the sign-up.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/15/nyregion/newyorktoday/new-york-news-l-train-sully.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15nytoday1/merlin_148714722_de30854a-aae1-4e9f-8f7a-3bdd513aec45-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15nytoday1/merlin_148714722_de30854a-aae1-4e9f-8f7a-3bdd513aec45-articleLarge.jpg",
+            "lat": "-7.5667",
+            "lng": "110.8167"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/15/world/europe/brexit-vote.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "40.1100",
+            "lng": "-75.2794"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "President Trump has shut down the government to get money for a border wall that he says will stop illegal immigration. But the fact of the matter is that that\u2019s not all he wants to stop. During the three-day shutdown last January, he demanded a 40 percent reduction in legal immigration, arguing that America has been swamped by immigrants. ",
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/15/opinion/trump-immigration-myth.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14DALMIA/merlin_148331961_f90bce52-f9fb-4225-abf7-4d94e9cdfc72-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14DALMIA/merlin_148331961_f90bce52-f9fb-4225-abf7-4d94e9cdfc72-articleLarge.jpg",
+            "lat": "41.9819",
+            "lng": "-88.1447"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "DAKAR, Senegal \u2014 The International Criminal Court in The Hague said on Tuesday that it had acquitted the former president of Ivory Coast, Laurent Gbagbo, and one of his aides of crimes against humanity and a litany of other charges related to months of violence that followed the country\u2019s presidential election in 2010.",
             "location": "Ivory Coast",
             "webURL": "https://www.nytimes.com/2019/01/15/world/africa/laurent-gbagbo-ivory-coast-icc.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16ICC-print/merlin_149204589_889db9cf-7e3a-4da0-81c5-7eb163ae65c9-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16ICC-print/merlin_149204589_889db9cf-7e3a-4da0-81c5-7eb163ae65c9-articleLarge.jpg",
+            "lat": "43.5171",
+            "lng": "118.0333"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "This article is part of David Leonhardt\u2019s newsletter. You can sign up here to receive it each weekday.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/15/opinion/brexit-vote-theresa-may-referendum.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/15/opinion/15leonhardt-newsletter/merlin_149207115_2d9c3d18-a095-4601-80df-cafb0be051c9-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/15/opinion/15leonhardt-newsletter/merlin_149207115_2d9c3d18-a095-4601-80df-cafb0be051c9-articleLarge.jpg",
+            "lat": "41.5833",
+            "lng": "-4.5833"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "BEIJING \u2014 To entrepreneurs in China, he is a legend akin to Steve Jobs.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/15/technology/huawei-ren-zhengfei.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16ren/16ren-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16ren/16ren-articleLarge.jpg",
+            "lat": "48.7550",
+            "lng": "2.3221"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "Assailants identified as Shabab militants attacked a Nairobi luxury hotel and office complex on Tuesday, spreading death and panic as the police in Kenya\u2019s capital evacuated civilians and sealed off the area.",
             "location": "Nairobi (Kenya)",
             "webURL": "https://www.nytimes.com/2019/01/15/world/africa/nairobi-attack.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16nairobi-1-print/merlin_149213556_d892fa4e-9729-401b-be38-6a7e76e63b56-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16nairobi-1-print/merlin_149213556_d892fa4e-9729-401b-be38-6a7e76e63b56-articleLarge.jpg",
+            "lat": "49.4667",
+            "lng": "6.3667"
         }
     ]
 }

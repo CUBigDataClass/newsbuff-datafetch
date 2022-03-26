@@ -11,7 +11,9 @@
             "description": "BEIJING \u2014 China reached a milestone in space exploration on Thursday, landing a vehicle on the far side of the moon for the first time in history, the country\u2019s space agency announced.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/02/world/asia/china-change-4-moon.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/pageoneplus/03china-moon-2sub/merlin_148697241_43b669ea-dc07-4c8a-97f4-bb3dd058a488-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/pageoneplus/03china-moon-2sub/merlin_148697241_43b669ea-dc07-4c8a-97f4-bb3dd058a488-articleLarge.jpg",
+            "lat": "28.6569",
+            "lng": "-81.5057"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "Bronx (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/02/nyregion/silicone-injection-death-nyc.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/03/nyregion/03silicone/03silicone-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/03/nyregion/03silicone/03silicone-articleLarge.jpg",
+            "lat": "42.8121",
+            "lng": "-85.7279"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "A man was charged with murder on Wednesday after he fatally shot a California police officer who pulled him over under the suspicion of drunken driving, the authorities said.",
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/02/us/california-police-officer-shooting-immigrant.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/us/04xp-policekilling-print/03xp-policekilling3-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/us/04xp-policekilling-print/03xp-policekilling3-articleLarge.jpg",
+            "lat": "0.3333",
+            "lng": "6.7333"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "In a spaceflight first, China\u2019s Chang\u2019e-4 has landed where no spacecraft has touched down in one piece before: the far side of the moon.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/02/science/far-side-moon.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/science/04FARSIDE-print/merlin_147822009_de28dea0-1cd9-42c5-a43d-6d502e6d9b10-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/science/04FARSIDE-print/merlin_147822009_de28dea0-1cd9-42c5-a43d-6d502e6d9b10-articleLarge.jpg",
+            "lat": "40.8722",
+            "lng": "-111.8647"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/03/nyregion/manhattan-real-estate-market.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/03/nyregion/03nyrealestate1/merlin_141145086_0b27d6de-553a-4560-b251-f9f2db223390-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/03/nyregion/03nyrealestate1/merlin_141145086_0b27d6de-553a-4560-b251-f9f2db223390-articleLarge.jpg",
+            "lat": "59.5750",
+            "lng": "10.7319"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "New York has gone to the dogs, but the rabbits and rhinos aren\u2019t far behind in their assault.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/arts/design/gillie-marc-schattner-sydney-australia-art-paparazzi-dogs.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/06/arts/06publicart-cover/06publicart-cover-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/06/arts/06publicart-cover/06publicart-cover-articleLarge.jpg",
+            "lat": "18.8942",
+            "lng": "-96.9347"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "Maybe the markets were not overreacting.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/03/business/world-stock-market.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/business/04Markets-2/04Markets-2-articleLarge-v2.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/business/04Markets-2/04Markets-2-articleLarge-v2.jpg",
+            "lat": "40.8185",
+            "lng": "-75.2609"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "Where I live, there is always someone driving slowly on the road ahead. This is by the sea in the English countryside, and the roads are narrow and burrow-like, with high hedges on either side to protect the fields from the coastal winds. The roads are digressive in character, rarely traveling directly to a specific location. They branch across the flat fields like veins. It is hard to see what\u2019s coming, and because there aren\u2019t many vantage points, it\u2019s easy to get lost. Still, it\u2019s nothing that requires excessive caution. There\u2019s no particular reason for alarm, in fact quite the reverse. Yet people drive at 15, 20, 30 miles an hour. No matter how many of them you get past, there\u2019s always another one around the next bend.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/03/magazine/driving-living-reality.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/06/magazine/06Mag-Driving-1/06Mag-Driving-1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/06/magazine/06Mag-Driving-1/06Mag-Driving-1-articleLarge.jpg",
+            "lat": "49.1015",
+            "lng": "16.3775"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "It\u2019s no mere coincidence that Jeffrey R. Brown, the dean of the Gies College of Business, at the University of Illinois at Urbana-Champaign, is also a scholar of risk management. At his first faculty meeting four years ago, Brown fretted that his school had become, like many American universities, overly dependent on a single source of money \u2014 roughly a fifth of tuition revenue came from Chinese students. \u201cI saw our reliance on China as a risk,\u201d says Brown, noting that 800 or so of the university\u2019s nearly 5,800 Chinese students attend the business school. \u201cAt the time, I was concerned that China could pull the plug on students coming to America. But then the U.S. political landscape shifted, and we were vulnerable to changing visa and immigration policies here, too. Both were threats we could not control.\u201d",
             "location": "Illinois",
             "webURL": "https://www.nytimes.com/2019/01/03/magazine/one-of-americas-most-vital-exports-education-never-goes-abroad-but-it-still-faces-threats.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/06/magazine/06OnMoney_1/06OnMoney_1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/06/magazine/06OnMoney_1/06OnMoney_1-articleLarge.jpg",
+            "lat": "48.5967",
+            "lng": "8.8708"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "The room my brother and I shared when we first moved to the United States was small and dark, with an off-putting smell that emanated from a noisy air-conditioner. It wasn\u2019t ideal, but we\u2019d lived in small spaces before. Atlanta was something else \u2014 hot and humid, coursing with wide highways that neither one of us was old enough to drive along. That summer, bored and unsupervised, we\u2019d sit on the curb in the parking lot for as long as we could take the heat, wanting school to start, and dreading it. Making fun of the whingy American accents, and wanting our own.",
             "location": "Atlanta (Ga)",
             "webURL": "https://www.nytimes.com/2019/01/03/magazine/bbq-chicken-pizza-recipe.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/06/magazine/06mag-eat-image1-promo/06mag-eat-image1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/06/magazine/06mag-eat-image1-promo/06mag-eat-image1-articleLarge.jpg",
+            "lat": "22.8136",
+            "lng": "-82.7633"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "WILLIAMS, Calif. \u2014 It\u2019s time to add another name to the farewell tour circuit in this year of Elton John, Joan Baez, Paul Simon and Ozzy Osbourne: Edmund G. Brown Jr., the governor of California.",
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/03/us/california-governor-jerry-brown-farewell-tour.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/us/04brown-01-print/00brown-01-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/us/04brown-01-print/00brown-01-articleLarge.jpg",
+            "lat": "29.6919",
+            "lng": "-7.9856"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "Sinaloa (Mexico)",
             "webURL": "https://www.nytimes.com/2019/01/03/nyregion/el-chapo-trial-recap.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/03/nyregion/03CHAPORECAP1/merlin_148106478_c9c89afe-34b7-40c0-b4c3-2a5473ea58f3-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/03/nyregion/03CHAPORECAP1/merlin_148106478_c9c89afe-34b7-40c0-b4c3-2a5473ea58f3-articleLarge.jpg",
+            "lat": "36.1728",
+            "lng": "139.5486"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "A specter is haunting the Supreme Court  \u2014 disrespect for the Second Amendment. Perhaps you haven\u2019t realized that the Supreme Court\u2019s disinclination to expand on its landmark 2008 decision creating an individual right to gun ownership means that the justices are treating the Second Amendment as a \u201csecond-class right.\u201d A \u201cwatered-down right.\u201d A \u201cdisfavored right.\u201d",
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/03/opinion/guns-second-amendment-supreme-court.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/03/opinion/03greenhouseWeb/merlin_144890226_7cdee8bb-8265-4f15-8bc8-fc153e1d2b67-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/03/opinion/03greenhouseWeb/merlin_144890226_7cdee8bb-8265-4f15-8bc8-fc153e1d2b67-articleLarge.jpg",
+            "lat": "13.5500",
+            "lng": "33.6000"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": " [Want to get New York Today by email? Here's the sign-up.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/nyregion/newyorktoday/weather-nyc-rainfall-2018.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/03/nyregion/03nytoday1/merlin_145163910_a58713e9-805b-4c40-85c7-40861c975b80-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/03/nyregion/03nytoday1/merlin_145163910_a58713e9-805b-4c40-85c7-40861c975b80-articleLarge.jpg",
+            "lat": "41.6725",
+            "lng": "-111.8454"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "MANILA \u2014 The Philippine police said on Thursday that a mayor had ordered the killing of a congressman who was gunned down shortly before Christmas, and that one of the men he hired to carry out the assassination had been arrested.",
             "location": "Philippines",
             "webURL": "https://www.nytimes.com/2019/01/03/world/asia/philippines-mayor-congressman-killing.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04philippines-1/04philippines-1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04philippines-1/04philippines-1-articleLarge.jpg",
+            "lat": "33.5304",
+            "lng": "-112.4440"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "This film completes what its director, Barbet Schroeder, calls a \u201ctrilogy of evil.\u201d The subject of the first documentary in this informal series, the Ugandan dictator Idi Amin Dada, was such an enthusiastic participant in the project that the 1976 result wound up being titled \u201cGeneral Idi Amin Dada: A Self Portrait.\u201d",
             "location": "Myanmar",
             "webURL": "https://www.nytimes.com/2019/01/03/movies/the-venerable-w-review.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04thevenerable/merlin_148555785_d9f084ec-460e-46ab-ba25-2350894d1fb3-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04thevenerable/merlin_148555785_d9f084ec-460e-46ab-ba25-2350894d1fb3-articleLarge.jpg",
+            "lat": "34.5094",
+            "lng": "135.7925"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "BEIJING \u2014 Hours after a space probe from China made humanity\u2019s first landing on the far side of the moon, sending images of its surroundings back to Earth, the spacecraft deployed a rover on Thursday to take still more photographs and scan the surface of terrain never before traversed.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/03/world/asia/china-change-4-moon.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04chinamoon-promo/merlin_148588656_dc85c402-101a-45c6-a0e8-e26522506c78-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04chinamoon-promo/merlin_148588656_dc85c402-101a-45c6-a0e8-e26522506c78-articleLarge.jpg",
+            "lat": "10.4929",
+            "lng": "123.4095"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "WASHINGTON \u2014 He loved to travel around Russia by train, collected tea glass holders stamped with Russian historical scenes and maintained social media friendships with ordinary Russians, from a hairstylist to retired members of the country\u2019s military.",
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/03/world/europe/us-spy-suspect-whelan-russia.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04Whelan-promo/04Whelan-promo-articleLarge-v2.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04Whelan-promo/04Whelan-promo-articleLarge-v2.jpg",
+            "lat": "50.4378",
+            "lng": "16.6528"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "BERLIN \u2014 The director Steven Spielberg cited a \u201crenewed cycle of hate\u201d in society behind his decision to bring \u201cSchindler\u2019s List\u201d back to movie theaters around the world, hoping it would provoke discussion.",
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/03/world/europe/schindlers-list-afd-germany.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04germany-schindler/merlin_148703340_846b6537-7cad-4f6a-b34b-2b2871c2f6ee-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04germany-schindler/merlin_148703340_846b6537-7cad-4f6a-b34b-2b2871c2f6ee-articleLarge.jpg",
+            "lat": "45.9044",
+            "lng": "15.5925"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/nyregion/nyc-airbnb-rentals.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/04/nyregion/04Airbnb/merlin_140293152_83ef2947-2837-461f-9d16-0703db3f131e-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/04/nyregion/04Airbnb/merlin_140293152_83ef2947-2837-461f-9d16-0703db3f131e-articleLarge.jpg",
+            "lat": "9.2167",
+            "lng": "125.9667"
         }
     ]
 }

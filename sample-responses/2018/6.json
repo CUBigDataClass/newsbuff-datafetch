@@ -11,7 +11,9 @@
             "description": "LONDON \u2014 Time is not on Britain\u2019s side as the clock ticks down to its scheduled March 29 exit from the European Union and its politicians remain paralyzed over how the country should leave.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/17/world/europe/brexit-delayed-may-corbyn.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/world/18brexit/18brexit-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/world/18brexit/18brexit-articleLarge.jpg",
+            "lat": "20.2656",
+            "lng": "-89.3478"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "Central Park (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/17/nyregion/is-a-planned-monument-to-womens-rights-racist.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/03/nyregion/03comments/20big01-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/03/nyregion/03comments/20big01-articleLarge.jpg",
+            "lat": "52.5833",
+            "lng": "58.3167"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "WASHINGTON \u2014 The Trump administration is asking most State Department employees to return to work on Tuesday, despite the stalemate in funding negotiations between the president and congressional Democrats that has led to a partial government shutdown.",
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/17/us/politics/state-department-shutdown-return-work.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/us/politics/18dc-state/merlin_143041221_e5c94924-f3cb-4461-b249-622b857544fc-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/us/politics/18dc-state/merlin_143041221_e5c94924-f3cb-4461-b249-622b857544fc-articleLarge.jpg",
+            "lat": "50.0740",
+            "lng": "14.7309"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "Protesters demanding the resignation of President Omar al-Bashir clashed with security forces Thursday on the streets of the Sudanese capital.",
             "location": "Sudan",
             "webURL": "https://www.nytimes.com/2019/01/17/world/africa/omar-al-bashir-protests-sudan.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "52.9230",
+            "lng": "-1.2910"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "LONDON \u2014 Prince Philip, the 97-year-old husband of Queen Elizabeth II of Britain, was involved on Thursday in a car crash while driving himself on a rural road north of London, injuring two women in another vehicle.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/17/world/europe/prince-philip-car-accident.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/world/18prince/18prince-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/world/18prince/18prince-articleLarge.jpg",
+            "lat": "46.3667",
+            "lng": "15.1167"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "CHICAGO \u2014 Three Chicago police officers were acquitted on Thursday of charges that they had conspired and lied to protect a white police officer who fired 16 deadly shots into a black teenager, a contentious verdict in a case over what many viewed as a \u201ccode of silence\u201d in the Police Department.",
             "location": "Chicago (Ill)",
             "webURL": "https://www.nytimes.com/2019/01/17/us/laquan-mcdonald-officers-acquitted.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "38.8261",
+            "lng": "0.0169"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "LOS ANGELES \u2014 I first met Alex Caputo-Pearl, the union leader at the head of the teachers strike here, in 2002, back when he was teaching social studies at Crenshaw High School. ",
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/17/opinion/la-teachers-strike.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/17/opinion/17kaplan-4/17kaplan-4-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/17/opinion/17kaplan-4/17kaplan-4-articleLarge.jpg",
+            "lat": "40.0667",
+            "lng": "18.1667"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "LOS ANGELES \u2014 Pacific Gas and Electric promises that its customers\u2019 lights will stay on if it follows through on plans to file for bankruptcy this month. But companies that supply the California utility\u2019s electricity may have more to worry about.",
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/17/business/pge-bankruptcy-solar-power.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/19/business/19utility01/merlin_55531721_6e23833e-057d-4d1b-a6eb-9aa6d1815b98-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/19/business/19utility01/merlin_55531721_6e23833e-057d-4d1b-a6eb-9aa6d1815b98-articleLarge.jpg",
+            "lat": "14.0635",
+            "lng": "121.2451"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "Over the years, outside analysts have closely followed visits by North Korean leaders to factories, farms and military units to discern the regime\u2019s policy priorities.",
             "location": "North Korea",
             "webURL": "https://www.nytimes.com/2019/01/17/world/asia/north-korea-missile-kim-jong-un.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/28/world/asia/28nkorea-missile-promo/28nkorea-missile-promo-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/28/world/asia/28nkorea-missile-promo/28nkorea-missile-promo-articleLarge.jpg",
+            "lat": "35.6500",
+            "lng": "136.0667"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "Our guide to plays and musicals coming to New York stages and a few last-chance picks of shows that are about to close. Our reviews of open shows are at nytimes.com/reviews/theater.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/theater/whats-new-in-nyc-theater.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-theater/18list-theater-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-theater/18list-theater-articleLarge.jpg",
+            "lat": "-36.7000",
+            "lng": "-71.9000"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "Our guide to new art shows and some that will be closing soon.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/design/art-and-museums-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-art/18list-art-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-art/18list-art-articleLarge.jpg",
+            "lat": "19.9327",
+            "lng": "110.8750"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "Our guide to dance performances happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/dance/dance-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-dance/18list-dance-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-dance/18list-dance-articleLarge.jpg",
+            "lat": "39.9793",
+            "lng": "-83.0408"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "Our guide to the city\u2019s best classical music and opera happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/music/classical-music-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-classical/merlin_145381020_281312e4-c840-414e-9614-e9fc3c7e7773-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-classical/merlin_145381020_281312e4-c840-414e-9614-e9fc3c7e7773-articleLarge.jpg",
+            "lat": "42.3167",
+            "lng": "59.1586"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "Our guide to stand-up, improv and variety shows happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/comedy-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-comedy/merlin_143304669_7798d11d-cead-4de9-a37e-8c7634470cd0-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-comedy/merlin_143304669_7798d11d-cead-4de9-a37e-8c7634470cd0-articleLarge.jpg",
+            "lat": "38.7771",
+            "lng": "-77.2268"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "Our guide to film series and special screenings happening this weekend and in the week ahead. All our movie reviews are at nytimes.com/reviews/movies.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/movies/film-series-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-movies/18list-movies-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-movies/18list-movies-articleLarge.jpg",
+            "lat": "-33.8333",
+            "lng": "138.6000"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "Our guide to pop and rock shows and the best of live jazz happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/music/pop-rock-and-jazz-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-pop/18list-pop-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-pop/18list-pop-articleLarge.jpg",
+            "lat": "37.9628",
+            "lng": "-122.3425"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "Our guide to cultural events in New York City for children and teenagers happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/events-for-children-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-kids/18list-kids-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-kids/18list-kids-articleLarge.jpg",
+            "lat": "46.9833",
+            "lng": "54.0165"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "Gov. Philip D. Murphy of New Jersey and legislative leaders agreed on Thursday to a deal that would raise the minimum wage to $15, making New Jersey the fourth state in the country to commit to significantly raising incomes to that level and reflecting a growing national movement to address economic inequality.",
             "location": "New Jersey",
             "webURL": "https://www.nytimes.com/2019/01/17/nyregion/nj-minimum-wage.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/18/nyregion/18njwage/18njwage-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/18/nyregion/18njwage/18njwage-articleLarge.jpg",
+            "lat": "24.8667",
+            "lng": "-103.7000"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "Capitano is part of Carlton\u2019s renaissance \u2014 a new restaurant that aims to pay respect to the neighborhood\u2019s history while modernizing its tastes and aspirations.",
             "location": "Melbourne (Australia)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/17/dining/capitano-australia.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/17fare-ONE-slide-2XUJ/23FARE-ONE-slide-2XUJ-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/17fare-ONE-slide-2XUJ/23FARE-ONE-slide-2XUJ-articleLarge.jpg",
+            "lat": "43.5219",
+            "lng": "1.4061"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "The Olive Jar, a family restaurant in Melbourne\u2019s Little Italy, part of a dying breed.",
             "location": "Melbourne (Australia)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/17/dining/olive-jar-australia.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/17fare-TWO-slide-5157/23FARE-TWO-slide-5157-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/17fare-TWO-slide-5157/23FARE-TWO-slide-5157-articleLarge.jpg",
+            "lat": "43.4878",
+            "lng": "13.1458"
         }
     ]
 }

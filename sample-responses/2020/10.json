@@ -11,7 +11,9 @@
             "description": "HOUSTON \u2014 For those of you keeping track of the \u201cAs Texas goes, so goes the nation\u201d notion, I have either very good or very bad news. ",
             "location": "Texas",
             "webURL": "https://www.nytimes.com/2019/01/31/opinion/texas-voter-suppression.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/31/opinion/31swartz3/merlin_150031881_9df4177f-38ff-483d-b1bf-67245073e4b4-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/31/opinion/31swartz3/merlin_150031881_9df4177f-38ff-483d-b1bf-67245073e4b4-articleLarge.jpg",
+            "lat": "42.0980",
+            "lng": "-76.0639"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "Russia created a playbook for spreading disinformation on social media. Now the rest of the world is following it.",
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/31/technology/twitter-disinformation-united-states-russia.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/business/01twitter-01/merlin_150020769_f863a3c6-f99a-41f1-b544-d237657aeb29-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/business/01twitter-01/merlin_150020769_f863a3c6-f99a-41f1-b544-d237657aeb29-articleLarge.jpg",
+            "lat": "41.9663",
+            "lng": "-87.8057"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "Unless the Supreme Court takes action by Thursday, Louisiana may be down to one or two abortion-care doctors for nearly a million women of reproductive age across the state.",
             "location": "Louisiana",
             "webURL": "https://www.nytimes.com/2019/01/31/opinion/supreme-court-louisiana-abortion.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/31/opinion/31Northup/merlin_135763626_0be46712-6e34-4d29-a6ce-9898d769e5e1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/31/opinion/31Northup/merlin_135763626_0be46712-6e34-4d29-a6ce-9898d769e5e1-articleLarge.jpg",
+            "lat": "38.7542",
+            "lng": "42.4877"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "NASHVILLE \u2014 Harold Bradley, who played on thousands of country, pop and rock \u2019n\u2019 roll recordings, including landmark hits like Brenda Lee\u2019s \u201cI\u2019m Sorry,\u201d Patsy Cline\u2019s \u201cCrazy\u201d and Roy Orbison\u2019s \u201cOnly the Lonely,\u201d died on Thursday in Nashville. He was 93.",
             "location": "Nashville (Tenn)",
             "webURL": "https://www.nytimes.com/2019/01/31/obituaries/harold-bradley-dead.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/obituaries/01BRADLEY1/merlin_150015573_0bca994d-93e5-41e8-a21b-8fa76139afd9-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/obituaries/01BRADLEY1/merlin_150015573_0bca994d-93e5-41e8-a21b-8fa76139afd9-articleLarge.jpg",
+            "lat": "42.1278",
+            "lng": "12.5000"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "BEIRUT, Lebanon \u2014 As families have made the long, frozen, sometimes barefoot trek out of the last shards of Islamic State territory to a refugee camp in northeastern Syria over the past two months, at least 29 children and infants among them have died before reaching help, mainly from hypothermia, the World Health Organization said on Thursday.",
             "location": "Syria",
             "webURL": "https://www.nytimes.com/2019/01/31/world/middleeast/syria-children-refugees-isis.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/world/01syria-cold1/merlin_147915234_ceaf50c4-6a02-4023-a26b-0cc63a62e9be-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/world/01syria-cold1/merlin_147915234_ceaf50c4-6a02-4023-a26b-0cc63a62e9be-articleLarge.jpg",
+            "lat": "52.2333",
+            "lng": "12.9667"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "Our guide to cultural events in New York City for children and teenagers happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/arts/events-for-children-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-kids2/merlin_149938746_948a2874-0a82-4d19-a9c3-3671b20b71fe-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-kids2/merlin_149938746_948a2874-0a82-4d19-a9c3-3671b20b71fe-articleLarge.jpg",
+            "lat": "47.5731",
+            "lng": "14.4611"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "Our guide to film series and special screenings happening this weekend and in the week ahead. All our movie reviews are at nytimes.com/reviews/movies.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/movies/film-series-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-movies/merlin_149943642_d443a0c0-2c33-4164-828b-5b16c35c7b64-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-movies/merlin_149943642_d443a0c0-2c33-4164-828b-5b16c35c7b64-articleLarge.jpg",
+            "lat": "13.4833",
+            "lng": "121.8667"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "Our guide to pop and rock shows and the best of live jazz happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/arts/music/pop-rock-and-jazz-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-pop/merlin_125649758_458b06db-cb42-464f-9b84-a646ce6a80d8-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-pop/merlin_125649758_458b06db-cb42-464f-9b84-a646ce6a80d8-articleLarge.jpg",
+            "lat": "-31.4000",
+            "lng": "-64.5167"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "Our guide to stand-up, improv and variety shows happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/arts/comedy-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-comedy/merlin_149942013_a23cb9ed-5cdb-42c9-9c7c-b11f36531a20-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-comedy/merlin_149942013_a23cb9ed-5cdb-42c9-9c7c-b11f36531a20-articleLarge.jpg",
+            "lat": "47.2703",
+            "lng": "8.6411"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "Our guide to the city\u2019s best classical music and opera happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/arts/music/classical-music-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-classical/merlin_114505286_b1e1131f-79e8-4371-a666-fe41203b1154-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-classical/merlin_114505286_b1e1131f-79e8-4371-a666-fe41203b1154-articleLarge.jpg",
+            "lat": "-4.8319",
+            "lng": "-40.3208"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "Our guide to dance performances happening this weekend and in the week ahead.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/arts/dance/dance-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-dance/merlin_149858964_14e63a61-f94c-40de-b59e-7e71e04ad18d-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-dance/merlin_149858964_14e63a61-f94c-40de-b59e-7e71e04ad18d-articleLarge.jpg",
+            "lat": "53.2167",
+            "lng": "6.5667"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "Our guide to new art shows and some that will be closing soon.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/arts/design/art-and-museums-in-nyc-this-week.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-art/01list-art-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-art/01list-art-articleLarge.jpg",
+            "lat": "38.3037",
+            "lng": "116.8452"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "Our guide to plays and musicals coming to New York stages and a few last-chance picks of shows that are about to close. Our reviews of open shows are at nytimes.com/reviews/theater.",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/theater/whats-new-in-nyc-theater.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-theater/merlin_149002827_e48ab1b7-2165-4486-b65d-df8eccc78bb2-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01list-theater/merlin_149002827_e48ab1b7-2165-4486-b65d-df8eccc78bb2-articleLarge.jpg",
+            "lat": "23.3568",
+            "lng": "115.5167"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "Five days after Christmas, the Danish designer Cecilie Bahnsen stood in her serenely decorated basement studio in Osterbro, a leafy residential neighborhood in eastern Copenhagen, with one of her team members. They considered all of the work that still needed to be done for her fall 2019 runway collection, her fifth to date, which was showing in a month. She had an idea, but it had not yet translated into a single garment. \u201cSomething interesting often arises from situations where you feel cornered or under pressure. It adds a dynamic that you can\u2019t create on your own,\u201d she reflected recently, as she walked through her narrow studio on a misty January afternoon. Her pace seemed surprisingly calm for a designer who was 72 hours out from her show. \u201cIt actually hasn\u2019t been that hectic this time around, compared to the first couple of shows that we did,\u201d she added.",
             "location": "Copenhagen (Denmark)",
             "webURL": "https://www.nytimes.com/2019/01/31/t-magazine/cecilie-bahnsen.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/31/t-magazine/31tmag-cecilie-bahnsen-slide-WCVE/31tmag-cecilie-bahnsen-slide-WCVE-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/31/t-magazine/31tmag-cecilie-bahnsen-slide-WCVE/31tmag-cecilie-bahnsen-slide-WCVE-articleLarge.jpg",
+            "lat": "47.5186",
+            "lng": "7.6174"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "Italy has officially slipped into recession, and Europe as a whole is essentially at an economic standstill, raising anxieties that the world is on the verge of a significant slowdown.",
             "location": "Italy",
             "webURL": "https://www.nytimes.com/2019/01/31/business/italy-recession-europe-slowdown.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/business/01ITALYECON-1/merlin_146611383_ab637bcc-1efb-4eb7-ae19-0726383576c5-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/business/01ITALYECON-1/merlin_146611383_ab637bcc-1efb-4eb7-ae19-0726383576c5-articleLarge.jpg",
+            "lat": "53.7682",
+            "lng": "-1.0907"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "Jean Guillou, a French organ master whose modern-sounding compositions, unusual transcriptions and idiosyncratic performances challenged centuries of tradition and were preserved on more than 100 recordings, died on Jan. 26 in Paris. He was 88.",
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/31/obituaries/jean-guillou-dead.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/02/obituaries/02GUILLOU-OBIT1/merlin_149836542_9cf86484-9ba4-4f63-ac79-d3f9e804622a-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/02/obituaries/02GUILLOU-OBIT1/merlin_149836542_9cf86484-9ba4-4f63-ac79-d3f9e804622a-articleLarge.jpg",
+            "lat": "57.6743",
+            "lng": "66.1735"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "A federal court has held Syria\u2019s government liable for the targeting and killing of an American journalist as she reported on the shelling of a rebellious area of Homs in 2012. The decision could help ease the way for war-crimes prosecutions arising from the Syria conflict.",
             "location": "Syria",
             "webURL": "https://www.nytimes.com/2019/01/31/world/middleeast/syria-marie-colvin-court-judgment.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/world/01colvin-print/merlin_66312290_e2fd2a2e-f26a-4e59-bb2f-a948a1baa6f0-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/world/01colvin-print/merlin_66312290_e2fd2a2e-f26a-4e59-bb2f-a948a1baa6f0-articleLarge.jpg",
+            "lat": "53.5550",
+            "lng": "-6.7917"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "The University of Farmington in Farmington Hills, Mich., billed itself as a \u201cnationally accredited business and STEM institution,\u201d with an innovative curriculum, flexible class schedules and a diverse student body.",
             "location": "Michigan",
             "webURL": "https://www.nytimes.com/2019/01/31/us/farmington-university-arrests-ice.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/us/01xp-fake1/01xp-fake1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/us/01xp-fake1/01xp-fake1-articleLarge.jpg",
+            "lat": "64.0833",
+            "lng": "-22.0000"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/nyregion/uber-taxi-lyft-fee.html",
-            "imageURL": "https://www.nytimes.com/images/2019/02/01/nyregion/01taxisuit/merlin_142164066_8630f7a7-2788-44da-8376-fff22f0c552f-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/02/01/nyregion/01taxisuit/merlin_142164066_8630f7a7-2788-44da-8376-fff22f0c552f-articleLarge.jpg",
+            "lat": "-25.9928",
+            "lng": "-49.3350"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "",
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/31/opinion/maduro-guaido-venezuela.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/31/opinion/31chappatte/31chappatte-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/31/opinion/31chappatte/31chappatte-articleLarge.jpg",
+            "lat": "38.7650",
+            "lng": "140.3016"
         }
     ]
 }

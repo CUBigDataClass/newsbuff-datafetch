@@ -11,7 +11,9 @@
             "description": "BERLIN \u2014 After hackers, later determined to be working for Russia, broke into Parliament\u2019s main computer network three years ago, the government vowed to fortify its cybersecurity. The authorities schooled lawmakers about changing passwords, using two-step identification and other measures to protect online data.",
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/04/world/europe/germany-hacking-politicians-leak.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05germany-promo/merlin_147146178_844cbc96-448a-4e6c-ac0f-4efedbca0f90-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05germany-promo/merlin_147146178_844cbc96-448a-4e6c-ac0f-4efedbca0f90-articleLarge.jpg",
+            "lat": "-3.9675",
+            "lng": "122.5947"
         },
         {
             "year": 2019,
@@ -23,7 +25,9 @@
             "description": "WASHINGTON \u2014 Marriott International said on Friday that the biggest hacking of personal information in history was not quite as big as first feared, but for the first time conceded that its Starwood hotel unit did not encrypt the passport numbers for roughly five million guests. Those passport numbers were lost in an attack that many outside experts believe was carried out by Chinese intelligence agencies.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/04/us/politics/marriott-hack-passports.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/us/politics/05dc-hack/merlin_147534942_bbf401dd-0f6a-4ef8-9110-e9944ee65405-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/us/politics/05dc-hack/merlin_147534942_bbf401dd-0f6a-4ef8-9110-e9944ee65405-articleLarge.jpg",
+            "lat": "34.7575",
+            "lng": "105.1135"
         },
         {
             "year": 2019,
@@ -35,7 +39,9 @@
             "description": "The events of the past year brought American and Israeli Jews ever closer to a breaking point. President Trump, beloved in Israel and decidedly unloved by a majority of American Jews, moved the United States Embassy from Tel Aviv to Jerusalem in May, with the fiery evangelical pastors John Hagee and Robert Jeffress consecrating the ceremony. ",
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/04/opinion/sunday/israeli-jews-american-jews-divide.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/sunday/06Weisman/06Weisman-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/sunday/06Weisman/06Weisman-articleLarge.jpg",
+            "lat": "68.8079",
+            "lng": "49.3042"
         },
         {
             "year": 2019,
@@ -47,7 +53,9 @@
             "description": "LONDON \u2014 It\u2019s late night in a British home. In the darkness, the flashing colors of a video game light a teenager\u2019s face, his gaze fixed on the screen.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/04/world/europe/british-army-snowflakes-digital-campaign-uk.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05snowflakes1/merlin_148738029_bbef6727-578b-443a-b6a9-1c432baee8b8-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05snowflakes1/merlin_148738029_bbef6727-578b-443a-b6a9-1c432baee8b8-articleLarge.jpg",
+            "lat": "47.9606",
+            "lng": "-1.4992"
         },
         {
             "year": 2019,
@@ -59,7 +67,9 @@
             "description": "At Thai Farm Kitchen in Kensington, Brooklyn, Elizabeth Kanyawee Calvo passes along the recipes she inherited.",
             "location": "Kensington (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/04/dining/thai-farm-kitchen-brooklyn.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09HUNGRY-slide-WZUG/09HUNGRY-slide-WZUG-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09HUNGRY-slide-WZUG/09HUNGRY-slide-WZUG-articleLarge.jpg",
+            "lat": "35.1750",
+            "lng": "136.8200"
         },
         {
             "year": 2019,
@@ -71,7 +81,9 @@
             "description": "Wun maprao onn \u2014 or Coconut Delight, as the Bangkok-born Jess Calvo of Thai Farm Kitchen in Kensington, Brooklyn, calls it \u2014 is \u201cthe most difficult dessert to make,\u201d he said. \u201cFirst, you have to find the right young coconut.\u201d",
             "location": "Kensington (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/04/dining/thai-farm-kitchen-review.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09HUNGRY-slide-WZUG/09HUNGRY-slide-WZUG-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09HUNGRY-slide-WZUG/09HUNGRY-slide-WZUG-articleLarge.jpg",
+            "lat": "-0.2989",
+            "lng": "30.1336"
         },
         {
             "year": 2019,
@@ -83,7 +95,9 @@
             "description": "You can call it a Triassic titan. Or a pre-Jurassic juggernaut. Just don\u2019t call it a dinosaur. Despite its appearance, this burly behemoth was a completely different prehistoric beast: a dicynodont.",
             "location": "Poland",
             "webURL": "https://www.nytimes.com/2019/01/04/science/dicynodonts-fossils-poland.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/science/05TB-FOSSIL1/merlin_148744296_0b47b183-da1e-4fe5-b65e-2825413ea9be-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/science/05TB-FOSSIL1/merlin_148744296_0b47b183-da1e-4fe5-b65e-2825413ea9be-articleLarge.jpg",
+            "lat": "52.3019",
+            "lng": "4.8581"
         },
         {
             "year": 2019,
@@ -95,7 +109,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/04/nyregion/fair-fares-metrocard-discount-nyc.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/nyregion/05fairfares1-print/merlin_148750857_e9dfde31-5e12-4d11-995f-346d9333fcdc-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/nyregion/05fairfares1-print/merlin_148750857_e9dfde31-5e12-4d11-995f-346d9333fcdc-articleLarge.jpg",
+            "lat": "51.6528",
+            "lng": "9.8322"
         },
         {
             "year": 2019,
@@ -107,7 +123,9 @@
             "description": "BEIJING \u2014 On a sleepless night last summer, her siamese cat Star at her feet, Zhou Xiaoxuan, a 25-year-old screenwriter in Beijing, took out her cellphone and began writing furiously about the day that had haunted her for years.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/04/world/asia/china-zhou-xiaoxuan-metoo.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05china-screenwriter-1-print/00china-screenwriter-1-articleLarge-v2.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05china-screenwriter-1-print/00china-screenwriter-1-articleLarge-v2.jpg",
+            "lat": "44.9491",
+            "lng": "-68.7249"
         },
         {
             "year": 2019,
@@ -119,7 +137,9 @@
             "description": "The police in Phoenix have opened an investigation into allegations that a woman in a vegetative state at a private nursing facility was sexually assaulted and gave birth to a child last month, the authorities said Friday.",
             "location": "Phoenix (Ariz)",
             "webURL": "https://www.nytimes.com/2019/01/04/us/woman-pregnant-vegatative-state-birth.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/us/05xp-baby/05xp-baby-articleLarge.png"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/us/05xp-baby/05xp-baby-articleLarge.png",
+            "lat": "40.1684",
+            "lng": "-75.5946"
         },
         {
             "year": 2019,
@@ -131,7 +151,9 @@
             "description": "Suzanne Vega sat backstage at the Cornelia Street Caf\u00e9 on New Year\u2019s Day, remembering when she had first stepped into it almost four decades ago. She was 20, an undiscovered talent, and it was a Monday night. She had come to try out material on the young troubadours and folk-revival survivors who attended the weekly Songwriters Exchange there.",
             "location": "Greenwich Village (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/04/arts/music/cornelia-street-cafe-closes.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/arts/05cornelia1/merlin_148706073_b99ab310-21db-4392-b02d-1a77d2e59db8-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/arts/05cornelia1/merlin_148706073_b99ab310-21db-4392-b02d-1a77d2e59db8-articleLarge.jpg",
+            "lat": "14.1571",
+            "lng": "5.3626"
         },
         {
             "year": 2019,
@@ -143,7 +165,9 @@
             "description": "WASHINGTON \u2014 Senator Pat Roberts of Kansas announced Friday that he would not seek a fifth term in 2020, ending more than a half-century of service in Washington and setting off what will likely be another fractious Republican primary between the party\u2019s warring establishment and conservative wings.",
             "location": "Kansas",
             "webURL": "https://www.nytimes.com/2019/01/04/us/politics/roberts-kansas-senate.html",
-            "imageURL": "null"
+            "imageURL": "null",
+            "lat": "44.0833",
+            "lng": "-77.8833"
         },
         {
             "year": 2019,
@@ -155,7 +179,9 @@
             "description": "[What you need to know to start the day: Get New York Today in your inbox.]",
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/04/nyregion/john-flanagan-rehab-senate-albany.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/nyregion/05flanagan/05flanagan-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/nyregion/05flanagan/05flanagan-articleLarge.jpg",
+            "lat": "-33.5500",
+            "lng": "-70.5667"
         },
         {
             "year": 2019,
@@ -167,7 +193,9 @@
             "description": "LONDON \u2014 The Catholic Church, one of the few trusted institutions in Congo, has determined that a leading opposition candidate won this week\u2019s presidential elections, a senior Western official and a presidential adviser said on Friday, setting up a potential confrontation with the Congolese government.",
             "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
             "webURL": "https://www.nytimes.com/2019/01/04/world/africa/fayulu-congo-presidential-vote-catholic.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05CONGO-1-print/merlin_148565340_bf38ce22-fb1c-4834-a182-add9f16f0b92-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05CONGO-1-print/merlin_148565340_bf38ce22-fb1c-4834-a182-add9f16f0b92-articleLarge.jpg",
+            "lat": "32.9337",
+            "lng": "-97.2255"
         },
         {
             "year": 2019,
@@ -179,7 +207,9 @@
             "description": "Lawmakers in Tennessee appealed to Gov. Bill Haslam this week to grant clemency to Cyntoia Brown, who is serving a life sentence for fatally shooting a man in 2004 who had hired her as a prostitute when she was a teenage sex trafficking victim.",
             "location": "Tennessee",
             "webURL": "https://www.nytimes.com/2019/01/04/us/cyntoia-brown-clemency-nashville-city-council.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/us/05xp-cyntoia/05xp-cyntoia-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/us/05xp-cyntoia/05xp-cyntoia-articleLarge.jpg",
+            "lat": "52.5758",
+            "lng": "13.5764"
         },
         {
             "year": 2019,
@@ -191,7 +221,9 @@
             "description": "The veteran pop singer Britney Spears announced \u201can indefinite work hiatus\u201d on Friday, canceling her new Las Vegas residency, \u201cBritney: Domination,\u201d that was set to run at the Park MGM resort beginning in February.",
             "location": "Las Vegas (Nev)",
             "webURL": "https://www.nytimes.com/2019/01/04/arts/music/britney-spears-cancels-vegas-residency.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/arts/05britney-spears-item/merlin_145508010_5b7c7235-1a47-4f54-8ccc-f641097fdf1d-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/arts/05britney-spears-item/merlin_145508010_5b7c7235-1a47-4f54-8ccc-f641097fdf1d-articleLarge.jpg",
+            "lat": "52.0436",
+            "lng": "5.6667"
         },
         {
             "year": 2019,
@@ -203,7 +235,9 @@
             "description": "BEIJING \u2014 To most Americans, the names are unfamiliar, maybe a little hard to pronounce: Huawei, Xiaomi, Oppo, Vivo.",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/04/technology/china-smartphones-iphone.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/business/05chinaphone-1/05chinaphone-1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/business/05chinaphone-1/05chinaphone-1-articleLarge.jpg",
+            "lat": "51.2556",
+            "lng": "6.3917"
         },
         {
             "year": 2019,
@@ -215,7 +249,9 @@
             "description": "Anne Lantree\u2019s life changed after a chance encounter with a drum kit in 1963.",
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/04/obituaries/honey-lantree-dead.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/obituaries/05LANTREE1/04LANTREE1-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/obituaries/05LANTREE1/04LANTREE1-articleLarge.jpg",
+            "lat": "48.5661",
+            "lng": "2.1714"
         },
         {
             "year": 2019,
@@ -227,7 +263,9 @@
             "description": "Do not pity Timothy D. Cook. He has made hundreds of millions of dollars as Apple\u2019s chief executive. He is regarded as one of business\u2019s best bosses, and runs a company with a beloved brand and $130 billion in cash. ",
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/04/technology/apple-tim-cook-china.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/business/05cook-print/merlin_143648598_b8e0a4e9-87bb-4c9c-b483-8dd70bdbcd2f-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/business/05cook-print/merlin_143648598_b8e0a4e9-87bb-4c9c-b483-8dd70bdbcd2f-articleLarge.jpg",
+            "lat": "31.7978",
+            "lng": "-95.1491"
         },
         {
             "year": 2019,
@@ -239,7 +277,9 @@
             "description": "Dean Ford, vocalist for the Scottish band the Marmalade, whose voice was heard around the world on the group\u2019s biggest hit, \u201cReflections of My Life,\u201d died on Monday in Los Angeles. He was 72.",
             "location": "Scotland",
             "webURL": "https://www.nytimes.com/2019/01/04/obituaries/dean-ford-dead.html",
-            "imageURL": "https://www.nytimes.com/images/2019/01/05/obituaries/05FORD1/merlin_148747407_1d2db9be-892e-48f0-9207-269768af906a-articleLarge.jpg"
+            "imageURL": "https://www.nytimes.com/images/2019/01/05/obituaries/05FORD1/merlin_148747407_1d2db9be-892e-48f0-9207-269768af906a-articleLarge.jpg",
+            "lat": "11.1800",
+            "lng": "75.8200"
         }
     ]
 }
