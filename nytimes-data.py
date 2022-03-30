@@ -5,6 +5,7 @@ import sys
 from datetime import datetime
 from pydoc import cli
 
+import requests
 from pymongo import errors
 from pynytimes import NYTAPI
 from sqlalchemy import false
@@ -32,6 +33,25 @@ def clearOutputFile():
     with open("myArticleManyLocations.txt",'w') as f:
         pass
 
+def extract_lat_long_via_location(location):
+    latitude, longitude = None, None
+    api_key = mongodbconfig.google_api_key
+    base_url = "https://maps.googleapis.com/maps/api/geocode/json"
+    endpoint = f"{base_url}?address={location}&key={api_key}"
+    r = requests.get(endpoint)
+    if r.status_code not in range(200, 299):
+        return None, None
+    try:
+        '''
+        This try block incase any of our inputs are invalid. This is done instead
+        of actually writing out handlers for all kinds of responses.
+        '''
+        results = r.json()['results'][0]
+        latitude = results['geometry']['location']['lat']
+        longitude = results['geometry']['location']['lng']
+    except:
+        pass
+    return latitude, longitude
 
 
 
@@ -81,17 +101,25 @@ def main():
 
                     # Extracting only needed attributes from each article.
                     if(len(location) == 0):
-                        myArticleNoLocation.append({"year": year, "month": month, "datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
-                        "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
+                        myArticleNoLocation.append({"year": year, "month": month, "datetime":dateTime , 
+                        "section":article['section_name'] , "subsection":subsection_name , 
+                        "headline":article['abstract'] , "description":article['lead_paragraph'] , 
+                        "location":location , 
                         "webURL":article['web_url'] , "imageURL":imageURL})
                     
                     elif(len(location) == 1):
-                        myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
-                        "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location[0] , 
+
+                        coordinates = extract_lat_long_via_location(location[0])
+
+                        myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , 
+                        "section":article['section_name'] , "subsection":subsection_name , 
+                        "headline":article['abstract'] , "description":article['lead_paragraph'] , 
+                        "location":location[0] , "latitude": coordinates[0], "longitude": coordinates[1],
                         "webURL":article['web_url'] , "imageURL":imageURL})
                     
                     else:
-                        myArticleManyLocations.append({"year": year, "month": month, "datetime":dateTime , "section":article['section_name'] , "subsection":subsection_name , 
+                        myArticleManyLocations.append({"year": year, "month": month, "datetime":dateTime , 
+                        "section":article['section_name'] , "subsection":subsection_name , 
                         "headline":article['abstract'] , "description":article['lead_paragraph'] , "location":location , 
                         "webURL":article['web_url'] , "imageURL":imageURL})
 
@@ -117,12 +145,10 @@ def main():
         mycol3.insert_many(myArticleManyLocations,ordered=false, bypass_document_validation=True)
 
     except errors.BulkWriteError as e:
-    print(f"Articles bulk insertion error {e}")
+        print(f"Articles bulk insertion error {e}")
 
 
             
-
-
 
     # Writing exception details to csv file
     fileName = "FailedCalls.txt"

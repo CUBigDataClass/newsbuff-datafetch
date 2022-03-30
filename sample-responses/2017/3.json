@@ -12,8 +12,8 @@
             "location": "Colombia",
             "webURL": "https://www.nytimes.com/2019/01/09/obituaries/carlos-sanchez-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/obituaries/10SANCHEZ2/merlin_9908335_df3f8553-fd46-403f-a66a-b9f76ce90cbc-articleLarge.jpg",
-            "lat": "47.7569",
-            "lng": "-122.1478"
+            "lat": "61.1083",
+            "lng": "28.8583"
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Seattle (Wash)",
             "webURL": "https://www.nytimes.com/2019/01/09/arts/design/show-us-your-wall-shaun-kardinal.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11showwall1/11showwall1-articleLarge.jpg",
-            "lat": "49.7880",
-            "lng": "9.0766"
+            "lat": "45.9333",
+            "lng": "8.4333"
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/09/us/los-angeles-teachers-strike-postponed.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/us/10strike/merlin_148787928_564029e6-0339-4546-9600-61b06d9c6096-articleLarge.jpg",
-            "lat": "39.5328",
-            "lng": "-89.2804"
+            "lat": "8.2958",
+            "lng": "-74.4728"
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/09/science/10-archaeology-teeth-painting.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/science/10TB-BLUETEETH1/10TB-BLUETEETH1-articleLarge.jpg",
-            "lat": "49.5333",
-            "lng": "5.9333"
+            "lat": "53.5151",
+            "lng": "49.1294"
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/09/t-magazine/craig-green-mens-fashion-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/t-magazine/fashion/craig-green-polaroids-slide-3Y31/craig-green-polaroids-slide-3Y31-articleLarge.jpg",
-            "lat": "33.0490",
-            "lng": "-117.2613"
+            "lat": "39.1594",
+            "lng": "46.1222"
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Brazil",
             "webURL": "https://www.nytimes.com/2019/01/09/opinion/editorials/jair-bolsonaro-brazil-trump.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/opinion/09brazilweb/merlin_148943157_e0c1c887-8a8e-49c9-905c-9c00576b5509-articleLarge.jpg",
-            "lat": "6.8981",
-            "lng": "126.0096"
+            "lat": "-21.1439",
+            "lng": "-48.5128"
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Chelsea (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/09/arts/design/dana-schutz-painting-emmett-till-petzel-gallery.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11dana-schutz1/11dana-schutz1-articleLarge.jpg",
-            "lat": "40.6840",
-            "lng": "-73.7077"
+            "lat": "52.9667",
+            "lng": "7.3367"
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Guatemala",
             "webURL": "https://www.nytimes.com/2019/01/09/world/americas/guatemala-corruption.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10Guatemala-print/merlin_148882278_ce2d9181-c217-416b-be24-9c3bc06c71b9-articleLarge.jpg",
-            "lat": "44.4910",
-            "lng": "24.6083"
+            "lat": "42.1230",
+            "lng": "-75.9624"
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/09/health/obesity-china-coke.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/science/10OBESITY2-HP/10OBESITY2-articleLarge.jpg",
-            "lat": "5.9161",
-            "lng": "-10.0525"
+            "lat": "5.8833",
+            "lng": "121.2667"
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/09/us/government-shutdown-washington-dc-effect.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/us/10shutdown-dc-p1/merlin_148918170_296502d3-7860-423b-9e6e-10467935d9c8-articleLarge.jpg",
-            "lat": "38.8237",
-            "lng": "-76.9485"
+            "lat": "-21.3739",
+            "lng": "-42.4769"
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
             "webURL": "https://www.nytimes.com/2019/01/09/world/africa/congo-election-result-delay.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10congo5/merlin_148592967_910106f3-6274-4ff0-b13a-d6ec3cd15bf1-articleLarge.jpg",
-            "lat": "36.7278",
-            "lng": "3.5539"
+            "lat": "47.5272",
+            "lng": "6.8236"
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Paterson (NJ)",
             "webURL": "https://www.nytimes.com/2019/01/09/nyregion/jameek-lowery-paterson-police-video.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/nyregion/10paterson-promo/10paterson-promo-articleLarge.jpg",
-            "lat": "53.0054",
-            "lng": "11.7503"
+            "lat": "35.1736",
+            "lng": "-106.6231"
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Baltimore (Md)",
             "webURL": "https://www.nytimes.com/2019/01/09/us/baltimore-police-chief-michael-harrison.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/us/10baltimore/merlin_148906734_a1c9888a-f480-48a4-b156-9a2397929400-articleLarge.jpg",
-            "lat": "14.2142",
-            "lng": "77.7245"
+            "lat": "-6.1167",
+            "lng": "141.3000"
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Richmond (Va)",
             "webURL": "https://www.nytimes.com/2019/01/09/business/mckinsey-bankruptcy-investments.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/business/10MCKINSEYprint/merlin_148958727_5a35c78c-b16a-4a56-aeb8-e07bf128473f-articleLarge.jpg",
-            "lat": "39.9136",
-            "lng": "28.1578"
+            "lat": "33.3869",
+            "lng": "-110.7515"
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/09/nyregion/el-chapo-trial.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/nyregion/10chapo1/10chapo1-articleLarge.jpg",
-            "lat": "-26.4833",
-            "lng": "31.3667"
+            "lat": "43.7135",
+            "lng": "17.2266"
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "ALABAMA",
             "webURL": "https://www.nytimes.com/2019/01/09/us/doug-jones-alabama-senate.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/us/politics/10alabama/merlin_143990754_d7f9f6d3-330d-4ca3-854f-1811daeda42a-articleLarge.jpg",
-            "lat": "35.4239",
-            "lng": "-89.7861"
+            "lat": "47.2747",
+            "lng": "8.3417"
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
             "webURL": "https://www.nytimes.com/2019/01/09/world/africa/congo-election-result.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10congo-1/merlin_147221493_f95a1867-bb4e-4c94-95d4-761684649511-articleLarge.jpg",
-            "lat": "-35.2667",
-            "lng": "138.9000"
+            "lat": "-5.5500",
+            "lng": "150.1430"
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/09/business/media/ashley-judd-lawsuit-harvey-weinstein.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/us/10weinstein2/merlin_143958450_786c23c7-cd57-41d2-947f-83d3af33b9f4-articleLarge.jpg",
-            "lat": "-26.5339",
-            "lng": "-53.3308"
+            "lat": "41.4145",
+            "lng": "13.2414"
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/10/world/asia/afghanistan-air-force.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10afghan-airforce-promo/merlin_148281255_fb880202-3388-48f4-b04a-c1cd2ee5da68-articleLarge.jpg",
-            "lat": "33.9508",
-            "lng": "-83.3689"
+            "lat": "51.0190",
+            "lng": "-3.1000"
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "New Orleans (La)",
             "webURL": "https://www.nytimes.com/2019/01/10/lens/new-orleans-museum-of-art-looking-again.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/lens/10NOMA1/10NOMA1-articleLarge.jpg",
-            "lat": "54.9100",
-            "lng": "8.3075"
+            "lat": "23.2445",
+            "lng": "111.5342"
         }
     ]
 }

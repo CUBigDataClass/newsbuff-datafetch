@@ -12,8 +12,8 @@
             "location": "Midwestern States (US)",
             "webURL": "https://www.nytimes.com/2019/01/13/us/winter-storm-round-2.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14xp-stormupdate/merlin_149096976_29590ae3-be55-4aaf-8b6d-3dad19f0ae19-articleLarge.jpg",
-            "lat": "51.7667",
-            "lng": "20.2500"
+            "lat": "42.4254",
+            "lng": "18.7712"
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Sinaloa (Mexico)",
             "webURL": "https://www.nytimes.com/2019/01/13/nyregion/el-chapo-trial.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/nyregion/09chapo/merlin_148100967_27085968-c374-4700-8a24-cb03374c6fa4-articleLarge.jpg",
-            "lat": "33.1116",
-            "lng": "-96.1098"
+            "lat": "29.6236",
+            "lng": "71.9167"
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Maine",
             "webURL": "https://www.nytimes.com/2019/01/13/business/media/stephen-king-portland-press-herald.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14-XP-King-paper/14xp-king-articleLarge.jpg",
-            "lat": "35.1884",
-            "lng": "136.8037"
+            "lat": "19.4208",
+            "lng": "-102.0628"
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/13/world/americas/venezeula-juan-guaido-arrest.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/world/14venezuela/merlin_149103477_514cf983-b142-4732-bc76-6218cb1886e4-articleLarge.jpg",
-            "lat": "14.5500",
-            "lng": "77.1000"
+            "lat": "15.9583",
+            "lng": "80.3208"
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Atlanta (Ga)",
             "webURL": "https://www.nytimes.com/2019/01/13/arts/music/super-bowl-halftime-maroon-5-travis-scott-big-boi.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/arts/music/14travis1/merlin_142598199_08414183-0f11-454c-836a-989501c41edf-articleLarge.jpg",
-            "lat": "54.2479",
-            "lng": "-6.9708"
+            "lat": "34.8119",
+            "lng": "-4.1581"
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/13/us/politics/trump-putin-russia-meetings.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14dc-trumprussia1/14dc-trumprussia1-articleLarge.jpg",
-            "lat": "40.7834",
-            "lng": "-73.9662"
+            "lat": "40.6031",
+            "lng": "140.4642"
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Virginia",
             "webURL": "https://www.nytimes.com/2019/01/13/opinion/mothers-addiction-custody.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/opinion/13obs1web/merlin_148963191_e4669d5d-0976-4dd6-97b4-551e73cf26ac-articleLarge.jpg",
-            "lat": "-11.8100",
-            "lng": "-39.3819"
+            "lat": "43.7933",
+            "lng": "-70.2580"
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Iran",
             "webURL": "https://www.nytimes.com/2019/01/13/us/politics/bolton-iran-pentagon.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14dc-military1/14dc-military1-articleLarge-v3.jpg",
-            "lat": "45.8488",
-            "lng": "-66.4788"
+            "lat": "38.3089",
+            "lng": "-85.8234"
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Stratford (Conn)",
             "webURL": "https://www.nytimes.com/2019/01/13/arts/stratford-shakespeare-theater-fire.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15xp-shakespeare/14xp-shakespeare-articleLarge.jpg",
-            "lat": "-23.6889",
-            "lng": "-49.8339"
+            "lat": "37.9546",
+            "lng": "-8.8644"
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/14/us/politics/trump-birth-control-mandate.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14xp-birthcontrol3/14xp-birthcontrol3-articleLarge.jpg",
-            "lat": "-31.7444",
-            "lng": "-60.5175"
+            "lat": "34.7520",
+            "lng": "135.4582"
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/14/sports/serena-williams-australian-open.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/sports/14serena1/merlin_148960260_bd172067-556a-40f5-ac3b-96aa2d2b8853-articleLarge.jpg",
-            "lat": "53.3647",
-            "lng": "13.0636"
+            "lat": "43.2096",
+            "lng": "-77.5705"
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/14/nyregion/metropolitan-diary.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/14/nyregion/14diary-5/14diary-5-articleLarge.jpg",
-            "lat": "51.1236",
-            "lng": "8.0681"
+            "lat": "16.4333",
+            "lng": "102.8333"
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Chinatown (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/14/style/old-arcades-new-york-chinatown-fair.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/fashion/13ARCADE1/merlin_138943098_3f54d3d3-e028-41ba-9311-0c2f43528d2b-articleLarge.jpg",
-            "lat": "49.7167",
-            "lng": "11.9000"
+            "lat": "47.6300",
+            "lng": "12.2147"
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/14/us/lausd-teachers-strike.html",
             "imageURL": "null",
-            "lat": "32.9100",
-            "lng": "-96.6305"
+            "lat": "14.0061",
+            "lng": "78.1758"
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Bhutan",
             "webURL": "https://www.nytimes.com/interactive/2019/01/14/learning/14BhutanGeographyQuizLN.html",
             "imageURL": "https://www.nytimes.com/images/2016/11/29/world/03BHUTAN-1-LN2/03BHUTAN-1-articleLarge.jpg",
-            "lat": "-8.5908",
-            "lng": "-35.1158"
+            "lat": "40.0354",
+            "lng": "-86.0042"
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Tennessee",
             "webURL": "https://www.nytimes.com/2019/01/14/opinion/cyntoia-brown-mercy.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14RENKL/14RENKL-articleLarge.jpg",
-            "lat": "37.3667",
-            "lng": "14.2000"
+            "lat": "13.8667",
+            "lng": "-88.6333"
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Malaysia",
             "webURL": "https://www.nytimes.com/2019/01/14/business/malaysia-goldman-sachs-1mdb.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/world/15Malaysiagoldman1/merlin_141414384_30075789-64ac-4d64-a7da-4fbd61047681-articleLarge.jpg",
-            "lat": "29.4470",
-            "lng": "-90.3096"
+            "lat": "32.4686",
+            "lng": "51.5578"
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/14/business/energy-environment/pge-bankruptcy-california.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/business/15utlity2/15utlity2-articleLarge.jpg",
-            "lat": "46.8300",
-            "lng": "1.7058"
+            "lat": "41.8000",
+            "lng": "13.0500"
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/14/opinion/joe-biden-2020-democrats.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/14leonhardt-newsletter/merlin_145228218_eb2094c4-c740-4692-98b8-1bf9686205b6-articleLarge.jpg",
-            "lat": "45.6333",
-            "lng": "9.9833"
+            "lat": "37.6546",
+            "lng": "114.7392"
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Kips Bay (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/14/nyregion/airbnb-illegal-brokers-real-estate.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/15airbnb1/15airbnb1-articleLarge.jpg",
-            "lat": "36.7500",
-            "lng": "-3.9500"
+            "lat": "44.4716",
+            "lng": "11.4049"
         }
     ]
 }

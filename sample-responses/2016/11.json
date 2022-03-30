@@ -12,8 +12,8 @@
             "location": "High Line (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/07/arts/design/earth-moon-high-line-art.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/arts/07HIGHLINE-ITEMPIX/07HIGHLINE-ITEMPIX-articleLarge.jpg",
-            "lat": "36.1740",
-            "lng": "-79.9916"
+            "lat": "-29.8839",
+            "lng": "-54.8250"
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Detroit (Mich)",
             "webURL": "https://www.nytimes.com/2019/01/07/science/detroit-trees-health.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/science/08TB-TREES/merlin_148754370_84830bf0-e40c-4a92-b6d5-44f3d11517cf-articleLarge.jpg",
-            "lat": "45.3991",
-            "lng": "-93.3902"
+            "lat": "52.2997",
+            "lng": "13.2667"
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/07/dining/california-cheese-wine.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09burner5/09burner5-articleLarge.jpg",
-            "lat": "39.0894",
-            "lng": "-119.7977"
+            "lat": "31.5833",
+            "lng": "-9.5333"
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Italy",
             "webURL": "https://www.nytimes.com/2019/01/07/world/europe/francis-nationalism-immigration.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/world/08Italy-print/merlin_148866744_67df247a-a9e0-4b0a-9fa6-c7e23c69180a-articleLarge.jpg",
-            "lat": "16.6500",
-            "lng": "103.3000"
+            "lat": "68.7501",
+            "lng": "161.3300"
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Kalamazoo (Mich)",
             "webURL": "https://www.nytimes.com/2019/01/07/us/uber-driver-murder-trial.html",
             "imageURL": "null",
-            "lat": "24.4371",
-            "lng": "87.9666"
+            "lat": "51.6833",
+            "lng": "5.3167"
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Nashville (Tenn)",
             "webURL": "https://www.nytimes.com/2019/01/07/us/cyntoia-brown-clemency-granted.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/08xp-cyntoia-print/08xp-cyntoia-articleLarge.jpg",
-            "lat": "48.4528",
-            "lng": "9.3431"
+            "lat": "43.8605",
+            "lng": "-92.4896"
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/07/dining/drinks/cocktail-writer-philip-greene.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09greene2/merlin_146536569_c712b096-7b1f-4d81-b0f7-bb89e2c2d199-articleLarge.jpg",
-            "lat": "38.9955",
-            "lng": "-77.3693"
+            "lat": "49.7956",
+            "lng": "5.0681"
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Malaysia",
             "webURL": "https://www.nytimes.com/2019/01/07/business/dealbook/goldman-1mdb-bitcoin.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/business/dealbook/08db-henning1/merlin_148256811_a370b959-9aef-4efa-97d0-cf06968aac5a-articleLarge.jpg",
-            "lat": "27.8092",
-            "lng": "128.8978"
+            "lat": "32.1556",
+            "lng": "34.8422"
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Iraq",
             "webURL": "https://www.nytimes.com/2019/01/07/world/middleeast/us-contractor-killed-iraq.html",
             "imageURL": "null",
-            "lat": "51.6667",
-            "lng": "35.2667"
+            "lat": "35.8824",
+            "lng": "-119.2715"
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/07/us/gavin-newsom-governor-california.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/08newsom/merlin_148879455_b335d6a9-7e05-44ce-a370-791809be88c8-articleLarge.jpg",
-            "lat": "46.8942",
-            "lng": "15.2639"
+            "lat": "35.7780",
+            "lng": "10.8262"
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Connecticut",
             "webURL": "https://www.nytimes.com/2019/01/07/nyregion/michael-skakel-case.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/08skakel-hp-promo/08skakel-hp-promo-articleLarge-v2.jpg",
-            "lat": "53.3583",
-            "lng": "20.4250"
+            "lat": "28.2957",
+            "lng": "-16.8145"
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/07/world/middleeast/netanyahu-israel-indict-speech.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/world/08israel/merlin_148876341_08a4f8e7-3d1b-4254-bcdc-baf8c1a4b189-articleLarge.jpg",
-            "lat": "20.7653",
-            "lng": "-156.4454"
+            "lat": "11.0500",
+            "lng": "122.6667"
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/07/opinion/apple-china.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/opinion/07shan/merlin_148743252_0a2f5009-306b-49ee-a308-e20fc1dc1457-articleLarge.jpg",
-            "lat": "42.8226",
-            "lng": "23.3538"
+            "lat": "14.7302",
+            "lng": "102.0263"
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/07/nyregion/cuomo-abortion-roe-vs-wade.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/nyregion/08nyabortion/08nyabortion-articleLarge.jpg",
-            "lat": "32.5167",
-            "lng": "36.4833"
+            "lat": "8.9597",
+            "lng": "-73.6250"
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Syria",
             "webURL": "https://www.nytimes.com/2019/01/07/opinion/editorials/trump-syria.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/opinion/boltonedtWeb/boltonedtWeb-articleLarge.jpg",
-            "lat": "47.3019",
-            "lng": "8.6906"
+            "lat": "44.6953",
+            "lng": "10.2416"
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Marianna (Fla)",
             "webURL": "https://www.nytimes.com/2019/01/07/us/florida-government-shutdown-marianna.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/08florida-02-print/merlin_148816347_f2b47d63-f000-4ddc-a756-3c7824753e95-articleLarge.jpg",
-            "lat": "-27.1442",
-            "lng": "153.0000"
+            "lat": "-38.2260",
+            "lng": "145.1770"
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/07/opinion/editorials/trump-border-shutdown.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/opinion/07border/07border-articleLarge.jpg",
-            "lat": "45.6200",
-            "lng": "-73.8300"
+            "lat": "40.1485",
+            "lng": "-75.4267"
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Sinaloa (Mexico)",
             "webURL": "https://www.nytimes.com/2019/01/07/nyregion/el-chapo-trial.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/nyregion/08chapo/merlin_148106460_464bf20e-63e0-44fb-9ffb-50232c220593-articleLarge.jpg",
-            "lat": "35.3386",
-            "lng": "129.0386"
+            "lat": "8.8511",
+            "lng": "-76.4272"
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Guatemala",
             "webURL": "https://www.nytimes.com/2019/01/07/world/americas/guatemala-corruption-commission-united-nations.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/world/08guatemala2/merlin_148882542_8682a198-d39a-43be-be5c-573a04da475f-articleLarge.jpg",
-            "lat": "49.7017",
-            "lng": "-123.1589"
+            "lat": "39.7915",
+            "lng": "-74.9375"
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Nevada",
             "webURL": "https://www.nytimes.com/2019/01/07/us/scott-dozier-suicide-death-row-nevada.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/08deathrow/merlin_148796151_7d1e2316-12c5-43e8-8358-3745c698cb0b-articleLarge.jpg",
-            "lat": "-34.2000",
-            "lng": "-54.7500"
+            "lat": "44.8000",
+            "lng": "10.4667"
         }
     ]
 }

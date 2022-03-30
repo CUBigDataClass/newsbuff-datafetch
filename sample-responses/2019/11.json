@@ -12,8 +12,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/26/nyregion/ken-griffin-238-million-penthouse.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/nyregion/26BIG1/merlin_20768361_6dc29caa-00ca-4d47-9ee2-220a9502997e-articleLarge.jpg",
-            "lat": "13.9334",
-            "lng": "120.9285"
+            "lat": "43.6167",
+            "lng": "13.5167"
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "ALASKA",
             "webURL": "https://www.nytimes.com/2019/01/26/us/andrew-owen-renner-alaska.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/us/27xp-alaska-print/27xp-alaska-articleLarge.png",
-            "lat": "40.1686",
-            "lng": "-79.8086"
+            "lat": "46.3611",
+            "lng": "108.3611"
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Washington (State)",
             "webURL": "https://www.nytimes.com/2019/01/26/us/death-human-compost.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/us/27humancompost-01-print/merlin_148884177_c105dbdd-ee40-47a0-b926-8b0c6cdafff0-articleLarge.jpg",
-            "lat": "48.9808",
-            "lng": "2.0583"
+            "lat": "29.9593",
+            "lng": "-90.2202"
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/26/world/europe/germany-quit-coal-2038.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/world/27germany1/27germany1-articleLarge.jpg",
-            "lat": "-21.0225",
-            "lng": "-48.0372"
+            "lat": "29.0667",
+            "lng": "31.0833"
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Brazil",
             "webURL": "https://www.nytimes.com/2019/01/26/world/americas/brazil-dam-break.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/world/27brazil/merlin_149755833_2b0fb8bf-01df-46c8-b5c6-47899b12b0b2-articleLarge.jpg",
-            "lat": "47.8056",
-            "lng": "-122.2401"
+            "lat": "33.6073",
+            "lng": "-111.7398"
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Idlib (Syria)",
             "webURL": "https://www.nytimes.com/2019/01/26/world/middleeast/syria-war-idlib.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/world/27idlib/27idlib-articleLarge.jpg",
-            "lat": "41.1722",
-            "lng": "-111.9577"
+            "lat": "44.8772",
+            "lng": "22.4175"
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/26/reader-center/real-estate-what-you-get-column.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/insider/27whatyouget-promo/27whatyouget-promo-articleLarge.jpg",
-            "lat": "34.6667",
-            "lng": "3.2500"
+            "lat": "-1.8667",
+            "lng": "11.0550"
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/26/sports/australian-open-cameras.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/sports/27tennis-cameras2-print/merlin_149565990_b236a11b-555b-4dd9-8579-6d0746ec34da-articleLarge.jpg",
-            "lat": "45.8333",
-            "lng": "12.2167"
+            "lat": "42.4254",
+            "lng": "18.7712"
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "St Louis (Mo)",
             "webURL": "https://www.nytimes.com/2019/01/26/us/st-louis-police-russian-roulette.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/us/27xp-roulette/27xp-roulette-articleLarge.jpg",
-            "lat": "33.5756",
-            "lng": "133.6414"
+            "lat": "-19.5744",
+            "lng": "147.4066"
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Rhode Island",
             "webURL": "https://www.nytimes.com/2019/01/26/opinion/sunday/gina-raimondo-2020.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/opinion/27bruni/27bruni-articleLarge.jpg",
-            "lat": "41.3398",
-            "lng": "-72.6278"
+            "lat": "47.2307",
+            "lng": "-122.5157"
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Saudi Arabia",
             "webURL": "https://www.nytimes.com/2019/01/26/opinion/sunday/loujain-al-hathloul-saudi.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/opinion/27kristof/merlin_149653254_c419ab37-e512-4626-85a5-8073f37255c8-articleLarge.jpg",
-            "lat": "15.0333",
-            "lng": "120.6833"
+            "lat": "16.4169",
+            "lng": "101.1533"
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/26/world/americas/marco-rubio-venezuela.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/reader-center/27diplo-p1/merlin_149759511_f63125fa-01a9-42f8-b3f8-9d3ee3412686-articleLarge.jpg",
-            "lat": "41.4141",
-            "lng": "-87.3457"
+            "lat": "38.4633",
+            "lng": "111.1203"
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/26/world/asia/afghanistan-taliban-peace-deal.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/world/27afghan-peace-jp1/merlin_14277877_dff1770b-9e27-477f-b7d0-9fce9122e46a-articleLarge.jpg",
-            "lat": "33.9460",
-            "lng": "-116.8992"
+            "lat": "39.6106",
+            "lng": "-119.7765"
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "ARGENTINA",
             "webURL": "https://www.nytimes.com/2019/01/26/sports/racing-club-argentina.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/sports/27onsoccer-racing1-print/merlin_148034229_a72993b0-5e09-4ef1-8ee7-8c5d1222dbb2-articleLarge.jpg",
-            "lat": "52.0739",
-            "lng": "11.8231"
+            "lat": "42.4622",
+            "lng": "-91.9027"
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/26/world/americas/nicolas-maduro-juan-guaido-venezuela-diplomats.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/world/27venezuela/merlin_149762001_024cb5c9-bb1c-4ffe-bb39-49a00519016a-articleLarge.jpg",
-            "lat": "-3.7928",
-            "lng": "-39.2700"
+            "lat": "50.0694",
+            "lng": "21.7014"
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/26/us/politics/huawei-china-us-5g-technology.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/us/politics/27dc-huawei1/merlin_149755908_ae9a6f84-554a-48ee-b836-a615b70d23e6-articleLarge.jpg",
-            "lat": "41.2256",
-            "lng": "-73.0616"
+            "lat": "23.0300",
+            "lng": "72.5800"
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Garden City (Kan)",
             "webURL": "https://www.nytimes.com/2019/01/26/us/kansas-militia-trial-sentencing.html",
             "imageURL": "https://www.nytimes.com/images/2016/10/28/us/27xp-sentence2/27gardencity1-articleLarge.jpg",
-            "lat": "15.4500",
-            "lng": "36.4000"
+            "lat": "57.8506",
+            "lng": "114.1933"
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Westchester County (NY)",
             "webURL": "https://www.nytimes.com/2019/01/26/us/trump-golf-club-fires-workers.html",
             "imageURL": "https://www.nytimes.com/images/2016/07/17/us/27xp-firings/17TRUMPLIES3-articleLarge.jpg",
-            "lat": "47.8558",
-            "lng": "-3.8519"
+            "lat": "41.0759",
+            "lng": "14.2310"
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "AFRICA",
             "webURL": "https://www.nytimes.com/2019/01/27/health/sickle-cell-gene-therapy.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/science/27SICKLE-p1-sub/merlin_148328547_981e1fd3-9003-4b6c-b757-bee47c0af2b5-articleLarge.jpg",
-            "lat": "43.1100",
-            "lng": "17.7000"
+            "lat": "52.4667",
+            "lng": "10.3667"
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Poland",
             "webURL": "https://www.nytimes.com/2019/01/27/travel/poland-holocaust-trip.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/03/travel/03KRAKOW/merlin_149745129_94443ddf-2128-47f9-9b8c-8bfa73b60b3d-articleLarge.jpg",
-            "lat": "41.4406",
-            "lng": "22.7278"
+            "lat": "-7.5908",
+            "lng": "-37.5394"
         }
     ]
 }
