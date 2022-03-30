@@ -7,6 +7,7 @@ from datetime import datetime
 
 import pymongo
 from pynytimes import NYTAPI
+from sqlalchemy import false
 
 import mongodbconfig
 import mongodb
@@ -110,9 +111,9 @@ def main():
                 exceptionDetails = {"year": year, "month": month, "failureReason": e}
                 exceptionData.append(exceptionDetails)
 
-        mycol1.insert_many(myArticleNoLocation)
-        mycol2.insert_many(myArticleOneLocation)
-        mycol3.insert_many(myArticleManyLocations)
+        mycol1.insert_many(myArticleNoLocation,ordered=false)
+        mycol2.insert_many(myArticleOneLocation,ordered=false)
+        mycol3.insert_many(myArticleManyLocations,ordered=false)
 
 
             
