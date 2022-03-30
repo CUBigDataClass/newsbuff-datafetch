@@ -1,5 +1,5 @@
 import pymongo
-from urllib3 import Retry
+
 import mongodbconfig
 
 

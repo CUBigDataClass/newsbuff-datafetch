@@ -1,6 +1,5 @@
 #! /usr/bin/env python3
-import ast, json, os, csv, random
-from fileinput import filename
+import json, os, csv, random
 
 # configure constant variables
 START_YEAR = 2016

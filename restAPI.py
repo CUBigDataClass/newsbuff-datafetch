@@ -1,8 +1,7 @@
-import json
-from flask import Flask, request, jsonify
-import mongodbconfig
-import mongodb
 from bson.json_util import dumps
+from flask import Flask, request
+
+import mongodb
 
 app = Flask(__name__)
 

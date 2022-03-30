@@ -1,16 +1,16 @@
 #"nytimes"
 
 import datetime
-from pydoc import cli
 import sys
 from datetime import datetime
+from pydoc import cli
 
-import pymongo
+from pymongo import errors
 from pynytimes import NYTAPI
 from sqlalchemy import false
 
-import mongodbconfig
 import mongodb
+import mongodbconfig
 
 # Specify API key to fetch the data
 myKey = mongodbconfig.newsapikey
@@ -111,9 +111,13 @@ def main():
                 exceptionDetails = {"year": year, "month": month, "failureReason": e}
                 exceptionData.append(exceptionDetails)
 
-        mycol1.insert_many(myArticleNoLocation,ordered=false)
-        mycol2.insert_many(myArticleOneLocation,ordered=false)
-        mycol3.insert_many(myArticleManyLocations,ordered=false)
+    try:
+        mycol1.insert_many(myArticleNoLocation,ordered=false, bypass_document_validation=True)
+        mycol2.insert_many(myArticleOneLocation,ordered=false, bypass_document_validation=True)
+        mycol3.insert_many(myArticleManyLocations,ordered=false, bypass_document_validation=True)
+
+    except errors.BulkWriteError as e:
+    print(f"Articles bulk insertion error {e}")
 
 
             
