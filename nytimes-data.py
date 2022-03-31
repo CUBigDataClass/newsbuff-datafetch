@@ -1,11 +1,10 @@
 #"nytimes"
 
 import datetime
+import json
 import sys
 from datetime import datetime
-from pydoc import cli
 
-import requests
 from pymongo import errors
 from pynytimes import NYTAPI
 from sqlalchemy import false
@@ -88,10 +87,16 @@ def main():
                     
                     elif(len(location) == 1):
 
-                        myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , 
-                        "section":article['section_name'] , "subsection":subsection_name , 
-                        "headline":article['abstract'] , "description":article['lead_paragraph'] , 
-                        "location":location[0] , "webURL":article['web_url'] , "imageURL":imageURL})
+                        with open("geolocations.json", 'r', encoding='utf-8') as f:
+                            geolocations = json.load(f)
+                            for value in enumerate(geolocations):
+                                if (value[1]["location"] == location[0]):
+
+                                    myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , 
+                                    "section":article['section_name'] , "subsection":subsection_name , 
+                                    "headline":article['abstract'] , "description":article['lead_paragraph'] , 
+                                    "location":location[0] , "latitude":value[1]["latitude"], "longitude":value[1]["longitude"],
+                                    "webURL":article['web_url'] , "imageURL":imageURL})
                     
                     else:
                         myArticleManyLocations.append({"year": year, "month": month, "datetime":dateTime , 
@@ -116,9 +121,14 @@ def main():
                 exceptionData.append(exceptionDetails)
 
     try:
-        mycol1.insert_many(myArticleNoLocation,ordered=False, bypass_document_validation=True)
-        mycol2.insert_many(myArticleOneLocation,ordered=False, bypass_document_validation=True)
-        mycol3.insert_many(myArticleManyLocations,ordered=False, bypass_document_validation=True)
+        mycol1.insert_many(myArticleNoLocation)
+        mycol2.insert_many(myArticleOneLocation)
+        mycol3.insert_many(myArticleManyLocations)
+        '''
+        mycol1.insert_many(myArticleNoLocation, ordered=false)
+        mycol2.insert_many(myArticleOneLocation, ordered=false)
+        mycol3.insert_many(myArticleManyLocations, ordered=false)
+        '''
 
     except errors.BulkWriteError as e:
         print(f"Articles bulk insertion error {e}")
@@ -148,7 +158,7 @@ def main():
     file.write(str(exceptions)+"\n")
     file.close
 
-    print(exceptionData)
+    print("Exception data", exceptionData)
     print("Number of articles with No location:", len(myArticleNoLocation))
     print("Number of articles with One location:", len(myArticleOneLocation))
     print("Number of articles with Many locations:", len(myArticleManyLocations))
