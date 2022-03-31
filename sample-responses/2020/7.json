@@ -12,8 +12,8 @@
             "location": "Ohio",
             "webURL": "https://www.nytimes.com/2019/01/30/health/opioid-lawsuits-settlement-trial.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/science/01OPIOID-COURTS-print/31OPIOID-COURTS1-articleLarge.jpg",
-            "lat": "33.3595",
-            "lng": "-79.2958"
+            "lat": 40.4172871,
+            "lng": -82.90712300000001
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/30/nyregion/mother-falls-down-subway-stairs-death.html",
             "imageURL": "null",
-            "lat": "48.1558",
-            "lng": "28.2975"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Denisova Cave (Siberia)",
             "webURL": "https://www.nytimes.com/2019/01/30/science/neanderthals-denisovans-humans.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/05/science/05SCI-ZIMMER1/merlin_149955018_38eaec76-9921-42ed-aadf-f6285a6138e3-articleLarge.jpg",
-            "lat": "39.5667",
-            "lng": "-1.8167"
+            "lat": 51.3975041,
+            "lng": 84.6761088
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Midwestern States (US)",
             "webURL": "https://www.nytimes.com/2019/01/30/reader-center/polar-vortex-tips.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/reader-center/01readers-polar-vortex/merlin_149975325_d59f3e0c-a6cd-4d9f-babd-50ffe799603b-articleLarge.jpg",
-            "lat": "44.5171",
-            "lng": "50.2666"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Pacific Ocean",
             "webURL": "https://www.nytimes.com/2019/01/30/climate/starfish-global-warming.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/05/climate/31CLI-SEASTARS1/31CLI-SEASTARS1-articleLarge.jpg",
-            "lat": "54.4742",
-            "lng": "9.8378"
+            "lat": -8.783195,
+            "lng": -124.508523
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Sheepshead Bay (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/30/nyregion/hammer-attack-brooklyn-chinese-restaurant.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/nyregion/31hammer1-promo/31hammer1-promo-articleLarge-v2.jpg",
-            "lat": "-9.8328",
-            "lng": "-35.9778"
+            "lat": 40.5953955,
+            "lng": -73.94575379999999
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/30/opinion/letters/subway-death-elevator.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/30/nyregion/30subwaydeath01/30subwaydeath01-jumbo.jpg",
-            "lat": "46.3075",
-            "lng": "3.2894"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/30/nyregion/newyorktoday/ny-cold-weather.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/nyregion/31nytoday01/merlin_149973954_21130a9e-917d-4063-8e56-919ca21b664e-articleLarge.jpg",
-            "lat": "21.8425",
-            "lng": "87.4214"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/30/business/brexit-food-shortages.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/business/31HUNGRYBREXIT-print/30HUNGRYBREXIT-articleLarge.jpg",
-            "lat": "50.3535",
-            "lng": "17.8640"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "South Africa",
             "webURL": "https://www.nytimes.com/2019/01/30/obituaries/dumisani-kumalo-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/02/obituaries/02KUMALO-OBIT1/30KUMALO1-articleLarge.jpg",
-            "lat": "16.3785",
-            "lng": "80.6146"
+            "lat": -30.559482,
+            "lng": 22.937506
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Brooklyn (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/30/t-magazine/diner-brooklyn-restaurant.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/30/t-magazine/30tmag-diner-slide-FWMT/30tmag-diner-slide-FWMT-articleLarge.jpg",
-            "lat": "50.7372",
-            "lng": "3.0794"
+            "lat": 40.6781784,
+            "lng": -73.9441579
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/30/world/asia/afghan-ghani-trump-letter.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/world/31Afghanistan-print/merlin_127677068_41807de0-d567-40f0-83e3-7085fbb03f0e-articleLarge.jpg",
-            "lat": "53.0167",
-            "lng": "27.5500"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "India",
             "webURL": "https://www.nytimes.com/2019/01/30/technology/amazon-walmart-flipkart-india.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/business/31AMAZONINDIA01/merlin_148276161_3bd4290f-9151-4b05-8369-0321c27d2eac-articleLarge.jpg",
-            "lat": "33.2262",
-            "lng": "-97.5876"
+            "lat": 20.593684,
+            "lng": 78.96288
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/30/health/ecigarettes-nicotine-smoking-quit.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/science/31ECIGS/31ECIGS-articleLarge.jpg",
-            "lat": "43.1120",
-            "lng": "-77.4869"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/30/us/politics/fact-check-kamala-harris-police-shooting-bill.html",
             "imageURL": "null",
-            "lat": "41.9916",
-            "lng": "-72.5965"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Hague (Netherlands)",
             "webURL": "https://www.nytimes.com/2019/01/30/world/europe/netherlands-church-vigil-refugees.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/world/31church-service-1-promo/31church-service-1-promo-articleLarge-v2.jpg",
-            "lat": "7.4667",
-            "lng": "80.6167"
+            "lat": 52.0704978,
+            "lng": 4.3006999
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Iran",
             "webURL": "https://www.nytimes.com/2019/01/30/obituaries/forough-farrokhzad-overlooked.html",
             "imageURL": "https://www.nytimes.com/images/2019/11/18/obituaries/18overlooked-forughfarrokhzad-2/00overlooked-forughfarrokhzad-2-articleLarge.jpg",
-            "lat": "-24.2256",
-            "lng": "-66.3192"
+            "lat": 32.427908,
+            "lng": 53.688046
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Atlanta (Ga)",
             "webURL": "https://www.nytimes.com/2019/01/30/sports/atlanta-civil-rights-super-bowl.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/sports/31atlanta-oak/merlin_149956743_d5620bd7-1ffa-47b7-83f4-59418c63a439-articleLarge.jpg",
-            "lat": "-26.0269",
-            "lng": "-48.8550"
+            "lat": 33.7489954,
+            "lng": -84.3879824
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/30/nyregion/amazon-queens-nyc-council.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/nyregion/31nyamazon/merlin_149979657_1d77fe01-c95f-4b8a-8573-3f391295fd4b-articleLarge.jpg",
-            "lat": "40.1000",
-            "lng": "64.6833"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Chicago (Ill)",
             "webURL": "https://www.nytimes.com/2019/01/30/arts/television/jussie-smollett-attack-investigation.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/arts/31smollett-print/merlin_149947434_396445ac-70e9-4a44-8f6a-dd099bc23bba-articleLarge.jpg",
-            "lat": "38.9810",
-            "lng": "-77.0028"
+            "lat": 41.8781136,
+            "lng": -87.6297982
         }
     ]
 }

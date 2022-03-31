@@ -12,8 +12,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/16/us/politics/senate-trump-russia-sanctions.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/us/17dc-deripaska-1sub/17dc-deripaska-1sub-articleLarge-v2.jpg",
-            "lat": "-29.6089",
-            "lng": "-51.9428"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Tennessee",
             "webURL": "https://www.nytimes.com/2019/01/16/us/politics/supreme-court-alcohol.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/us/17dc-scotus-1/merlin_149224467_458da3f2-ac7a-419f-b4a5-4e68235e8851-articleLarge.jpg",
-            "lat": "31.5776",
-            "lng": "-84.1762"
+            "lat": 35.5174913,
+            "lng": -86.5804473
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/16/reader-center/los-angeles-teacher-strike.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/reader-center/17readers-la-teachers-strike/merlin_149171934_4c313c85-cee9-40bd-855c-d4dfe6fbfc10-articleLarge.jpg",
-            "lat": "54.5800",
-            "lng": "-1.1440"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Ireland",
             "webURL": "https://www.nytimes.com/2019/01/16/business/supermacs-big-mac-mcdonalds.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/business/17supermacs-1/merlin_149260161_7bce86ca-46ea-4aa9-8e80-0b8198007f6f-articleLarge.jpg",
-            "lat": "-23.5558",
-            "lng": "-52.2178"
+            "lat": 53.1423672,
+            "lng": -7.692053599999999
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Chicago (Ill)",
             "webURL": "https://www.nytimes.com/2019/01/16/arts/make-believe-podcast-chicago.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/arts/21make-believe-jp-print-1/17make-believe1-articleLarge.jpg",
-            "lat": "37.2865",
-            "lng": "140.3727"
+            "lat": 41.8781136,
+            "lng": -87.6297982
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/16/business/renault-carlos-ghosn.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/business/17RENAULT01/merlin_149018889_e3b077af-9178-4a22-9295-755621bb2134-articleLarge.jpg",
-            "lat": "35.2994",
-            "lng": "139.2553"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/16/science/stink-bug-eggs-hatch.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/science/TB-stinkbug/TB-stinkbug-articleLarge.jpg",
-            "lat": "43.1519",
-            "lng": "22.5850"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Troy (NY)",
             "webURL": "https://www.nytimes.com/2019/01/16/nyregion/kirsten-gillibrand-2020-troy-campaign.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/nyregion/17gillibrand-print/merlin_149268015_bb819451-8e8e-4b7d-9856-949367c5cede-articleLarge.jpg",
-            "lat": "11.3950",
-            "lng": "-69.6816"
+            "lat": 42.7284117,
+            "lng": -73.69178509999999
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/16/sports/wada-russia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/sports/17wada/merlin_148935087_56e32259-287d-42a0-bb44-afb159a4398f-articleLarge.jpg",
-            "lat": "20.2670",
-            "lng": "-98.9330"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/16/world/europe/britain-brexit-theresa-may.html",
             "imageURL": "null",
-            "lat": "40.6667",
-            "lng": "22.8000"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/16/us/jose-andres-federal-workers-food.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/us/politics/17dc-shutdown-p1/merlin_149280999_842e709c-7b75-41c5-82d3-ee52b116d3c3-articleLarge.jpg",
-            "lat": "18.0800",
-            "lng": "-71.2800"
+            "lat": 38.9071923,
+            "lng": -77.0368707
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/16/business/media/david-haskell-new-york-magazine-editor.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/business/17NYMAG/merlin_149279343_a645588b-565c-4aa1-b8cb-250ef4fbf720-articleLarge.jpg",
-            "lat": "-20.2002",
-            "lng": "57.7177"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Turkey",
             "webURL": "https://www.nytimes.com/2019/01/16/opinion/letters/angela-davis-turkey-leyla-guven.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/opinion/00Langela/merlin_149059581_2d5af202-0cca-4409-9838-dd4b7929598f-articleLarge.jpg",
-            "lat": "33.9278",
-            "lng": "-117.9513"
+            "lat": 38.963745,
+            "lng": 35.243322
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/16/world/americas/el-chapo-bribe-president-mexico.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/world/17mexico-print/merlin_143803230_eaa9b643-18b0-4139-8046-22cdbba7dd79-articleLarge.jpg",
-            "lat": "47.4192",
-            "lng": "8.2764"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "North Korea",
             "webURL": "https://www.nytimes.com/2019/01/16/world/asia/pence-north-korea-nuclear.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/us/politics/17dc-korea/merlin_149273175_bd72229a-ef55-4777-bf6b-495e55e07770-articleLarge.jpg",
-            "lat": "42.7628",
-            "lng": "141.8181"
+            "lat": 40.339852,
+            "lng": 127.510093
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/16/us/politics/trump-hotel-emoluments.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/us/politics/17dc-emoluments/merlin_148531806_4d9fda85-24fd-4800-8c39-9caf229a5230-articleLarge.jpg",
-            "lat": "52.1331",
-            "lng": "5.4297"
+            "lat": 38.9071923,
+            "lng": -77.0368707
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/interactive/2019/01/16/opinion/collins-trump-russia-quiz.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/opinion/collins-trump-russia-quiz-1547689196758/collins-trump-russia-quiz-1547689196758-articleLarge.jpg",
-            "lat": "9.3394",
-            "lng": "-65.3167"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Seattle (Wash)",
             "webURL": "https://www.nytimes.com/2019/01/16/technology/microsoft-affordable-housing-seattle.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/business/17microsoft-01/merlin_143775321_ee0aff52-aa6b-48ca-b405-17bb274d3ec2-articleLarge.jpg",
-            "lat": "65.9998",
-            "lng": "57.5414"
+            "lat": 47.6062095,
+            "lng": -122.3320708
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/17/nyregion/taxi-fee-congestion-pricing-nyc.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/nyregion/00taxifee/merlin_142101612_48da5216-d86f-48ad-93b5-10e064b1c6a1-articleLarge.jpg",
-            "lat": "52.5167",
-            "lng": "85.1667"
+            "lat": 40.7830603,
+            "lng": -73.9712488
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Scottsdale (Ariz)",
             "webURL": "https://www.nytimes.com/2019/01/17/travel/what-to-do-in-scottsdale.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/travel/20Hours-Scottsdale1/merlin_148754550_28ba3d89-a861-4345-8074-def0e286b420-articleLarge.jpg",
-            "lat": "3.7521",
-            "lng": "8.7737"
+            "lat": 33.4941704,
+            "lng": -111.9260519
         }
     ]
 }

@@ -12,8 +12,8 @@
             "location": "Europe",
             "webURL": "https://www.nytimes.com/2019/01/19/world/europe/womens-march-europe.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/world/20WORLD-WOMEN1/merlin_149427024_ef7688a7-7e59-4e35-aad8-14dbcdba303b-articleLarge.jpg",
-            "lat": "42.7274",
-            "lng": "-87.8135"
+            "lat": 54.5259614,
+            "lng": 15.2551187
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/19/opinion/sunday/france-women-yann-moix.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/opinion/18DRUCKERMAN/merlin_149388048_8916a34b-1776-439d-a762-876eb55a7217-articleLarge.jpg",
-            "lat": "40.8750",
-            "lng": "-74.0293"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/19/us/covington-catholic-high-school-nathan-phillips.html",
             "imageURL": "null",
-            "lat": "14.9500",
-            "lng": "-91.4500"
+            "lat": 38.9071923,
+            "lng": -77.0368707
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/video/us/100000006316066/teenagers-maga-native-american-video.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/business/20xp-protest/merlin_149386683_2baaa4b7-68a2-42a8-9bbe-03e2555df457-articleLarge.jpg",
-            "lat": "-18.5839",
-            "lng": "-49.1989"
+            "lat": 38.9071923,
+            "lng": -77.0368707
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
             "webURL": "https://www.nytimes.com/2019/01/19/world/africa/congo-election-results.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/world/20congo1/merlin_148688256_4674cd17-5110-47a6-9936-d34bbdd83339-articleLarge.jpg",
-            "lat": "34.9134",
-            "lng": "-2.5117"
+            "lat": -4.038333,
+            "lng": 21.758664
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/20/sports/tennis/danielle-collins-stuns-foe-to-reach-australian-open-quarterfinals.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/sports/21collins1/merlin_149469552_9387c1ca-6b13-4483-bd5f-30b3c62db400-articleLarge.jpg",
-            "lat": "35.5500",
-            "lng": "45.4333"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/20/business/stock-market-recovery-federal-reserve.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/business/20markets-print/merlin_148988097_f205ac5c-38cd-4b04-b662-ce2f27067244-articleLarge.jpg",
-            "lat": "35.2609",
-            "lng": "36.3822"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Wounded Knee (SD)",
             "webURL": "https://www.nytimes.com/2019/01/20/books/review/david-treuer-heartbeat-wounded-knee.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/books/review/27Blackhawk3/merlin_148995858_47130e0a-69ba-4cab-be99-518ae2dc3846-articleLarge.jpg",
-            "lat": "24.2272",
-            "lng": "88.6472"
+            "lat": 43.1405442,
+            "lng": -102.365715
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/20/nyregion/julie-menin-trump.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/nyregion/21grace/merlin_149294796_b9eeccf0-1d72-4ef1-8ff5-45db1e16a0d7-articleLarge.jpg",
-            "lat": "-21.2000",
-            "lng": "-42.8650"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/20/business/china-economy-growth-davos.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/business/21davos-econ1-print/merlin_146475984_d3920f50-5636-433b-a7aa-2bc59ede4937-articleLarge.jpg",
-            "lat": "52.1333",
-            "lng": "28.5000"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/20/opinion/letters/l-train-subway-new-york-city.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/nyregion/16subway/merlin_148714815_cac59563-7b80-4c8a-a3a3-9c10681a3b87-articleLarge.jpg",
-            "lat": "13.8718",
-            "lng": "1.4867"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/20/world/europe/yellow-vests-future.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/world/xxfrance-yellow-vests4/merlin_148448682_5dfeb4f9-0ffe-4844-9ebd-e40d0948732e-articleLarge.jpg",
-            "lat": "42.2110",
-            "lng": "-73.3416"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/20/dining/april-bloomfield-closes-hearth-and-hound.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/dining/20bloomfield1/merlin_145011741_d6e2a6e0-15fc-449e-ba7e-4c8e00dc3d45-articleLarge.jpg",
-            "lat": "34.5812",
-            "lng": "-94.2369"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Pakistan",
             "webURL": "https://www.nytimes.com/2019/01/20/world/middleeast/pakistan-shooting-family-children.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/world/21pakistan-sub/merlin_149497431_1c42ef07-441e-4170-8b87-ff28de7546c1-articleLarge.jpg",
-            "lat": "17.0667",
-            "lng": "-96.2000"
+            "lat": 30.375321,
+            "lng": 69.34511599999999
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Puerto Rico",
             "webURL": "https://www.nytimes.com/2019/01/20/us/rebuilding-puerto-rico-hurricane-maria.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/us/00puertorico-01alt/00puertorico-01alt-articleLarge.jpg",
-            "lat": "41.2012",
-            "lng": "48.9871"
+            "lat": 18.220833,
+            "lng": -66.590149
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Mali",
             "webURL": "https://www.nytimes.com/2019/01/20/world/africa/united-nations-peacekeepers-killed-mali.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/world/21mali1/21mali1-articleLarge.jpg",
-            "lat": "-9.5158",
-            "lng": "-43.0108"
+            "lat": 17.570692,
+            "lng": -3.996166
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Philippines",
             "webURL": "https://www.nytimes.com/2019/01/20/world/asia/henry-sy-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/obituaries/21syobit/merlin_69250403_a3a7b642-e1c7-4141-813d-37adf9230dab-articleLarge.jpg",
-            "lat": "22.4700",
-            "lng": "70.0700"
+            "lat": 12.879721,
+            "lng": 121.774017
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/20/nyregion/el-chapo-trial.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/nyregion/21CHAPO/21CHAPO-articleLarge.jpg",
-            "lat": "48.8589",
-            "lng": "18.8636"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/20/sports/australian-open-lleyton-hewitt-tomic-turmoil.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/sports/21aussie-turmoil1-print/merlin_148589163_ec2253d2-72fd-4edf-99bc-3a0d87e68b4f-articleLarge.jpg",
-            "lat": "29.9000",
-            "lng": "-7.3167"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Dyker Heights (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/20/nyregion/poly-prep-blackface-scandal.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/nyregion/21polyprep/21polyprep-articleLarge.jpg",
-            "lat": "46.2322",
-            "lng": "6.0791"
+            "lat": 40.6167679,
+            "lng": -74.0183
         }
     ]
 }

@@ -12,8 +12,8 @@
             "location": "Central Park South (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/238-million-penthouse-sale.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/nyregion/25penthouse1/merlin_149703696_fe62f56a-23d8-4f06-b84f-a4cf068c9701-articleLarge.jpg",
-            "lat": "43.0500",
-            "lng": "-81.4500"
+            "lat": 40.7661851,
+            "lng": -73.9773038
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "San Francisco Bay Area (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/24/business/bay-area-affordable-housing-zuckerberg.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25sfhousing01/merlin_146344914_f1e84d61-8726-4d73-b328-ba12e8fdd3cf-articleLarge.jpg",
-            "lat": "-10.1996",
-            "lng": "31.1799"
+            "lat": 37.7749295,
+            "lng": -122.4194155
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Sheepshead Bay (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/hammer-attack-brooklyn-restaurant.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/nyregion/25hammer/16xp-hammerattack1-articleLarge.jpg",
-            "lat": "45.3500",
-            "lng": "10.9333"
+            "lat": 40.5953955,
+            "lng": -73.94575379999999
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Madison Avenue (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/25/fashion/giorgio-armani-madison-avenue.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/fashion/25ARMANI-exterior-2/merlin_149687865_5192567f-ca5b-4724-a08b-40f9d9ca11b0-articleLarge.jpg",
-            "lat": "18.1436",
-            "lng": "100.1417"
+            "lat": 40.7421612,
+            "lng": -73.9870435
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Nevada",
             "webURL": "https://www.nytimes.com/2019/01/25/us/politics/department-of-energy-sexual-assault.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/us/politics/23dc-assault-promosub/merlin_142642332_d73453ea-d399-406b-ab39-bbb9da167f45-articleLarge.jpg",
-            "lat": "40.8928",
-            "lng": "14.7194"
+            "lat": 38.8026097,
+            "lng": -116.419389
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/25/opinion/green-book-black-travel.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/opinion/25greenbook_b/Greenbook-11-articleLarge.jpg",
-            "lat": "40.0494",
-            "lng": "43.6608"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Chelsea (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/25/nyregion/half-king-nyc-closing.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/nyregion/27HALFKING5/27HALFKING5-articleLarge.jpg",
-            "lat": "13.5812",
-            "lng": "100.7957"
+            "lat": 40.7465004,
+            "lng": -74.00137370000002
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Houston (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/25/travel/houston-better-luck-tomorrow-bar-restaurant-bites.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/travel/27bites-houston1/27bites-houston1-articleLarge.jpg",
-            "lat": "17.1290",
-            "lng": "102.9618"
+            "lat": 29.7604267,
+            "lng": -95.3698028
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "NoMad (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/25/nyregion/david-bouhadana-sushi.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/nyregion/27sushi1/merlin_149096436_17b4f9de-9be9-4e30-b692-347bc16e0391-articleLarge.jpg",
-            "lat": "-5.9229",
-            "lng": "12.3550"
+            "lat": 40.7446072,
+            "lng": -73.9874105
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Detroit (Mich)",
             "webURL": "https://www.nytimes.com/2019/01/25/books/review/world-according-fannie-davis-bridgett-davis.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/books/review/27Greenidge1/27Greenidge1-articleLarge.jpg",
-            "lat": "16.7667",
-            "lng": "94.7333"
+            "lat": 42.331427,
+            "lng": -83.0457538
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/25/opinion/venezuela-interim-president-juan-guaido-maduro.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/opinion/24LOPEZ-ES/merlin_149677362_d9c52ac1-322a-479c-a493-4c81c5584853-articleLarge.jpg",
-            "lat": "38.0332",
-            "lng": "-84.9032"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/25/business/brexit-shutdown-markets-bets.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/business/27STRATEGIES-01/merlin_149645481_cd42145d-00f7-4fff-ad5d-d0357cae57f5-articleLarge.jpg",
-            "lat": "29.3242",
-            "lng": "-100.9317"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/25/nyregion/newyorktoday/new-york-news-238-million-apartment.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/nyregion/25nytoday20/25nytoday20-articleLarge.jpg",
-            "lat": "37.2792",
-            "lng": "127.4425"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/25/movies/detainment-bulger-murder-oscars.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25OSCARS-KILLING-1/25OSCARS-KILLING-1-articleLarge.jpg",
-            "lat": "16.7833",
-            "lng": "121.5333"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Changchun (China)",
             "webURL": "https://www.nytimes.com/2019/01/25/world/asia/china-blasts-changchun.html",
             "imageURL": "null",
-            "lat": "13.6500",
-            "lng": "78.9333"
+            "lat": 43.8160199,
+            "lng": 125.32357
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/25/magazine/afghan-war-casualty-report.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/magazine/25atwar-casualty-report/merlin_149537856_beff222f-be5b-44f8-8b7d-64fcca06fd22-articleLarge.jpg",
-            "lat": "51.8389",
-            "lng": "39.9417"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/25/world/americas/venezuela-news-protests-noticias.html",
             "imageURL": "null",
-            "lat": "45.4500",
-            "lng": "-73.3000"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/25/world/europe/queen-elizabeth-brexit-britain.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/world/26-Queen-Brexit-print/merlin_145524069_ff275a4a-4cda-458b-b172-6988d5499d63-articleLarge.jpg",
-            "lat": "-8.0058",
-            "lng": "-35.6969"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/25/us/politics/women-congress-nancy-pelosi-photos.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/us/woc-gender/woc-gender-articleLarge-v2.gif",
-            "lat": "34.6683",
-            "lng": "70.2089"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Spain",
             "webURL": "https://www.nytimes.com/2019/01/25/world/europe/basque-spanish-civil-war-franco.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/world/18Moreno2/merlin_149277666_cc4c0626-522a-46c8-83d2-6ba01d31acdd-articleLarge.jpg",
-            "lat": "39.6667",
-            "lng": "16.3167"
+            "lat": 40.46366700000001,
+            "lng": -3.74922
         }
     ]
 }

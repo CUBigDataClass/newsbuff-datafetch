@@ -12,8 +12,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/10/nyregion/ocasio-cortez-fake-nude-photo.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/nyregion/11AOC-FEET/merlin_146762100_35538616-976c-4094-bdda-6e9ff863bcdc-articleLarge.jpg",
-            "lat": "-33.0740",
-            "lng": "151.4510"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Netherlands",
             "webURL": "https://www.nytimes.com/2019/01/10/business/nike-netherlands-eu-tax-breaks.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/business/11dutchtax-print/merlin_136655379_82d56b5e-a591-4c99-89e3-b53a331e4d50-articleLarge.jpg",
-            "lat": "13.9167",
-            "lng": "44.1500"
+            "lat": 52.132633,
+            "lng": 5.291265999999999
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Kenya",
             "webURL": "https://www.nytimes.com/2019/01/10/opinion/letters/women-rights.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/opinion/20womensrights-mothers2/merlin_147535140_254e7e09-1e20-4a1b-8964-9a9c900eed16-articleLarge.jpg",
-            "lat": "34.6494",
-            "lng": "135.7828"
+            "lat": -0.023559,
+            "lng": 37.906193
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/10/opinion/letters/trump-border-wall.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/us/politics/10dc-shutdown-print/merlin_148947645_0535b456-d0db-4099-837b-5099bb0d21db-articleLarge.jpg",
-            "lat": "43.3587",
-            "lng": "-5.1846"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/10/world/asia/afghanistan-war-winter.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/world/11afghanistan-2-print/merlin_148821315_9402d11c-e202-42a7-abc5-7d7811cb414f-articleLarge.jpg",
-            "lat": "-1.9400",
-            "lng": "18.2800"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/10/style/hfpa-golden-globes.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/style/00wait-star/00wait-star-articleLarge.gif",
-            "lat": "-29.9508",
-            "lng": "-51.0939"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Las Vegas (Nev)",
             "webURL": "https://www.nytimes.com/2019/01/10/sports/cristiano-ronaldo-lawsuit.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/sports/11ronaldo1-print/merlin_148565166_51259b8d-7d8d-48ef-af6e-f2dfbde0c701-articleLarge.jpg",
-            "lat": "38.3010",
-            "lng": "-86.9622"
+            "lat": 36.1699412,
+            "lng": -115.1398296
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Lower East Side (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/10/opinion/community-school-new-york.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/opinion/12kirp/merlin_149037045_42bc7f0d-9f49-4e84-b8dc-0a692d5cb061-articleLarge.jpg",
-            "lat": "-17.2217",
-            "lng": "-46.8750"
+            "lat": 40.715033,
+            "lng": -73.9842724
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Iceland",
             "webURL": "https://www.nytimes.com/2019/01/10/movies/and-breathe-normally-review-a-drama-that-humanizes-the-border.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/movies/11breathe/merlin_148779180_85715194-67d5-407d-95a5-f405c2a53548-articleLarge.jpg",
-            "lat": "50.1333",
-            "lng": "19.4000"
+            "lat": 64.963051,
+            "lng": -19.020835
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/10/arts/comedy-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11list-comedy/merlin_148914717_3c9381dc-f4a9-4979-aca3-516bae3dd43a-articleLarge.jpg",
-            "lat": "38.5383",
-            "lng": "116.1096"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/10/arts/music/classical-music-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11list-classical-sub/merlin_148982580_82bd8a3e-7415-4414-b845-e175dd90e2bb-articleLarge.jpg",
-            "lat": "22.7621",
-            "lng": "88.8899"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/10/arts/music/pop-rock-and-jazz-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11list-pop/merlin_137475771_70aa2e65-4c4f-432f-b41a-999b8f621e17-articleLarge.jpg",
-            "lat": "57.6080",
-            "lng": "-3.6200"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/10/arts/design/art-and-museums-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11list-art/merlin_145227894_76dcf0ab-ac52-47a7-93d6-90ff7394bd4d-articleLarge.jpg",
-            "lat": "29.3000",
-            "lng": "30.8333"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/10/arts/events-for-children-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11list-kids/merlin_148907070_dd4a84bc-5104-4e64-8e48-d273ba25c808-articleLarge.jpg",
-            "lat": "15.2667",
-            "lng": "-89.1000"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/10/theater/whats-new-in-nyc-theater.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11list-theater/merlin_146053677_f16473a4-5bf0-4952-b295-930b004983ed-articleLarge.jpg",
-            "lat": "43.8236",
-            "lng": "144.1072"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/10/movies/film-series-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11list-movies/merlin_148907673_f77431dd-d37c-4083-974a-07feb32dbc77-articleLarge.jpg",
-            "lat": "10.8269",
-            "lng": "78.6928"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/10/arts/dance/dance-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/arts/11list-dance/merlin_148913922_6e9f2c7d-c4ad-4de7-a89c-4488c6b15b8e-articleLarge.jpg",
-            "lat": "42.2689",
-            "lng": "42.0678"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Bushwick (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/10/nyregion/meeting-the-neighbors-one-photograph-at-a-time.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/nyregion/13ALBUM8-promo/06ALBUM8-articleLarge.jpg",
-            "lat": "34.7833",
-            "lng": "135.4667"
+            "lat": 40.6957755,
+            "lng": -73.9170604
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "North Carolina",
             "webURL": "https://www.nytimes.com/2019/01/10/us/transgender-woman-sexual-assault-nc.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/us/11xp-transgender/11xp-transgender--articleLarge.jpg",
-            "lat": "42.5194",
-            "lng": "43.1500"
+            "lat": 35.7595731,
+            "lng": -79.01929969999999
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
             "webURL": "https://www.nytimes.com/2019/01/10/world/africa/congo-election-tshisekedi-fayulu.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/world/11congo1-sub/merlin_148978575_a86505fe-83ca-46da-8091-c24ef5fe148b-articleLarge.jpg",
-            "lat": "37.1042",
-            "lng": "40.9300"
+            "lat": -4.038333,
+            "lng": 21.758664
         }
     ]
 }

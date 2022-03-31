@@ -12,8 +12,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/design/art-and-museums-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25listings-art-print/merlin_143653185_d68e9e89-6d42-4e08-a84e-2879bf2cb658-articleLarge.jpg",
-            "lat": "49.8667",
-            "lng": "8.6500"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/theater/whats-new-in-nyc-theater.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25listings-theater-print/merlin_145641636_3011142d-a20b-4548-a94f-068108cae248-articleLarge.jpg",
-            "lat": "22.5400",
-            "lng": "88.2100"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/dance/dance-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25listings-dance-print/25listings-dance-print-articleLarge.jpg",
-            "lat": "51.2828",
-            "lng": "5.7472"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/music/classical-music-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25listings-classical-print/merlin_149547369_3759b924-e4aa-43bf-b3ed-17f12bed6929-articleLarge.jpg",
-            "lat": "-37.6833",
-            "lng": "-59.8000"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/events-for-children-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25listings-kids-print/merlin_149553099_1ce2e673-69af-421f-8a4a-c9d43e11be14-articleLarge.jpg",
-            "lat": "38.6500",
-            "lng": "16.4833"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/comedy-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25listings-comedy-print-sub/merlin_149690619_2a9828c0-f8fb-4ad0-a1c8-6496bd8bc154-articleLarge.jpg",
-            "lat": "46.7370",
-            "lng": "-119.9040"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/movies/film-series-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25listings-movies-print/merlin_149547864_b66d2e2d-c79a-42a8-8db0-b41206c0f9ce-articleLarge.jpg",
-            "lat": "53.4830",
-            "lng": "-2.2931"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/music/pop-rock-and-jazz-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25listings-pop-print/25listings-pop-print-articleLarge.jpg",
-            "lat": "10.2904",
-            "lng": "11.1700"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/venezuela-guaido-maduro.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/opinion/24LOPEZ/merlin_149677383_f1c8a9a9-49d8-4e7b-9c0c-4c75697cfa5a-articleLarge.jpg",
-            "lat": "-11.7323",
-            "lng": "43.2671"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Brazil",
             "webURL": "https://www.nytimes.com/2019/01/24/world/americas/jean-wyllys-brazil-gay-lawmaker.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25brazil1/merlin_149702988_c7af3b58-e894-4b6f-91b3-03554ba33269-articleLarge.jpg",
-            "lat": "22.4156",
-            "lng": "88.3051"
+            "lat": -14.235004,
+            "lng": -51.92528
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/24/technology/microsoft-bing-china.html",
             "imageURL": "null",
-            "lat": "44.1333",
-            "lng": "-79.9333"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/24/world/americas/noticias-venezuela-protests-maduro-guaido.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25int-venezuela-primer1/merlin_149635290_3358aeec-8d26-44e4-bde6-893217155948-articleLarge.jpg",
-            "lat": "48.5333",
-            "lng": "11.8000"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/design/new-museum-vote-to-unionize.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25busting2/merlin_149654736_de003868-1196-4728-be05-9a522ea403f6-articleLarge.jpg",
-            "lat": "38.3622",
-            "lng": "140.3783"
+            "lat": 40.7830603,
+            "lng": -73.9712488
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/trump-cohen-gun-license.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/nyregion/25nyguns/merlin_149640351_ba2ded64-8d43-46b9-881a-aa9b902434e3-articleLarge.jpg",
-            "lat": "40.9000",
-            "lng": "14.1833"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/24/sports/nba-nets-brooklyn-london-fan.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/sports/25netsfan1/merlin_147493332_14211b87-2f6b-4f7f-a617-bbe6e3ef9452-articleLarge.jpg",
-            "lat": "27.5333",
-            "lng": "14.2834"
+            "lat": 51.5072178,
+            "lng": -0.1275862
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/24/world/americas/venezuela-latin-america.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25diplo-print/merlin_149705556_f7889bb6-b890-4eeb-90e0-71a0ff0d5730-articleLarge.jpg",
-            "lat": "38.9558",
-            "lng": "45.6308"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Iowa",
             "webURL": "https://www.nytimes.com/2019/01/24/us/politics/joni-ernst-sexual-assault-survivor.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/us/politics/25dc-ernst/25dc-ernst-articleLarge.jpg",
-            "lat": "41.5951",
-            "lng": "-109.2238"
+            "lat": 41.8780025,
+            "lng": -93.097702
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Atlanta (Ga)",
             "webURL": "https://www.nytimes.com/2019/01/24/us/mlk-home-vine-city-atlanta.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/us/25xp-kinghome/25xp-kinghome-articleLarge.jpg",
-            "lat": "-12.5469",
-            "lng": "-38.7119"
+            "lat": 33.7489954,
+            "lng": -84.3879824
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/venezuela-maduro-trump.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/opinion/24venezuela/merlin_149713227_7af20d2b-0efa-4fa3-bd56-5da6c24000e8-articleLarge.jpg",
-            "lat": "33.8399",
-            "lng": "-79.0424"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Bronx (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/huwe-burton-exoneration-bronx-murder.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/nyregion/25exonerate1/merlin_149705916_2f1eccc9-b4e7-496d-89dd-6b888e40693d-articleLarge.jpg",
-            "lat": "-18.1419",
-            "lng": "-48.5619"
+            "lat": 40.8447819,
+            "lng": -73.8648268
         }
     ]
 }

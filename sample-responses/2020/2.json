@@ -12,8 +12,8 @@
             "location": "Beijing (China)",
             "webURL": "https://www.nytimes.com/2019/01/28/arts/design/world-monuments-fund-selldorf-architects-forbidden-city.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/arts/01arts2-print/merlin_149859843_0ae03ad9-d6ef-4451-84aa-1ade5e91a28b-articleLarge.jpg",
-            "lat": "-2.0028",
-            "lng": "-49.8539"
+            "lat": 39.904211,
+            "lng": 116.407395
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "United Arab Emirates",
             "webURL": "https://www.nytimes.com/2019/01/28/world/middleeast/uae-gender-awards.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/world/29uae-gender/merlin_149902086_4bda247f-899b-44d1-9c32-e2531e061b91-articleLarge.jpg",
-            "lat": "-8.7678",
-            "lng": "160.6978"
+            "lat": 23.424076,
+            "lng": 53.847818
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/28/business/trump-china-trade.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/business/29DC-USCHINA-1/29DC-USCHINA-articleLarge.jpg",
-            "lat": "29.9649",
-            "lng": "-90.3088"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/28/arts/dau-opening-paris.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/arts/29dau-notebook/merlin_149595897_3497973d-c3eb-4611-9a39-f3fdde856cf3-articleLarge.jpg",
-            "lat": "30.0951",
-            "lng": "-95.6194"
+            "lat": 48.856614,
+            "lng": 2.3522219
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/28/nyregion/child-sex-abuse-victims.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/nyregion/29cva/merlin_149905527_cb94b043-9e10-44a4-bb78-262e59ac2f6b-articleLarge.jpg",
-            "lat": "45.4009",
-            "lng": "8.9185"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/28/opinion/aoc-wealth-tax.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/opinion/28Rattner/28Rattner-articleLarge.jpg",
-            "lat": "10.6667",
-            "lng": "122.3167"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Knoxville (Tenn)",
             "webURL": "https://www.nytimes.com/2019/01/28/arts/music/big-ears-festival-ecm-records.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/05/arts/05arts2-ears/merlin_141505245_e5581e37-d82c-47cd-9fe6-3bd1290c7724-articleLarge.jpg",
-            "lat": "-23.3503",
-            "lng": "-47.6886"
+            "lat": 35.9606384,
+            "lng": -83.9207392
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/28/business/tesco-supermarket-job-cuts.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/business/29TESCO-promo/merlin_149901264_528a48cf-d075-47d4-a8d2-55793f9e70e6-articleLarge.jpg",
-            "lat": "-15.3419",
-            "lng": "-58.8658"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/28/dining/lunar-new-year-vietnamese.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/30/dining/30vietnamese6/merlin_149892297_796e533f-f693-4a1a-a868-c6abe30db8ac-articleLarge.jpg",
-            "lat": "39.3515",
-            "lng": "-85.5024"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/28/world/black-cube-nso-citizen-lab-intelligence.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/us/29undercover-print/29undercover1-articleLarge.jpg",
-            "lat": "9.7925",
-            "lng": "-74.7825"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "New Jersey",
             "webURL": "https://www.nytimes.com/2019/01/28/books/review-let-me-finish-chris-christie.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/books/29bookchristie/merlin_132078698_58bec1ac-4bc0-418b-ad58-593c3aab9096-articleLarge.jpg",
-            "lat": "43.7544",
-            "lng": "11.1894"
+            "lat": 40.0583238,
+            "lng": -74.4056612
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/28/us/politics/venezuela-sanctions-trump-oil.html",
             "imageURL": "null",
-            "lat": "41.9761",
-            "lng": "2.7881"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Selma (Ala)",
             "webURL": "https://www.nytimes.com/2019/01/28/obituaries/clark-olsen-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/obituaries/29OLSEN1/29OLSEN1-articleLarge.jpg",
-            "lat": "53.1000",
-            "lng": "91.4000"
+            "lat": 32.4073589,
+            "lng": -87.02110069999999
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/28/world/europe/britain-brexit-cooper-boles-amendment.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/world/29brexit-print/merlin_149329179_adc46e1a-0986-40a2-9701-e6f476928495-articleLarge.jpg",
-            "lat": "39.6667",
-            "lng": "16.3167"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/28/opinion/venezuela-maduro-guaido.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/opinion/28chappatte/28chappatte-articleLarge.jpg",
-            "lat": "9.6500",
-            "lng": "123.3333"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Vatican City",
             "webURL": "https://www.nytimes.com/2019/01/28/world/europe/pope-francis-child-abuse-summit.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/world/29vatican/merlin_149874741_2a862deb-1b9a-4366-8c18-8b2bc83adca1-articleLarge.jpg",
-            "lat": "40.8357",
-            "lng": "-74.4786"
+            "lat": 41.902916,
+            "lng": 12.453389
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/28/obituaries/stanley-hill-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/obituaries/29HILL-OBIT/merlin_149908521_59afe249-0a53-4ea2-a41a-46fe7e012fa1-articleLarge.jpg",
-            "lat": "19.3708",
-            "lng": "-103.0197"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Houston (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/28/us/houston-police-shooting.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/us/28xp-Houston/merlin_149916861_a6d15b68-a9e6-4e2e-b892-b1324561f99c-articleLarge.jpg",
-            "lat": "45.7983",
-            "lng": "3.2483"
+            "lat": 29.7604267,
+            "lng": -95.3698028
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/28/us/charter-schools-los-angeles.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/us/00charters3/merlin_149764926_7888453e-0bda-40d3-9d12-685223a42d1c-articleLarge.jpg",
-            "lat": "56.5667",
-            "lng": "40.1167"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Zimbabwe",
             "webURL": "https://www.nytimes.com/2019/01/28/opinion/zimbabwe-mnangagwa-mugabe.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/opinion/28zim1/merlin_149160639_95a404fd-6afa-4853-8f5e-14de25d06c93-articleLarge.jpg",
-            "lat": "-24.4878",
-            "lng": "-47.8439"
+            "lat": -19.015438,
+            "lng": 29.154857
         }
     ]
 }

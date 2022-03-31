@@ -12,8 +12,8 @@
             "location": "South Carolina",
             "webURL": "https://www.nytimes.com/2019/01/22/us/politics/south-carolina-democrats-president.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/us/politics/23southcarolina1-print/23southcarolina1-articleLarge-v2.jpg",
-            "lat": "32.0355",
-            "lng": "-93.7004"
+            "lat": 33.836081,
+            "lng": -81.1637245
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Uruguay",
             "webURL": "https://www.nytimes.com/2019/01/22/travel/uruguay-beaches-budget.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/travel/27uruguay-frugal1/merlin_148474716_6c6a6665-cf27-4213-8d6f-78289c9c384d-articleLarge.jpg",
-            "lat": "35.8822",
-            "lng": "14.5222"
+            "lat": -32.522779,
+            "lng": -55.765835
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Alta (Utah)",
             "webURL": "https://www.nytimes.com/2019/01/22/travel/alta-ski-lodge-luxury.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/travel/27alta1/merlin_149121873_112eff19-a422-41dd-9f69-facea7b9b4b2-articleLarge.jpg",
-            "lat": "53.9307",
-            "lng": "25.7703"
+            "lat": 40.5888394,
+            "lng": -111.6379793
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/22/world/asia/japan-mascot-chiitan-otter.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/asia/23japan-mascot-promo/23japan-mascot-promo-articleLarge.jpg",
-            "lat": "15.2167",
-            "lng": "102.5000"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/22/world/asia/naomi-osaka-anime-ad.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/asia/23xp-osaka/23xp-osaka-articleLarge.jpg",
-            "lat": "43.3042",
-            "lng": "6.0908"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "English Channel",
             "webURL": "https://www.nytimes.com/2019/01/22/world/europe/emiliano-sala-cardiff-city-missing-plane.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/23sala/merlin_149568228_f49d03be-970f-4eda-8b7d-54ed1047b489-articleLarge.jpg",
-            "lat": "42.2471",
-            "lng": "-71.9919"
+            "lat": 50.134664,
+            "lng": -0.357056
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/22/us/politics/supreme-court-guns-nyc-license.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/us/politics/23dc-scotus-guns-print/merlin_140379048_0bccf26a-bbe4-44b0-8ab1-48bb40fe37fe-articleLarge.jpg",
-            "lat": "25.4831",
-            "lng": "104.8416"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/22/climate/americans-global-warming-poll.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/climate/23cli-americans-print/merlin_146956701_d190eba5-6ea9-4938-ac4b-dd05e8ca8d0f-articleLarge.jpg",
-            "lat": "40.3871",
-            "lng": "36.0863"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/22/arts/movie-sex-scenes-safety-intimacy-coordinator.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/22/sports/22intimacy-1/merlin_147147207_8ee1dee8-ade2-4e7d-a992-f6cdb68c134a-articleLarge.jpg",
-            "lat": "55.9700",
-            "lng": "37.9200"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/22/world/europe/nastya-rybka-russia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/23escort/merlin_149435661_3eae2ef9-78db-4d08-bc1c-58160df0e5a6-articleLarge.jpg",
-            "lat": "49.7333",
-            "lng": "9.2333"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/22/dining/bakeries-new-york.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/23bakeries8/merlin_149361426_e519ed09-01c2-4f1f-b384-751eba10f0ac-articleLarge.jpg",
-            "lat": "-8.0669",
-            "lng": "-39.1222"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/22/technology/australia-cellphone-encryption-security.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/business/23encryption-1/merlin_149508042_38f3c928-9bd1-4846-8668-a15273f2094b-articleLarge.jpg",
-            "lat": "62.4319",
-            "lng": "22.1794"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/22/opinion/letters/martin-luther-king-israel-palestine.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/opinion/20ALEXANDER02/merlin_149323518_01a72722-437f-466a-9693-3b5e3018a11d-articleLarge.jpg",
-            "lat": "28.1184",
-            "lng": "-15.5232"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Pennsylvania",
             "webURL": "https://www.nytimes.com/2019/01/22/us/politics/harris-wofford-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/obituaries/23WOFFORD4/merlin_149588721_82298ba1-3c8c-43ea-bbc8-a666138c5020-articleLarge.jpg",
-            "lat": "-16.9167",
-            "lng": "35.2667"
+            "lat": 41.2033216,
+            "lng": -77.1945247
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Meatpacking District (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/22/dining/intersect-by-lexus-nyc.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/23notebook-slide-12WL/23Rest-review-slide-12WL-articleLarge.jpg",
-            "lat": "45.1819",
-            "lng": "5.7919"
+            "lat": 40.7409865,
+            "lng": -74.0076108
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Meatpacking District (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/22/dining/intersect-by-lexus-restaurant-review.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/23notebook-slide-12WL/23Rest-review-slide-12WL-articleLarge.jpg",
-            "lat": "41.4052",
-            "lng": "-80.3837"
+            "lat": 40.7409865,
+            "lng": -74.0076108
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/22/us/la-teacher-strike-deal.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/us/23LASTRIKE-promo/23LASTRIKE-promo-articleLarge.jpg",
-            "lat": "14.8644",
-            "lng": "78.3658"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Costa Rica",
             "webURL": "https://www.nytimes.com/2019/01/22/science/sloths-diet-trees.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/science/23tb-sloths/merlin_149583099_9e8bfb16-91b4-467e-bb18-dc2a98fde90e-articleLarge.jpg",
-            "lat": "-18.5658",
-            "lng": "-41.2328"
+            "lat": 9.748916999999999,
+            "lng": -83.753428
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/22/theater/mockingbird-tour-scott-rudin-london-transfer.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/arts/23mockingbird-item/merlin_147925635_b6e14fd1-0253-4c1e-8039-d29b2af5d2db-articleLarge.jpg",
-            "lat": "32.3634",
-            "lng": "-81.3029"
+            "lat": 51.5072178,
+            "lng": -0.1275862
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/22/dining/mokonuts-paris-omar-koreitem-moko-hirayama.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/23mokonuts8/23mokonuts8-articleLarge.jpg",
-            "lat": "20.9142",
-            "lng": "-100.7436"
+            "lat": 48.856614,
+            "lng": 2.3522219
         }
     ]
 }

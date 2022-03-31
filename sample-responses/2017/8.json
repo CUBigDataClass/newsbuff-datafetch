@@ -12,8 +12,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/11/business/no-deal-brexit-business.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/business/12brexit/12brexit-articleLarge.jpg",
-            "lat": "40.8709",
-            "lng": "-73.6287"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "West Africa",
             "webURL": "https://www.nytimes.com/2019/01/11/obituaries/lamin-sanneh-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/obituaries/13SANNEH-OBIT1/11SANNEH1-articleLarge.jpg",
-            "lat": "5.7667",
-            "lng": "20.6833"
+            "lat": 13.531665,
+            "lng": -2.4604145
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Florida",
             "webURL": "https://www.nytimes.com/2019/01/11/us/groveland-four-pardon-desantis.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/us/13xp-groveland-print/00xp-apology-articleLarge.jpg",
-            "lat": "43.3472",
-            "lng": "11.5042"
+            "lat": 27.6648274,
+            "lng": -81.5157535
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/11/health/drug-prices-california.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/science/12DRUGPRICES1-print/merlin_148995822_57abc387-8f45-4be9-8809-14a47e2fd9ca-articleLarge.jpg",
-            "lat": "-22.2708",
-            "lng": "-46.9450"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Montgomery (Ala)",
             "webURL": "https://www.nytimes.com/2019/01/11/us/transgender-black-woman-killed.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/us/12xp-transdeath/12xp-transdeath-articleLarge.jpg",
-            "lat": "-28.5461",
-            "lng": "150.3097"
+            "lat": 32.3792233,
+            "lng": -86.3077368
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/11/nyregion/albany-senate-democrats-.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/nyregion/12newbies-print05-sub/merlin_148920276_0f5bd220-1907-434c-97ab-910bef4436ee-articleLarge.jpg",
-            "lat": "50.5833",
-            "lng": "27.6333"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/11/science/fusion-energy-iter.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/science/15QNAFUSION/merlin_149030280_e7295430-a21f-4c1f-a531-0adf0cec5e5e-articleLarge.jpg",
-            "lat": "48.3167",
-            "lng": "11.8500"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
             "webURL": "https://www.nytimes.com/2019/01/11/world/africa/congo-disputed-election.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/world/12congo1/merlin_149022420_f5b26bb1-0cc5-4a57-82e8-05d13590fd5e-articleLarge.jpg",
-            "lat": "50.7000",
-            "lng": "22.4000"
+            "lat": -4.038333,
+            "lng": 21.758664
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Marine Park (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/11/nyregion/steven-pollard-fdny-funeral.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/nyregion/12firefighter-funeral/merlin_149032182_8ab70d48-cf83-4516-83b8-f2d889cd01f4-articleLarge.jpg",
-            "lat": "46.1944",
-            "lng": "100.7181"
+            "lat": 40.6113817,
+            "lng": -73.93318649999999
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/11/us/mongols-biker-gang-logo.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/06/us/00mongols/00mongols-articleLarge.jpg",
-            "lat": "40.7587",
-            "lng": "-73.6465"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Iowa",
             "webURL": "https://www.nytimes.com/2019/01/11/us/politics/steve-king-republicans-white-supremacy-.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/us/politics/12king/merlin_148014933_0392f0c8-9025-4794-9ca0-880cb8d8c03e-articleLarge.jpg",
-            "lat": "42.0862",
-            "lng": "-71.4113"
+            "lat": 41.8780025,
+            "lng": -93.097702
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/11/nyregion/nypd-beating-washington-heights.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/nyregion/12beating/merlin_143635140_c5a69dd3-bb56-4ae0-b0df-31c20bb5eaa4-articleLarge.jpg",
-            "lat": "45.6167",
-            "lng": "-61.9833"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Bloom, Verna (1938-2019)",
             "webURL": "https://www.nytimes.com/2019/01/11/obituaries/verna-bloom-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/obituaries/13BLOOM-OBIT1/12BLOOM1-articleLarge.jpg",
-            "lat": "28.4869",
-            "lng": "-100.9175"
+            "lat": null,
+            "lng": null
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/11/nyregion/victor-casado-zarrab-bribe.html",
             "imageURL": "null",
-            "lat": "53.3670",
-            "lng": "-2.0070"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Iran",
             "webURL": "https://www.nytimes.com/2019/01/11/world/middleeast/iran-american-michael-white.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/world/12iran/08iran1-articleLarge.jpg",
-            "lat": "6.8000",
-            "lng": "124.6333"
+            "lat": 32.427908,
+            "lng": 53.688046
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Ottawa (Ontario)",
             "webURL": "https://www.nytimes.com/2019/01/11/world/americas/bus-crash-ottawa.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/us/12buscrash/merlin_149039034_df87ccb4-725e-4f7b-b3d1-103f677808e1-articleLarge.jpg",
-            "lat": "45.6667",
-            "lng": "11.6000"
+            "lat": 45.4215296,
+            "lng": -75.69719309999999
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/11/us/politics/fbi-trump-russia-inquiry.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/us/politics/12fbi-1-print/12fbi-1-articleLarge.jpg",
-            "lat": "37.1298",
-            "lng": "70.5792"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Hawaii",
             "webURL": "https://www.nytimes.com/2019/01/11/us/politics/tulsi-gabbard-2020-president-announcement.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/us/politics/12gabbard/merlin_148725849_2eaa8a4f-e96f-4ac3-a0ae-c5bd9ba738e2-articleLarge.jpg",
-            "lat": "14.6206",
-            "lng": "120.5817"
+            "lat": 19.8967662,
+            "lng": -155.5827818
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
             "webURL": "https://www.nytimes.com/2019/01/11/opinion/congo-election-tshisekedi-fayulu.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/opinion/11congoWeb/merlin_149028366_5582241f-b239-48f9-b4dd-0ea7456b79c8-articleLarge.jpg",
-            "lat": "51.0333",
-            "lng": "2.8667"
+            "lat": -4.038333,
+            "lng": 21.758664
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Florida",
             "webURL": "https://www.nytimes.com/2019/01/11/opinion/florida-voting-felons.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/opinion/11disenfranchisement-edt/merlin_146410041_bff2b4e6-52d9-4e81-bc9f-5dbc49a3716f-articleLarge.jpg",
-            "lat": "46.7831",
-            "lng": "7.6333"
+            "lat": 27.6648274,
+            "lng": -81.5157535
         }
     ]
 }

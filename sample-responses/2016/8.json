@@ -12,8 +12,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/04/opinion/australia-racewalking-aging-healthy.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/00weiss5/merlin_148614996_c018bd30-9551-42c1-a45b-0a9b9c6e70d3-articleLarge.jpg",
-            "lat": "59.3294",
-            "lng": "18.0686"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Canada",
             "webURL": "https://www.nytimes.com/2019/01/04/world/canada/can-justin-trudeau-elections.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/02/reader-center/xxcanadaletter-trudeau/merlin_147204051_8e2b787c-ce9e-4a09-9cee-d29798564306-articleLarge.jpg",
-            "lat": "41.4901",
-            "lng": "-75.6891"
+            "lat": 56.130366,
+            "lng": -106.346771
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Italy",
             "webURL": "https://www.nytimes.com/2019/01/04/world/europe/matteo-salvini-italy-social-media-nutella-barilla.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05salvini-1-print/merlin_148323222_a07976cb-5bd8-464c-89f6-125769d9eb85-articleLarge.jpg",
-            "lat": "44.0212",
-            "lng": "20.4560"
+            "lat": 41.87194,
+            "lng": 12.56738
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Saudi Arabia",
             "webURL": "https://www.nytimes.com/2019/01/04/world/middleeast/khashoggi-murder-pompeo-saudi-arabia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/us/politics/05dc-diplo/05dc-diplo-articleLarge.jpg",
-            "lat": "47.0908",
-            "lng": "-1.6119"
+            "lat": 23.885942,
+            "lng": 45.079162
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Marine Corps Recruit Depot Parris Island (SC)",
             "webURL": "https://www.nytimes.com/2019/01/04/us/female-marines-boot-camp-training.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/us/05marines/merlin_148753014_413e8f42-afec-4c78-9da5-57295696eef6-articleLarge.jpg",
-            "lat": "45.5697",
-            "lng": "19.6378"
+            "lat": 32.3513924,
+            "lng": -80.6891655
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/04/nyregion/el-chapo-trial.html",
             "imageURL": "https://www.nytimes.com/images/2018/10/08/nyregion/05chapo-01/05chapo-articleLarge-v2.jpg",
-            "lat": "51.2667",
-            "lng": "15.9333"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Moscow (Russia)",
             "webURL": "https://www.nytimes.com/2019/01/04/us/politics/senate-sanctions-oleg-deripaska-russia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/us/politics/05dc-sanctions-1/05dc-sanctions-1-articleLarge.jpg",
-            "lat": "48.8110",
-            "lng": "14.3152"
+            "lat": 55.755826,
+            "lng": 37.6173
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Peru",
             "webURL": "https://www.nytimes.com/2019/01/04/us/politics/peru-rain-forest-protection-violations-trump-administration.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/20/business/20dc-perutrade/merlin_147360252_6b48b870-f7bb-4af5-b352-510c81e63fd7-articleLarge.jpg",
-            "lat": "35.6083",
-            "lng": "138.4650"
+            "lat": -9.189967,
+            "lng": -75.015152
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/04/us/politics/trump-national-emergency-border-wall.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/us/politics/05dc-Military/05dc-Military-articleLarge-v2.jpg",
-            "lat": "51.8167",
-            "lng": "31.9500"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/04/opinion/amos-oz-novelist-israel-judaism.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/opinion/04cohenWeb/merlin_148548147_9ef3c63c-e09a-480a-aa59-ac2e3c3c8e71-articleLarge.jpg",
-            "lat": "-14.2933",
-            "lng": "-178.1583"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Iowa",
             "webURL": "https://www.nytimes.com/2019/01/04/us/politics/elizabeth-warren-iowa.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/us/05WARREN-iowa-sub/05WARREN-iowa-sub-articleLarge.jpg",
-            "lat": "51.6550",
-            "lng": "4.5325"
+            "lat": 41.8780025,
+            "lng": -93.097702
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/05/world/middleeast/israel-election.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/world/04Israel1/04Israel1-articleLarge.jpg",
-            "lat": "-21.3669",
-            "lng": "-45.5128"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Indianapolis (Ind)",
             "webURL": "https://www.nytimes.com/2019/01/05/books/books-brews-beer-bookstores-indiana-indianapolis.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/books/07Brews1/merlin_148735239_77f4526d-5df3-4d55-9a64-bdba19b9e9d3-articleLarge.jpg",
-            "lat": "42.7525",
-            "lng": "-84.4020"
+            "lat": 39.768403,
+            "lng": -86.158068
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Torrance (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/05/us/california-shooting-torrence.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/us/06california-shooting-1/merlin_148774977_06cb0c4b-9323-4a26-a310-76a1e85667d7-articleLarge.jpg",
-            "lat": "26.2326",
-            "lng": "-81.8108"
+            "lat": 33.8358492,
+            "lng": -118.3406288
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Harlem (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/05/style/figure-skating-harlem-women-of-color.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/fashion/06THELOOK1/06THELOOK1-articleLarge-v2.jpg",
-            "lat": "-5.1167",
-            "lng": "105.3000"
+            "lat": 40.8115504,
+            "lng": -73.9464769
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Canarsie (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/05/health/son-killed-fish-cooking-smell.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/nyregion/06xp-fish/06xp-fish-jumbo-v2.jpg",
-            "lat": "45.1333",
-            "lng": "10.0333"
+            "lat": 40.6402325,
+            "lng": -73.9060579
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/05/realestate/are-those-noisy-houseguests-upstairs-or-an-airbnb.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/realestate/06AskIllo/merlin_148682586_7aca5c52-36b3-4f6e-8f8c-36e55d8bc8cb-articleLarge.jpg",
-            "lat": "44.3296",
-            "lng": "-93.9659"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/05/nyregion/nypd-mug-shots-false-identification.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/nyregion/06MUGSHOTS-2-print/merlin_141523077_51f52cca-2e44-4028-af8d-5a57fbc76102-articleLarge.jpg",
-            "lat": "12.3333",
-            "lng": "121.3500"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Perth (Australia)",
             "webURL": "https://www.nytimes.com/2019/01/05/sports/hopman-cup-mens-team-tennis.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/sports/06tennis-web1/06tennis-web1-articleLarge.jpg",
-            "lat": "35.0042",
-            "lng": "134.3558"
+            "lat": -31.9523123,
+            "lng": 115.861309
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/05/opinion/sunday/trump-impeachment.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/sunday/06Leonhardt-Illo/06Leonhardt-Illo-articleLarge.jpg",
-            "lat": "48.6853",
-            "lng": "-3.9864"
+            "lat": 61.52401,
+            "lng": 105.318756
         }
     ]
 }

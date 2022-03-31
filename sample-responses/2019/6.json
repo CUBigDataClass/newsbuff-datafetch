@@ -12,8 +12,8 @@
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/24/fashion/couture-valentino-balmain-paris.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/fashion/24VALENTINO-sub/24VALENTINO-sub-articleLarge.jpg",
-            "lat": "30.8695",
-            "lng": "120.0958"
+            "lat": 48.856614,
+            "lng": 2.3522219
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "South Bend (Ind)",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/pete-buttigieg-2020-election.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/opinion/24leonhardt-newsletter/merlin_149637072_5f563ce3-782d-479b-b26f-f03504749474-articleLarge.jpg",
-            "lat": "45.5651",
-            "lng": "14.2493"
+            "lat": 41.6763545,
+            "lng": -86.25198979999999
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/24/theater/cate-blanchett-london-when-we-have-sufficiently-tortured-each-other.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25londontheater1/25londontheater1-articleLarge.jpg",
-            "lat": "39.3515",
-            "lng": "114.6853"
+            "lat": 51.5072178,
+            "lng": -0.1275862
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Sacramento (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/24/business/electric-vehicles-electrify-america-sacramento.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25wheels-1/merlin_149658972_51141a94-33ab-459d-a8a9-0ebcce36ce54-articleLarge.jpg",
-            "lat": "52.7500",
-            "lng": "5.2200"
+            "lat": 38.5815719,
+            "lng": -121.4943996
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/24/business/renault-nissan-carlos-ghosn.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25renault-print/merlin_149686065_efe7d5b5-f9a3-4eda-9bb7-78eb3649d503-articleLarge.jpg",
-            "lat": "35.8090",
-            "lng": "-86.8994"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Scotland",
             "webURL": "https://www.nytimes.com/2019/01/24/world/europe/scotland-alex-salmond.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25salmond/merlin_148901745_fc5c8848-96ed-4ba6-aff6-e7401c017959-articleLarge.jpg",
-            "lat": "29.5374",
-            "lng": "-8.8584"
+            "lat": 56.49067119999999,
+            "lng": -4.2026458
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Davos (Switzerland)",
             "webURL": "https://www.nytimes.com/2019/01/24/world/europe/prince-william-mental-health.html",
             "imageURL": "null",
-            "lat": "39.2031",
-            "lng": "139.9078"
+            "lat": 46.8027453,
+            "lng": 9.835970099999999
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/t-magazine/indochine-restaurant-history.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/t-magazine/food/indochine-slide-14IB/indochine-slide-14IB-articleLarge.jpg",
-            "lat": "25.6989",
-            "lng": "107.6481"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Greece",
             "webURL": "https://www.nytimes.com/2019/01/24/world/europe/greece-parliament-macedonia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25Greece1/merlin_149680872_d6a2dc79-22ce-4604-bc3f-f7f1879a71cc-articleLarge.jpg",
-            "lat": "16.7667",
-            "lng": "120.4500"
+            "lat": 39.074208,
+            "lng": 21.824312
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Rhone Valley (France)",
             "webURL": "https://www.nytimes.com/2019/01/24/dining/drinks/wine-review-chateauneuf-du-pape-2016.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/30/dining/30wine5/merlin_148711890_fcdfeea6-100b-46fb-90d3-6594bf9df462-articleLarge.jpg",
-            "lat": "33.5448",
-            "lng": "-117.7612"
+            "lat": 44.952398019338,
+            "lng": 6.484082302400288
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/design/bill-viola-michelangelo-royal-academy-london.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25VIOLA-1/merlin_149632776_9f98bcc4-aae6-4392-adb6-62eee636bb28-articleLarge.jpg",
-            "lat": "42.0480",
-            "lng": "13.9262"
+            "lat": 51.5072178,
+            "lng": -0.1275862
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Benton Harbor (Mich)",
             "webURL": "https://www.nytimes.com/2019/01/24/us/politics/biden-praise-republican-speaking-fee.html",
             "imageURL": "null",
-            "lat": "48.5997",
-            "lng": "13.7900"
+            "lat": 42.1167065,
+            "lng": -86.45418939999999
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/i-found-money-what-to-do.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/autossell/26xp-found/merlin_148988541_3d1a13c2-eb82-4882-8df8-b5bb2823c7bb-articleLarge.jpg",
-            "lat": "-29.2350",
-            "lng": "-52.7958"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Guangdong Province (China)",
             "webURL": "https://www.nytimes.com/2019/01/24/technology/satellites-artificial-intelligence.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/business/25SATELLITEAI01/merlin_149341389_289f9043-7513-4595-b945-a1f8e628d82f-articleLarge.jpg",
-            "lat": "24.4684",
-            "lng": "115.7751"
+            "lat": 23.1317099,
+            "lng": 113.26627
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/24/style/a-tour-of-marc-newsons-library-in-london.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/fashion/27myspace-newson2/merlin_149220135_d8a64249-bf93-4751-bf65-a42524463515-articleLarge.jpg",
-            "lat": "48.3172",
-            "lng": "23.0375"
+            "lat": 51.5072178,
+            "lng": -0.1275862
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Cuba",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/cuba-fidel-castro-1959.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/opinion/24Perrottet/24Perrottet-articleLarge.jpg",
-            "lat": "-3.6806",
-            "lng": "-79.6806"
+            "lat": 21.521757,
+            "lng": -77.781167
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/24/books/end-of-loneliness-german-novelist-benedict-wells.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/books/25BENEDICTWELLS2/merlin_149549283_6842523c-1ccb-421f-9036-b333f8ace2ce-articleLarge.jpg",
-            "lat": "40.9952",
-            "lng": "-74.1411"
+            "lat": 51.165691,
+            "lng": 10.451526
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/24/world/americas/donald-trump-venezuela.html",
             "imageURL": "null",
-            "lat": "22.7000",
-            "lng": "90.3667"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Boston (Mass)",
             "webURL": "https://www.nytimes.com/2019/01/24/theater/magic-mike-broadway-musical-boston.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25magicmike-item1/merlin_61006739_77ae4bb2-11d0-4d4b-93c2-4d12c71baa8e-articleLarge.jpg",
-            "lat": "38.6000",
-            "lng": "-95.2642"
+            "lat": 42.3600825,
+            "lng": -71.0588801
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/letters/new-york-state-voting-elections.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/04/nyregion/04NYLAWprint/merlin_148965021_b76efbf1-feb7-42e5-860c-d476135e5b68-articleLarge.jpg",
-            "lat": "49.0251",
-            "lng": "17.6472"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         }
     ]
 }

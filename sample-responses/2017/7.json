@@ -12,8 +12,8 @@
             "location": "Virginia",
             "webURL": "https://www.nytimes.com/2019/01/11/opinion/trump-bullying-virginia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/opinion/10goldbergWeb/10goldbergWeb-articleLarge.jpg",
-            "lat": "23.6500",
-            "lng": "89.0333"
+            "lat": 37.4315734,
+            "lng": -78.6568942
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Saudi Arabia",
             "webURL": "https://www.nytimes.com/2019/01/11/opinion/netflix-saudi-arabia-minhaj.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/opinion/11LINDSEY/merlin_148982550_62d84e9c-5d36-4acd-9dfb-09b85d01ddf2-articleLarge.jpg",
-            "lat": "21.0053",
-            "lng": "-99.1719"
+            "lat": 23.885942,
+            "lng": 45.079162
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/11/nyregion/newyorktoday/new-york-news-queens-da-brown.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/nyregion/11nytoday-brown/merlin_148944705_9d09986d-753d-478d-9ebc-9336297318ba-articleLarge.jpg",
-            "lat": "33.9667",
-            "lng": "68.9667"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/11/magazine/afghan-war-casualty-report.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/magazine/11atwar-casualty-report/merlin_148974810_a71089f6-f78d-4a33-aca6-24ddcbf3d399-articleLarge.jpg",
-            "lat": "58.7228",
-            "lng": "5.7653"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/11/us/politics/gillibrand-2020-presidential-run.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/world/12gillibrand1/merlin_146450967_e31be823-0555-4105-9761-addc2a953481-articleLarge.jpg",
-            "lat": "50.4167",
-            "lng": "10.9167"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Bihar (India)",
             "webURL": "https://www.nytimes.com/2019/01/11/world/asia/india-girl-beheading-honor-killing.html",
             "imageURL": "null",
-            "lat": "47.2000",
-            "lng": "9.5167"
+            "lat": 25.0960742,
+            "lng": 85.31311939999999
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/11/world/australia/joel-edgerton-boy-erased.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/world/12oz-edgerton-arts-1-print/merlin_149007420_c542e602-8a2a-4775-bbf3-fcd0e9c8946a-articleLarge.jpg",
-            "lat": "-18.4784",
-            "lng": "-70.3211"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Rochester (NY)",
             "webURL": "https://www.nytimes.com/2019/01/11/arts/design/unearthing-photographys-time-capsule.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/arts/12TIME-CAPSULE1/merlin_148367745_be07980e-af16-4121-b64e-5cd2328fb866-articleLarge.jpg",
-            "lat": "-27.3550",
-            "lng": "-53.5550"
+            "lat": 43.15657789999999,
+            "lng": -77.6088465
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Milan (Italy)",
             "webURL": "https://www.nytimes.com/2019/01/11/fashion/lorenzi-retail-milan.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/fashion/12lorenzi-1/merlin_148958949_9241f478-d866-46dd-ad4b-4b9a362c6783-articleLarge.jpg",
-            "lat": "34.0260",
-            "lng": "133.8072"
+            "lat": 45.4642035,
+            "lng": 9.189982
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
             "webURL": "https://www.nytimes.com/2019/01/11/opinion/congo-election.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/11sterns01/merlin_148982151_3f1d54b6-a75e-487a-ae12-2b42d53a3fdc-articleLarge.jpg",
-            "lat": "54.3122",
-            "lng": "-130.3271"
+            "lat": -4.038333,
+            "lng": 21.758664
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/11/books/kamala-harris-book.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/books/14harris-cover/14harris-cover-articleLarge.jpg",
-            "lat": "52.0917",
-            "lng": "7.6083"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Williamsburg (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/11/obituaries/luis-garden-acosta-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/obituaries/14ACOSTA-OBIT/merlin_148998561_5387e47b-de0e-4c5a-b915-e60cd844faca-articleLarge.jpg",
-            "lat": "41.1000",
-            "lng": "-7.9500"
+            "lat": 40.7081156,
+            "lng": -73.9570696
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/11/sports/tennis/australian-open-players-to-watch.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/sports/12players-karen/merlin_148550661_1371171e-36a1-468c-8ee4-f5162601fed4-articleLarge.jpg",
-            "lat": "40.7856",
-            "lng": "-74.0093"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Saudi Arabia",
             "webURL": "https://www.nytimes.com/2019/01/11/world/middleeast/saudi-arabia-women-flee.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/world/12saudirunaways1/merlin_148899135_66216593-0788-44a5-9449-c0c15e71adf3-articleLarge.jpg",
-            "lat": "41.0833",
-            "lng": "16.7833"
+            "lat": 23.885942,
+            "lng": 45.079162
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/11/us/politics/ruth-bader-ginsburg-health-cancer-surgery.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/us/politics/12dc-ginsburg/merlin_147523899_734847b2-aaab-441c-ae8d-72692481dff9-articleLarge.jpg",
-            "lat": "57.4667",
-            "lng": "45.7833"
+            "lat": 38.9071923,
+            "lng": -77.0368707
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "India",
             "webURL": "https://www.nytimes.com/2019/01/11/world/asia/india-air-pollution.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/world/12india-air-1-print/merlin_148697943_f7a1f5ae-c427-4e47-9fee-99e9fef4a475-articleLarge.jpg",
-            "lat": "30.2167",
-            "lng": "-8.3833"
+            "lat": 20.593684,
+            "lng": 78.96288
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Marine Corps Recruit Depot Parris Island (SC)",
             "webURL": "https://www.nytimes.com/2019/01/11/magazine/marine-corps-integration-newsletter.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/magazine/11atwar-newsletter-1/11atwar-newsletter-1-articleLarge.jpg",
-            "lat": "48.8517",
-            "lng": "2.4772"
+            "lat": 32.3513924,
+            "lng": -80.6891655
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/11/opinion/letters/japan-whaling.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/31/opinion/31whaling-edt/merlin_148499787_2aa87000-7442-4c6a-bc03-db96d17d2e04-articleLarge.jpg",
-            "lat": "-4.2469",
-            "lng": "-42.2958"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/11/arts/design/mary-boone-prison.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/arts/12ARTS1/merlin_149021655_daf4bde1-910c-4b91-84c8-ad76e043900f-articleLarge.jpg",
-            "lat": "31.5069",
-            "lng": "34.4560"
+            "lat": 40.7830603,
+            "lng": -73.9712488
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/11/sports/andy-murray-retirement.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/sports/12murray2-print/merlin_124127711_195bd12c-cfb6-492e-a7a5-d9b03c720362-articleLarge.jpg",
-            "lat": "38.2497",
-            "lng": "-85.6383"
+            "lat": -25.274398,
+            "lng": 133.775136
         }
     ]
 }

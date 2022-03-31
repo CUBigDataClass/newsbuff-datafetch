@@ -12,8 +12,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/18/your-money/car-insurance-gender-california.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/business/19Adviser-illo/merlin_149347014_55553174-876c-47fb-bda6-12e1cd22b9f0-articleLarge.jpg",
-            "lat": "46.2038",
-            "lng": "14.5407"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/18/world/europe/prince-philip-crash.html",
             "imageURL": "null",
-            "lat": "49.3500",
-            "lng": "6.7333"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "St Louis (Mo)",
             "webURL": "https://www.nytimes.com/video/us/100000006314727/kevin-steincross-slur-apology.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/us/19xp-slur/19xp-slur-articleLarge.png",
-            "lat": "34.9756",
-            "lng": "138.3825"
+            "lat": 38.6270025,
+            "lng": -90.19940419999999
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "St Louis (Mo)",
             "webURL": "https://www.nytimes.com/2019/01/18/us/mlk-kevin-steincross-slur.html",
             "imageURL": "null",
-            "lat": "45.4000",
-            "lng": "10.5000"
+            "lat": 38.6270025,
+            "lng": -90.19940419999999
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/18/dining/food-carts-health-grades.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/dining/19foodcarts2-print/merlin_149392095_315ab309-8e3f-4903-8b08-483906d5d456-articleLarge.jpg",
-            "lat": "23.5193",
-            "lng": "116.4055"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/18/sports/wada-russia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/sports/14wada-print/merlin_149029536_e677e197-b690-4c32-9e25-d76578db871d-articleLarge.jpg",
-            "lat": "-6.5539",
-            "lng": "-37.8089"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Vinalhaven (Me)",
             "webURL": "https://www.nytimes.com/2019/01/18/arts/design/robert-indiana-artist-legal-dispute.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/arts/19INDIANA-print/19INDIANA-OAK01-articleLarge.jpg",
-            "lat": "30.7941",
-            "lng": "-88.2358"
+            "lat": 44.04873449999999,
+            "lng": -68.836749
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Chicago (Ill)",
             "webURL": "https://www.nytimes.com/2019/01/18/us/jason-van-dyke-sentencing.html",
             "imageURL": "null",
-            "lat": "31.2100",
-            "lng": "-8.2500"
+            "lat": 41.8781136,
+            "lng": -87.6297982
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Midtown Area (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/18/nyregion/harry-macklowe-skyscraper-nyc.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/nyregion/19tower1/19tower1-articleLarge.jpg",
-            "lat": "39.0802",
-            "lng": "-84.4518"
+            "lat": 40.7549309,
+            "lng": -73.9840195
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "ALASKA",
             "webURL": "https://www.nytimes.com/2019/01/18/us/politics/coast-guard-government-shutdown.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/us/politics/19dc-coastguard-print/merlin_149364783_a24b8a4b-7453-4039-95c5-cd4aa682fdb4-articleLarge.jpg",
-            "lat": "51.4025",
-            "lng": "-0.6550"
+            "lat": 64.2008413,
+            "lng": -149.4936733
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Syria",
             "webURL": "https://www.nytimes.com/2019/01/18/us/syria-soldiers-killed.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/us/19casualties/merlin_149266827_293254ad-95c9-400e-8df3-7a0cf303a527-articleLarge.jpg",
-            "lat": "45.4333",
-            "lng": "8.7333"
+            "lat": 34.80207499999999,
+            "lng": 38.996815
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New Jersey",
             "webURL": "https://www.nytimes.com/2019/01/18/nyregion/nj-murphy-sexual-assault.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/nyregion/19njtestify1/merlin_149396538_13404b1d-bdef-4b14-98db-f06bb9450fcd-articleLarge.jpg",
-            "lat": "60.4069",
-            "lng": "22.3722"
+            "lat": 40.0583238,
+            "lng": -74.4056612
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "HIDALGO (MEXICO)",
             "webURL": "https://www.nytimes.com/2019/01/18/world/americas/mexico-gas-pipeline-explosion.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/world/19pipeline-print/merlin_149406681_416b8868-bd66-4d65-92d2-f0152c33b52d-articleLarge.jpg",
-            "lat": "35.4827",
-            "lng": "-120.6858"
+            "lat": 20.0910963,
+            "lng": -98.7623874
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/19/world/europe/germany-wine-climate-change.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/world/20german-wine/merlin_144344244_49e27e20-4c8b-434d-94de-6d5d5fbc2627-articleLarge.jpg",
-            "lat": "46.0500",
-            "lng": "-73.4333"
+            "lat": 51.165691,
+            "lng": 10.451526
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/19/world/americas/hidalgo-explosion-mexico-pipeline.html",
             "imageURL": "null",
-            "lat": "49.9499",
-            "lng": "14.0345"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/19/us/womens-march-2019.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/us/20womensmarch8/20womensmarch8-articleLarge-v2.jpg",
-            "lat": "45.0940",
-            "lng": "11.4934"
+            "lat": 38.9071923,
+            "lng": -77.0368707
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Lagos (Nigeria)",
             "webURL": "https://www.nytimes.com/2019/01/19/style/emo-metal-rock-music-nigeria.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/fashion/20THELOOK1/20THELOOK1-articleLarge-v2.jpg",
-            "lat": "15.2333",
-            "lng": "78.3167"
+            "lat": 6.5243793,
+            "lng": 3.3792057
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Libya",
             "webURL": "https://www.nytimes.com/2019/01/19/world/africa/migrants-died-sea-wreck-libya.html",
             "imageURL": "null",
-            "lat": "45.0850",
-            "lng": "11.6006"
+            "lat": 26.3351,
+            "lng": 17.228331
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Texas",
             "webURL": "https://www.nytimes.com/2019/01/19/us/politics/beto-orourke-democrats-president.html",
             "imageURL": "https://www.nytimes.com/images/2019/03/15/us/politics/15beto1-print/merlin_146335875_4c558890-43b2-46e4-a258-36535cd8ca84-articleLarge.jpg",
-            "lat": "15.3167",
-            "lng": "-90.3511"
+            "lat": 31.9685988,
+            "lng": -99.9018131
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/19/world/europe/brexit-speaker-john-bercow.html",
             "imageURL": "null",
-            "lat": "-16.7689",
-            "lng": "-47.6139"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         }
     ]
 }

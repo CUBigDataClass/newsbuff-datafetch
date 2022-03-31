@@ -12,8 +12,8 @@
             "location": "Seattle (Wash)",
             "webURL": "https://www.nytimes.com/2019/01/03/obituaries/blake-w-nordstrom-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/obituaries/06NORDSTROM2/04NORDSTROM2-articleLarge-v2.jpg",
-            "lat": "35.4981",
-            "lng": "140.1156"
+            "lat": 47.6062095,
+            "lng": -122.3320708
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "India",
             "webURL": "https://www.nytimes.com/2019/01/03/obituaries/mrinal-sen-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/obituaries/09SEN1/merlin_148717404_2145ff42-895c-4421-a41b-ef300ebd8629-articleLarge.jpg",
-            "lat": "40.4138",
-            "lng": "-74.5626"
+            "lat": 20.593684,
+            "lng": 78.96288
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/03/world/europe/brexit-no-deal-conservatives.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04brexit-print/merlin_148676781_aa727556-0ba6-4599-a890-94fcfcb91e33-articleLarge.jpg",
-            "lat": "36.1167",
-            "lng": "120.4000"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Texas",
             "webURL": "https://www.nytimes.com/2019/01/03/obituaries/herb-kelleher-whose-southwest-airlines-reshaped-the-industry-dies-at-87.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/obituaries/04KELLEHER1/merlin_148723824_c65d4a26-98bc-4e31-a45a-d137a0a4dca4-articleLarge.jpg",
-            "lat": "17.4031",
-            "lng": "79.8567"
+            "lat": 31.9685988,
+            "lng": -99.9018131
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/03/technology/weather-channel-app-lawsuit.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/business/04location3/04location3-articleLarge.jpg",
-            "lat": "51.5578",
-            "lng": "-3.3341"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Iran",
             "webURL": "https://www.nytimes.com/2019/01/03/world/middleeast/iran-spacecraft-pompeo.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/us/politics/04dc-iran-print/merlin_148689786_1e63a78a-59be-47bb-ae71-826a0e4212b4-articleLarge.jpg",
-            "lat": "32.6541",
-            "lng": "-5.9214"
+            "lat": 32.427908,
+            "lng": 53.688046
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Pacific Ocean",
             "webURL": "https://www.nytimes.com/2019/01/03/world/americas/great-pacific-garbage-patch-cleanup.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05Plastic/merlin_143681844_3455ae26-2645-44dd-9886-a558163b086b-articleLarge.jpg",
-            "lat": "40.0307",
-            "lng": "-75.6303"
+            "lat": -8.783195,
+            "lng": -124.508523
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/04/us/politics/veterans-service-organizations.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/us/politics/05dc-vets-1-print/merlin_148283601_52740e32-55d0-4323-b805-4a3e5d341b4c-articleLarge.jpg",
-            "lat": "50.8858",
-            "lng": "3.2372"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/04/travel/celebrating-the-200th-anniversary-of-queen-victoria.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/travel/06update-victoria1/merlin_127960457_5b603d68-e44f-437e-ad80-eba626b082f4-articleLarge.jpg",
-            "lat": "36.1586",
-            "lng": "140.5164"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Williamsburg (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/04/nyregion/how-thomas-page-mcbee-questioner-of-masculinity-spends-his-sundays.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/nyregion/06routine2/merlin_144662619_84c7ba20-e4c5-4372-8f23-becb0b102e7a-articleLarge.jpg",
-            "lat": "52.7000",
-            "lng": "-1.0800"
+            "lat": 40.7081156,
+            "lng": -73.9570696
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/04/nyregion/public-advocate-nyc-special-election.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/nyregion/05advocate1/merlin_146000223_f854498d-35a5-4d1f-a5f2-db1ffce34e2c-articleLarge.jpg",
-            "lat": "62.9171",
-            "lng": "34.4569"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Montana",
             "webURL": "https://www.nytimes.com/2019/01/04/us/politics/native-american-education.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/us/politics/05dc-nativefolo/merlin_148255578_18f44b44-2130-452a-a153-ad918f084d56-articleLarge.jpg",
-            "lat": "46.2973",
-            "lng": "6.9935"
+            "lat": 46.8796822,
+            "lng": -110.3625658
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Beverly Hills (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/04/travel/five-places-to-visit-in-beverly-hills.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/travel/06beverlyhills1/merlin_148271280_a6376eea-84af-40e6-8b6c-4ef68c2b9da4-articleLarge.jpg",
-            "lat": "50.1528",
-            "lng": "13.9005"
+            "lat": 34.0736204,
+            "lng": -118.4003563
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Catskills (NYS Area)",
             "webURL": "https://www.nytimes.com/2019/01/04/nyregion/catskills-skiing-plattekill-mountain.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/nyregion/06MOUNTAINpromo/merlin_148643769_76eb7b2f-f59e-48b0-b5c4-9016a2474078-articleLarge.jpg",
-            "lat": "52.5333",
-            "lng": "24.9825"
+            "lat": 42.2173102,
+            "lng": -73.8645734
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Hong Kong",
             "webURL": "https://www.nytimes.com/2019/01/04/obituaries/ringo-lam-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/obituaries/06LAM1/merlin_148752159_34508f58-f2b1-4c1f-8390-6fb49c9e4a69-articleLarge.jpg",
-            "lat": "50.9083",
-            "lng": "6.0297"
+            "lat": 22.3193039,
+            "lng": 114.1693611
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/04/business/global-stock-markets.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/business/05markets1/05markets1-articleLarge-v4.png",
-            "lat": "53.2914",
-            "lng": "68.1046"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/04/fashion/weddings/they-married-at-city-hall-but-didnt-toss-the-bouquet.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/fashion/weddings/06VOWS1/06VOWS1-articleLarge-v2.jpg",
-            "lat": "42.9333",
-            "lng": "-6.3167"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/04/nyregion/the-15-dollar-minimum-wage-is-not-enough.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/nyregion/20COMMENTSsubREVISE/06salinsWeb-articleLarge.jpg",
-            "lat": "44.8634",
-            "lng": "-93.6586"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/04/magazine/afghan-war-casualty-report.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/12/world/04atwar-casualty-report/merlin_147998859_359b380a-03f0-42ed-be6a-915647324647-articleLarge.jpg",
-            "lat": "46.9361",
-            "lng": "20.8233"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/04/business/china-economy-central-bank.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05jpchinaecon-print/merlin_148272627_63f008de-d653-49a3-ab2b-0277724cf9f8-articleLarge.jpg",
-            "lat": "-14.8310",
-            "lng": "-74.9390"
+            "lat": 35.86166,
+            "lng": 104.195397
         }
     ]
 }

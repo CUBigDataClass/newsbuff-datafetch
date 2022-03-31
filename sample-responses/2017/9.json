@@ -12,8 +12,8 @@
             "location": "McAllen (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/11/opinion/trump-border-shutdown.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/opinion/11collinsWeb/merlin_149002755_c8302325-b3d5-4198-9e32-fc036b886af6-articleLarge.jpg",
-            "lat": "40.2502",
-            "lng": "-75.2405"
+            "lat": 26.2034071,
+            "lng": -98.23001239999999
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/12/world/europe/france-paris-explosion.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/world/13-SUB-PARIS-01-paper/13-paris-5-articleLarge-v2.jpg",
-            "lat": "-22.3661",
-            "lng": "-48.3803"
+            "lat": 48.856614,
+            "lng": 2.3522219
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Puerto Rico",
             "webURL": "https://www.nytimes.com/2019/01/12/theater/hamilton-puerto-rico-lin-manuel-miranda.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/arts/14hamilton1sub/merlin_149046606_7cb5ddab-332d-4601-bd08-6ee4a1f6ab26-articleLarge.jpg",
-            "lat": "52.8320",
-            "lng": "-1.1770"
+            "lat": 18.220833,
+            "lng": -66.590149
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Foxborough (Mass)",
             "webURL": "https://www.nytimes.com/2019/01/12/sports/new-england-patriots-playoffs-foxborough-.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/sports/13patriots-web08/13patriots-web08-articleLarge.jpg",
-            "lat": "31.4458",
-            "lng": "-9.4383"
+            "lat": 42.0653812,
+            "lng": -71.2478251
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Washington (State)",
             "webURL": "https://www.nytimes.com/2019/01/12/us/washington-highway-sign-420.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/us/12xp-milemarker/merlin_149038767_0c2695f3-ee0a-4266-a6b4-038dc7df9ad1-articleLarge.jpg",
-            "lat": "55.5764",
-            "lng": "36.6947"
+            "lat": 47.7510741,
+            "lng": -120.7401386
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Wisconsin",
             "webURL": "https://www.nytimes.com/2019/01/12/us/rural-colleges-money-students-leaving.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/us/13ruralcolleges-1-print/merlin_147683172_52ed48f6-f4df-45a0-a33d-6b78c5ee4266-articleLarge.jpg",
-            "lat": "44.5167",
-            "lng": "11.8333"
+            "lat": 43.7844397,
+            "lng": -88.7878678
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/12/us/politics/brexit-shutdown-us-britain-trump.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/world/europe/13dc-parallel1/13dc-parallel1-articleLarge.jpg",
-            "lat": "45.3167",
-            "lng": "-72.6500"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "San Antonio (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/12/us/politics/julian-castro-president-announce.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/us/13CASTRO-p1/13CASTRO-1-articleLarge.jpg",
-            "lat": "-22.0300",
-            "lng": "-60.6100"
+            "lat": 29.4251905,
+            "lng": -98.4945922
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Yugoslavia",
             "webURL": "https://www.nytimes.com/2019/01/12/obituaries/patricia-wald-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/obituaries/14waldobit3/merlin_14661309_3463b86c-7d7a-4103-be40-831e7c0d1c8f-articleLarge.jpg",
-            "lat": "32.0944",
-            "lng": "-6.6025"
+            "lat": null,
+            "lng": null
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Nicaragua",
             "webURL": "https://www.nytimes.com/2019/01/12/world/americas/nicaragua-ortega-legal.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/world/13nicaragua1/merlin_146544357_ef432c9c-b661-4edc-b418-ae7143d3b720-articleLarge.jpg",
-            "lat": "50.9464",
-            "lng": "2.1978"
+            "lat": 12.865416,
+            "lng": -85.207229
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/12/us/politics/trump-fbi-counterintelligence-investigation.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/us/13fbi-1/13fbi-1-articleLarge.jpg",
-            "lat": "47.3500",
-            "lng": "13.2000"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/12/opinion/sunday/pay-albany-assembly-outside-income.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/opinion/sunday/12pay/merlin_149035527_7b57ee1f-92cc-48ed-86c2-b62413693ed2-articleLarge.jpg",
-            "lat": "28.5833",
-            "lng": "112.3333"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Texas",
             "webURL": "https://www.nytimes.com/2019/01/12/us/politics/trump-illegal-immigration-statistics.html",
             "imageURL": "null",
-            "lat": "27.5390",
-            "lng": "-80.3865"
+            "lat": 31.9685988,
+            "lng": -99.9018131
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Riyadh (Saudi Arabia)",
             "webURL": "https://www.nytimes.com/2019/01/13/opinion/saudi-women-rights-activist-prison-pompeo.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/opinion/13hathloul/merlin_90134135_c2a7318c-852a-408f-9d69-6c7ee72d61ba-articleLarge.jpg",
-            "lat": "48.0167",
-            "lng": "11.7333"
+            "lat": 24.7135517,
+            "lng": 46.6752957
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Staten Island (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/13/nyregion/mtv-made-in-staten-island.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/us/14-XP-Staten-01-paper/merlin_149066187_2b9fc5b8-3a23-4917-95b4-a599d8468e95-articleLarge.jpg",
-            "lat": "41.6000",
-            "lng": "-4.1167"
+            "lat": 40.5795317,
+            "lng": -74.1502007
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/13/nyregion/ocasio-cortez-democrats-congress.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/nyregion/14aoc/merlin_146791569_a61e4a0c-54d9-4433-af6e-81a322e13b57-articleLarge.jpg",
-            "lat": "-23.0178",
-            "lng": "-50.4058"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/13/world/asia/afghanistan-children-suicide-bombers.html",
             "imageURL": "https://www.nytimes.com/images/2018/11/27/world/00afghan-jailkids1/00afghan-jailkids1-articleLarge-v2.jpg",
-            "lat": "-23.6939",
-            "lng": "-46.5650"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/13/sports/wada-russia-doping.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/sports/14wada-print/merlin_149029536_e677e197-b690-4c32-9e25-d76578db871d-articleLarge.jpg",
-            "lat": "7.4833",
-            "lng": "124.3000"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Florida",
             "webURL": "https://www.nytimes.com/2019/01/13/us/politics/florida-democrats-2020-election.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/us/politics/00floridadems1/merlin_146380266_31a41cbb-43e6-4801-9870-be1024a8ac9e-articleLarge.jpg",
-            "lat": "40.6333",
-            "lng": "-80.5677"
+            "lat": 27.6648274,
+            "lng": -81.5157535
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Lower East Side (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/13/nyregion/hamilton-lin-manuel-miranda-the-haunting.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/14/nyregion/14-Grace-02-promo/14-Grace-02-promo-articleLarge-v2.jpg",
-            "lat": "53.7333",
-            "lng": "78.0333"
+            "lat": 40.715033,
+            "lng": -73.9842724
         }
     ]
 }

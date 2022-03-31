@@ -12,8 +12,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/08/world/americas/trump-border-wall-speech-reaction.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/world/09border-latam-1sub/merlin_148929168_a76a1992-a0c9-41e7-a079-5bc3900016ca-articleLarge.jpg",
-            "lat": "41.6833",
-            "lng": "60.7500"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Phoenix (Ariz)",
             "webURL": "https://www.nytimes.com/2019/01/09/us/vegetative-state-birth-woman.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/us/09xp-hacienda/merlin_148919955_dd95a449-a6a1-4c99-b1e1-711edef0f77e-articleLarge.jpg",
-            "lat": "34.2933",
-            "lng": "-6.1594"
+            "lat": 33.4483771,
+            "lng": -112.0740373
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/09/movies/bafta-nominations-the-favourite.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10bafta-1/merlin_147061896_8d40d3a5-d04e-47a2-a874-dc1f36656404-articleLarge.jpg",
-            "lat": "37.1419",
-            "lng": "140.1553"
+            "lat": 51.5072178,
+            "lng": -0.1275862
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/09/science/monarch-butterfly-california.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/us/09xp-monarch/09xp-monarch-articleLarge.jpg",
-            "lat": "49.1144",
-            "lng": "-1.0917"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Hiroshima (Japan)",
             "webURL": "https://www.nytimes.com/2019/01/09/magazine/grandfather-wwii-kakazu-ridge.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/magazine/09atwar-grandfather-1/09atwar-grandfather-1-articleLarge.jpg",
-            "lat": "40.6315",
-            "lng": "-74.8553"
+            "lat": 34.3852894,
+            "lng": 132.4553055
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Puerto Rico",
             "webURL": "https://www.nytimes.com/2019/01/09/travel/visit-puerto-rico.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/travel/13puertoessay1/merlin_148060878_27c70868-586d-4642-850f-210ceb3ed03c-articleLarge.jpg",
-            "lat": "53.3167",
-            "lng": "13.8667"
+            "lat": 18.220833,
+            "lng": -66.590149
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Turkey",
             "webURL": "https://www.nytimes.com/2019/01/09/sports/kanter-knicks-erdogan-turkey.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/sports/10kanter1/merlin_148690434_c1316393-b420-4c7e-ad31-d5937f36daa0-articleLarge.jpg",
-            "lat": "-8.6239",
-            "lng": "-35.5328"
+            "lat": 38.963745,
+            "lng": 35.243322
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Greece",
             "webURL": "https://www.nytimes.com/2019/01/09/world/europe/greece-bombing-group-of-popular-fighters.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10Greece1/merlin_148814259_78224bbb-ea17-4e09-b81a-6264d924a0c5-articleLarge.jpg",
-            "lat": "53.4661",
-            "lng": "27.2244"
+            "lat": 39.074208,
+            "lng": 21.824312
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Fort Worth (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/09/us/donnie-romero-orlando-shooting-prostitutes.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/11/us/09xp-pastor/merlin_109007536_9e452798-fafe-4df2-acd3-42808245fd98-articleLarge.jpg",
-            "lat": "10.3586",
-            "lng": "125.5816"
+            "lat": 32.7554883,
+            "lng": -97.3307658
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/09/world/europe/brexit-theresa-may-no-deal.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10brexit1/merlin_147857196_51766e53-bf51-48e2-864e-9244cb689087-articleLarge.jpg",
-            "lat": "39.9601",
-            "lng": "-75.6058"
+            "lat": 51.5072178,
+            "lng": -0.1275862
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/09/opinion/trump-speech-immigration-border-wall.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/opinion/09leonhardt-newsletter/merlin_148924944_c4f80d2a-870a-4d0e-9bf4-e99cd77cb4a5-articleLarge.jpg",
-            "lat": "54.3111",
-            "lng": "25.3806"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/09/nyregion/bill-de-blasio-paid-vacation-nyc.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/nyregion/10mayor/merlin_148910778_3559d688-2c08-4b7f-aa59-3587fe39a766-articleLarge.jpg",
-            "lat": "40.5000",
-            "lng": "16.4500"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "South Korea",
             "webURL": "https://www.nytimes.com/2019/01/09/business/south-korea-economy.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/26/business/00skecon/merlin_148209951_d4138f00-27da-46be-bef8-2999d7bd6159-articleLarge.jpg",
-            "lat": "42.8087",
-            "lng": "-88.2150"
+            "lat": 35.907757,
+            "lng": 127.766922
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Williamsburg (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/2019/01/09/style/water-tower-bar-williamsburg-hotel.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/13/fashion/13BOITE-2/merlin_147642420_024bd4bc-e002-4798-b148-096ac81b7ba1-articleLarge.jpg",
-            "lat": "53.5500",
-            "lng": "10.0000"
+            "lat": 40.7081156,
+            "lng": -73.9570696
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Queens (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/09/nyregion/queens-district-attorney-richard-brown.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/nyregion/10queensda-print/merlin_148944705_9d09986d-753d-478d-9ebc-9336297318ba-articleLarge.jpg",
-            "lat": "42.3219",
-            "lng": "-77.3083"
+            "lat": 40.7282239,
+            "lng": -73.7948516
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/09/technology/personaltech/china-wechat.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/business/10techusing05/10techusing05-articleLarge.jpg",
-            "lat": "14.8539",
-            "lng": "-90.0686"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/09/world/europe/germany-afd-attack.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10germany-afd1/merlin_148896336_17181838-29c0-4a6a-aa93-8e0a2b1a9031-articleLarge.jpg",
-            "lat": "36.1715",
-            "lng": "-86.7843"
+            "lat": 51.165691,
+            "lng": 10.451526
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/09/us/politics/congress-summons-mnuchin-to-explain-russian-sanctions-removal.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/us/politics/10dc-sanctions-print/merlin_147687390_2f1754d8-9f7e-404e-817e-c4b062c6213e-articleLarge.jpg",
-            "lat": "21.2084",
-            "lng": "-86.7115"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Nepal",
             "webURL": "https://www.nytimes.com/2019/01/09/world/asia/nepal-menstruation-taboo.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10nepal-women-print/merlin_136129557_a7998c68-7f94-4097-8f00-077e82c6f8e3-articleLarge.jpg",
-            "lat": "-3.3696",
-            "lng": "38.5700"
+            "lat": 28.394857,
+            "lng": 84.12400799999999
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Washington Heights (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/09/nyregion/nypd-beating-men-washington-heights.html",
             "imageURL": "null",
-            "lat": "39.7667",
-            "lng": "68.8167"
+            "lat": 40.8417082,
+            "lng": -73.9393554
         }
     ]
 }

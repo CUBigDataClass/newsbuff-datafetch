@@ -12,8 +12,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/nyregion/nyc-weather-snow-storm.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/nyregion/18nysnow/merlin_146905338_49f630e6-3056-425c-afa4-45ae4d0f2e10-articleLarge.jpg",
-            "lat": "54.5333",
-            "lng": "36.2667"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/17/opinion/theresa-may-brexit.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/opinion/17chappatte/17chappatte-articleLarge.jpg",
-            "lat": "53.4985",
-            "lng": "-1.4406"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/17/world/australia/china-indo-pacific.html",
             "imageURL": "https://www.nytimes.com/images/2017/07/02/travel/18australialetter90-02HONGKONG1-copy/02HONGKONG1-articleLarge.jpg",
-            "lat": "40.9359",
-            "lng": "-74.1177"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Manbij (Syria)",
             "webURL": "https://www.nytimes.com/2019/01/17/reader-center/manbij-syria-restaurant-bombing-.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/us/politics/18dc-military2/merlin_149311863_16f49cd1-59de-4d66-87c6-71b8a22a65e5-articleLarge.jpg",
-            "lat": "48.3022",
-            "lng": "37.2614"
+            "lat": 36.5352848,
+            "lng": 37.9678652
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Bolivia",
             "webURL": "https://www.nytimes.com/2019/01/17/science/romeo-loneliest-frog-mate.html",
             "imageURL": "https://www.nytimes.com/images/2019/04/09/science/18TB-ROMEO1/merlin_149345388_f756ad7f-59f4-45c2-b0be-5fd879353ba2-articleLarge.jpg",
-            "lat": "47.9039",
-            "lng": "-2.1206"
+            "lat": -16.290154,
+            "lng": -63.58865299999999
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/17/opinion/shutdown-democrats.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/opinion/17krugman/merlin_148922640_3b0cf921-0559-4e5a-bc0f-74004922d33b-articleLarge.jpg",
-            "lat": "29.5799",
-            "lng": "-90.7058"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "El Paso (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/17/opinion/trump-border-crisis.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/opinion/17escobar/17escobar-articleLarge.jpg",
-            "lat": "47.1333",
-            "lng": "39.7500"
+            "lat": 31.7618778,
+            "lng": -106.4850217
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Guatemala",
             "webURL": "https://www.nytimes.com/2019/01/17/opinion/jimmy-morales-guatemala.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/opinion/17goldman1/merlin_149178135_74e30987-6f24-4f29-b687-62c3989c8b53-articleLarge.jpg",
-            "lat": "12.8703",
-            "lng": "74.8806"
+            "lat": 15.783471,
+            "lng": -90.23075899999999
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Manbij (Syria)",
             "webURL": "https://www.nytimes.com/video/world/middleeast/100000006312173/inside-manbij-a-syrian-city-where-americans-showed-their-power-and-their-vulnerability.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/world/18syria1-print/merlin_149311977_55f8d6cb-6d02-4138-a614-82778ab0385d-articleLarge.jpg",
-            "lat": "-14.8978",
-            "lng": "-39.4208"
+            "lat": 36.5352848,
+            "lng": 37.9678652
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Brooklyn (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/17/nyregion/nypd-detectives-rape-special-prosecutor.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/nyregion/19xp-rapecops/merlin_129466283_7dddf705-7309-4919-b223-cbdf5ce93e67-articleLarge.jpg",
-            "lat": "36.7500",
-            "lng": "36.2167"
+            "lat": 40.6781784,
+            "lng": -73.9441579
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/17/theater/christophe-honore-les-idoles-returning-to-reims-french.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18paristheater01/18paristheater01-articleLarge.jpg",
-            "lat": "-25.6758",
-            "lng": "-49.5350"
+            "lat": 48.856614,
+            "lng": 2.3522219
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Seattle (Wash)",
             "webURL": "https://www.nytimes.com/2019/01/18/upshot/microsoft-seattle-affordable-housing-plan.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/upshot/19up-housing/merlin_149302542_226b8634-bca4-4f56-8042-ac526fa6402a-articleLarge.jpg",
-            "lat": "46.9742",
-            "lng": "15.3375"
+            "lat": 47.6062095,
+            "lng": -122.3320708
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/18/nyregion/l-train-subway-riders.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/world/19SUBWAY/18SUBWAY-articleLarge-v2.jpg",
-            "lat": "54.9209",
-            "lng": "-1.7441"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Memphis (Tenn)",
             "webURL": "https://www.nytimes.com/2019/01/18/books/review/preston-lauterbach-bluff-city.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/books/review/20Bonanos1/merlin_135731784_922b3a3f-c637-4fa1-8197-1778c8069cf8-articleLarge.jpg",
-            "lat": "54.2333",
-            "lng": "39.0333"
+            "lat": 35.1495343,
+            "lng": -90.0489801
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/18/travel/hotel-review-eaton-dc-washington.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/travel/20checkin-washington1/20checkin-washington1-articleLarge.jpg",
-            "lat": "31.4501",
-            "lng": "-97.1201"
+            "lat": 38.9071923,
+            "lng": -77.0368707
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "ALABAMA",
             "webURL": "https://www.nytimes.com/2019/01/18/us/politics/government-shutdown-alabama-politics.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/us/politics/19dougjones-print/merlin_145119531_0313d9a3-28d7-43f3-9412-10ade17ceb3a-articleLarge.jpg",
-            "lat": "41.3957",
-            "lng": "-95.0138"
+            "lat": 32.3182314,
+            "lng": -86.902298
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Lower East Side (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/18/nyregion/big-hair-and-bad-luck-the-hard-times-of-the-troll-museum.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/nyregion/20troll2/merlin_149264001_dfc31393-d84c-48fc-bac3-c4120fe6e5d8-articleLarge.jpg",
-            "lat": "37.5120",
-            "lng": "-77.3149"
+            "lat": 40.715033,
+            "lng": -73.9842724
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "ANTARCTIC REGIONS",
             "webURL": "https://www.nytimes.com/2019/01/18/sports/reflections-on-antarctica.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/sports/19antarctica-web-landscape1/merlin_149180685_b5fe0a99-1a4d-4e2b-8e0b-550000429693-articleLarge.jpg",
-            "lat": "-5.7796",
-            "lng": "34.9000"
+            "lat": -75.250973,
+            "lng": -0.071389
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Sweden",
             "webURL": "https://www.nytimes.com/2019/01/18/world/europe/sweden-government.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/world/19sweden1/merlin_149149095_5e7f714e-f0ad-4f66-a063-2e019bacae0a-articleLarge.jpg",
-            "lat": "43.1333",
-            "lng": "133.1333"
+            "lat": 60.12816100000001,
+            "lng": 18.643501
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/18/fashion/weddings/sting-best-man-for-simon-astaire-and-pilar-ordovas-wedding.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/20/fashion/weddings/20VOWS1/20VOWS1-articleLarge-v2.jpg",
-            "lat": "45.4687",
-            "lng": "-73.6673"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         }
     ]
 }

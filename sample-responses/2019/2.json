@@ -12,8 +12,8 @@
             "location": "Upper West Side (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/22/dining/recolte-dessert-bar.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/23burner7/merlin_149495742_9c64762f-e646-4da2-a8b2-77b660343b19-articleLarge.jpg",
-            "lat": "45.9225",
-            "lng": "3.0642"
+            "lat": 40.7870106,
+            "lng": -73.9753676
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "West Village (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/22/dining/pineapple-linzer-cookie-te.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/23burner2/23burner2-articleLarge.jpg",
-            "lat": "43.8900",
-            "lng": "-0.5000"
+            "lat": 40.73468,
+            "lng": -74.0047554
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Brenham (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/22/dining/truth-bbq-brisket-texas.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/22/dining/23burner8/merlin_149593428_b47535e2-c40a-43f5-83fa-54cb1d56949b-articleLarge.jpg",
-            "lat": "-17.2369",
-            "lng": "-40.9119"
+            "lat": 30.1668828,
+            "lng": -96.39774419999999
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/22/world/europe/brexit-referendum.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/23int-brexit-1-print/merlin_149331522_bf030d6c-903b-4fb3-b0d8-562ba9d36923-articleLarge.jpg",
-            "lat": "15.8944",
-            "lng": "120.6328"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Garment District (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/22/arts/music/julia-wolfe-new-york-philharmonic-triangle-fire.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/arts/23SCISSORSa/merlin_145381131_0ef979d7-2931-4109-9b64-deae86628919-articleLarge.jpg",
-            "lat": "24.8069",
-            "lng": "-107.3939"
+            "lat": 40.7547072,
+            "lng": -73.9916342
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Covington (Ky)",
             "webURL": "https://www.nytimes.com/2019/01/22/opinion/covington-catholic-march-for-life.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/22/opinion/22douthatWeb/merlin_149412450_fd2337c9-ab9a-4cc0-98eb-9fe8603f9a34-articleLarge.jpg",
-            "lat": "41.1516",
-            "lng": "-96.0679"
+            "lat": 39.0836712,
+            "lng": -84.5085536
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Egypt",
             "webURL": "https://www.nytimes.com/2019/01/22/opinion/egypt-prisoners.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/22/opinion/22soltan/22soltan-articleLarge.jpg",
-            "lat": "49.3994",
-            "lng": "-96.5103"
+            "lat": 26.820553,
+            "lng": 30.802498
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/22/world/asia/soldier-killed-afghanistan-american.html",
             "imageURL": "null",
-            "lat": "7.9112",
-            "lng": "98.3475"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Switzerland",
             "webURL": "https://www.nytimes.com/2019/01/22/world/americas/bolsonaro-populist-davos-forum.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/23davos-bolsonaro/merlin_149582352_a335e3c6-dd1c-4e77-91d8-42b7d6463a14-articleLarge.jpg",
-            "lat": "13.7217",
-            "lng": "120.2506"
+            "lat": 46.818188,
+            "lng": 8.227511999999999
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/22/business/dealbook/review-twilight-of-the-elites.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/business/23DB-KNEE-01/merlin_149593584_0ca87fb4-a754-4b0a-a388-994a35da282b-articleLarge.jpg",
-            "lat": "61.5264",
-            "lng": "-6.8769"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Grand Exuma Island (Bahamas)",
             "webURL": "https://www.nytimes.com/2019/01/22/world/americas/maryann-rolle-fyre-festival-gofundme.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/22/us/23xp-fyre1/23xp-fyre1-articleLarge.jpg",
-            "lat": "41.5500",
-            "lng": "13.5167"
+            "lat": 23.6192598,
+            "lng": -75.96954649999999
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/22/business/china-foreign-policy.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/business/23CHINABELT-print1/merlin_147074766_91ec9aca-8ff4-44bd-8344-51094aff1bfc-articleLarge.jpg",
-            "lat": "-14.8661",
-            "lng": "47.9834"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/22/nyregion/aoc-alexandria-ocasio-cortez-district-office.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/nyregion/23aoc/merlin_149438550_57a22200-1922-4630-8063-b97a9418863a-articleLarge.jpg",
-            "lat": "-21.3408",
-            "lng": "-49.4850"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Throgs Neck (Bronx, NY)",
             "webURL": "https://www.nytimes.com/2019/01/22/nyregion/nycha-investigation-.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/nyregion/23nycha/merlin_142887219_48393cbe-3036-42e6-a321-399cbec17600-articleLarge.jpg",
-            "lat": "-18.2996",
-            "lng": "21.8000"
+            "lat": 40.818399,
+            "lng": -73.8213213
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/22/sports/danielle-collins-australian-open.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/sports/23open-women/merlin_149564928_27d82055-43d3-4672-9f1e-b4d064fde431-articleLarge.jpg",
-            "lat": "37.6000",
-            "lng": "-5.8167"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Iran",
             "webURL": "https://www.nytimes.com/2019/01/22/world/middleeast/iranian-american-arrest-hashemi.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/23iran-arrest/merlin_149476317_7362db7b-f346-4d26-a90d-e3a8ccdf8dd2-articleLarge.jpg",
-            "lat": "8.5408",
-            "lng": "-74.6297"
+            "lat": 32.427908,
+            "lng": 53.688046
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Newark (NJ)",
             "webURL": "https://www.nytimes.com/2019/01/22/nyregion/drones-newark-airport-ground-stop.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/nyregion/23drone/merlin_148912050_05853a39-ae44-47ab-8208-372ab97ffde0-articleLarge.jpg",
-            "lat": "46.6879",
-            "lng": "10.5465"
+            "lat": 40.735657,
+            "lng": -74.1723667
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "AFRICA",
             "webURL": "https://www.nytimes.com/2019/01/22/world/africa/africa-cfa-franc-currency.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/africa/23francs-print/23francs-articleLarge.jpg",
-            "lat": "45.1142",
-            "lng": "34.0142"
+            "lat": -8.783195,
+            "lng": 34.508523
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/22/t-magazine/couture-week-pictures.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/22/t-magazine/fashion/Couture-slide-MIW7/Couture-slide-MIW7-articleLarge.jpg",
-            "lat": "46.0736",
-            "lng": "8.2669"
+            "lat": 48.856614,
+            "lng": 2.3522219
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/22/sports/nadal-tiafoe-tsitsipas-australian-open.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/sports/23open-men-1/merlin_149576091_2ac78eec-51f4-4e64-a00c-0dd89f17ea7f-articleLarge.jpg",
-            "lat": "13.9333",
-            "lng": "-90.8167"
+            "lat": -25.274398,
+            "lng": 133.775136
         }
     ]
 }

@@ -12,8 +12,8 @@
             "location": "Hungary",
             "webURL": "https://www.nytimes.com/2019/01/05/world/europe/hungary-protests-slave-law.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/world/06hungary/merlin_148773171_b379c081-2370-424c-9f59-ece95a10d876-articleLarge.jpg",
-            "lat": "49.1953",
-            "lng": "16.6083"
+            "lat": 47.162494,
+            "lng": 19.503304
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Europe",
             "webURL": "https://www.nytimes.com/2019/01/05/world/europe/populism-voters-global.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/world/05-int-populism04/merlin_148539264_1a3cf54e-9e39-4ba1-bfa9-cce91a976647-articleLarge.jpg",
-            "lat": "53.8333",
-            "lng": "10.4833"
+            "lat": 54.5259614,
+            "lng": 15.2551187
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/05/opinion/sunday/apple-china.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/sunday/06Ren/06Ren-articleLarge-v2.jpg",
-            "lat": "-24.7569",
-            "lng": "-51.7608"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/05/opinion/sunday/american-dream-black-millennials-homeownership.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/sunday/06Allen/06Allen-articleLarge.jpg",
-            "lat": "20.9161",
-            "lng": "-89.9469"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "San Antonio (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/05/sunday-review/julian-castro-2020-president.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/sunday/06Chozick/merlin_147452688_1736be89-4bc0-4595-919f-ead57929b5fb-articleLarge.jpg",
-            "lat": "-0.9296",
-            "lng": "38.0700"
+            "lat": 29.4251905,
+            "lng": -98.4945922
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Cuba",
             "webURL": "https://www.nytimes.com/2019/01/05/opinion/sunday/cubas-next-transformation.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/sunday/06Anderson1/merlin_148633170_540a0407-3411-43c1-8212-c85ffe0cfbd5-articleLarge.jpg",
-            "lat": "38.0000",
-            "lng": "13.2833"
+            "lat": 21.521757,
+            "lng": -77.781167
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/05/world/europe/yellow-vests-protests-france-paris.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/world/06FRANCE-refer-print/merlin_148783431_4d51074c-998b-4a77-bb9d-96a7a012d23f-articleLarge.jpg",
-            "lat": "30.4519",
-            "lng": "-97.9908"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/05/world/europe/france-arabic-public-schools-mosques.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/01/world/01France-Arabic4/01France-Arabic4-articleLarge-v2.jpg",
-            "lat": "-9.5000",
-            "lng": "-37.8167"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Belgium",
             "webURL": "https://www.nytimes.com/2019/01/05/world/europe/belgium-ban-jewish-muslim-animal-slaughter.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/world/04BELGIUM/04BELGIUM-articleLarge.jpg",
-            "lat": "40.2791",
-            "lng": "-75.3872"
+            "lat": 50.503887,
+            "lng": 4.469936
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Ireland",
             "webURL": "https://www.nytimes.com/2019/01/05/world/europe/ireland-abortion-clinic-protest.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/world/06IRELAND/merlin_138749796_1145243e-cd40-4f0e-a051-d6c1d7e30023-articleLarge.jpg",
-            "lat": "16.6500",
-            "lng": "76.8000"
+            "lat": 53.1423672,
+            "lng": -7.692053599999999
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Houston (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/05/us/jazmine-barnes-houston-rally.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/us/06xp-rally-promo/06xp-rally-promo-articleLarge-v2.jpg",
-            "lat": "7.6047",
-            "lng": "-74.8086"
+            "lat": 29.7604267,
+            "lng": -95.3698028
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Houston (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/06/us/jazmine-barnes-arrest.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/us/07xp-arrest4/07xp-arrest4-articleLarge-v2.jpg",
-            "lat": "-33.8700",
-            "lng": "-58.4080"
+            "lat": 29.7604267,
+            "lng": -95.3698028
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/06/upshot/a-california-dream-for-paid-leave-has-an-old-problem-how-to-pay-for-it.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/03/upshot/up-leave/merlin_143850186_e21d7c65-3f15-40e5-904b-97e4c7ff2bf0-articleLarge.jpg",
-            "lat": "59.8667",
-            "lng": "38.3833"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Miami (Fla)",
             "webURL": "https://www.nytimes.com/2019/01/06/health/zainab-mughal-rare-blood-donors.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/obituaries/06xp-blood/merlin_148779984_1cb8d9bf-6352-44b4-9524-06cc79bd13b1-articleLarge.jpg",
-            "lat": "36.0133",
-            "lng": "-115.0380"
+            "lat": 25.7616798,
+            "lng": -80.1917902
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Las Vegas (Nev)",
             "webURL": "https://www.nytimes.com/2019/01/06/us/stephen-paddock-guns-firearms.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/03/us/00paddockguns01/00paddockguns01-articleLarge.jpg",
-            "lat": "-27.9880",
-            "lng": "152.9958"
+            "lat": 36.1699412,
+            "lng": -115.1398296
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Niger",
             "webURL": "https://www.nytimes.com/2019/01/06/reader-center/niger-divorce-women.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/world/07divorceinsider5/merlin_133463840_af79d400-e238-49a5-baa0-5ab6423bc4bc-articleLarge.jpg",
-            "lat": "37.0667",
-            "lng": "21.6333"
+            "lat": 17.607789,
+            "lng": 8.081666
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/06/nyregion/friendly-sons-of-st-patrick-women.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/nyregion/07grace1/merlin_148741080_87da5227-3841-4946-b6c8-e1094d950703-articleLarge.jpg",
-            "lat": "-37.7333",
-            "lng": "142.0167"
+            "lat": 40.7830603,
+            "lng": -73.9712488
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "West Bank",
             "webURL": "https://www.nytimes.com/2019/01/06/world/middleeast/israel-teenagers-stoning-palestinian.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/world/07Israel-arrests/merlin_145245213_37fec532-9821-4dd0-bc4a-d491960081b0-articleLarge.jpg",
-            "lat": "-29.2350",
-            "lng": "-52.7958"
+            "lat": 31.9465703,
+            "lng": 35.3027226
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/06/opinion/letters/afghanistan-united-states-troops.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/27/opinion/27Kaplan/merlin_145462416_ea10baaa-46ed-4089-a456-ac1a79074674-articleLarge.jpg",
-            "lat": "49.1466",
-            "lng": "6.8157"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Yemen",
             "webURL": "https://www.nytimes.com/2019/01/06/us/politics/uss-cole-bombing-suspect-killed.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/us/politics/07dc-cole/merlin_148760787_95a09be8-c7b9-45c1-9838-3ad88f0a2d2e-articleLarge.jpg",
-            "lat": "-2.9900",
-            "lng": "-65.1078"
+            "lat": 15.552727,
+            "lng": 48.516388
         }
     ]
 }

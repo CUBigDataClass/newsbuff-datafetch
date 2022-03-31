@@ -12,8 +12,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/31/business/brexit-european-union.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/business/01brexitbiz-1-print/merlin_149982255_afb8d264-ab2d-4983-8bd5-d8ebb45a28be-articleLarge.jpg",
-            "lat": "30.3342",
-            "lng": "-9.4972"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/nyregion/newyorktoday/ny-cold-weather.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/nyregion/31nytoday01/merlin_149973954_21130a9e-917d-4063-8e56-919ca21b664e-articleLarge.jpg",
-            "lat": "42.4333",
-            "lng": "-8.6667"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/31/business/uk-brexit-auto-industry.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/world/01Brexitcars-print/merlin_148972788_85529978-7748-4f73-a45d-857fe268487c-articleLarge.jpg",
-            "lat": "48.4283",
-            "lng": "-123.3647"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/31/business/trump-china-trade-tariffs.html",
             "imageURL": "null",
-            "lat": "40.4264",
-            "lng": "71.4956"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "India",
             "webURL": "https://www.nytimes.com/2019/01/31/world/asia/india-unemployment-rate.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/world/indiaeconpromo/merlin_135173844_9de96d4c-1910-4ee8-bd6d-34f8182b2414-articleLarge.jpg",
-            "lat": "38.7581",
-            "lng": "-85.3974"
+            "lat": 20.593684,
+            "lng": 78.96288
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Saudi Arabia",
             "webURL": "https://www.nytimes.com/2019/01/31/world/middleeast/saudi-arabia-corruption-purge.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/world/01Saudi1/merlin_145780062_cea90ee1-3eb8-4ac6-a5c3-c33e75d80e49-articleLarge.jpg",
-            "lat": "35.2544",
-            "lng": "-3.1150"
+            "lat": 23.885942,
+            "lng": 45.079162
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/31/world/europe/uk-theresa-may-spitfire-bbc.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/world/01bbc-may-sub/merlin_150046041_37ad5bb0-09ac-44a7-8316-17985bf569e7-articleLarge.jpg",
-            "lat": "18.5196",
-            "lng": "73.8553"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Sunnyside (Queens, NY)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/31/dining/sofra-review-queens.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/06/dining/06Hungry-slideshow-slide-B06X/06Hungry-slideshow-slide-B06X-articleLarge.jpg",
-            "lat": "44.0079",
-            "lng": "8.1730"
+            "lat": 40.7432759,
+            "lng": -73.9196324
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/nyregion/hud-nycha-deal.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/nyregion/01nycha-deal1/01nycha-deal1-articleLarge.jpg",
-            "lat": "48.7100",
-            "lng": "9.4661"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Sunnyside (Queens, NY)",
             "webURL": "https://www.nytimes.com/2019/01/31/dining/sofra-sunnyside-review.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/06/dining/06Hungry-slideshow-slide-B06X/06Hungry-slideshow-slide-B06X-articleLarge.jpg",
-            "lat": "54.6500",
-            "lng": "-8.1170"
+            "lat": 40.7432759,
+            "lng": -73.9196324
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/31/world/americas/venezuelan-juan-guaido-military.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/world/01venezuela-guaido1/merlin_150011400_e4a2ba46-f502-48c3-9aa0-dc7f1fa0b00d-articleLarge.jpg",
-            "lat": "36.1250",
-            "lng": "-111.2468"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Atlanta (Ga)",
             "webURL": "https://www.nytimes.com/2019/01/31/obituaries/leonard-dinnerstein-84-dies.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/02/obituaries/31DINNERSTEIN4/merlin_149992716_a08e0885-1076-4544-a287-36fe0964a6e3-articleLarge.jpg",
-            "lat": "-36.8490",
-            "lng": "174.5430"
+            "lat": 33.7489954,
+            "lng": -84.3879824
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Midwestern States (US)",
             "webURL": "https://www.nytimes.com/2019/01/31/us/iowa-student-death.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/us/01coldvictims-promo/01coldvictims-promo-jumbo-v2.jpg",
-            "lat": "67.3658",
-            "lng": "32.4981"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Europe",
             "webURL": "https://www.nytimes.com/2019/01/31/business/eu-banks-bond-trading-cartel.html",
             "imageURL": "null",
-            "lat": "40.3395",
-            "lng": "-74.2939"
+            "lat": 54.5259614,
+            "lng": 15.2551187
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Staten Island (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/31/nyregion/vodka-russia-museum-staten-island.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/03/nyregion/03vodka1/merlin_149908275_2b2cf1bb-c97f-4fb7-9fb3-8043dcbcc92e-articleLarge.jpg",
-            "lat": "50.2700",
-            "lng": "-96.9747"
+            "lat": 40.5795317,
+            "lng": -74.1502007
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Annandale-on-Hudson (NY)",
             "webURL": "https://www.nytimes.com/2019/01/31/arts/dance/pam-tanowitz-bard-choreographer-in-residence.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/arts/01bard-item1/merlin_145497351_c5ed3a78-384c-42c2-b6ce-6b40be7b3dbc-articleLarge.jpg",
-            "lat": "1.4164",
-            "lng": "-75.8727"
+            "lat": 42.0218762,
+            "lng": -73.9095279
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/31/opinion/us-intervention-venezuela.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/opinion/31iber/31iber-articleLarge.jpg",
-            "lat": "34.4293",
-            "lng": "-100.2516"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/31/nyregion/cold-weather-polar-vortex-nyc.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/nyregion/01nycold/merlin_150017523_62e2c89f-5c7c-4350-bb01-ed68858bd9a1-articleLarge.jpg",
-            "lat": "-29.4558",
-            "lng": "-49.9239"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Midwestern States (US)",
             "webURL": "https://www.nytimes.com/2019/01/31/reader-center/what-to-do-during-polar-vortex.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/31/reader-center/31polarvortex-grid/31polarvortex-grid-articleLarge.jpg",
-            "lat": "45.6167",
-            "lng": "8.9000"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Syria",
             "webURL": "https://www.nytimes.com/2019/01/31/us/politics/senate-vote-syria-afghanistan.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/01/us/politics/01dc-senate-1/01dc-senate-1-articleLarge.jpg",
-            "lat": "55.4614",
-            "lng": "38.4422"
+            "lat": 34.80207499999999,
+            "lng": 38.996815
         }
     ]
 }

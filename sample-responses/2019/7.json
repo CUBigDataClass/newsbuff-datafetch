@@ -12,8 +12,8 @@
             "location": "Queens (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/dance/review-jen-rosenblit-im-gonna-need-another-one.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25rosenblit2/merlin_149642397_b3d84f2d-ee2b-425a-8bc5-fdb783e60165-articleLarge.jpg",
-            "lat": "38.6272",
-            "lng": "-0.5753"
+            "lat": 40.7282239,
+            "lng": -73.7948516
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "English Channel",
             "webURL": "https://www.nytimes.com/2019/01/24/world/europe/emiliano-sala-plane-cardiff-city.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25plane-print/merlin_149639619_e31342f8-3bea-4fa2-860e-647209e4fc5d-articleLarge.jpg",
-            "lat": "38.9500",
-            "lng": "-8.5333"
+            "lat": 50.134664,
+            "lng": -0.357056
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Netherlands",
             "webURL": "https://www.nytimes.com/2019/01/24/sports/spakenburg-derby-netherlands.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/sports/00onsoccer-derby1/merlin_149678547_1f50f280-f3b5-4219-980c-39f16d7519ef-articleLarge.jpg",
-            "lat": "-23.6800",
-            "lng": "-54.5608"
+            "lat": 52.132633,
+            "lng": 5.291265999999999
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Bangkok (Thailand)",
             "webURL": "https://www.nytimes.com/2019/01/24/t-magazine/freddie-cowan-recipe.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/t-magazine/24tmag-freddie-cowan-slide-Z02S/24tmag-freddie-cowan-slide-Z02S-articleLarge.jpg",
-            "lat": "36.8622",
-            "lng": "114.5020"
+            "lat": 13.7563309,
+            "lng": 100.5017651
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/24/reader-center/los-angeles-teachers-strike-class-size.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/reader-center/18readers-la-teacher-strike-linda-bieber/18readers-la-teacher-strike-linda-bieber-articleLarge-v3.jpg",
-            "lat": "-6.4119",
-            "lng": "-36.7900"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Latin America",
             "webURL": "https://www.nytimes.com/2019/01/24/obituaries/rita-vidaurri-dies.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/obituaries/25VIDAURRI1/25VIDAURRI1-articleLarge.jpg",
-            "lat": "52.2049",
-            "lng": "10.3078"
+            "lat": -4.4420385,
+            "lng": -61.32685350000001
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/jonas-mekas-anthology-aging.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/nyregion/24jonasmekas2/merlin_131546480_7524553f-bf8a-4664-8a55-2231cb95b2ec-articleLarge.jpg",
-            "lat": "17.2500",
-            "lng": "-100.6833"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/our-longest-war-is-still-an-important-war.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/opinion/24OHANLON/merlin_142447287_e5124469-5d8f-482f-8cb3-cba1a744b08d-articleLarge.jpg",
-            "lat": "-5.3408",
-            "lng": "-36.8328"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "SEBRING (FLA)",
             "webURL": "https://www.nytimes.com/2019/01/24/us/sebring-bank-shooting-zephen-xaver.html",
             "imageURL": "null",
-            "lat": "13.9667",
-            "lng": "44.1667"
+            "lat": 27.495592,
+            "lng": -81.440907
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Jamaica (West Indies)",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/design/john-dunkley-american-folk-art-museum.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25dunkley-art1/merlin_146939118_849e7749-76a2-483b-9985-e9f8bc09ca20-articleLarge.jpg",
-            "lat": "41.7833",
-            "lng": "12.9167"
+            "lat": 18.109581,
+            "lng": -77.297508
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "South Bend (Ind)",
             "webURL": "https://www.nytimes.com/2019/01/24/books/review/pete-buttigieg-shortest-way-home.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/books/review/Nagourney/Nagourney-articleLarge.jpg",
-            "lat": "23.3974",
-            "lng": "115.8842"
+            "lat": 41.6763545,
+            "lng": -86.25198979999999
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Massachusetts",
             "webURL": "https://www.nytimes.com/2019/01/24/style/trump-hand-injury-roosevelt-carriage-accident.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/style/24wait-1/24wait-1-articleLarge.gif",
-            "lat": "22.7583",
-            "lng": "121.1444"
+            "lat": 42.4072107,
+            "lng": -71.3824374
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Sudan",
             "webURL": "https://www.nytimes.com/2019/01/24/world/africa/sudan-protests-omar-hassan-al-bashir.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25Sudan1/merlin_149673438_9318852c-9af2-4b4e-bab9-b74d4f9cd335-articleLarge.jpg",
-            "lat": "-27.3289",
-            "lng": "-53.0589"
+            "lat": 12.862807,
+            "lng": 30.217636
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/24/arts/music/chris-brown-rape-complaint.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/arts/25CHRISBROWN-2/merlin_140083299_2860fa4f-cc74-4a32-a2c0-d8f4df94c19b-articleLarge.jpg",
-            "lat": "-20.7511",
-            "lng": "-51.6783"
+            "lat": 48.856614,
+            "lng": 2.3522219
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Barron (Wis)",
             "webURL": "https://www.nytimes.com/2019/01/24/us/jayme-closs-reward-money.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/us/25-Closs-02-print/merlin_149023320_9cbc2b45-62ee-4319-8a8b-ba6e760a632c-articleLarge.jpg",
-            "lat": "-29.1358",
-            "lng": "-49.7000"
+            "lat": 45.4013471,
+            "lng": -91.8490626
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/24/opinion/letters/venezuela-united-states-maduro-guaido.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/world/24venezuelaprotests1-print/merlin_149646075_f52d3bd2-cc07-4453-bca2-3040721c9841-articleLarge.jpg",
-            "lat": "40.1686",
-            "lng": "-105.1005"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/24/nyregion/luxury-developers-extell-void.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/nyregion/27big/27big-articleLarge.jpg",
-            "lat": "-23.9169",
-            "lng": "21.8264"
+            "lat": 40.7830603,
+            "lng": -73.9712488
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Syria",
             "webURL": "https://www.nytimes.com/2019/01/24/world/middleeast/isis-syria-last-territory.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/25lastvillage/25lastvillage-articleLarge.jpg",
-            "lat": "40.8500",
-            "lng": "-7.7333"
+            "lat": 34.80207499999999,
+            "lng": 38.996815
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/24/obituaries/norman-goodman-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/obituaries/25GOODMAN1/25GOODMAN1-articleLarge-v2.jpg",
-            "lat": "36.4778",
-            "lng": "4.6333"
+            "lat": 40.7830603,
+            "lng": -73.9712488
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Florida",
             "webURL": "https://www.nytimes.com/2019/01/24/us/michael-ertel-blackface-halloween-florida.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/us/25ertel/25ertel-articleLarge.jpg",
-            "lat": "38.8478",
-            "lng": "45.6622"
+            "lat": 27.6648274,
+            "lng": -81.5157535
         }
     ]
 }
