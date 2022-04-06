@@ -17,10 +17,10 @@ def get_news_year_month(year,month):
         news = mycol2.find({
             "year":{"$eq":int(year)},
             "month":{"$eq":int(month)}
-        })
+        }).limit(20)
         print(news)
         l = list(news)
-        l = l[:20]
+        #l = l[:20]
         for i in l:
             print(i)
     except Exception as e:
@@ -37,10 +37,10 @@ def get_news_location(location):
         mycol2 = mydb[collection_name]
         news = mycol2.find({
             "location":{"$eq":location},
-        })
+        }).limit(20)
         print(news)
         l = list(news)
-        l = l[:20]
+        #l = l[:20]
         for i in l:
             print(i)
     except Exception as e:
@@ -59,10 +59,10 @@ def get_news_section_subsection(yesectionar,subsection):
         news = mycol2.find({
             "year":{"$eq":section},
             "month":{"$eq":subsection}
-        })
+        }).limit(20)
         print(news)
         l = list(news)
-        l = l[:20]
+        #l = l[:20]
         for i in l:
             print(i)
     except Exception as e:
