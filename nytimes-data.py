@@ -4,6 +4,7 @@ import datetime
 import json
 import sys
 from datetime import datetime
+import csv
 
 from pymongo import errors
 from pynytimes import NYTAPI
@@ -44,8 +45,8 @@ def main():
     mycol2 = mydb["customers2"]
     mycol3 = mydb["customers3"]
 
+    # Looping to fetch the data repeatedly for specified period of time.
     for year in range(2019, 2020, 1):
-        # Looping to fetch the data repeatedly for specified period of time.
         myArticleNoLocation = []
         myArticleOneLocation = []
         myArticleManyLocations = []
@@ -117,8 +118,18 @@ def main():
 
             except:
                 e  = sys.exc_info()
-                exceptionDetails = {"year": year, "month": month, "failureReason": e}
-                exceptionData.append(exceptionDetails)
+                #exceptionDetails is a list consisting of year, month, exception reason.
+                exceptionData.append(year)
+                exceptionData.append(month)
+                exceptionData.append(e)
+
+                print("Exception data", exceptionData)
+
+                #Writing the failed calls details into FailedCalls.csv file
+                with open('FailedCalls.csv', 'a', newline='') as f:
+                    writer = csv.writer(f)
+                    writer.writerow(exceptionData)
+                f.close()
 
     try:
         mycol1.insert_many(myArticleNoLocation)
@@ -132,33 +143,8 @@ def main():
 
     except errors.BulkWriteError as e:
         print(f"Articles bulk insertion error {e}")
+    
 
-
-            
-
-    # Writing exception details to csv file
-    fileName = "FailedCalls.txt"
-
-    def getFailedCalls():
-        if len(exceptionData) < 1:
-            exceptionDict = {"runtime": currentTime, "exceptionDetails": "No failed calls in this run."}
-        else:
-            exceptionDict = {"runtime": currentTime, "exceptionDetails": exceptionData}
-        return exceptionDict
-
-    # Write failed calls details into FailedCalls.json file
-    exceptions = getFailedCalls()
-    """
-    with open('FailedCalls.json', mode='a+', encoding='utf-8') as f:
-        json.dump(exceptions, f, ensure_ascii=False, indent=4, sort_keys=True, default=str)
-        f.write(",")
-    """
-
-    file = open(fileName, 'a', newline='')
-    file.write(str(exceptions)+"\n")
-    file.close
-
-    print("Exception data", exceptionData)
     print("Number of articles with No location:", len(myArticleNoLocation))
     print("Number of articles with One location:", len(myArticleOneLocation))
     print("Number of articles with Many locations:", len(myArticleManyLocations))
