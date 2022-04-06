@@ -20,6 +20,7 @@ def get_news_year_month(year,month):
         })
         print(news)
         l = list(news)
+        l = l[:20]
         for i in l:
             print(i)
     except Exception as e:
@@ -39,6 +40,7 @@ def get_news_location(location):
         })
         print(news)
         l = list(news)
+        l = l[:20]
         for i in l:
             print(i)
     except Exception as e:
@@ -60,6 +62,7 @@ def get_news_section_subsection(yesectionar,subsection):
         })
         print(news)
         l = list(news)
+        l = l[:20]
         for i in l:
             print(i)
     except Exception as e:
