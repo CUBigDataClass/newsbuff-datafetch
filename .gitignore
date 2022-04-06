@@ -1,2 +1,3 @@
 mongodbconfig.py
 *.pyc
+pycache/*
