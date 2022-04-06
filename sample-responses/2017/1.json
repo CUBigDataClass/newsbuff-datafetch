@@ -12,8 +12,8 @@
             "location": "New Orleans (La)",
             "webURL": "https://www.nytimes.com/2019/01/08/dining/gumbo-recipes-new-orleans.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09gumbo11/merlin_147493782_debe3734-3164-4e4c-90d3-09d89e6b7cfe-articleLarge.jpg",
-            "lat": "36.5433",
-            "lng": "140.1022"
+            "lat": 29.95106579999999,
+            "lng": -90.0715323
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/08/opinion/letters/american-jews-israel.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/opinion/sunday/06Weisman/06Weisman-articleLarge.jpg",
-            "lat": "49.5097",
-            "lng": "4.3675"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/08/us/politics/donald-trump-address-speech.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/us/politics/09dc-whattowatch2/merlin_148819869_b798479b-f5db-4850-a4bf-eedc85ef5847-articleLarge.jpg",
-            "lat": "-8.5000",
-            "lng": "-41.0000"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "West Hollywood (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/08/us/ed-buck-gemmel-moore-hollywood.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/us/09xp-buck/09xp-buck-articleLarge.jpg",
-            "lat": "10.9000",
-            "lng": "123.0833"
+            "lat": 34.0900091,
+            "lng": -118.3617443
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Syria",
             "webURL": "https://www.nytimes.com/video/us/politics/100000006270799/syria-troops-timeline.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/12/world/12syria-alt/merlin_148355766_b9598af6-2a0d-4150-9b76-ef5be6822b39-articleLarge.jpg",
-            "lat": "36.4053",
-            "lng": "139.3306"
+            "lat": 34.80207499999999,
+            "lng": 38.996815
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/08/us/politics/manafort-trump-campaign-data-kilimnik.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/us/politics/09dc-manafort/merlin_147366189_ed8b3f52-0180-4a17-80e5-69d3476f4adc-articleLarge.jpg",
-            "lat": "40.2278",
-            "lng": "-83.3595"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Charlottesville (Va)",
             "webURL": "https://www.nytimes.com/2019/01/08/us/daniel-borden-deandre-harris-charlottesville.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/09xp-borden1/09xp-borden1-articleLarge.jpg",
-            "lat": "39.4833",
-            "lng": "-0.4500"
+            "lat": 38.0293059,
+            "lng": -78.47667810000002
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/08/opinion/australians-have-more-fun.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/opinion/08weissWeb/merlin_148908741_84c79fb5-46ac-4e42-b5c1-62765e864f8a-articleLarge.jpg",
-            "lat": "32.8955",
-            "lng": "-97.5379"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/08/us/angela-davis-israel-civil-rights-institute.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/09xp-davis/merlin_148864884_8e37b9ad-bd87-46fa-9479-a530b75032a4-articleLarge.jpg",
-            "lat": "47.0833",
-            "lng": "20.2333"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Nigeria",
             "webURL": "https://www.nytimes.com/2019/01/08/movies/lionheart-review.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/movies/09lionheart/merlin_148779213_b9ef19c5-202a-4193-83b9-2d9fc5368023-articleLarge.jpg",
-            "lat": "50.4833",
-            "lng": "35.6667"
+            "lat": 9.081999,
+            "lng": 8.675277
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Hudson Yards (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/08/arts/the-shed-hudson-yards-performances.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/arts/09shed-main/merlin_148534983_d29a8d45-6185-49b9-9731-1ae481928bde-articleLarge.jpg",
-            "lat": "20.0124",
-            "lng": "-155.6378"
+            "lat": 40.7542629,
+            "lng": -74.0023166
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Florida",
             "webURL": "https://www.nytimes.com/2019/01/08/us/florida-felons-voting-rights.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/us/09felons-02-print/merlin_148910145_567cc3a7-ec1c-403c-92b6-240e9e1fe241-articleLarge.jpg",
-            "lat": "-9.8319",
-            "lng": "-45.3439"
+            "lat": 27.6648274,
+            "lng": -81.5157535
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Latin America",
             "webURL": "https://www.nytimes.com/2019/01/08/opinion/bolsonaro-maduro-clash-latin-america.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/opinion/09CASTANEDA/09CASTANEDA-articleLarge.jpg",
-            "lat": "51.1989",
-            "lng": "6.2194"
+            "lat": -4.4420385,
+            "lng": -61.32685350000001
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "New Jersey",
             "webURL": "https://www.nytimes.com/2019/01/08/nyregion/voting-rights-nj-murphy.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/nyregion/09njvoting/merlin_108584344_ce8693d1-24d2-47a2-a820-b1b0507b6bd5-articleLarge.jpg",
-            "lat": "26.0819",
-            "lng": "119.2981"
+            "lat": 40.0583238,
+            "lng": -74.4056612
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Greenwich Village (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/08/dining/mario-batali-sexual-assault-no-charges-nypd.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09batali/08batali-articleLarge.jpg",
-            "lat": "49.4249",
-            "lng": "75.4649"
+            "lat": 40.7335719,
+            "lng": -74.0027418
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Southwestern States (US)",
             "webURL": "https://www.nytimes.com/2019/01/08/us/politics/trump-border-wall-terrorists.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/us/politics/09dc-borderterror/merlin_148562487_fc321b96-ae42-495b-8ee9-53dce5484bf4-articleLarge.jpg",
-            "lat": "39.2737",
-            "lng": "-77.2006"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Houston (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/08/us/jazmine-barnes-murder-charge.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/us/09xp-houstonarrest/merlin_148914018_61e91747-e3df-4364-b1c4-5a515aaed7b3-articleLarge.jpg",
-            "lat": "45.5612",
-            "lng": "-93.2283"
+            "lat": 29.7604267,
+            "lng": -95.3698028
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Birmingham (Ala)",
             "webURL": "https://www.nytimes.com/2019/01/08/obituaries/larry-langford-birmingham-mayor-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/obituaries/10LANGFORD1/merlin_148657632_645566e0-c46e-4337-a2c8-8d694cf83103-articleLarge.jpg",
-            "lat": "47.0608",
-            "lng": "6.6703"
+            "lat": 33.5185892,
+            "lng": -86.8103567
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/08/business/diamonds-origin-tiffany-consumers.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/business/09diamonds/merlin_148754583_1cfe23e8-69eb-40cc-b5f8-c2580eea668c-articleLarge.jpg",
-            "lat": "26.2817",
-            "lng": "127.7783"
+            "lat": 40.7830603,
+            "lng": -73.9712488
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/08/opinion/l-train-subway-cuomo.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/opinion/08BIANCO/merlin_148723803_94b69e25-4229-45d5-b9d0-69e9c2b2d64d-articleLarge.jpg",
-            "lat": "30.9925",
-            "lng": "-7.8167"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         }
     ]
 }

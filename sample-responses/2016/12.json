@@ -12,8 +12,8 @@
             "location": "Syria",
             "webURL": "https://www.nytimes.com/2019/01/07/us/politics/bolton-trump-syria.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/world/08dc-prexy-1-print/merlin_148822482_53f26b03-b13c-431e-822e-8886d13788be-articleLarge.jpg",
-            "lat": "58.3321",
-            "lng": "15.1312"
+            "lat": 34.80207499999999,
+            "lng": 38.996815
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/07/business/ghosn-nissan-court.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/business/08ghosn/merlin_146521854_37c8d38b-2ec3-4d5c-b1cd-3b9364d60710-articleLarge.jpg",
-            "lat": "-15.5619",
-            "lng": "-49.9489"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/07/opinion/trump-wall-shutdown.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/opinion/07chappatte/07chappatte-articleLarge.jpg",
-            "lat": "32.6787",
-            "lng": "-97.4638"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Rochester (NY)",
             "webURL": "https://www.nytimes.com/2019/01/07/us/meteorologist-racist-mlk.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/nyregion/08xp-slur/08xp-slur-articleLarge.jpg",
-            "lat": "46.6186",
-            "lng": "31.5392"
+            "lat": 43.15657789999999,
+            "lng": -77.6088465
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Hong Kong",
             "webURL": "https://www.nytimes.com/2019/01/08/world/asia/hong-kong-oil-tanker-fire.html",
             "imageURL": "null",
-            "lat": "6.7000",
-            "lng": "124.9333"
+            "lat": 22.3193039,
+            "lng": 114.1693611
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Manhattan (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/08/arts/design/mary-boone-art-dealer-cites-early-trauma-in-bid-to-avoid-prison.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/arts/09boone/06boone-articleLarge.jpg",
-            "lat": "-36.8271",
-            "lng": "-73.0503"
+            "lat": 40.7830603,
+            "lng": -73.9712488
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/08/nyregion/democrats-albany-cuomo-legislature.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/nyregion/09session1/merlin_148955544_b0eacd39-b147-4153-aa73-113289c0f1a0-articleLarge.jpg",
-            "lat": "38.7153",
-            "lng": "-121.3610"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/08/world/europe/germany-hacking-arrest.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/world/08Germany/merlin_148740324_7323b8c7-9c27-43f1-82ff-aca8af88b2b1-articleLarge.jpg",
-            "lat": "47.8919",
-            "lng": "1.9172"
+            "lat": 51.165691,
+            "lng": 10.451526
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/08/nyregion/newyorktoday/new-york-news-democrats-lawmakers-albany.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/nyregion/08nytoday1/merlin_33980947_92a538c9-5c53-4798-8c51-7f755ae80e13-articleLarge.jpg",
-            "lat": "45.7408",
-            "lng": "4.2258"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Myanmar",
             "webURL": "https://www.nytimes.com/2019/01/08/world/asia/myanmar-insurgent-attack-rakhine-rohingya.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/world/09myanmar-print/merlin_148860558_e21100be-5577-4177-90a2-f034f04e2b5c-articleLarge.jpg",
-            "lat": "-10.7578",
-            "lng": "-37.3150"
+            "lat": 21.916221,
+            "lng": 95.955974
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/08/realestate/commercial/new-york-commercial-real-estate.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/realestate/commercial/09transFor-Sale/09transFor-Sale--articleLarge.jpg",
-            "lat": "40.9602",
-            "lng": "-74.4988"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/08/business/carlos-ghosn-nissan-defense.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/world/09ghosn1/merlin_148898535_91c8a54d-763c-4edf-b159-8f1e31e8ab1c-articleLarge.jpg",
-            "lat": "53.7740",
-            "lng": "-2.7950"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/08/world/europe/germany-frank-magnitz-attack.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/10/world/10germany-afd-print/merlin_148900161_d169d2fd-2cbf-4e4f-9741-0cb61396bbc0-articleLarge.jpg",
-            "lat": "45.3060",
-            "lng": "40.9397"
+            "lat": 51.165691,
+            "lng": 10.451526
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/08/business/china-trump-trade.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/business/09CHINATRADE-print/merlin_146443134_4b844b06-b2fd-457a-9239-c1edb53bff1a-articleLarge.jpg",
-            "lat": "17.2567",
-            "lng": "120.7256"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/08/nyregion/trump-tower-natalya-veselnitskaya-indictment.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/nyregion/09lawyer-promo/09lawyer-promo-articleLarge-v2.jpg",
-            "lat": "40.3756",
-            "lng": "-74.2444"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/08/nyregion/de-blasio-health-care-plan.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/nyregion/09nyhealthcare1/09nyhealthcare1-articleLarge.jpg",
-            "lat": "42.2667",
-            "lng": "2.9650"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Sidmouth (England)",
             "webURL": "https://www.nytimes.com/2019/01/08/world/europe/uk-fatberg-sidmouth.html",
             "imageURL": "null",
-            "lat": "45.7833",
-            "lng": "-74.0000"
+            "lat": 50.67865,
+            "lng": -3.23756
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Greenwich Village (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/08/arts/dance/aileen-passloff-interview.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/arts/09passloff3-promo/09passloff3-promo-articleLarge-v2.jpg",
-            "lat": "64.1375",
-            "lng": "25.3667"
+            "lat": 40.7335719,
+            "lng": -74.0027418
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Bosnia and Herzegovina",
             "webURL": "https://www.nytimes.com/2019/01/08/world/europe/bosnia-davor-dragicevic-milorad-dodik.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/world/09bosnia1-print/merlin_148614027_93317401-757e-4d60-846b-75f6b5aec367-articleLarge.jpg",
-            "lat": "18.9167",
-            "lng": "-97.1333"
+            "lat": 43.915886,
+            "lng": 17.679076
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Columbus Circle (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/08/dining/momofuku-bang-bar-review.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/09/dining/09REST-slide-PK5H-promo/09REST-slide-PK5H-promo-articleLarge-v2.jpg",
-            "lat": "45.4704",
-            "lng": "10.2967"
+            "lat": 40.767848,
+            "lng": -73.9815219
         }
     ]
 }

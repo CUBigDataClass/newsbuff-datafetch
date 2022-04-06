@@ -12,8 +12,8 @@
             "location": "Phoenix (Ariz)",
             "webURL": "https://www.nytimes.com/2019/01/23/us/nathan-sutherland-vegetative-arizona.html",
             "imageURL": "null",
-            "lat": "-28.8719",
-            "lng": "-52.1750"
+            "lat": 33.4483771,
+            "lng": -112.0740373
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/23/sports/australian-open-wta-coaching.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/sports/24tennis-coaches-1/merlin_149564283_90198f6f-5807-416c-b45e-452488973531-articleLarge.jpg",
-            "lat": "48.6242",
-            "lng": "7.7547"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/23/business/renault-ghosn-nissan.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/22/business/22RENAULT/merlin_148983834_020cc054-c207-48f1-983c-7560b821a49a-articleLarge.jpg",
-            "lat": "43.8403",
-            "lng": "1.3894"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Chicago (Ill)",
             "webURL": "https://www.nytimes.com/2019/01/23/theater/michael-jackson-musical-chicago.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/arts/24dontstop-item1/merlin_142578996_c61dc50d-051f-4cbe-9d20-ce3adff6ae0c-articleLarge.jpg",
-            "lat": "-19.3075",
-            "lng": "-64.3022"
+            "lat": 41.8781136,
+            "lng": -87.6297982
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Midtown Area (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/timothy-caughman-white-supremacist-guilty.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24hate/24hate-articleLarge.jpg",
-            "lat": "22.6200",
-            "lng": "88.4200"
+            "lat": 40.7549309,
+            "lng": -73.9840195
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/23/arts/television/broad-city-high-maintenance-unbreakable-kimmy-schmidt-review.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/arts/24broadcity-notebook1/24broadcity-notebook1-articleLarge-v2.jpg",
-            "lat": "33.0939",
-            "lng": "-7.0519"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/23/books/review/alan-rusbridger-breaking-news.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/03/books/review/03Lipinski/03Lipinski-articleLarge.jpg",
-            "lat": "-17.3969",
-            "lng": "-43.5728"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Pakistan",
             "webURL": "https://www.nytimes.com/2019/01/23/world/asia/pakistan-stabbing-khadija-siddiqi.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/world/24pakistan/merlin_139533909_c087e677-83cf-433a-8f36-8c607689ae57-articleLarge.jpg",
-            "lat": "51.8062",
-            "lng": "-0.1932"
+            "lat": 30.375321,
+            "lng": 69.34511599999999
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/harvey-weinstein-new-lawyers.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24weinstein/merlin_140996202_99a9ffae-28c1-4643-bdcf-6884605a3ded-articleLarge.jpg",
-            "lat": "51.0342",
-            "lng": "3.5475"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/23/world/middleeast/benny-gantz-israel-netanyahu.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/world/24gantz-print/merlin_149209056_a86c556c-72cc-4748-85b4-ea281593ba8a-articleLarge.jpg",
-            "lat": "36.4124",
-            "lng": "-119.0999"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/23/us/politics/china-trump-trade-deals.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/business/24DC-CHINACEO-3/24DC-CHINACEO-3-articleLarge.jpg",
-            "lat": "48.1825",
-            "lng": "-1.6439"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Lithuania",
             "webURL": "https://www.nytimes.com/2019/01/23/obituaries/jonas-mekas-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/obituaries/24MEKAS7/merlin_149651352_66da64b8-02af-4cdb-890a-7fbaf80175c9-articleLarge.jpg",
-            "lat": "-13.3978",
-            "lng": "-44.1978"
+            "lat": 55.169438,
+            "lng": 23.881275
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Newark (NJ)",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/newark-airport-drones.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/nyregion/24drones01/24drones01-articleLarge.jpg",
-            "lat": "-9.0833",
-            "lng": "143.2000"
+            "lat": 40.735657,
+            "lng": -74.1723667
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/23/fashion/poggy-box-japanese-fashion.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/fashion/23POGGY-1/merlin_149383392_ba4427a2-f091-41d4-b0ac-e837969c3315-articleLarge.jpg",
-            "lat": "52.2972",
-            "lng": "7.5861"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/23/business/dealbook/yahoo-cyber-security-settlement.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/business/24db-anotherview1/merlin_145729827_d360a55e-f58f-4ad1-927c-38bdb50b6b06-articleLarge.jpg",
-            "lat": "30.6984",
-            "lng": "-6.4729"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "New York State",
             "webURL": "https://www.nytimes.com/2019/01/23/nyregion/dream-act-bill-passed.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/nyregion/00nydream01/merlin_149176692_d2d7ca7e-c566-4ee6-8246-58cf8610d3fc-articleLarge.jpg",
-            "lat": "30.6687",
-            "lng": "31.5904"
+            "lat": 43.2994285,
+            "lng": -74.21793260000001
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "SEBRING (FLA)",
             "webURL": "https://www.nytimes.com/2019/01/23/us/florida-bank-shooting-suntrust.html",
             "imageURL": "null",
-            "lat": "46.4500",
-            "lng": "-71.0333"
+            "lat": 27.495592,
+            "lng": -81.440907
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/23/health/gene-editing-babies-crispr.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/science/00GENE-zhang/00GENE-zhang-articleLarge.jpg",
-            "lat": "45.0940",
-            "lng": "11.4934"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/23/obituaries/edward-morrison-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/24/obituaries/24MORRISON1/merlin_149589183_336e729b-5029-4095-a1df-c1cb9af5d86e-articleLarge.jpg",
-            "lat": "-19.2739",
-            "lng": "-44.4039"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/video/world/americas/100000006319607/juan-guaido-venezuela-history.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/world/24venezeulaprotests10/merlin_149646357_72f41125-f415-46b8-a87c-f8a329b2c9b8-articleLarge.jpg",
-            "lat": "44.9344",
-            "lng": "4.8747"
+            "lat": 6.42375,
+            "lng": -66.58973
         }
     ]
 }

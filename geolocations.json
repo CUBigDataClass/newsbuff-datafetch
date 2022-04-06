@@ -1,0 +1,1622 @@
+[
+    {
+        "location": "AFGHANISTAN",
+        "latitude": 33.93911,
+        "longitude": 67.709953
+    },
+    {
+        "location": "AFRICA",
+        "latitude": -8.783195,
+        "longitude": 34.508523
+    },
+    {
+        "location": "ALABAMA",
+        "latitude": 32.3182314,
+        "longitude": -86.902298
+    },
+    {
+        "location": "ALASKA",
+        "latitude": 64.2008413,
+        "longitude": -149.4936733
+    },
+    {
+        "location": "AMAZON JUNGLE",
+        "latitude": -3.4653053,
+        "longitude": -62.21588049999999
+    },
+    {
+        "location": "ANTARCTIC REGIONS",
+        "latitude": -75.250973,
+        "longitude": -0.071389
+    },
+    {
+        "location": "ARGENTINA",
+        "latitude": -38.416097,
+        "longitude": -63.61667199999999
+    },
+    {
+        "location": "ARIZONA",
+        "latitude": 34.0489281,
+        "longitude": -111.0937311
+    },
+    {
+        "location": "Alta (Utah)",
+        "latitude": 40.5888394,
+        "longitude": -111.6379793
+    },
+    {
+        "location": "Annandale-on-Hudson (NY)",
+        "latitude": 42.0218762,
+        "longitude": -73.9095279
+    },
+    {
+        "location": "Athens (Greece)",
+        "latitude": 37.9838096,
+        "longitude": 23.7275388
+    },
+    {
+        "location": "Atlanta (Ga)",
+        "latitude": 33.7489954,
+        "longitude": -84.3879824
+    },
+    {
+        "location": "Atlantic Ocean",
+        "latitude": -14.5994134,
+        "longitude": -28.6731465
+    },
+    {
+        "location": "Austin (Tex)",
+        "latitude": 30.267153,
+        "longitude": -97.7430608
+    },
+    {
+        "location": "Australia",
+        "latitude": -25.274398,
+        "longitude": 133.775136
+    },
+    {
+        "location": "Balkan States",
+        "latitude": 41.8101472,
+        "longitude": 21.0937311
+    },
+    {
+        "location": "Baltimore (Md)",
+        "latitude": 39.2903848,
+        "longitude": -76.6121893
+    },
+    {
+        "location": "Bangkok (Thailand)",
+        "latitude": 13.7563309,
+        "longitude": 100.5017651
+    },
+    {
+        "location": "Bangladesh",
+        "latitude": 23.684994,
+        "longitude": 90.356331
+    },
+    {
+        "location": "Barron (Wis)",
+        "latitude": 45.4013471,
+        "longitude": -91.8490626
+    },
+    {
+        "location": "Bayside (Queens, NY)",
+        "latitude": 40.7585569,
+        "longitude": -73.7654367
+    },
+    {
+        "location": "Bedminster (NJ)",
+        "latitude": 40.669264,
+        "longitude": -74.68039999999999
+    },
+    {
+        "location": "Beijing (China)",
+        "latitude": 39.904211,
+        "longitude": 116.407395
+    },
+    {
+        "location": "Belgium",
+        "latitude": 50.503887,
+        "longitude": 4.469936
+    },
+    {
+        "location": "Bensonhurst (Brooklyn, NY)",
+        "latitude": 40.6139307,
+        "longitude": -73.9921833
+    },
+    {
+        "location": "Benton Harbor (Mich)",
+        "latitude": 42.1167065,
+        "longitude": -86.45418939999999
+    },
+    {
+        "location": "Beverly Hills (Calif)",
+        "latitude": 34.0736204,
+        "longitude": -118.4003563
+    },
+    {
+        "location": "Bhutan",
+        "latitude": 27.514162,
+        "longitude": 90.433601
+    },
+    {
+        "location": "Bihar (India)",
+        "latitude": 25.0960742,
+        "longitude": 85.31311939999999
+    },
+    {
+        "location": "Birmingham (Ala)",
+        "latitude": 33.5185892,
+        "longitude": -86.8103567
+    },
+    {
+        "location": "Birmingham (England)",
+        "latitude": 52.48624299999999,
+        "longitude": -1.890401
+    },
+    {
+        "location": "Bloom, Verna (1938-2019)",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "location": "Bolivia",
+        "latitude": -16.290154,
+        "longitude": -63.58865299999999
+    },
+    {
+        "location": "Bosnia and Herzegovina",
+        "latitude": 43.915886,
+        "longitude": 17.679076
+    },
+    {
+        "location": "Boston (Mass)",
+        "latitude": 42.3600825,
+        "longitude": -71.0588801
+    },
+    {
+        "location": "Brazil",
+        "latitude": -14.235004,
+        "longitude": -51.92528
+    },
+    {
+        "location": "Brenham (Tex)",
+        "latitude": 30.1668828,
+        "longitude": -96.39774419999999
+    },
+    {
+        "location": "British Columbia (Canada)",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206
+    },
+    {
+        "location": "Broadway (Manhattan, NY)",
+        "latitude": 40.8124199,
+        "longitude": -73.9605343
+    },
+    {
+        "location": "Bronx (NYC)",
+        "latitude": 40.8447819,
+        "longitude": -73.8648268
+    },
+    {
+        "location": "Brooklyn (NYC)",
+        "latitude": 40.6781784,
+        "longitude": -73.9441579
+    },
+    {
+        "location": "Brumadinho (Brazil)",
+        "latitude": -20.1515034,
+        "longitude": -44.20102869999999
+    },
+    {
+        "location": "Bushwick (Brooklyn, NY)",
+        "latitude": 40.6957755,
+        "longitude": -73.9170604
+    },
+    {
+        "location": "California",
+        "latitude": 36.778261,
+        "longitude": -119.4179324
+    },
+    {
+        "location": "Canada",
+        "latitude": 56.130366,
+        "longitude": -106.346771
+    },
+    {
+        "location": "Canarsie (Brooklyn, NY)",
+        "latitude": 40.6402325,
+        "longitude": -73.9060579
+    },
+    {
+        "location": "Catskills (NYS Area)",
+        "latitude": 42.2173102,
+        "longitude": -73.8645734
+    },
+    {
+        "location": "Central Park (Manhattan, NY)",
+        "latitude": 40.7812199,
+        "longitude": -73.9665138
+    },
+    {
+        "location": "Central Park South (Manhattan, NY)",
+        "latitude": 40.7661851,
+        "longitude": -73.9773038
+    },
+    {
+        "location": "Changchun (China)",
+        "latitude": 43.8160199,
+        "longitude": 125.32357
+    },
+    {
+        "location": "Chapel Hill (NC)",
+        "latitude": 35.9131996,
+        "longitude": -79.0558445
+    },
+    {
+        "location": "Charlottesville (Va)",
+        "latitude": 38.0293059,
+        "longitude": -78.47667810000002
+    },
+    {
+        "location": "Chelsea (Manhattan, NY)",
+        "latitude": 40.7465004,
+        "longitude": -74.00137370000002
+    },
+    {
+        "location": "Chicago (Ill)",
+        "latitude": 41.8781136,
+        "longitude": -87.6297982
+    },
+    {
+        "location": "Chile",
+        "latitude": -35.675147,
+        "longitude": -71.542969
+    },
+    {
+        "location": "China",
+        "latitude": 35.86166,
+        "longitude": 104.195397
+    },
+    {
+        "location": "Chinatown (Manhattan, NY)",
+        "latitude": 40.7157509,
+        "longitude": -73.9970307
+    },
+    {
+        "location": "Colombia",
+        "latitude": 4.570868,
+        "longitude": -74.297333
+    },
+    {
+        "location": "Columbus Circle (Manhattan, NY)",
+        "latitude": 40.767848,
+        "longitude": -73.9815219
+    },
+    {
+        "location": "Congo, Democratic Republic of (Congo-Kinshasa)",
+        "latitude": -4.038333,
+        "longitude": 21.758664
+    },
+    {
+        "location": "Connecticut",
+        "latitude": 41.6032207,
+        "longitude": -73.087749
+    },
+    {
+        "location": "Copenhagen (Denmark)",
+        "latitude": 55.6760968,
+        "longitude": 12.5683371
+    },
+    {
+        "location": "Costa Rica",
+        "latitude": 9.748916999999999,
+        "longitude": -83.753428
+    },
+    {
+        "location": "Covington (Ky)",
+        "latitude": 39.0836712,
+        "longitude": -84.5085536
+    },
+    {
+        "location": "Cremona (Italy)",
+        "latitude": 45.133249,
+        "longitude": 10.0226511
+    },
+    {
+        "location": "Crown Heights (Brooklyn, NY)",
+        "latitude": 40.6694022,
+        "longitude": -73.9422324
+    },
+    {
+        "location": "Cuba",
+        "latitude": 21.521757,
+        "longitude": -77.781167
+    },
+    {
+        "location": "Culiacan (Mexico)",
+        "latitude": 24.8090649,
+        "longitude": -107.3940117
+    },
+    {
+        "location": "Dakar (Senegal)",
+        "latitude": 14.716677,
+        "longitude": -17.4676861
+    },
+    {
+        "location": "Davos (Switzerland)",
+        "latitude": 46.8027453,
+        "longitude": 9.835970099999999
+    },
+    {
+        "location": "Denisova Cave (Siberia)",
+        "latitude": 51.3975041,
+        "longitude": 84.6761088
+    },
+    {
+        "location": "Detroit (Mich)",
+        "latitude": 42.331427,
+        "longitude": -83.0457538
+    },
+    {
+        "location": "Dyker Heights (Brooklyn, NY)",
+        "latitude": 40.6167679,
+        "longitude": -74.0183
+    },
+    {
+        "location": "East Harlem (Manhattan, NY)",
+        "latitude": 40.7957399,
+        "longitude": -73.93892129999999
+    },
+    {
+        "location": "East Village (Manhattan, NY)",
+        "latitude": 40.7264773,
+        "longitude": -73.98153370000001
+    },
+    {
+        "location": "Egypt",
+        "latitude": 26.820553,
+        "longitude": 30.802498
+    },
+    {
+        "location": "El Paso (Tex)",
+        "latitude": 31.7618778,
+        "longitude": -106.4850217
+    },
+    {
+        "location": "England",
+        "latitude": 52.3555177,
+        "longitude": -1.1743197
+    },
+    {
+        "location": "English Channel",
+        "latitude": 50.134664,
+        "longitude": -0.357056
+    },
+    {
+        "location": "Europe",
+        "latitude": 54.5259614,
+        "longitude": 15.2551187
+    },
+    {
+        "location": "Flatiron District (Manhattan, NY)",
+        "latitude": 40.740083,
+        "longitude": -73.9903489
+    },
+    {
+        "location": "Florida",
+        "latitude": 27.6648274,
+        "longitude": -81.5157535
+    },
+    {
+        "location": "Fort Pierce (Fla)",
+        "latitude": 27.4467056,
+        "longitude": -80.3256056
+    },
+    {
+        "location": "Fort Worth (Tex)",
+        "latitude": 32.7554883,
+        "longitude": -97.3307658
+    },
+    {
+        "location": "Foxborough (Mass)",
+        "latitude": 42.0653812,
+        "longitude": -71.2478251
+    },
+    {
+        "location": "France",
+        "latitude": 46.227638,
+        "longitude": 2.213749
+    },
+    {
+        "location": "Gabon",
+        "latitude": -0.803689,
+        "longitude": 11.609444
+    },
+    {
+        "location": "Garden City (Kan)",
+        "latitude": 37.9716898,
+        "longitude": -100.8726618
+    },
+    {
+        "location": "Garment District (Manhattan, NY)",
+        "latitude": 40.7547072,
+        "longitude": -73.9916342
+    },
+    {
+        "location": "Germany",
+        "latitude": 51.165691,
+        "longitude": 10.451526
+    },
+    {
+        "location": "Golden's Bridge (NY)",
+        "latitude": 41.2949887,
+        "longitude": -73.6744592
+    },
+    {
+        "location": "Grand Exuma Island (Bahamas)",
+        "latitude": 23.6192598,
+        "longitude": -75.96954649999999
+    },
+    {
+        "location": "Great Britain",
+        "latitude": 53.8337367,
+        "longitude": -2.4290148
+    },
+    {
+        "location": "Greece",
+        "latitude": 39.074208,
+        "longitude": 21.824312
+    },
+    {
+        "location": "Greenwich Village (Manhattan, NY)",
+        "latitude": 40.7335719,
+        "longitude": -74.0027418
+    },
+    {
+        "location": "Guangdong Province (China)",
+        "latitude": 23.1317099,
+        "longitude": 113.26627
+    },
+    {
+        "location": "Guatemala",
+        "latitude": 15.783471,
+        "longitude": -90.23075899999999
+    },
+    {
+        "location": "HIDALGO (MEXICO)",
+        "latitude": 20.0910963,
+        "longitude": -98.7623874
+    },
+    {
+        "location": "Hague (Netherlands)",
+        "latitude": 52.0704978,
+        "longitude": 4.3006999
+    },
+    {
+        "location": "Harlem (Manhattan, NY)",
+        "latitude": 40.8115504,
+        "longitude": -73.9464769
+    },
+    {
+        "location": "Harris County (Tex)",
+        "latitude": 29.7751825,
+        "longitude": -95.3102505
+    },
+    {
+        "location": "Hawaii",
+        "latitude": 19.8967662,
+        "longitude": -155.5827818
+    },
+    {
+        "location": "Hell's Kitchen (Manhattan, NY)",
+        "latitude": 40.7637581,
+        "longitude": -73.9918181
+    },
+    {
+        "location": "Helmand Province (Afghanistan)",
+        "latitude": 31.3636474,
+        "longitude": 63.95861110000001
+    },
+    {
+        "location": "High Line (Manhattan, NY)",
+        "latitude": 40.7479925,
+        "longitude": -74.0047649
+    },
+    {
+        "location": "Highland Park (Tex)",
+        "latitude": 32.8334607,
+        "longitude": -96.79194539999999
+    },
+    {
+        "location": "Hiroshima (Japan)",
+        "latitude": 34.3852894,
+        "longitude": 132.4553055
+    },
+    {
+        "location": "Hong Kong",
+        "latitude": 22.3193039,
+        "longitude": 114.1693611
+    },
+    {
+        "location": "Houston (Tex)",
+        "latitude": 29.7604267,
+        "longitude": -95.3698028
+    },
+    {
+        "location": "Hudson Yards (Manhattan, NY)",
+        "latitude": 40.7542629,
+        "longitude": -74.0023166
+    },
+    {
+        "location": "Hungary",
+        "latitude": 47.162494,
+        "longitude": 19.503304
+    },
+    {
+        "location": "Iceland",
+        "latitude": 64.963051,
+        "longitude": -19.020835
+    },
+    {
+        "location": "Idaho",
+        "latitude": 44.0682019,
+        "longitude": -114.7420408
+    },
+    {
+        "location": "Idlib (Syria)",
+        "latitude": 35.9310271,
+        "longitude": 36.6417777
+    },
+    {
+        "location": "Illinois",
+        "latitude": 40.6331249,
+        "longitude": -89.3985283
+    },
+    {
+        "location": "India",
+        "latitude": 20.593684,
+        "longitude": 78.96288
+    },
+    {
+        "location": "Indianapolis (Ind)",
+        "latitude": 39.768403,
+        "longitude": -86.158068
+    },
+    {
+        "location": "Indonesia",
+        "latitude": -0.789275,
+        "longitude": 113.921327
+    },
+    {
+        "location": "Iowa",
+        "latitude": 41.8780025,
+        "longitude": -93.097702
+    },
+    {
+        "location": "Iran",
+        "latitude": 32.427908,
+        "longitude": 53.688046
+    },
+    {
+        "location": "Iraq",
+        "latitude": 33.223191,
+        "longitude": 43.679291
+    },
+    {
+        "location": "Ireland",
+        "latitude": 53.1423672,
+        "longitude": -7.692053599999999
+    },
+    {
+        "location": "Israel",
+        "latitude": 31.046051,
+        "longitude": 34.851612
+    },
+    {
+        "location": "Italy",
+        "latitude": 41.87194,
+        "longitude": 12.56738
+    },
+    {
+        "location": "Ivory Coast",
+        "latitude": 7.539988999999999,
+        "longitude": -5.547079999999999
+    },
+    {
+        "location": "Jamaica (West Indies)",
+        "latitude": 18.109581,
+        "longitude": -77.297508
+    },
+    {
+        "location": "Japan",
+        "latitude": 36.204824,
+        "longitude": 138.252924
+    },
+    {
+        "location": "Joshua Tree National Park (Calif)",
+        "latitude": 33.873415,
+        "longitude": -115.9009923
+    },
+    {
+        "location": "KETCHUM (IDAHO)",
+        "latitude": 43.6807402,
+        "longitude": -114.3636619
+    },
+    {
+        "location": "Kabul (Afghanistan)",
+        "latitude": 34.5553494,
+        "longitude": 69.207486
+    },
+    {
+        "location": "Kalamazoo (Mich)",
+        "latitude": 42.2917069,
+        "longitude": -85.5872286
+    },
+    {
+        "location": "Kansas",
+        "latitude": 39.011902,
+        "longitude": -98.4842465
+    },
+    {
+        "location": "Kansas City (Mo)",
+        "latitude": 39.0997265,
+        "longitude": -94.5785667
+    },
+    {
+        "location": "Kashmir and Jammu (India)",
+        "latitude": 32.7266016,
+        "longitude": 74.8570259
+    },
+    {
+        "location": "Kensington (Brooklyn, NY)",
+        "latitude": 40.63852019999999,
+        "longitude": -73.97318729999999
+    },
+    {
+        "location": "Kentucky",
+        "latitude": 37.8393332,
+        "longitude": -84.2700179
+    },
+    {
+        "location": "Kenya",
+        "latitude": -0.023559,
+        "longitude": 37.906193
+    },
+    {
+        "location": "Kips Bay (Manhattan, NY)",
+        "latitude": 40.74232920000001,
+        "longitude": -73.9800645
+    },
+    {
+        "location": "Knoxville (Tenn)",
+        "latitude": 35.9606384,
+        "longitude": -83.9207392
+    },
+    {
+        "location": "Lagos (Nigeria)",
+        "latitude": 6.5243793,
+        "longitude": 3.3792057
+    },
+    {
+        "location": "Las Vegas (Nev)",
+        "latitude": 36.1699412,
+        "longitude": -115.1398296
+    },
+    {
+        "location": "Latin America",
+        "latitude": -4.4420385,
+        "longitude": -61.32685350000001
+    },
+    {
+        "location": "Libya",
+        "latitude": 26.3351,
+        "longitude": 17.228331
+    },
+    {
+        "location": "Lithuania",
+        "latitude": 55.169438,
+        "longitude": 23.881275
+    },
+    {
+        "location": "Little Italy (Manhattan, NY)",
+        "latitude": 40.7191413,
+        "longitude": -73.9973273
+    },
+    {
+        "location": "London (England)",
+        "latitude": 51.5072178,
+        "longitude": -0.1275862
+    },
+    {
+        "location": "Long Island City (Queens, NY)",
+        "latitude": 40.744679,
+        "longitude": -73.9485424
+    },
+    {
+        "location": "Los Angeles (Calif)",
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+    },
+    {
+        "location": "Los Cabos (Mexico)",
+        "latitude": 23.0798696,
+        "longitude": -109.7124043
+    },
+    {
+        "location": "Louisiana",
+        "latitude": 30.9842977,
+        "longitude": -91.96233269999999
+    },
+    {
+        "location": "Lower East Side (Manhattan, NY)",
+        "latitude": 40.715033,
+        "longitude": -73.9842724
+    },
+    {
+        "location": "MAGNITOGORSK (RUSSIA)",
+        "latitude": 53.3927214,
+        "longitude": 59.06230669999999
+    },
+    {
+        "location": "Madison Avenue (Manhattan, NY)",
+        "latitude": 40.7421612,
+        "longitude": -73.9870435
+    },
+    {
+        "location": "Maine",
+        "latitude": 45.253783,
+        "longitude": -69.4454689
+    },
+    {
+        "location": "Malaysia",
+        "latitude": 4.210484,
+        "longitude": 101.975766
+    },
+    {
+        "location": "Mali",
+        "latitude": 17.570692,
+        "longitude": -3.996166
+    },
+    {
+        "location": "Manbij (Syria)",
+        "latitude": 36.5352848,
+        "longitude": 37.9678652
+    },
+    {
+        "location": "Manchester (England)",
+        "latitude": 53.4807593,
+        "longitude": -2.2426305
+    },
+    {
+        "location": "Manhattan (NYC)",
+        "latitude": 40.7830603,
+        "longitude": -73.9712488
+    },
+    {
+        "location": "Manila (Philippines)",
+        "latitude": 14.5995124,
+        "longitude": 120.9842195
+    },
+    {
+        "location": "Marianna (Fla)",
+        "latitude": 30.7743596,
+        "longitude": -85.2268735
+    },
+    {
+        "location": "Marine Corps Recruit Depot Parris Island (SC)",
+        "latitude": 32.3513924,
+        "longitude": -80.6891655
+    },
+    {
+        "location": "Marine Park (Brooklyn, NY)",
+        "latitude": 40.6113817,
+        "longitude": -73.93318649999999
+    },
+    {
+        "location": "Massachusetts",
+        "latitude": 42.4072107,
+        "longitude": -71.3824374
+    },
+    {
+        "location": "Massapequa Park (NY)",
+        "latitude": 40.6804893,
+        "longitude": -73.4553119
+    },
+    {
+        "location": "McAllen (Tex)",
+        "latitude": 26.2034071,
+        "longitude": -98.23001239999999
+    },
+    {
+        "location": "Meatpacking District (Manhattan, NY)",
+        "latitude": 40.7409865,
+        "longitude": -74.0076108
+    },
+    {
+        "location": "Melbourne (Australia)",
+        "latitude": -37.8136276,
+        "longitude": 144.9630576
+    },
+    {
+        "location": "Memphis (Tenn)",
+        "latitude": 35.1495343,
+        "longitude": -90.0489801
+    },
+    {
+        "location": "Mexico",
+        "latitude": 23.634501,
+        "longitude": -102.552784
+    },
+    {
+        "location": "Mexico City (Mexico)",
+        "latitude": 19.4326077,
+        "longitude": -99.133208
+    },
+    {
+        "location": "Miami (Fla)",
+        "latitude": 25.7616798,
+        "longitude": -80.1917902
+    },
+    {
+        "location": "Michigan",
+        "latitude": 44.3148443,
+        "longitude": -85.60236429999999
+    },
+    {
+        "location": "Midtown Area (Manhattan, NY)",
+        "latitude": 40.7549309,
+        "longitude": -73.9840195
+    },
+    {
+        "location": "Midwestern States (US)",
+        "latitude": 37.09024,
+        "longitude": -95.712891
+    },
+    {
+        "location": "Milan (Italy)",
+        "latitude": 45.4642035,
+        "longitude": 9.189982
+    },
+    {
+        "location": "Milwaukee (Wis)",
+        "latitude": 43.0389025,
+        "longitude": -87.9064736
+    },
+    {
+        "location": "Minnesota",
+        "latitude": 46.729553,
+        "longitude": -94.6858998
+    },
+    {
+        "location": "Montana",
+        "latitude": 46.8796822,
+        "longitude": -110.3625658
+    },
+    {
+        "location": "Montgomery (Ala)",
+        "latitude": 32.3792233,
+        "longitude": -86.3077368
+    },
+    {
+        "location": "Moscow (Russia)",
+        "latitude": 55.755826,
+        "longitude": 37.6173
+    },
+    {
+        "location": "Munich (Germany)",
+        "latitude": 48.1351253,
+        "longitude": 11.5819806
+    },
+    {
+        "location": "Murray Hill (Manhattan, NY)",
+        "latitude": 40.7478792,
+        "longitude": -73.9756567
+    },
+    {
+        "location": "Myanmar",
+        "latitude": 21.916221,
+        "longitude": 95.955974
+    },
+    {
+        "location": "Nairobi (Kenya)",
+        "latitude": -1.2920659,
+        "longitude": 36.8219462
+    },
+    {
+        "location": "Nashville (Tenn)",
+        "latitude": 36.1626638,
+        "longitude": -86.7816016
+    },
+    {
+        "location": "Nepal",
+        "latitude": 28.394857,
+        "longitude": 84.12400799999999
+    },
+    {
+        "location": "Netherlands",
+        "latitude": 52.132633,
+        "longitude": 5.291265999999999
+    },
+    {
+        "location": "Nevada",
+        "latitude": 38.8026097,
+        "longitude": -116.419389
+    },
+    {
+        "location": "New Hampshire",
+        "latitude": 43.1938516,
+        "longitude": -71.5723953
+    },
+    {
+        "location": "New Haven (Conn)",
+        "latitude": 41.308274,
+        "longitude": -72.9278835
+    },
+    {
+        "location": "New Jersey",
+        "latitude": 40.0583238,
+        "longitude": -74.4056612
+    },
+    {
+        "location": "New Orleans (La)",
+        "latitude": 29.95106579999999,
+        "longitude": -90.0715323
+    },
+    {
+        "location": "New York City",
+        "latitude": 40.7127753,
+        "longitude": -74.0059728
+    },
+    {
+        "location": "New York State",
+        "latitude": 43.2994285,
+        "longitude": -74.21793260000001
+    },
+    {
+        "location": "Newark (NJ)",
+        "latitude": 40.735657,
+        "longitude": -74.1723667
+    },
+    {
+        "location": "Newtown (Conn)",
+        "latitude": 41.4141172,
+        "longitude": -73.3035651
+    },
+    {
+        "location": "Nicaragua",
+        "latitude": 12.865416,
+        "longitude": -85.207229
+    },
+    {
+        "location": "Niger",
+        "latitude": 17.607789,
+        "longitude": 8.081666
+    },
+    {
+        "location": "Nigeria",
+        "latitude": 9.081999,
+        "longitude": 8.675277
+    },
+    {
+        "location": "Niue",
+        "latitude": -19.054445,
+        "longitude": -169.867233
+    },
+    {
+        "location": "NoLIta (Manhattan, NY)",
+        "latitude": 40.7230413,
+        "longitude": -73.99486069999999
+    },
+    {
+        "location": "NoMad (Manhattan, NY)",
+        "latitude": 40.7446072,
+        "longitude": -73.9874105
+    },
+    {
+        "location": "North Carolina",
+        "latitude": 35.7595731,
+        "longitude": -79.01929969999999
+    },
+    {
+        "location": "North Korea",
+        "latitude": 40.339852,
+        "longitude": 127.510093
+    },
+    {
+        "location": "Norway",
+        "latitude": 60.47202399999999,
+        "longitude": 8.468945999999999
+    },
+    {
+        "location": "Oakland (Calif)",
+        "latitude": 37.8043514,
+        "longitude": -122.2711639
+    },
+    {
+        "location": "Oaxaca (Mexico)",
+        "latitude": 17.0731842,
+        "longitude": -96.7265889
+    },
+    {
+        "location": "Ohio",
+        "latitude": 40.4172871,
+        "longitude": -82.90712300000001
+    },
+    {
+        "location": "Orlando (Fla)",
+        "latitude": 28.5383832,
+        "longitude": -81.3789269
+    },
+    {
+        "location": "Otisville (NY)",
+        "latitude": 41.47342680000001,
+        "longitude": -74.5384933
+    },
+    {
+        "location": "Ottawa (Ontario)",
+        "latitude": 45.4215296,
+        "longitude": -75.69719309999999
+    },
+    {
+        "location": "Pacific Northwestern States (US)",
+        "latitude": 37.09024,
+        "longitude": -95.712891
+    },
+    {
+        "location": "Pacific Ocean",
+        "latitude": -8.783195,
+        "longitude": -124.508523
+    },
+    {
+        "location": "Pakistan",
+        "latitude": 30.375321,
+        "longitude": 69.34511599999999
+    },
+    {
+        "location": "Palm Beach (Fla)",
+        "latitude": 26.7056206,
+        "longitude": -80.0364297
+    },
+    {
+        "location": "Paris (France)",
+        "latitude": 48.856614,
+        "longitude": 2.3522219
+    },
+    {
+        "location": "Park City (Utah)",
+        "latitude": 40.6460622,
+        "longitude": -111.4979729
+    },
+    {
+        "location": "Park Slope (Brooklyn, NY)",
+        "latitude": 40.6710672,
+        "longitude": -73.98142279999999
+    },
+    {
+        "location": "Paterson (NJ)",
+        "latitude": 40.9167654,
+        "longitude": -74.17181099999999
+    },
+    {
+        "location": "Pennsylvania",
+        "latitude": 41.2033216,
+        "longitude": -77.1945247
+    },
+    {
+        "location": "Perth (Australia)",
+        "latitude": -31.9523123,
+        "longitude": 115.861309
+    },
+    {
+        "location": "Peru",
+        "latitude": -9.189967,
+        "longitude": -75.015152
+    },
+    {
+        "location": "Philadelphia (Pa)",
+        "latitude": 39.9525839,
+        "longitude": -75.1652215
+    },
+    {
+        "location": "Philippines",
+        "latitude": 12.879721,
+        "longitude": 121.774017
+    },
+    {
+        "location": "Phoenix (Ariz)",
+        "latitude": 33.4483771,
+        "longitude": -112.0740373
+    },
+    {
+        "location": "Pittsburgh (Pa)",
+        "latitude": 40.44062479999999,
+        "longitude": -79.9958864
+    },
+    {
+        "location": "Poland",
+        "latitude": 51.919438,
+        "longitude": 19.145136
+    },
+    {
+        "location": "Portland (Ore)",
+        "latitude": 45.515232,
+        "longitude": -122.6783853
+    },
+    {
+        "location": "Providence (RI)",
+        "latitude": 41.8239891,
+        "longitude": -71.4128343
+    },
+    {
+        "location": "Puerto Rico",
+        "latitude": 18.220833,
+        "longitude": -66.590149
+    },
+    {
+        "location": "Qatar",
+        "latitude": 25.354826,
+        "longitude": 51.183884
+    },
+    {
+        "location": "Queens (NYC)",
+        "latitude": 40.7282239,
+        "longitude": -73.7948516
+    },
+    {
+        "location": "Rhode Island",
+        "latitude": 41.5800945,
+        "longitude": -71.4774291
+    },
+    {
+        "location": "Rhone Valley (France)",
+        "latitude": 44.952398019338,
+        "longitude": 6.484082302400288
+    },
+    {
+        "location": "Richmond (Va)",
+        "latitude": 37.5407246,
+        "longitude": -77.4360481
+    },
+    {
+        "location": "Riyadh (Saudi Arabia)",
+        "latitude": 24.7135517,
+        "longitude": 46.6752957
+    },
+    {
+        "location": "Rochester (NY)",
+        "latitude": 43.15657789999999,
+        "longitude": -77.6088465
+    },
+    {
+        "location": "Russia",
+        "latitude": 61.52401,
+        "longitude": 105.318756
+    },
+    {
+        "location": "SEBRING (FLA)",
+        "latitude": 27.495592,
+        "longitude": -81.440907
+    },
+    {
+        "location": "Sabarimala (India)",
+        "latitude": 9.4320761,
+        "longitude": 77.08200149999999
+    },
+    {
+        "location": "Sacramento (Calif)",
+        "latitude": 38.5815719,
+        "longitude": -121.4943996
+    },
+    {
+        "location": "Sagaponack (NY)",
+        "latitude": 40.9253776,
+        "longitude": -72.2781375
+    },
+    {
+        "location": "Salvador (Brazil)",
+        "latitude": -12.9777334,
+        "longitude": -38.501648
+    },
+    {
+        "location": "San Antonio (Tex)",
+        "latitude": 29.4251905,
+        "longitude": -98.4945922
+    },
+    {
+        "location": "San Diego (Calif)",
+        "latitude": 32.715738,
+        "longitude": -117.1610838
+    },
+    {
+        "location": "San Francisco (Calif)",
+        "latitude": 37.7749295,
+        "longitude": -122.4194155
+    },
+    {
+        "location": "San Francisco Bay Area (Calif)",
+        "latitude": 37.7749295,
+        "longitude": -122.4194155
+    },
+    {
+        "location": "San Juan (Puerto Rico)",
+        "latitude": 18.4655394,
+        "longitude": -66.1057355
+    },
+    {
+        "location": "Saudi Arabia",
+        "latitude": 23.885942,
+        "longitude": 45.079162
+    },
+    {
+        "location": "Scotland",
+        "latitude": 56.49067119999999,
+        "longitude": -4.2026458
+    },
+    {
+        "location": "Scottsdale (Ariz)",
+        "latitude": 33.4941704,
+        "longitude": -111.9260519
+    },
+    {
+        "location": "Seattle (Wash)",
+        "latitude": 47.6062095,
+        "longitude": -122.3320708
+    },
+    {
+        "location": "Segovia (Spain)",
+        "latitude": 40.9429032,
+        "longitude": -4.108806899999999
+    },
+    {
+        "location": "Selma (Ala)",
+        "latitude": 32.4073589,
+        "longitude": -87.02110069999999
+    },
+    {
+        "location": "Senegal",
+        "latitude": 14.497401,
+        "longitude": -14.452362
+    },
+    {
+        "location": "Sheepshead Bay (Brooklyn, NY)",
+        "latitude": 40.5953955,
+        "longitude": -73.94575379999999
+    },
+    {
+        "location": "Sidmouth (England)",
+        "latitude": 50.67865,
+        "longitude": -3.23756
+    },
+    {
+        "location": "Silicon Valley (Calif)",
+        "latitude": 37.387474,
+        "longitude": -122.0575434
+    },
+    {
+        "location": "Sinaloa (Mexico)",
+        "latitude": 25.1721091,
+        "longitude": -107.4795173
+    },
+    {
+        "location": "Singapore",
+        "latitude": 1.352083,
+        "longitude": 103.819836
+    },
+    {
+        "location": "Sinjar (Iraq)",
+        "latitude": 36.3142158,
+        "longitude": 41.8624425
+    },
+    {
+        "location": "SoHo (Manhattan, NY)",
+        "latitude": 40.7245908,
+        "longitude": -74.00191740000001
+    },
+    {
+        "location": "Somers (NY)",
+        "latitude": 41.29963050000001,
+        "longitude": -73.7360175
+    },
+    {
+        "location": "Sonoma County (Calif)",
+        "latitude": 38.5779555,
+        "longitude": -122.9888319
+    },
+    {
+        "location": "South Africa",
+        "latitude": -30.559482,
+        "longitude": 22.937506
+    },
+    {
+        "location": "South Bend (Ind)",
+        "latitude": 41.6763545,
+        "longitude": -86.25198979999999
+    },
+    {
+        "location": "South Carolina",
+        "latitude": 33.836081,
+        "longitude": -81.1637245
+    },
+    {
+        "location": "South Korea",
+        "latitude": 35.907757,
+        "longitude": 127.766922
+    },
+    {
+        "location": "Southwestern States (US)",
+        "latitude": 37.09024,
+        "longitude": -95.712891
+    },
+    {
+        "location": "Spain",
+        "latitude": 40.46366700000001,
+        "longitude": -3.74922
+    },
+    {
+        "location": "St Louis (Mo)",
+        "latitude": 38.6270025,
+        "longitude": -90.19940419999999
+    },
+    {
+        "location": "St Louis County (Mo)",
+        "latitude": 38.6103023,
+        "longitude": -90.4125181
+    },
+    {
+        "location": "St Moritz (Switzerland)",
+        "latitude": 46.4907973,
+        "longitude": 9.8355079
+    },
+    {
+        "location": "Staten Island (NYC)",
+        "latitude": 40.5795317,
+        "longitude": -74.1502007
+    },
+    {
+        "location": "Stratford (Conn)",
+        "latitude": 41.18454149999999,
+        "longitude": -73.1331651
+    },
+    {
+        "location": "Sudan",
+        "latitude": 12.862807,
+        "longitude": 30.217636
+    },
+    {
+        "location": "Sunnyside (Queens, NY)",
+        "latitude": 40.7432759,
+        "longitude": -73.9196324
+    },
+    {
+        "location": "Sweden",
+        "latitude": 60.12816100000001,
+        "longitude": 18.643501
+    },
+    {
+        "location": "Switzerland",
+        "latitude": 46.818188,
+        "longitude": 8.227511999999999
+    },
+    {
+        "location": "Syria",
+        "latitude": 34.80207499999999,
+        "longitude": 38.996815
+    },
+    {
+        "location": "Tasmania (Australia)",
+        "latitude": -42.0409059,
+        "longitude": 146.8087322
+    },
+    {
+        "location": "Tehran (Iran)",
+        "latitude": 35.6891975,
+        "longitude": 51.3889736
+    },
+    {
+        "location": "Tennessee",
+        "latitude": 35.5174913,
+        "longitude": -86.5804473
+    },
+    {
+        "location": "Texas",
+        "latitude": 31.9685988,
+        "longitude": -99.9018131
+    },
+    {
+        "location": "Throgs Neck (Bronx, NY)",
+        "latitude": 40.818399,
+        "longitude": -73.8213213
+    },
+    {
+        "location": "Tijuana (Mexico)",
+        "latitude": 32.5149469,
+        "longitude": -117.0382471
+    },
+    {
+        "location": "Tonga",
+        "latitude": -21.178986,
+        "longitude": -175.198242
+    },
+    {
+        "location": "Toronto (Ontario)",
+        "latitude": 43.653226,
+        "longitude": -79.3831843
+    },
+    {
+        "location": "Torrance (Calif)",
+        "latitude": 33.8358492,
+        "longitude": -118.3406288
+    },
+    {
+        "location": "Troy (NY)",
+        "latitude": 42.7284117,
+        "longitude": -73.69178509999999
+    },
+    {
+        "location": "Turkey",
+        "latitude": 38.963745,
+        "longitude": 35.243322
+    },
+    {
+        "location": "USSR (Former Soviet Union)",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "location": "United Arab Emirates",
+        "latitude": 23.424076,
+        "longitude": 53.847818
+    },
+    {
+        "location": "United States",
+        "latitude": 37.09024,
+        "longitude": -95.712891
+    },
+    {
+        "location": "Upper East Side (Manhattan, NY)",
+        "latitude": 40.7735649,
+        "longitude": -73.9565551
+    },
+    {
+        "location": "Upper West Side (Manhattan, NY)",
+        "latitude": 40.7870106,
+        "longitude": -73.9753676
+    },
+    {
+        "location": "Uruguay",
+        "latitude": -32.522779,
+        "longitude": -55.765835
+    },
+    {
+        "location": "Utah",
+        "latitude": 39.3209801,
+        "longitude": -111.0937311
+    },
+    {
+        "location": "Vanuatu",
+        "latitude": -15.376706,
+        "longitude": 166.959158
+    },
+    {
+        "location": "Vatican City",
+        "latitude": 41.902916,
+        "longitude": 12.453389
+    },
+    {
+        "location": "Venezuela",
+        "latitude": 6.42375,
+        "longitude": -66.58973
+    },
+    {
+        "location": "Vermont",
+        "latitude": 44.5588028,
+        "longitude": -72.57784149999999
+    },
+    {
+        "location": "Vietnam",
+        "latitude": 14.058324,
+        "longitude": 108.277199
+    },
+    {
+        "location": "Vinalhaven (Me)",
+        "latitude": 44.04873449999999,
+        "longitude": -68.836749
+    },
+    {
+        "location": "Virginia",
+        "latitude": 37.4315734,
+        "longitude": -78.6568942
+    },
+    {
+        "location": "Wardak (Afghanistan)",
+        "latitude": 34.3513494,
+        "longitude": 68.2385339
+    },
+    {
+        "location": "Washington (DC)",
+        "latitude": 38.9071923,
+        "longitude": -77.0368707
+    },
+    {
+        "location": "Washington (State)",
+        "latitude": 47.7510741,
+        "longitude": -120.7401386
+    },
+    {
+        "location": "Washington Heights (Manhattan, NY)",
+        "latitude": 40.8417082,
+        "longitude": -73.9393554
+    },
+    {
+        "location": "West Africa",
+        "latitude": 13.531665,
+        "longitude": -2.4604145
+    },
+    {
+        "location": "West Bank",
+        "latitude": 31.9465703,
+        "longitude": 35.3027226
+    },
+    {
+        "location": "West Hollywood (Calif)",
+        "latitude": 34.0900091,
+        "longitude": -118.3617443
+    },
+    {
+        "location": "West Village (Manhattan, NY)",
+        "latitude": 40.73468,
+        "longitude": -74.0047554
+    },
+    {
+        "location": "West Virginia",
+        "latitude": 38.5976262,
+        "longitude": -80.4549026
+    },
+    {
+        "location": "Westbrook (Me)",
+        "latitude": 43.6770252,
+        "longitude": -70.3711617
+    },
+    {
+        "location": "Westchester County (NY)",
+        "latitude": 41.1220194,
+        "longitude": -73.7948516
+    },
+    {
+        "location": "Williamsburg (Brooklyn, NY)",
+        "latitude": 40.7081156,
+        "longitude": -73.9570696
+    },
+    {
+        "location": "Wisconsin",
+        "latitude": 43.7844397,
+        "longitude": -88.7878678
+    },
+    {
+        "location": "Worcester (Mass)",
+        "latitude": 42.2625932,
+        "longitude": -71.8022934
+    },
+    {
+        "location": "Wounded Knee (SD)",
+        "latitude": 43.1405442,
+        "longitude": -102.365715
+    },
+    {
+        "location": "Yemen",
+        "latitude": 15.552727,
+        "longitude": 48.516388
+    },
+    {
+        "location": "Yugoslavia",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "location": "Zimbabwe",
+        "latitude": -19.015438,
+        "longitude": 29.154857
+    }
+]

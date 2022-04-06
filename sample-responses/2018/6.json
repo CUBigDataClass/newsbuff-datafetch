@@ -12,8 +12,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/17/world/europe/brexit-delayed-may-corbyn.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/world/18brexit/18brexit-articleLarge.jpg",
-            "lat": "48.8692",
-            "lng": "2.6886"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Central Park (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/17/nyregion/is-a-planned-monument-to-womens-rights-racist.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/03/nyregion/03comments/20big01-articleLarge.jpg",
-            "lat": "61.0500",
-            "lng": "22.3500"
+            "lat": 40.7812199,
+            "lng": -73.9665138
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Washington (DC)",
             "webURL": "https://www.nytimes.com/2019/01/17/us/politics/state-department-shutdown-return-work.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/us/politics/18dc-state/merlin_143041221_e5c94924-f3cb-4461-b249-622b857544fc-articleLarge.jpg",
-            "lat": "42.9332",
-            "lng": "-71.1833"
+            "lat": 38.9071923,
+            "lng": -77.0368707
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Sudan",
             "webURL": "https://www.nytimes.com/2019/01/17/world/africa/omar-al-bashir-protests-sudan.html",
             "imageURL": "null",
-            "lat": "37.9772",
-            "lng": "140.7819"
+            "lat": 12.862807,
+            "lng": 30.217636
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/17/world/europe/prince-philip-car-accident.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/world/18prince/18prince-articleLarge.jpg",
-            "lat": "4.9500",
-            "lng": "8.3250"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Chicago (Ill)",
             "webURL": "https://www.nytimes.com/2019/01/17/us/laquan-mcdonald-officers-acquitted.html",
             "imageURL": "null",
-            "lat": "50.9856",
-            "lng": "12.9811"
+            "lat": 41.8781136,
+            "lng": -87.6297982
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/17/opinion/la-teachers-strike.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/17/opinion/17kaplan-4/17kaplan-4-articleLarge.jpg",
-            "lat": "41.7500",
-            "lng": "13.1500"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "California",
             "webURL": "https://www.nytimes.com/2019/01/17/business/pge-bankruptcy-solar-power.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/business/19utility01/merlin_55531721_6e23833e-057d-4d1b-a6eb-9aa6d1815b98-articleLarge.jpg",
-            "lat": "52.2883",
-            "lng": "8.9167"
+            "lat": 36.778261,
+            "lng": -119.4179324
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "North Korea",
             "webURL": "https://www.nytimes.com/2019/01/17/world/asia/north-korea-missile-kim-jong-un.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/world/asia/28nkorea-missile-promo/28nkorea-missile-promo-articleLarge.jpg",
-            "lat": "39.1956",
-            "lng": "141.1161"
+            "lat": 40.339852,
+            "lng": 127.510093
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/theater/whats-new-in-nyc-theater.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-theater/18list-theater-articleLarge.jpg",
-            "lat": "44.2297",
-            "lng": "43.1481"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/design/art-and-museums-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-art/18list-art-articleLarge.jpg",
-            "lat": "52.4502",
-            "lng": "71.9597"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/dance/dance-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-dance/18list-dance-articleLarge.jpg",
-            "lat": "22.8697",
-            "lng": "88.5002"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/music/classical-music-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-classical/merlin_145381020_281312e4-c840-414e-9614-e9fc3c7e7773-articleLarge.jpg",
-            "lat": "50.0042",
-            "lng": "5.7200"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/comedy-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-comedy/merlin_143304669_7798d11d-cead-4de9-a37e-8c7634470cd0-articleLarge.jpg",
-            "lat": "42.4650",
-            "lng": "11.7519"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/movies/film-series-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-movies/18list-movies-articleLarge.jpg",
-            "lat": "46.1000",
-            "lng": "13.1333"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/music/pop-rock-and-jazz-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-pop/18list-pop-articleLarge.jpg",
-            "lat": "50.7775",
-            "lng": "7.9547"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/17/arts/events-for-children-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/arts/18list-kids/18list-kids-articleLarge.jpg",
-            "lat": "32.6500",
-            "lng": "-16.9667"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "New Jersey",
             "webURL": "https://www.nytimes.com/2019/01/17/nyregion/nj-minimum-wage.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/18/nyregion/18njwage/18njwage-articleLarge.jpg",
-            "lat": "-29.5869",
-            "lng": "-51.3758"
+            "lat": 40.0583238,
+            "lng": -74.4056612
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Melbourne (Australia)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/17/dining/capitano-australia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/17fare-ONE-slide-2XUJ/23FARE-ONE-slide-2XUJ-articleLarge.jpg",
-            "lat": "35.1167",
-            "lng": "-5.9500"
+            "lat": -37.8136276,
+            "lng": 144.9630576
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Melbourne (Australia)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/17/dining/olive-jar-australia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/dining/17fare-TWO-slide-5157/23FARE-TWO-slide-5157-articleLarge.jpg",
-            "lat": "47.7569",
-            "lng": "-122.1478"
+            "lat": -37.8136276,
+            "lng": 144.9630576
         }
     ]
 }

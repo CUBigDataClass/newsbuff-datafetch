@@ -1,11 +1,11 @@
 #"nytimes"
 
 import datetime
+import json
 import sys
 from datetime import datetime
-from pydoc import cli
+import csv
 
-import requests
 from pymongo import errors
 from pynytimes import NYTAPI
 from sqlalchemy import false
@@ -45,8 +45,8 @@ def main():
     mycol2 = mydb["customers2"]
     mycol3 = mydb["customers3"]
 
+    # Looping to fetch the data repeatedly for specified period of time.
     for year in range(2019, 2020, 1):
-        # Looping to fetch the data repeatedly for specified period of time.
         myArticleNoLocation = []
         myArticleOneLocation = []
         myArticleManyLocations = []
@@ -88,10 +88,16 @@ def main():
                     
                     elif(len(location) == 1):
 
-                        myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , 
-                        "section":article['section_name'] , "subsection":subsection_name , 
-                        "headline":article['abstract'] , "description":article['lead_paragraph'] , 
-                        "location":location[0] , "webURL":article['web_url'] , "imageURL":imageURL})
+                        with open("geolocations.json", 'r', encoding='utf-8') as f:
+                            geolocations = json.load(f)
+                            for value in enumerate(geolocations):
+                                if (value[1]["location"] == location[0]):
+
+                                    myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , 
+                                    "section":article['section_name'] , "subsection":subsection_name , 
+                                    "headline":article['abstract'] , "description":article['lead_paragraph'] , 
+                                    "location":location[0] , "latitude":value[1]["latitude"], "longitude":value[1]["longitude"],
+                                    "webURL":article['web_url'] , "imageURL":imageURL})
                     
                     else:
                         myArticleManyLocations.append({"year": year, "month": month, "datetime":dateTime , 
@@ -112,43 +118,33 @@ def main():
 
             except:
                 e  = sys.exc_info()
-                exceptionDetails = {"year": year, "month": month, "failureReason": e}
-                exceptionData.append(exceptionDetails)
+                #exceptionDetails is a list consisting of year, month, exception reason.
+                exceptionData.append(year)
+                exceptionData.append(month)
+                exceptionData.append(e)
+
+                print("Exception data", exceptionData)
+
+                #Writing the failed calls details into FailedCalls.csv file
+                with open('FailedCalls.csv', 'a', newline='') as f:
+                    writer = csv.writer(f)
+                    writer.writerow(exceptionData)
+                f.close()
 
     try:
-        mycol1.insert_many(myArticleNoLocation,ordered=False, bypass_document_validation=True)
-        mycol2.insert_many(myArticleOneLocation,ordered=False, bypass_document_validation=True)
-        mycol3.insert_many(myArticleManyLocations,ordered=False, bypass_document_validation=True)
+        mycol1.insert_many(myArticleNoLocation)
+        mycol2.insert_many(myArticleOneLocation)
+        mycol3.insert_many(myArticleManyLocations)
+        '''
+        mycol1.insert_many(myArticleNoLocation, ordered=false)
+        mycol2.insert_many(myArticleOneLocation, ordered=false)
+        mycol3.insert_many(myArticleManyLocations, ordered=false)
+        '''
 
     except errors.BulkWriteError as e:
         print(f"Articles bulk insertion error {e}")
+    
 
-
-            
-
-    # Writing exception details to csv file
-    fileName = "FailedCalls.txt"
-
-    def getFailedCalls():
-        if len(exceptionData) < 1:
-            exceptionDict = {"runtime": currentTime, "exceptionDetails": "No failed calls in this run."}
-        else:
-            exceptionDict = {"runtime": currentTime, "exceptionDetails": exceptionData}
-        return exceptionDict
-
-    # Write failed calls details into FailedCalls.json file
-    exceptions = getFailedCalls()
-    """
-    with open('FailedCalls.json', mode='a+', encoding='utf-8') as f:
-        json.dump(exceptions, f, ensure_ascii=False, indent=4, sort_keys=True, default=str)
-        f.write(",")
-    """
-
-    file = open(fileName, 'a', newline='')
-    file.write(str(exceptions)+"\n")
-    file.close
-
-    print(exceptionData)
     print("Number of articles with No location:", len(myArticleNoLocation))
     print("Number of articles with One location:", len(myArticleOneLocation))
     print("Number of articles with Many locations:", len(myArticleManyLocations))

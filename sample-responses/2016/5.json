@@ -12,8 +12,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/03/obituaries/edgar-hilsenrath-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/obituaries/03HILSENRATH1/merlin_148650180_7fb02236-1aa6-4de2-a2bb-062855f422b1-articleLarge.jpg",
-            "lat": "50.9272",
-            "lng": "11.5864"
+            "lat": 51.165691,
+            "lng": 10.451526
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/03/world/europe/yellow-vest-france-arrest-eric-drouet.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/world/04france-print/merlin_147420558_4083f570-177a-44dc-b4af-a04e8b4a395f-articleLarge.jpg",
-            "lat": "-22.7611",
-            "lng": "-47.1542"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Bedminster (NJ)",
             "webURL": "https://www.nytimes.com/2019/01/03/us/trump-golf-club-illegal-immigrant-employee.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/us/04trumpgolfclub-print/04trumpgolfclub-articleLarge.jpg",
-            "lat": "45.9160",
-            "lng": "6.1330"
+            "lat": 40.669264,
+            "lng": -74.68039999999999
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/03/business/china-consumer-economy-apple-iphone.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/business/04chinaconsumer-sub/merlin_116175086_47543241-6355-43b3-b293-5a63f115ad52-articleLarge.jpg",
-            "lat": "35.1822",
-            "lng": "35.9403"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/nyregion/metrocards-half-price.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/nyregion/04fares1/merlin_138827598_2bdd37b7-8df9-4d85-96f7-26a397f830cd-articleLarge.jpg",
-            "lat": "41.4948",
-            "lng": "-81.5348"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "ANTARCTIC REGIONS",
             "webURL": "https://www.nytimes.com/2019/01/03/opinion/antarctica-obrady-rudd-solo-crossing.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/02/opinion/02Roberts/02Roberts-articleLarge.jpg",
-            "lat": "16.5860",
-            "lng": "79.4900"
+            "lat": -75.250973,
+            "lng": -0.071389
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Perth (Australia)",
             "webURL": "https://www.nytimes.com/2019/01/03/dining/millbrook-winery-australia-review.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/03/dining/03FARE-slide-CCML-promo/03FARE-slide-CCML-promo-articleLarge-v2.jpg",
-            "lat": "32.0697",
-            "lng": "34.8117"
+            "lat": -31.9523123,
+            "lng": 115.861309
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "London (England)",
             "webURL": "https://www.nytimes.com/2019/01/03/theater/london-theaters-toilets-bathrooms-women.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/arts/05TOILETS1/merlin_148707990_5f89b63f-3780-4903-b324-9ae3e9c6b8ab-articleLarge.jpg",
-            "lat": "39.8659",
-            "lng": "-83.0694"
+            "lat": null,
+            "lng": null
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Providence (RI)",
             "webURL": "https://www.nytimes.com/2019/01/03/travel/in-providence-ri-bustle-gives-way-to-simple-pleasures.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/travel/06bites-providence1/06bites-providence1-articleLarge.jpg",
-            "lat": "-38.8167",
-            "lng": "-68.0667"
+            "lat": 41.8239891,
+            "lng": -71.4128343
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/03/business/dealbook/apple-suppliers-stocks.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/business/dealbook/04db-applesuppliers2/04db-applesuppliers2-articleLarge.png",
-            "lat": "25.4639",
-            "lng": "-108.0794"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/arts/dance/dance-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04list-dance/merlin_148606356_24e84045-f74e-4f9a-be83-d277c0cc60fa-articleLarge.jpg",
-            "lat": "-23.0589",
-            "lng": "-51.0358"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/arts/events-for-children-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04list-kids/merlin_148658244_7221c4dd-39e7-4b3c-a0b0-f686146d1171-articleLarge.jpg",
-            "lat": "40.2417",
-            "lng": "-75.2812"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/movies/film-series-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04list-movies/merlin_148601373_1d1cf40b-b89f-4f61-89ea-d03572a5938d-articleLarge.jpg",
-            "lat": "51.3558",
-            "lng": "11.1011"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/arts/design/art-and-museums-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04list-art/merlin_144262452_caf20d12-871e-4e7f-9a2a-f3f693f17840-articleLarge.jpg",
-            "lat": "-34.4500",
-            "lng": "150.4500"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/arts/music/classical-music-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04list-classical/merlin_148600110_348a483c-33ce-4649-888b-fd76282fd5dc-articleLarge.jpg",
-            "lat": "49.7064",
-            "lng": "37.6167"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/theater/whats-new-in-nyc-theater.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04list-theater/merlin_144869241_c753e7ca-41d0-4f62-a764-776a9abc905a-articleLarge.jpg",
-            "lat": "-28.7833",
-            "lng": "28.2333"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/arts/comedy-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04list-comedy/merlin_148660818_091d38e7-a702-4ec3-91eb-f0a10930e521-articleLarge.jpg",
-            "lat": "-22.4947",
-            "lng": "-48.5581"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/03/arts/music/pop-rock-and-jazz-in-nyc-this-week.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/arts/04list-pop/merlin_148660815_36846fc5-9aae-4f58-a2c4-5dea4f20fda1-articleLarge.jpg",
-            "lat": "64.8833",
-            "lng": "28.9167"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "North Carolina",
             "webURL": "https://www.nytimes.com/2019/01/03/us/politics/mark-harris-nc-congress.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/us/politics/04carolina-print/merlin_146488227_c104ef6b-ccd4-4f67-91a3-e642f350076d-articleLarge.jpg",
-            "lat": "49.9728",
-            "lng": "-98.2919"
+            "lat": 35.7595731,
+            "lng": -79.01929969999999
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Brooklyn (NYC)",
             "webURL": "https://www.nytimes.com/2019/01/03/nyregion/l-train-brooklyn-manhattan-shutdown.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/04/nyregion/04subwayexplainer/merlin_148714239_171b69e2-bd50-4bfa-abf7-a23cb93c30c3-articleLarge.jpg",
-            "lat": "45.3500",
-            "lng": "-72.5667"
+            "lat": 40.6781784,
+            "lng": -73.9441579
         }
     ]
 }

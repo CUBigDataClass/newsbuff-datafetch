@@ -12,8 +12,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/28/nyregion/metropolitan-diary.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/nyregion/28diary-4/28diary-4-articleLarge.jpg",
-            "lat": "50.7978",
-            "lng": "8.9231"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Manila (Philippines)",
             "webURL": "https://www.nytimes.com/2019/01/28/lens/manila-philippines-dead-to-rights.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/lens/28Manila1/28Manila1-articleLarge.jpg",
-            "lat": "-34.4588",
-            "lng": "-58.9142"
+            "lat": 14.5995124,
+            "lng": 120.9842195
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Austin (Tex)",
             "webURL": "https://www.nytimes.com/2019/01/28/technology/iphones-apple-china-made.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/02/business/02apple05/29apple05-articleLarge.jpg",
-            "lat": "49.9167",
-            "lng": "10.2333"
+            "lat": 30.267153,
+            "lng": -97.7430608
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/28/nyregion/corey-johnson-scott-stringer-mayor-nyc.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/nyregion/29corey1/29corey1-articleLarge.jpg",
-            "lat": "-2.5319",
-            "lng": "-44.1078"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Ireland",
             "webURL": "https://www.nytimes.com/2019/01/28/world/europe/ireland-abortion.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/world/xxireland-abortion7-promo/xxireland-abortion7-promo-articleLarge-v2.jpg",
-            "lat": "39.7114",
-            "lng": "76.1753"
+            "lat": 53.1423672,
+            "lng": -7.692053599999999
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "AFRICA",
             "webURL": "https://www.nytimes.com/2019/01/28/travel/africa-cycling-trip-adventure.html",
             "imageURL": "https://www.nytimes.com/images/2019/02/03/travel/03africa-cycling1/merlin_147135708_fd1b7a79-06f2-4bf9-9e95-9489ef3408b8-articleLarge.jpg",
-            "lat": "39.7551",
-            "lng": "-75.5070"
+            "lat": -8.783195,
+            "lng": 34.508523
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/interactive/2019/01/28/learning/28MexicoGeographyQuizLN.html",
             "imageURL": "https://www.nytimes.com/images/2018/04/22/travel/22mexicocity-frugal4/merlin_136181469_125b6077-0588-4344-a363-b13dd05abccc-articleLarge.jpg",
-            "lat": "42.5073",
-            "lng": "-83.1034"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/28/world/asia/china-wang-quanzhang-human-rights.html",
             "imageURL": "https://www.nytimes.com/images/2018/12/27/world/29china-lawyer-3/merlin_148497558_e223097d-047e-49e2-9467-d71237544ea3-articleLarge.jpg",
-            "lat": "64.1375",
-            "lng": "25.3667"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/28/nyregion/newyorktoday/new-york-news-roger-stone.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/nyregion/28nytoday1/28nytoday1-articleLarge.jpg",
-            "lat": "-19.4908",
-            "lng": "-44.3900"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/28/world/asia/taliban-peace-deal-afghanistan.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/world/29taliban-1-promo/29taliban-1-promo-articleLarge-v3.jpg",
-            "lat": "57.4833",
-            "lng": "60.2000"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Park City (Utah)",
             "webURL": "https://www.nytimes.com/2019/01/28/reader-center/sundance-film-festival-critics-movies.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/insider/28INSIDER-SundancePRINT/merlin_149701563_e20d5486-d97a-4faf-b188-c9401706c3e7-articleLarge.jpg",
-            "lat": "34.6494",
-            "lng": "135.7828"
+            "lat": 40.6460622,
+            "lng": -111.4979729
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/28/business/nissan-ghosn-sec-inquiry.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/world/29Nissan/merlin_149527362_418b31f5-8ed2-445f-8d0c-8b0575bd7535-articleLarge.jpg",
-            "lat": "24.1472",
-            "lng": "87.6107"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/28/world/europe/brexit-amendment-uk-parliament.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/world/xxbrexit-amendments1/merlin_149625870_22aa10f4-a87f-48fa-ba22-72e2ea0c17ae-articleLarge.jpg",
-            "lat": "47.1833",
-            "lng": "20.4167"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Italy",
             "webURL": "https://www.nytimes.com/2019/01/28/t-magazine/f-taylor-colantonio-designer-studio.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/t-magazine/21tmag-ftaylor-slide-26DU-copy/21tmag-ftaylor-slide-26DU-copy-articleLarge-v2.jpg",
-            "lat": "52.3883",
-            "lng": "13.5047"
+            "lat": 41.87194,
+            "lng": 12.56738
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Moscow (Russia)",
             "webURL": "https://www.nytimes.com/2019/01/28/arts/design/russia-painting-stolen-tretyakov.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/arts/29tretyakov-item1/merlin_149895573_923b3d49-9ca7-4159-b847-610edbeb0f3d-articleLarge.jpg",
-            "lat": "-13.4108",
-            "lng": "-41.2850"
+            "lat": 55.755826,
+            "lng": 37.6173
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/28/opinion/afghanistan-peace-process.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/opinion/28rashidNew/merlin_106307359_0068c6c9-596a-4a2b-9ee4-ad97ec6bdd4a-articleLarge.jpg",
-            "lat": "-28.3258",
-            "lng": "-49.1767"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Singapore",
             "webURL": "https://www.nytimes.com/2019/01/28/world/asia/singapore-hiv-records.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/world/29singapore-1/merlin_149922372_f786d8a9-5817-4f63-a1cc-1073bea9eb46-articleLarge.jpg",
-            "lat": "35.1884",
-            "lng": "136.8037"
+            "lat": 1.352083,
+            "lng": 103.819836
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/28/world/europe/france-yellow-vests-police.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/world/29France1-print/merlin_149436120_a1339625-1bd0-4865-8ecd-b137af4e0735-articleLarge.jpg",
-            "lat": "34.2064",
-            "lng": "-84.1337"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Boston (Mass)",
             "webURL": "https://www.nytimes.com/2019/01/28/dining/fish-cutting-video-instagram-bala-paiva.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/30/dining/30fishcutter9/30fishcutter9-articleLarge-v2.jpg",
-            "lat": "44.1020",
-            "lng": "27.4017"
+            "lat": 42.3600825,
+            "lng": -71.0588801
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Upper East Side (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/28/nyregion/woman-elevator-stuck-trapped.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/29/nyregion/29elevator/merlin_149909226_1682cb4c-7a3a-44b2-8895-042ae18bdfd8-articleLarge.jpg",
-            "lat": "33.4539",
-            "lng": "49.4550"
+            "lat": 40.7735649,
+            "lng": -73.9565551
         }
     ]
 }

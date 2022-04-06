@@ -12,8 +12,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/06/us/politics/us-china-trade-talks-trump.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/business/07DC-CHINATRADE1/merlin_138223905_37efcdd5-6c05-42f1-97d5-80c07e1baaac-articleLarge.jpg",
-            "lat": "47.2351",
-            "lng": "-88.4382"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/06/nyregion/rape-reports-nyc-me-too.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/nyregion/05nyrape/merlin_145846536_7e9745ed-c271-463a-b710-72e22468d88a-articleLarge.jpg",
-            "lat": "16.8020",
-            "lng": "102.3404"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Saudi Arabia",
             "webURL": "https://www.nytimes.com/2019/01/06/business/media/netflix-saudi-arabia-censorship-hasan-minhaj.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/business/07JPRUTENBERG-PRINT/merlin_148757067_03f9a9a8-38b2-4cca-a043-155514b1fa60-articleLarge.jpg",
-            "lat": "41.1833",
-            "lng": "14.1000"
+            "lat": 23.885942,
+            "lng": 45.079162
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/06/nyregion/the-simpsons-de-blasio-mayor-nyc.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/nyregion/07SIMPSONS2/07SIMPSONS2-articleLarge.jpg",
-            "lat": "43.8229",
-            "lng": "27.1412"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "North Korea",
             "webURL": "https://www.nytimes.com/2019/01/06/opinion/trump-north-korea.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/opinion/07heng-inyt/07heng-inyt-articleLarge.jpg",
-            "lat": "5.5633",
-            "lng": "-72.5775"
+            "lat": 40.339852,
+            "lng": 127.510093
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/06/us/politics/nih-china-biomedical-research.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/us/07dc-research1/07dc-research1-articleLarge.jpg",
-            "lat": "42.1667",
-            "lng": "12.6000"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Gabon",
             "webURL": "https://www.nytimes.com/2019/01/07/world/africa/gabon-coup-ali-bongo-ondimba.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/world/08Gabon-print/merlin_148861599_f97e0b5f-6119-4ce6-8810-6dd9c7adfac1-articleLarge.jpg",
-            "lat": "37.9197",
-            "lng": "-122.3025"
+            "lat": -0.803689,
+            "lng": 11.609444
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Connecticut",
             "webURL": "https://www.nytimes.com/2019/01/07/nyregion/ned-annie-lamont-ct.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/05/nyregion/00lamonts/merlin_148152081_4f8972f3-5cd8-43e0-b89b-9e027cb5ade8-articleLarge.jpg",
-            "lat": "14.6206",
-            "lng": "-91.5961"
+            "lat": 41.6032207,
+            "lng": -73.087749
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "ALABAMA",
             "webURL": "https://www.nytimes.com/2019/01/07/us/politics/alabama-senate-facebook-roy-moore.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/us/07alabama1-print/07alabama1-articleLarge.jpg",
-            "lat": "-6.5539",
-            "lng": "-37.8089"
+            "lat": 32.3182314,
+            "lng": -86.902298
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/07/nyregion/metropolitan-diary.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/nyregion/07diary-5/07diary-5-articleLarge.jpg",
-            "lat": "42.3435",
-            "lng": "-88.1058"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Little Italy (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/07/lens/william-coupon-cafetal-social-club.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/07/lens/07Coupon1/07Coupon1-articleLarge.jpg",
-            "lat": "36.6987",
-            "lng": "10.1693"
+            "lat": 40.7191413,
+            "lng": -73.9973273
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/07/obituaries/moshe-arens-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/obituaries/08ARENS2/merlin_148863960_42dcaddf-69bf-4cc1-bc99-7a0ff850952c-articleLarge.jpg",
-            "lat": "22.4367",
-            "lng": "88.2705"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Williamsburg (Brooklyn, NY)",
             "webURL": "https://www.nytimes.com/interactive/2019/01/07/nyregion/output-closing-brooklyn-memories.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/nyregion/output-memories-hp-fader-1546822981539/output-memories-hp-fader-1546822981539-articleLarge.jpg",
-            "lat": "37.0047",
-            "lng": "-121.5855"
+            "lat": 40.7081156,
+            "lng": -73.9570696
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "East Harlem (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/07/realestate/five-apartments-in-four-years.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/13/realestate/13renters-boudin1/merlin_148334526_6d12cb19-6ec0-4878-9876-ab0dc2cd0f29-articleLarge.jpg",
-            "lat": "56.1166",
-            "lng": "-3.9369"
+            "lat": 40.7957399,
+            "lng": -73.93892129999999
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Iowa",
             "webURL": "https://www.nytimes.com/2019/01/07/us/politics/elizabeth-warren-iowa-2020.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/politics/08iowa-print/merlin_148798599_08c3c383-7778-446c-9448-71f25ed3de61-articleLarge.jpg",
-            "lat": "43.3836",
-            "lng": "21.0336"
+            "lat": 41.8780025,
+            "lng": -93.097702
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "New Hampshire",
             "webURL": "https://www.nytimes.com/2019/01/07/us/politics/criminal-libel-laws-lawsuit.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/us/08dc-bar-print/08dc-bar-articleLarge.jpg",
-            "lat": "26.4789",
-            "lng": "105.1253"
+            "lat": 43.1938516,
+            "lng": -71.5723953
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Malaysia",
             "webURL": "https://www.nytimes.com/2019/01/07/world/asia/malaysia-king-muhammad-abdicates.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/08/world/08malaysia-king-print/merlin_148812660_05e85860-6061-4fb2-9211-f3c836bdc8b0-articleLarge.jpg",
-            "lat": "50.9664",
-            "lng": "13.2781"
+            "lat": 4.210484,
+            "lng": 101.975766
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Senegal",
             "webURL": "https://www.nytimes.com/interactive/2019/01/07/learning/07SenegalGeographyQuizLN.html",
             "imageURL": "https://www.nytimes.com/images/2018/09/30/world/30baobab-dispatch1/merlin_142358673_6ed9ddd5-d873-47cb-8191-7a0ab1b3f9b7-articleLarge.jpg",
-            "lat": "43.0834",
-            "lng": "-77.1917"
+            "lat": 14.497401,
+            "lng": -14.452362
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/07/nyregion/newyorktoday/new-york-news-shutdown-government.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/06/us/07NYTODAY/07NYTODAY-articleLarge.jpg",
-            "lat": "33.8312",
-            "lng": "104.0362"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Nigeria",
             "webURL": "https://www.nytimes.com/2019/01/07/world/africa/nigeria-military-daily-trust-boko-haram.html",
             "imageURL": "null",
-            "lat": "31.7283",
-            "lng": "130.6278"
+            "lat": 9.081999,
+            "lng": 8.675277
         }
     ]
 }

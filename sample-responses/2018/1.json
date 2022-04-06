@@ -12,8 +12,8 @@
             "location": "Portland (Ore)",
             "webURL": "https://www.nytimes.com/2019/01/15/technology/electric-scooters-portland-oregon.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16scooters01/merlin_138301821_477e4413-8e76-456c-bcaa-5d6c9fc10273-articleLarge.jpg",
-            "lat": "-45.6870",
-            "lng": "-70.2600"
+            "lat": 45.515232,
+            "lng": -122.6783853
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "New York City",
             "webURL": "https://www.nytimes.com/2019/01/15/business/media/new-york-magazine-adam-moss-resigns.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16magazine/16magazine-articleLarge.jpg",
-            "lat": "42.9627",
-            "lng": "129.8413"
+            "lat": 40.7127753,
+            "lng": -74.0059728
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "United States",
             "webURL": "https://www.nytimes.com/2019/01/15/business/media/netflix-price-increase.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/business/16NETFLIX/merlin_149022990_7920c3c0-ff98-4431-8a9b-f7a24df195a9-articleLarge.jpg",
-            "lat": "55.6749",
-            "lng": "-3.7770"
+            "lat": 37.09024,
+            "lng": -95.712891
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/15/sports/simona-halep-manages-to-beat-kaia-kanepi-this-time.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/sports/16halepWEB1/merlin_149205849_5c77596c-b7d4-4290-adbc-eda34819a61c-articleLarge.jpg",
-            "lat": "41.9278",
-            "lng": "-80.5685"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "SoHo (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/15/dining/souen-nyc-closing.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/dining/15Souen/merlin_149215194_1e0ff7d8-edb1-475c-abf8-e34855941090-articleLarge.jpg",
-            "lat": "-19.5139",
-            "lng": "-43.7450"
+            "lat": 40.7245908,
+            "lng": -74.00191740000001
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/15/movies/russia-film-censorship-holiday.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/arts/15RUSSIA-COMEDY3/merlin_149214186_663d3ff8-8fa3-45e1-8b69-a9461c373ca9-articleLarge.jpg",
-            "lat": "54.8333",
-            "lng": "37.6167"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/15/sports/andy-murray-womens-tennis.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/sports/16murray1-sub/merlin_149161524_82aa4d24-a93b-4ea0-af3f-e0d290fa6628-articleLarge.jpg",
-            "lat": "11.9000",
-            "lng": "121.9167"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "NoMad (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/slideshow/2019/01/15/dining/benno-nyc.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/dining/16REST-slide-E0WB/16REST-slide-E0WB-articleLarge.jpg",
-            "lat": "-7.0244",
-            "lng": "-37.2800"
+            "lat": 40.7446072,
+            "lng": -73.9874105
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "NoMad (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/15/dining/benno-restaurant-review.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/dining/16REST-slide-E0WB/16REST-slide-E0WB-articleLarge.jpg",
-            "lat": "42.7224",
-            "lng": "-70.8883"
+            "lat": 40.7446072,
+            "lng": -73.9874105
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "China",
             "webURL": "https://www.nytimes.com/2019/01/15/opinion/will-chinas-economy-hit-a-great-wall.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/opinion/150119krugmanblog1/merlin_149148900_67da623b-6720-4d39-9242-bb7cdc3247dc-articleLarge.jpg",
-            "lat": "28.0408",
-            "lng": "82.4861"
+            "lat": 35.86166,
+            "lng": 104.195397
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Germany",
             "webURL": "https://www.nytimes.com/2019/01/15/obituaries/theo-adam-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/obituaries/15ADAM2/merlin_149168619_4ec85f8f-a80a-4c58-872e-15d0ff0b9352-articleLarge.jpg",
-            "lat": "5.3992",
-            "lng": "100.3639"
+            "lat": 51.165691,
+            "lng": 10.451526
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Los Angeles (Calif)",
             "webURL": "https://www.nytimes.com/2019/01/15/books/los-angeles-teachers-strike-education-schools.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/19/books/15newsbook-teachersstrike4/15newsbook-teachersstrike4-articleLarge.jpg",
-            "lat": "41.7667",
-            "lng": "19.8833"
+            "lat": 34.0522342,
+            "lng": -118.2436849
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/15/opinion/letters/trump-nato-russia.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/us/15dc-trumpnato-1/merlin_141156909_cfa4e9a4-a737-4809-aae5-718916f5b72c-articleLarge.jpg",
-            "lat": "3.3500",
-            "lng": "42.2667"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/15/world/europe/brexit-vote-theresa-may.html",
             "imageURL": "null",
-            "lat": "1.0838",
-            "lng": "27.2666"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Dakar (Senegal)",
             "webURL": "https://www.nytimes.com/2019/01/15/arts/design/museum-of-black-civilizations-restitution-senegal-macron.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/arts/16senegal-museum1/merlin_148316526_15256c5c-0da2-41c9-bc4d-6b896cee4ce8-articleLarge.jpg",
-            "lat": "43.2281",
-            "lng": "0.1067"
+            "lat": 14.716677,
+            "lng": -17.4676861
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/15/world/americas/guaido-maduro-venezuela.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16venezuela-1-print/merlin_149104932_1e294e6d-9ac2-4983-b5d0-40a13571a4fd-articleLarge.jpg",
-            "lat": "33.7096",
-            "lng": "-78.8843"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Iowa",
             "webURL": "https://www.nytimes.com/2019/01/15/us/politics/steve-king-white-supremacy.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/us/politics/16steveking1/merlin_149179383_158c0e6c-398c-40d6-b4d7-27283d75f4e6-articleLarge.jpg",
-            "lat": "41.3461",
-            "lng": "72.2171"
+            "lat": 41.8780025,
+            "lng": -93.097702
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "France",
             "webURL": "https://www.nytimes.com/2019/01/15/world/europe/macron-yellow-vests-menace.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/world/16france1-print/merlin_149215845_70d5ecf9-3fbe-42b3-8367-341f25e3ba92-articleLarge.jpg",
-            "lat": "16.7833",
-            "lng": "121.5333"
+            "lat": 46.227638,
+            "lng": 2.213749
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Great Britain",
             "webURL": "https://www.nytimes.com/2019/01/15/opinion/brexit-vote-corbyn-may.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/15/opinion/15RUSSELL-promo2/merlin_149228448_ab94d58f-5a15-4b8c-a867-34862b16058f-articleLarge.jpg",
-            "lat": "50.8958",
-            "lng": "6.2831"
+            "lat": 53.8337367,
+            "lng": -2.4290148
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Birmingham (England)",
             "webURL": "https://www.nytimes.com/2019/01/15/arts/dance/carlos-acosta-birmingham-royal-ballet.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/16/arts/16ACOSTA-ITEM2/merlin_149217330_fd795695-96dc-4130-b36d-a37a72db5449-articleLarge.jpg",
-            "lat": "42.6172",
-            "lng": "2.4219"
+            "lat": 52.48624299999999,
+            "lng": -1.890401
         }
     ]
 }

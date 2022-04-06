@@ -12,8 +12,8 @@
             "location": "Poland",
             "webURL": "https://www.nytimes.com/2019/01/25/obituaries/frank-blaichman-dead.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/obituaries/27BLAICHMAN-OBIT2-SUB/merlin_149657235_60a6efd3-0963-4e9d-8154-93bc8c0b0260-articleLarge.jpg",
-            "lat": "30.4445",
-            "lng": "-86.6419"
+            "lat": 51.919438,
+            "lng": 19.145136
         },
         {
             "year": 2019,
@@ -26,8 +26,8 @@
             "location": "Paris (France)",
             "webURL": "https://www.nytimes.com/2019/01/25/arts/dau-premiere-paris-canceled.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/arts/26dau-item1/merlin_149627184_b04d5849-534f-4391-997d-ac04971fb218-articleLarge.jpg",
-            "lat": "48.5264",
-            "lng": "2.6822"
+            "lat": 48.856614,
+            "lng": 2.3522219
         },
         {
             "year": 2019,
@@ -40,8 +40,8 @@
             "location": "Helmand Province (Afghanistan)",
             "webURL": "https://www.nytimes.com/2019/01/25/world/asia/afghanistan-airstrikes-taliban.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/world/26-Afghanistan-print/merlin_149690967_2c2f5eed-3f5a-4cb8-b763-9baabd204410-articleLarge.jpg",
-            "lat": "-2.8869",
-            "lng": "29.1248"
+            "lat": 31.3636474,
+            "lng": 63.95861110000001
         },
         {
             "year": 2019,
@@ -54,8 +54,8 @@
             "location": "Nashville (Tenn)",
             "webURL": "https://www.nytimes.com/2019/01/25/opinion/letters/nashville-music-zoning.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/21/opinion/21renkl7/merlin_149216409_df05ee39-84d8-4d5a-b35d-58ddaa68d538-articleLarge.jpg",
-            "lat": "55.3167",
-            "lng": "38.6833"
+            "lat": 36.1626638,
+            "lng": -86.7816016
         },
         {
             "year": 2019,
@@ -68,8 +68,8 @@
             "location": "Upper East Side (Manhattan, NY)",
             "webURL": "https://www.nytimes.com/2019/01/25/nyregion/metropolitan-republican-club-trump.html",
             "imageURL": "https://www.nytimes.com/images/2019/05/21/nyregion/21nygop-print/merlin_145221324_6c007b88-8cdb-4eac-8041-7344215a0192-articleLarge.jpg",
-            "lat": "50.5786",
-            "lng": "7.2306"
+            "lat": 40.7735649,
+            "lng": -73.9565551
         },
         {
             "year": 2019,
@@ -82,8 +82,8 @@
             "location": "Europe",
             "webURL": "https://www.nytimes.com/2019/01/25/world/europe/pro-europe-letter.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/world/26europe1/merlin_147999627_929cb2ae-4eb1-458c-9b1c-242b1c673e9e-articleLarge.jpg",
-            "lat": "41.0526",
-            "lng": "-73.9475"
+            "lat": 54.5259614,
+            "lng": 15.2551187
         },
         {
             "year": 2019,
@@ -96,8 +96,8 @@
             "location": "Kashmir and Jammu (India)",
             "webURL": "https://www.nytimes.com/2019/01/25/opinion/kashmir-traditional-healers.html",
             "imageURL": "null",
-            "lat": "5.7667",
-            "lng": "20.6833"
+            "lat": 32.7266016,
+            "lng": 74.8570259
         },
         {
             "year": 2019,
@@ -110,8 +110,8 @@
             "location": "Israel",
             "webURL": "https://www.nytimes.com/2019/01/25/us/angela-davis-israel.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/us/politics/26xp-davis/26xp-davis-articleLarge.jpg",
-            "lat": "36.7833",
-            "lng": "-4.1000"
+            "lat": 31.046051,
+            "lng": 34.851612
         },
         {
             "year": 2019,
@@ -124,8 +124,8 @@
             "location": "Japan",
             "webURL": "https://www.nytimes.com/2019/01/25/t-magazine/kassl-fishermans-coat-vermicular-oven-editors-picks.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/t-magazine/entertainment/tmag-tel-slide-CZPU/tmag-tel-slide-CZPU-articleLarge.jpg",
-            "lat": "30.4729",
-            "lng": "-87.2496"
+            "lat": 36.204824,
+            "lng": 138.252924
         },
         {
             "year": 2019,
@@ -138,8 +138,8 @@
             "location": "AFGHANISTAN",
             "webURL": "https://www.nytimes.com/2019/01/25/world/asia/taliban-negotiator-afghanistan.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/world/26-Afghanistan-Taliban-02-print/26Afghanistan-articleLarge-v2.jpg",
-            "lat": "21.4500",
-            "lng": "80.2000"
+            "lat": 33.93911,
+            "lng": 67.709953
         },
         {
             "year": 2019,
@@ -152,8 +152,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/25/world/europe/russian-documents-leaked-ddosecrets.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/world/26russia-leaks/merlin_87132316_8c807850-e4c7-429a-a6dd-fba2793de989-articleLarge.jpg",
-            "lat": "30.3165",
-            "lng": "-81.4118"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -166,8 +166,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/video/world/americas/100000006324144/two-leaders-two-messages-inside-the-battle-for-venezuela.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/28/world/americas/split-screen/split-screen-articleLarge.jpg",
-            "lat": "38.6172",
-            "lng": "-0.1231"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -180,8 +180,8 @@
             "location": "Australia",
             "webURL": "https://www.nytimes.com/2019/01/25/sports/dylan-alcott-australian-open-quad-tennis.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/sports/26alcott1-print/26alcott1-articleLarge.jpg",
-            "lat": "-18.6039",
-            "lng": "-45.3569"
+            "lat": -25.274398,
+            "lng": 133.775136
         },
         {
             "year": 2019,
@@ -194,8 +194,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/25/business/dealbook/veselnitskaya-obstruction-justice.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/23/business/23db-henning/merlin_148941801_341d309f-0de0-47e6-9203-f08dde60417b-articleLarge.jpg",
-            "lat": "53.0828",
-            "lng": "9.9983"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -208,8 +208,8 @@
             "location": "Russia",
             "webURL": "https://www.nytimes.com/2019/01/25/opinion/roger-stone-trump-mueller.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/opinion/25stone/merlin_149760363_92f6bfa7-cbb9-4cd2-b6f2-5e75507a7664-articleLarge.jpg",
-            "lat": "22.9700",
-            "lng": "88.4000"
+            "lat": 61.52401,
+            "lng": 105.318756
         },
         {
             "year": 2019,
@@ -222,8 +222,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/25/world/americas/venezuela-military-maduro.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/27/world/27venezuela-military3/merlin_149707989_76df5c40-1bc3-482a-b6a5-6f78d132f68e-articleLarge.jpg",
-            "lat": "-38.9890",
-            "lng": "175.8100"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -236,8 +236,8 @@
             "location": "Mexico",
             "webURL": "https://www.nytimes.com/2019/01/25/world/americas/mexico-asylum-seekers.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/world/26mexico-migrants/merlin_147631122_dad6f6b1-5f1e-48a6-8045-cf430bf5ee79-articleLarge.jpg",
-            "lat": "40.3653",
-            "lng": "-80.6520"
+            "lat": 23.634501,
+            "lng": -102.552784
         },
         {
             "year": 2019,
@@ -250,8 +250,8 @@
             "location": "Iran",
             "webURL": "https://www.nytimes.com/2019/01/25/world/middleeast/iran-prisoner-michael-r-white.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/world/26iran/08iran1-articleLarge.jpg",
-            "lat": "53.2969",
-            "lng": "9.2789"
+            "lat": 32.427908,
+            "lng": 53.688046
         },
         {
             "year": 2019,
@@ -264,8 +264,8 @@
             "location": "Venezuela",
             "webURL": "https://www.nytimes.com/2019/01/25/opinion/venezuela-maduro-socialism-government.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/25/opinion/25stephens2sub/merlin_148369173_c07133dc-6052-4dea-8311-c8114aa97f59-articleLarge.jpg",
-            "lat": "45.2116",
-            "lng": "127.9620"
+            "lat": 6.42375,
+            "lng": -66.58973
         },
         {
             "year": 2019,
@@ -278,8 +278,8 @@
             "location": "Texas",
             "webURL": "https://www.nytimes.com/2019/01/25/us/noncitizens-voting-texas.html",
             "imageURL": "https://www.nytimes.com/images/2019/01/26/us/26xp-texasvoters/merlin_137576697_461a634b-2c89-40b3-a7cb-d326c1d64382-articleLarge.jpg",
-            "lat": "19.5869",
-            "lng": "-98.5683"
+            "lat": 31.9685988,
+            "lng": -99.9018131
         }
     ]
 }
