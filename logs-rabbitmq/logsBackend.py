@@ -12,7 +12,7 @@ rabbitMQ = pika.BlockingConnection(
         pika.ConnectionParameters(host=rabbitMQHost))
 rabbitMQChannel = rabbitMQ.channel()
 
-rabbitMQChannel.exchange_declare(exchange='logs', exchange_type='topic')
+rabbitMQChannel.exchange_declare(exchange='backendlogs', exchange_type='topic')
 result = rabbitMQChannel.queue_declare('', exclusive=True)
 queue_name = result.method.queue
 
