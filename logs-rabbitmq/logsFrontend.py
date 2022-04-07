@@ -27,7 +27,7 @@ if not binding_keys:
 
 for key in binding_keys:
     rabbitMQChannel.queue_bind(
-            exchange='logs', 
+            exchange='frontendlogs', 
             queue=queue_name,
             routing_key=key)
 
