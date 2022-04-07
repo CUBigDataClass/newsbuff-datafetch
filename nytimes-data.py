@@ -65,12 +65,14 @@ def main():
     mycol3 = mydb["customers3"]
     mycol4 = mydb["location"]
 
+    exceptionData = []
+
     # Looping to fetch the data repeatedly for specified period of time.
     for year in range(2019, 2020, 1):
         myArticleNoLocation = []
         myArticleOneLocation = []
         myArticleManyLocations = []
-        exceptionData = []
+        
         #myArticle.clear()    #Clearing out the list of dictionaries to append new data for every year.
         for month in range(1, 2, 1):
             print("Attempting to fetch data for year {year} and month {month}:".format(year = str(year), month = str(month)))
@@ -168,6 +170,7 @@ def main():
                     writer = csv.writer(f)
                     writer.writerow(exceptionData)
                 f.close()
+                exceptionData.clear()
 
     try:
         # mycol1.insert_many(myArticleNoLocation)
@@ -186,7 +189,6 @@ def main():
     # print("Number of articles with No location:", len(myArticleNoLocation))
     print("Number of articles with One location:", len(myArticleOneLocation))
     print("Number of articles with Many locations:", len(myArticleManyLocations))
-    print("Number of exceptions:", len(exceptionData))
     print(endTime-startTime)
 
 if __name__ == "__main__":
