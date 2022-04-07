@@ -1,11 +1,12 @@
 #"nytimes"
 
+import csv
 import datetime
 import json
 import sys
 from datetime import datetime
-import csv
 
+import requests
 from pymongo import errors
 from pynytimes import NYTAPI
 from sqlalchemy import false
@@ -34,7 +35,25 @@ def clearOutputFile():
         pass
 
 
-
+def extract_lat_long_via_location(location):
+    latitude, longitude = None, None
+    api_key = mongodbconfig.google_api_key
+    base_url = "https://maps.googleapis.com/maps/api/geocode/json"
+    endpoint = f"{base_url}?address={location}&key={api_key}"
+    r = requests.get(endpoint)
+    if r.status_code not in range(200, 299):
+        return None, None
+    try:
+        '''
+        This try block incase any of our inputs are invalid. This is done instead
+        of actually writing out handlers for all kinds of responses.
+        '''
+        results = r.json()['results'][0]
+        latitude = results['geometry']['location']['lat']
+        longitude = results['geometry']['location']['lng']
+    except:
+        pass
+    return latitude, longitude
 
 def main():
     
@@ -44,6 +63,7 @@ def main():
     mycol1 = mydb["customers1"]
     mycol2 = mydb["customers2"]
     mycol3 = mydb["customers3"]
+    mycol4 = mydb["location"]
 
     # Looping to fetch the data repeatedly for specified period of time.
     for year in range(2019, 2020, 1):
@@ -80,24 +100,42 @@ def main():
                             location.append(keyword["value"])
 
                     # Extracting only needed attributes from each article.
-                    if(len(location) == 0):
-                        myArticleNoLocation.append({"year": year, "month": month, "datetime":dateTime , 
-                        "section":article['section_name'] , "subsection":subsection_name , 
-                        "headline":article['abstract'] , "description":article['lead_paragraph'] , 
-                        "location":location , "webURL":article['web_url'] , "imageURL":imageURL})
+                    # if(len(location) == 0):
+                    #     myArticleNoLocation.append({"year": year, "month": month, "datetime":dateTime , 
+                    #     "section":article['section_name'] , "subsection":subsection_name , 
+                    #     "headline":article['abstract'] , "description":article['lead_paragraph'] , 
+                    #     "location":location , "webURL":article['web_url'] , "imageURL":imageURL})
                     
-                    elif(len(location) == 1):
+                    # elif(len(location) == 1):
 
-                        with open("geolocations.json", 'r', encoding='utf-8') as f:
-                            geolocations = json.load(f)
-                            for value in enumerate(geolocations):
-                                if (value[1]["location"] == location[0]):
-
-                                    myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , 
+                    if(len(location) == 1):
+                        request = mycol4.find({"location":{"$eq":location[0]}})
+                        requests = list(request)
+                        if(len(requests) == 0):
+                            coordinates = extract_lat_long_via_location(location[0])
+                            latitude = coordinates[0]
+                            longitude = coordinates[1]
+                            mycol4.insert_many([{"location": location[0], "latitude": latitude, "longitude": longitude}])
+                        else:
+                            latitude = requests[0]['latitude']
+                            longitude = requests[0]['longitude']
+                        
+                        myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , 
                                     "section":article['section_name'] , "subsection":subsection_name , 
                                     "headline":article['abstract'] , "description":article['lead_paragraph'] , 
-                                    "location":location[0] , "latitude":value[1]["latitude"], "longitude":value[1]["longitude"],
+                                    "location":location[0] , "latitude": latitude, "longitude": longitude,
                                     "webURL":article['web_url'] , "imageURL":imageURL})
+
+                        # with open("geolocations.json", 'r', encoding='utf-8') as f:
+                        #     geolocations = json.load(f)
+                        #     for value in enumerate(geolocations):
+                        #         if (value[1]["location"] == location):
+
+                        #             myArticleOneLocation.append({"year": year, "month": month, "datetime":dateTime , 
+                        #             "section":article['section_name'] , "subsection":subsection_name , 
+                        #             "headline":article['abstract'] , "description":article['lead_paragraph'] , 
+                        #             "location":location[0] , "latitude":, "longitude":,
+                        #             "webURL":article['web_url'] , "imageURL":imageURL})
                     
                     else:
                         myArticleManyLocations.append({"year": year, "month": month, "datetime":dateTime , 
@@ -105,8 +143,8 @@ def main():
                         "headline":article['abstract'] , "description":article['lead_paragraph'] , 
                         "location":location , "webURL":article['web_url'] , "imageURL":imageURL})
 
-                file1 = open(r"myArticleNoLocation.txt","w+", encoding="utf-8")
-                file1.write(str(myArticleNoLocation))
+                # file1 = open(r"myArticleNoLocation.txt","w+", encoding="utf-8")
+                # file1.write(str(myArticleNoLocation))
 
                 file2 = open(r"myArticleOneLocation.txt","w+", encoding="utf-8")
                 file2.write(str(myArticleOneLocation))
@@ -132,7 +170,7 @@ def main():
                 f.close()
 
     try:
-        mycol1.insert_many(myArticleNoLocation)
+        # mycol1.insert_many(myArticleNoLocation)
         mycol2.insert_many(myArticleOneLocation)
         mycol3.insert_many(myArticleManyLocations)
         '''
@@ -145,7 +183,7 @@ def main():
         print(f"Articles bulk insertion error {e}")
     
 
-    print("Number of articles with No location:", len(myArticleNoLocation))
+    # print("Number of articles with No location:", len(myArticleNoLocation))
     print("Number of articles with One location:", len(myArticleOneLocation))
     print("Number of articles with Many locations:", len(myArticleManyLocations))
     print("Number of exceptions:", len(exceptionData))
