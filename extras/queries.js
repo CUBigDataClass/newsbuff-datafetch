@@ -1,4 +1,6 @@
+db.find({"imageURL" : {$exists: false}})
 db.createView("articleNoImageThumb", "article", [{$match: {"imageURL" : {$exists: false}}}])
 db.article.deleteMany({})
 db.location.deleteMany({})
 db.article.distinct("locationsRaw")
+db.find({dateTime: {$lt: new ISODate('2001:01:01')}})
