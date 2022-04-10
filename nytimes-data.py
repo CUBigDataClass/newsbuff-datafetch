@@ -16,8 +16,8 @@ import env
 import NYTSampleResponse
 
 CONSTANTS = {
-    "START_YEAR": 2021,
-    "END_YEAR": 2000,
+    "START_YEAR": 2000,
+    "END_YEAR": 1980,
     "STEP_YEAR": -1,
     "START_MONTH": 1,
     "END_MONTH": 12
