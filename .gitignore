@@ -1,3 +1,4 @@
 mongodbconfig.py
+env.py
 *.pyc
 pycache/*
