@@ -16,8 +16,8 @@ import env
 import NYTSampleResponse
 
 CONSTANTS = {
-    "START_YEAR": 2018,
-    "END_YEAR": 2018,
+    "START_YEAR": 2000,
+    "END_YEAR": 2017,
     "START_MONTH": 1,
     "END_MONTH": 12
 }
@@ -178,9 +178,10 @@ def main():
                 errorInfo = sys.exc_info()
                 print(errorInfo)
                 error = str(errorInfo[0])
-                exceptionData = {"year": year, "month": month, "error": error}
-                print("Exception data", exceptionData)
-                apiErrorCollection.insert_one(exceptionData)
+                if error != "<class 'KeyboardInterrupt'>":
+                    exceptionData = {"year": year, "month": month, "error": error}
+                    print("Exception data", exceptionData)
+                    apiErrorCollection.insert_one(exceptionData)
 
     endTime = datetime.now()
     print(f"Total execution time: {endTime-startTime}")
