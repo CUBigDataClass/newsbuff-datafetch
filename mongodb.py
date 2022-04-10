@@ -21,5 +21,6 @@ def createdb(client):
 
 def createclusters(mydb):
     mycol1 = mydb["customers1"]
-    mycol = mydb["customers2"]
-    mycol = mydb["customers3"]
+    mycol2 = mydb["customers2"]
+    mycol3 = mydb["customers3"]
+    mycol4 = mydb["location"]

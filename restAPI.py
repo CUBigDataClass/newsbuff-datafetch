@@ -109,5 +109,6 @@ def get_news_polygon(polygon):
 
     return dumps(response)
 
+
 if __name__ == '__main__':
     app.run(debug=True)
