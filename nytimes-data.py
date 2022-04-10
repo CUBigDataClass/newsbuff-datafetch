@@ -16,10 +16,11 @@ import env
 import NYTSampleResponse
 
 CONSTANTS = {
-    "START_YEAR": 2019,
-    "END_YEAR": 2019,
+    "START_YEAR": 2021,
+    "END_YEAR": 2020,
+    "STEP_YEAR": -1,
     "START_MONTH": 1,
-    "END_MONTH": 1
+    "END_MONTH": 12
 }
 
 # Specify API key to fetch the data
@@ -140,12 +141,13 @@ def main():
 
     startYear = CONSTANTS["START_YEAR"]
     endYear = CONSTANTS["END_YEAR"]
+    stepYear = CONSTANTS["STEP_YEAR"]
     startMonth = CONSTANTS["START_MONTH"]
     endMonth = CONSTANTS["END_MONTH"]
 
     startTime = datetime.now()
     # Looping to fetch the data repeatedly for specified period of time.
-    for year in range(startYear, endYear + 1):
+    for year in range(startYear, endYear + stepYear, stepYear):
         print(f"Year: {year}")
 
         for month in range(startMonth, endMonth + 1):
