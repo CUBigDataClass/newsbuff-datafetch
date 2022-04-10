@@ -16,7 +16,7 @@ import env
 import NYTSampleResponse
 
 CONSTANTS = {
-    "START_YEAR": 2000,
+    "START_YEAR": 2018,
     "END_YEAR": 2018,
     "START_MONTH": 1,
     "END_MONTH": 12
@@ -118,9 +118,6 @@ def processNYTResponseType1(response, locationsDict, locationCollection, locatio
                 break
         if imageURL:
             articleObject["imageURL"] = imageURL
-        elif len(article['multimedia']) > 0:
-            articleObject["images"] = article['multimedia']
-
 
         articlesObjects.append(articleObject)
 
