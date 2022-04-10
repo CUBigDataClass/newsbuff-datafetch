@@ -95,14 +95,14 @@ def processNYTResponseType1(response, locationsDict, locationCollection, locatio
             continue
         articleLocations = list(articleLocationsSet)
 
-        articleMappedLocations = processLocations(
-            articleLocations, locationsDict, locationCollection, locationErrorCollection)
-
-        if (len(articleMappedLocations) == 0):
-            continue
+        # articleMappedLocations = processLocations(
+            # articleLocations, locationsDict, locationCollection, locationErrorCollection)
+        # if (len(articleMappedLocations) == 0):
+        #     continue
 
         articleObject = {}
-        articleObject["locations"] = articleMappedLocations
+        # articleObject["locations"] = articleMappedLocations
+        articleObject["locationsRaw"] = articleLocations
         articleObject["uri"] = article["uri"]
         articleObject["dateTime"] = article["pub_date"]
         articleObject["section"] = article["section_name"]
@@ -118,8 +118,6 @@ def processNYTResponseType1(response, locationsDict, locationCollection, locatio
                 break
         if imageURL:
             articleObject["imageURL"] = imageURL
-        elif len(article['multimedia']) > 0:
-            articleObject["images"] = article['multimedia']
 
         articlesObjects.append(articleObject)
 
@@ -154,7 +152,7 @@ def main():
             print(f"Year: {year}, Month: {month}, Waiting for NYT response...")
             try:
                 articlesResponse = getNYTData(year, month)
-                articlesResponse = articlesResponse[:10]
+                # articlesResponse = articlesResponse[:10]
                 # articlesResponse = NYTSampleResponse.response
                 print(f"Year: {year}, Month: {month}, Received NYT response.")
                 # print(articlesResponse)
