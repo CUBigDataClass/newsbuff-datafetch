@@ -43,7 +43,7 @@ const procIte = (locations, start, end) => {
 
     const fullItn = Math.floor(count / batchSize);
     console.log(count, fullItn);
-    for(let i=595; i<fullItn; i++) {
+    for(let i=612; i<fullItn; i++) {
         const start = i * batchSize;
         const end = start + batchSize;
         console.log(`Current index: ${start}`);
