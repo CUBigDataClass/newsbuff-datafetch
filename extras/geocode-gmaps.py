@@ -26,7 +26,7 @@ def extract_lat_long_via_location(location):
 
 
 # locations = ['PHILIPSE MANOR HALL (YONKERS, NY)', 'BALDWIN', 'GREAT NECK ESTATES, NY', 'Europe', 'North Pole']
-locations = json.load(open('locations1.json', 'r'))
+locations = json.load(open('locations.json', 'r'))
 # print(locations)
 
 start = 0
@@ -41,5 +41,5 @@ for index, location in enumerate(locations):
         op += "null,null"
     else:
         op += f"{res[0]},{res[1]}"
-    with open('location1res.csv', 'a') as f:
+    with open('locationres.csv', 'a') as f:
         f.write(f"{op}\n")
