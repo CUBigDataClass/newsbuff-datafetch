@@ -29,7 +29,12 @@ def extract_lat_long_via_location(location):
 locations = json.load(open('locations1.json', 'r'))
 # print(locations)
 
+start = 0
+# end = 4
+end = len(locations)
+locations = locations[start:end]
 for index, location in enumerate(locations):
+    print(f"Fetching location {start + index}")
     res = extract_lat_long_via_location(location)
     op = f"{index},\"{location}\","
     if res is None:
