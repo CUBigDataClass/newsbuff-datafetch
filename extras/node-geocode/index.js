@@ -69,7 +69,7 @@ const procIte = async (locations, start, end) => {
     return ops.join('');
 };
 
-(async()=>{
+const locationFetchCoords = async () => {
     const locations = JSON.parse(fs.readFileSync('../locations.json', 'utf8'));
     const count = locations.length;
     const batchSize = 40;
@@ -91,4 +91,8 @@ const procIte = async (locations, start, end) => {
         // console.log(res);
         fs.appendFileSync('../locations-n.csv', res);
     }
+};
+
+(async()=>{
+    locationFetchCoords();
 })();
