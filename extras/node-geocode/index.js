@@ -4,9 +4,25 @@ const fs = require('fs');
 const base_url = 'https://maps.googleapis.com/maps/api/geocode/json'
 const key = process.env.google_api_key;
 
-const fetchCoords = async (location) => {
+const fetchTimeout = async (i, url, timeout = 10000) => {
+    try {
+        const response = await Promise.race([
+            fetch(url),
+            new Promise((_, reject) =>
+                setTimeout(() => reject(new Error('timeout')), timeout)
+            )
+        ]);
+        return response;
+    } catch {
+        console.log(`\t\ti: ${i}, timed out, retrying...`)
+        await new Promise(resolve => setTimeout(resolve, timeout));
+        return fetchTimeout(i, url, timeout);
+    }
+};
+
+const fetchCoords = async (i, location) => {
     const url = `${base_url}?address=${location}&key=${key}`
-    const response = await fetch(url);
+    const response = await fetchTimeout(i, url);
     if (!response.ok) return null;
     const data = await response.json();
     try {
@@ -23,7 +39,7 @@ const procIte = async (locations, start, end) => {
     for (let i=start; i<end; i++) {
         const location = locations[i];
         const start = Date.now();
-        const promise = fetchCoords(location).then(res => {
+        const promise = fetchCoords(i, location).then(res => {
             let op = `${i},"${location}",`;
             if (!res) {
                 op += 'null,null';
@@ -59,7 +75,7 @@ const procIte = async (locations, start, end) => {
     const batchSize = 40;
     const fullItn = Math.floor(count / batchSize);
     console.log(`Count: ${count}, Full Iterations: ${fullItn}`);
-    for(let i=1227; i<fullItn; i++) {
+    for(let i=1316; i<fullItn; i++) {
         const start = i * batchSize;
         const end = start + batchSize;
         console.log(`Iteration: ${i}, Index: ${start}`);
