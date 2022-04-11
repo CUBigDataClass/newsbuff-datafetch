@@ -3,7 +3,6 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const base_url = 'https://maps.googleapis.com/maps/api/geocode/json'
 const key = process.env.google_api_key;
-const batchSize = 40;
 
 const fetchCoords = async (location) => {
     const url = `${base_url}?address=${location}&key=${key}`
@@ -57,13 +56,13 @@ const procIte = async (locations, start, end) => {
 (async()=>{
     const locations = JSON.parse(fs.readFileSync('../locations.json', 'utf8'));
     const count = locations.length;
-
+    const batchSize = 40;
     const fullItn = Math.floor(count / batchSize);
     console.log(`Count: ${count}, Full Iterations: ${fullItn}`);
-    for(let i=722; i<fullItn; i++) {
+    for(let i=852; i<fullItn; i++) {
         const start = i * batchSize;
         const end = start + batchSize;
-        console.log(`Index: ${start}`);
+        console.log(`Iteration: ${i}, Index: ${start}`);
         const res = await procIte(locations, start, end);
         // console.log(res);
         fs.appendFileSync('../locations-n.csv', res);
