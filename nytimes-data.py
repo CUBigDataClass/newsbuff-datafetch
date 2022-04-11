@@ -16,11 +16,11 @@ import env
 import NYTSampleResponse
 
 CONSTANTS = {
-    "START_YEAR": 2000,
-    "END_YEAR": 1980,
+    "START_YEAR": 1910,
+    "END_YEAR": 1910,
     "STEP_YEAR": -1,
-    "START_MONTH": 1,
-    "END_MONTH": 12
+    "START_MONTH": 5,
+    "END_MONTH": 5
 }
 
 # Specify API key to fetch the data

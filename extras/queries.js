@@ -44,3 +44,27 @@ db.article.aggregate(
             }
         }
     ])
+
+db.article.find().sort({ "dateTime" : 1 }).limit(1)
+
+
+db.article.aggregate([
+    { $project: { "locationsRaw" : 1 } },
+    { $unwind: "$locationsRaw" },
+    { $group: {_id: null, locations: {$addToSet: "$locationsRaw"}}},
+    { $unwind: "$locations" },
+    { $project: { _id: 0 }},
+    { $group: { _id: null, count: { $sum: 1 } } },    
+])
+
+
+db.article.aggregate([
+    { $project: { "locationsRaw" : 1 } },
+    { $unwind: "$locationsRaw" },
+    { $group: {_id: null, location: {$addToSet: "$locationsRaw"}}},
+    { $unwind: "$location" },
+    { $project: { _id: 0 }},
+    { $out : "location" }
+])
+
+db.location.updateMany({}, { $rename: { 'locations': 'location' } } )
