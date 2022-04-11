@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const base_url = 'https://maps.googleapis.com/maps/api/geocode/json'
 const key = process.env.google_api_key;
-const batchSize = 40;
+const batchSize = 20;
 
 const fetchCoords = async (location) => {
     const url = `${base_url}?address=${location}&key=${key}`
@@ -43,7 +43,7 @@ const procIte = (locations, start, end) => {
 
     const fullItn = Math.floor(count / batchSize);
     console.log(count, fullItn);
-    for(let i=612; i<fullItn; i++) {
+    for(let i=1317; i<fullItn; i++) {
         const start = i * batchSize;
         const end = start + batchSize;
         console.log(`Current index: ${start}`);
