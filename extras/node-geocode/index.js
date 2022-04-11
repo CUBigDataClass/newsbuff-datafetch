@@ -59,7 +59,7 @@ const procIte = async (locations, start, end) => {
     const batchSize = 40;
     const fullItn = Math.floor(count / batchSize);
     console.log(`Count: ${count}, Full Iterations: ${fullItn}`);
-    for(let i=852; i<fullItn; i++) {
+    for(let i=1125; i<fullItn; i++) {
         const start = i * batchSize;
         const end = start + batchSize;
         console.log(`Iteration: ${i}, Index: ${start}`);
