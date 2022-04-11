@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const base_url = 'https://maps.googleapis.com/maps/api/geocode/json'
 const key = process.env.google_api_key;
-const batchSize = 3;
+const batchSize = 40;
 
 const fetchCoords = async (location) => {
     const url = `${base_url}?address=${location}&key=${key}`
@@ -38,19 +38,19 @@ const procIte = (locations, start, end) => {
 };
 
 (async()=>{
-    const locations = JSON.parse(fs.readFileSync('../locations1.json', 'utf8'));
+    const locations = JSON.parse(fs.readFileSync('../locations.json', 'utf8'));
     const count = locations.length;
 
     const fullItn = Math.floor(count / batchSize);
     console.log(count, fullItn);
-    for(let i=0; i<fullItn; i++) {
+    for(let i=577; i<fullItn; i++) {
         const start = i * batchSize;
         const end = start + batchSize;
         console.log(`Current index: ${start}`);
         const res = await procIte(locations, start, end);
         const cont = res.join('');
         // console.log(cont);
-        fs.appendFileSync('../locations1n.csv', cont);
+        fs.appendFileSync('../locations-n.csv', cont);
     }
     if (count > fullItn * batchSize) {
         const start = fullItn * batchSize;
@@ -59,6 +59,6 @@ const procIte = (locations, start, end) => {
         const res = await procIte(locations, start, end);
         const cont = res.join('');
         // console.log(cont);
-        fs.appendFileSync('../locations1n.csv', cont);
+        fs.appendFileSync('../locations-n.csv', cont);
     }
 })();
