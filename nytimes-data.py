@@ -130,7 +130,7 @@ def main():
     client = mongodb.dbConnection()
     mydb = mongodb.createdb(client)
     articleCollection = mydb["article"]
-    print(datetime.now(), articleCollection.count_documents({ "locationsRawTrimmed": { "$exists": False } }))
+    print(datetime.now(), articleCollection.count_documents({ "locationsRaw": { "$exists": True } }))
     return
     locationCollection = mydb["location"]
     apiErrorCollection = mydb["api_error"]

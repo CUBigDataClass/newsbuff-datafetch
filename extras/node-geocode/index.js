@@ -197,6 +197,22 @@ const locationsTrim = () => {
     fs.writeFileSync('../locations-tr.json', locationsDataJson, 'utf8');
 };
 
+const locationsTrimUni = () => {
+    const locations = JSON.parse(fs.readFileSync('../locations-n3.json', 'utf8'));
+    const locationsSet = new Set();
+    const locationsUni = []
+    for(let i=0; i<locations.length; i++) {
+        locations[i].location = locations[i].location.trim().replace(/\s+/g, ' ');
+        if (locationsSet.has(locations[i].location) === false) {
+            locationsSet.add(locations[i].location);
+            locationsUni.push(locations[i])
+        }
+    }
+    console.log(locationsUni.length)
+    const locationsDataJson = JSON.stringify(locationsUni, undefined, 2);
+    fs.writeFileSync('../locations-tr-uni.json', locationsDataJson, 'utf8');
+};
+
 const locationsNull = () => {
     const locations = JSON.parse(fs.readFileSync('../locations-tr.json', 'utf8'));
     const locationsNull = []
@@ -211,5 +227,5 @@ const locationsNull = () => {
 };
 
 (async()=>{
-    locationFetchCoordsNull();
+    locationsTrimUni();
 })();

@@ -45,50 +45,71 @@ db.article.aggregate(
         }
     ])
 
-db.article.find().sort({ "dateTime" : 1 }).limit(1)
+db.article.find().sort({ "dateTime": 1 }).limit(1)
 
 
 db.article.aggregate([
-    { $project: { "locationsRaw" : 1 } },
+    { $project: { "locationsRaw": 1 } },
     { $unwind: "$locationsRaw" },
-    { $group: {_id: null, locations: {$addToSet: "$locationsRaw"}}},
+    { $group: { _id: null, locations: { $addToSet: "$locationsRaw" } } },
     { $unwind: "$locations" },
-    { $project: { _id: 0 }},
-    { $group: { _id: null, count: { $sum: 1 } } },    
+    { $project: { _id: 0 } },
+    { $group: { _id: null, count: { $sum: 1 } } },
 ])
 
 
 db.article.aggregate([
-    { $project: { "locationsRaw" : 1 } },
+    { $project: { "locationsRaw": 1 } },
     { $unwind: "$locationsRaw" },
-    { $group: {_id: null, location: {$addToSet: "$locationsRaw"}}},
+    { $group: { _id: null, location: { $addToSet: "$locationsRaw" } } },
     { $unwind: "$location" },
-    { $project: { _id: 0 }},
-    { $out : "location" }
+    { $project: { _id: 0 } },
+    { $out: "location" }
 ])
 
-db.location.updateMany({}, { $rename: { 'locations': 'location' } } )
+db.location.updateMany({}, { $rename: { 'locations': 'location' } })
 
 let batch = [];
 db.article.find({}).forEach(
-  function(doc) {
-    batch.push({
-      "updateOne": {
-        "filter": { "_id": doc._id },
-        "update": { "$set": { "locationsRawTrimmed": doc.locationsRaw.map(e=>e.trim().replace(/\s+/g, ' ')) } }
-      }
-    });
+    function (doc) {
+        batch.push({
+            "updateOne": {
+                "filter": { "_id": doc._id },
+                "update": { "$set": { "locationsRawTrimmed": doc.locationsRaw.map(e => e.trim().replace(/\s+/g, ' ')) } }
+            }
+        });
 
-    if ( batch.length % 1000 == 0 ) {
-      db.article.bulkWrite(batch);
-      batch = [];
+        if (batch.length % 1000 == 0) {
+            db.article.bulkWrite(batch);
+            batch = [];
+        }
     }
-  }
 );
-if ( batch.length > 0 ) {
-  db.article.bulkWrite(batch);
-  batch = [];
+if (batch.length > 0) {
+    db.article.bulkWrite(batch);
+    batch = [];
 }
 
 db.article.find({ "locationsRawTrimmed": { $exists: false } })
-db.article.updateMany({}, { "$unset": { locationsRaw: "" } })
+db.article.updateMany({}, { "$unset": { locationsRaw: "" } });
+
+db.article.aggregate([
+    {
+        $match: { uri: 'nyt://article/f9171427-eed3-5031-88fa-f3ba050a5cf3' }
+    }
+])
+
+db.article.aggregate([
+    {
+        $match: { uri: 'nyt://article/f9171427-eed3-5031-88fa-f3ba050a5cf3' }
+    },
+    {
+        $lookup:
+        {
+            from: "location",
+            localField: "locationsRawTrimmed",
+            foreignField: "location",
+            as: "locations"
+        }
+    }
+])
