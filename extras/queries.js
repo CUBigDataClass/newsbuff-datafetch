@@ -1,9 +1,9 @@
-db.find({ "imageURL": { $exists: false } })
+db.article.find({ "imageURL": { $exists: false } })
 db.createView("articleNoImageThumb", "article", [{ $match: { "imageURL": { $exists: false } } }])
 db.article.deleteMany({})
 db.location.deleteMany({})
 db.article.distinct("locationsRaw").length
-db.find({ dateTime: { $lt: new ISODate('2001:01:01') } })
+db.article.find({ dateTime: { $lt: new ISODate('2001:01:01') } })
 db.article.updateMany({ "images": { $exists: true } }, { "$unset": { images: "" } })
 
 db.article.aggregate([
@@ -68,3 +68,27 @@ db.article.aggregate([
 ])
 
 db.location.updateMany({}, { $rename: { 'locations': 'location' } } )
+
+let batch = [];
+db.article.find({}).forEach(
+  function(doc) {
+    batch.push({
+      "updateOne": {
+        "filter": { "_id": doc._id },
+        "update": { "$set": { "locationsRawTrimmed": doc.locationsRaw.map(e=>e.trim().replace(/\s+/g, ' ')) } }
+      }
+    });
+
+    if ( batch.length % 1000 == 0 ) {
+      db.article.bulkWrite(batch);
+      batch = [];
+    }
+  }
+);
+if ( batch.length > 0 ) {
+  db.article.bulkWrite(batch);
+  batch = [];
+}
+
+db.article.find({ "locationsRawTrimmed": { $exists: false } })
+db.article.updateMany({}, { "$unset": { locationsRaw: "" } })

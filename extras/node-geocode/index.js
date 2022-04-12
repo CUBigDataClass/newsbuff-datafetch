@@ -93,6 +93,78 @@ const locationFetchCoords = async () => {
     }
 };
 
+const fetchCoordsNull = async (i, location) => {
+    const url = `${base_url}?address=${location}&key=${key}`
+    const response = await fetchTimeout(i, url);
+    // if (!response.ok) return null;
+    const data = await response.json();
+    if (data.status = 'ZERO_RESULTS') {
+        return {index: i, location, results: null};
+    }
+    try {
+        const {lat, lng} = data.results[0].geometry.location;
+        return {index: i, location, latitude: lat, longitude: lng};
+    } catch {
+        return {index: i, location, data};
+    }
+};
+
+const procIteNull = async (locations, start, end) => {
+    const startAll = Date.now();
+    const promises = [];
+    for (let i=start; i<end; i++) {
+        const { location } = locations[i];
+        const start = Date.now();
+        const promise = fetchCoordsNull(i, location).then(res => {
+            const duration = Date.now() - start;
+            console.log(`\t\ti: ${i}, dur: ${duration}`);
+            return [res, duration];
+        });
+        promises.push(promise);
+    }
+    const zipped = await Promise.all(promises);
+    const durationAll = Date.now() - startAll;
+    // console.log(zipped);
+    const ops = [];
+    let first=zipped[0][1], min=first, max=first, sum=0;
+    zipped.map((e) => { 
+        ops.push(e[0]);
+        min = Math.min(min, e[1]);
+        max = Math.max(max, e[1]);
+        sum += e[1];
+    });
+    const avg = sum/zipped.length;
+    console.log(`\ttotal: ${durationAll}, min: ${min}, max: ${max}, avg: ${avg}`);
+    return ops;
+};
+
+const locationFetchCoordsNull = async () => {
+    const locations = JSON.parse(fs.readFileSync('../locations-null.json', 'utf8'));
+    const count = locations.length;
+    const batchSize = 40;
+    const fullItn = Math.floor(count / batchSize);
+    console.log(`Count: ${count}, Full Iterations: ${fullItn}`);
+    let locationsOps = [];
+    for(let i=0; i<fullItn; i++) {
+        const start = i * batchSize;
+        const end = start + batchSize;
+        console.log(`Iteration: ${i}, Index: ${start}`);
+        const ops = await procIteNull(locations, start, end);
+        const filtered = ops.filter(e=>e.results);
+        locationsOps = locationsOps.concat(filtered);
+    }
+    if (count > fullItn * batchSize) {
+        const start = fullItn * batchSize;
+        const end = count;
+        console.log(`Current index: ${start}`);
+        const ops = await procIteNull(locations, start, end);
+        const filtered = ops.filter(e=>e.results);
+        locationsOps = locationsOps.concat(filtered);
+    }
+    const locationsDataJson = JSON.stringify(locationsOps, undefined, 2);
+    fs.writeFileSync('../locations-null-ops.json', locationsDataJson, 'utf8');
+};
+
 const readLine = (line) => {
     const firstComma = line.indexOf(',');
     const index = +line.slice(0, firstComma);
@@ -139,5 +211,5 @@ const locationsNull = () => {
 };
 
 (async()=>{
-    locationsNull();
+    locationFetchCoordsNull();
 })();
