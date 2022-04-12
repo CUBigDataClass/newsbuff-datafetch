@@ -135,3 +135,5 @@ db.article.aggregate([
 db.article.drop();
 db.article_raw.drop();
 db.article_loc.renameCollection('article');
+
+db.article.find().sort({ "dateTime": -1 }).limit(40)

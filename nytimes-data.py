@@ -139,6 +139,7 @@ def main():
     locationCollection = mydb["location"]
     apiErrorCollection = mydb["api_error"]
     locationErrorCollection = mydb["location_error"]
+    countOld = articleCollection.count_documents({})
 
     resultCursor = locationCollection.find()
     locationResults = list(resultCursor)
@@ -191,6 +192,10 @@ def main():
                     exceptionData = {"year": year, "month": month, "dateTime": datetime.now(), "error": error}
                     print("Exception data", exceptionData)
                     apiErrorCollection.insert_one(exceptionData)
+
+    countNew = articleCollection.count_documents({})
+    countAdded = countNew - countOld
+    print(f"Added {countAdded} new articles, new total: {countNew}")
 
     endTime = datetime.now()
     print(f"Total execution time: {endTime-startTime}")
