@@ -125,6 +125,19 @@ const locationsTrim = () => {
     fs.writeFileSync('../locations-tr.json', locationsDataJson, 'utf8');
 };
 
+const locationsNull = () => {
+    const locations = JSON.parse(fs.readFileSync('../locations-tr.json', 'utf8'));
+    const locationsNull = []
+    for(let i=0; i<locations.length; i++) {
+        if (locations[i].latitude === null) {
+            locationsNull.push(locations[i]);
+        }
+    }
+    console.log(locationsNull.length);
+    const locationsDataJson = JSON.stringify(locationsNull, undefined, 2);
+    fs.writeFileSync('../locations-null.json', locationsDataJson, 'utf8');
+};
+
 (async()=>{
-    locationsTrim();
+    locationsNull();
 })();
