@@ -93,6 +93,29 @@ const locationFetchCoords = async () => {
     }
 };
 
+const readLine = (line) => {
+    const firstComma = line.indexOf(',');
+    const index = +line.slice(0, firstComma);
+    const lastComma = line.lastIndexOf(',');
+    const data2 = line.slice(firstComma, lastComma);
+    const secondLastComma = data2.lastIndexOf(',');
+    const location = line.slice(firstComma + 2, firstComma + secondLastComma - 1);
+    const latitude = +data2.slice(secondLastComma + 1);
+    const longitude = +line.slice(lastComma + 1);
+    return {index, location, latitude, longitude};
+};
+
+const locationsNull = () => {
+    const locationsData = fs.readFileSync('../locations-n.csv', 'utf8');
+    const records = locationsData.split('\n');
+    console.log(records.length);
+    const locations = records.map(e=>readLine(e));
+    console.log(locations.length);
+    console.log(locations[0]);
+    const locationsDataJson = JSON.stringify(locations, undefined, 2);
+    fs.writeFileSync('../locations-n3.json', locationsDataJson, 'utf8');
+};
+
 (async()=>{
-    locationFetchCoords();
+    locationsNull();
 })();
