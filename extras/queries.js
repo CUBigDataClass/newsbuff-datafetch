@@ -1,6 +1,7 @@
 db.article.find({ "imageURL": { $exists: false } })
 db.createView("articleNoImageThumb", "article", [{ $match: { "imageURL": { $exists: false } } }])
 db.article.deleteMany({})
+db.article_raw.deleteMany({})
 db.location.deleteMany({})
 db.article.distinct("locationsRaw").length
 db.article.find({ dateTime: { $lt: new ISODate('2001:01:01') } })
@@ -131,4 +132,5 @@ db.article.aggregate([
 ]);
 
 db.article.drop();
+db.article_raw.drop();
 db.article_loc.renameCollection('article');
