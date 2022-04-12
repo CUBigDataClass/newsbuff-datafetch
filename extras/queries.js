@@ -97,7 +97,7 @@ db.article.aggregate([
     {
         $match: { uri: 'nyt://article/f9171427-eed3-5031-88fa-f3ba050a5cf3' }
     }
-])
+]);
 
 db.article.aggregate([
     {
@@ -111,5 +111,24 @@ db.article.aggregate([
             foreignField: "location",
             as: "locations"
         }
-    }
-])
+    },
+    { $project: { _id: 0, locationsRawTrimmed: 0, "locations._id": 0 } },
+    { $out: "article_loc" }
+]);
+
+db.article.aggregate([
+    {
+        $lookup:
+        {
+            from: "location",
+            localField: "locationsRawTrimmed",
+            foreignField: "location",
+            as: "locations"
+        }
+    },
+    { $project: { _id: 0, locationsRawTrimmed: 0, "locations._id": 0 } },
+    { $out: "article_loc" }
+]);
+
+db.article.drop();
+db.article_loc.renameCollection('article');
