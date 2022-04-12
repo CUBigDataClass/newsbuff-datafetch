@@ -105,7 +105,7 @@ const readLine = (line) => {
     return {index, location, latitude, longitude};
 };
 
-const locationsNull = () => {
+const locationsJson = () => {
     const locationsData = fs.readFileSync('../locations-n.csv', 'utf8');
     const records = locationsData.split('\n');
     console.log(records.length);
@@ -116,6 +116,15 @@ const locationsNull = () => {
     fs.writeFileSync('../locations-n3.json', locationsDataJson, 'utf8');
 };
 
+const locationsTrim = () => {
+    const locations = JSON.parse(fs.readFileSync('../locations-n3.json', 'utf8'));
+    for(let i=0; i<locations.length; i++) {
+        locations[i].location = locations[i].location.trim().replace(/\s+/g, ' ');
+    }
+    const locationsDataJson = JSON.stringify(locations, undefined, 2);
+    fs.writeFileSync('../locations-tr.json', locationsDataJson, 'utf8');
+};
+
 (async()=>{
-    locationsNull();
+    locationsTrim();
 })();
