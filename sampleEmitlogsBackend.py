@@ -12,5 +12,5 @@ emitlogsBackend.log_info("Your info message - sample run example - info", rabbit
 emitlogsBackend.log_debug("Your debug message - sample run - debug", rabbitMQChannel)
 emitlogsBackend.log_warning("Your warning message - sample run - warning", rabbitMQChannel)
 
-# Step 4: Close the channel connection using the following function by passing <var2> from Step 2
+# Step 4: Close the channel connection using the following function by passing <var2> from Step 2 after completing logging operation.
 emitlogsBackend.closeConnection(rabbitMQ)
