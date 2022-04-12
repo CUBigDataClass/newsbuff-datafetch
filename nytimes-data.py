@@ -19,7 +19,7 @@ CONSTANTS = {
     "START_YEAR": 2022,
     "END_YEAR": 2022,
     "STEP_YEAR": -1,
-    "START_MONTH": 2,
+    "START_MONTH": 4,
     "END_MONTH": 4
 }
 

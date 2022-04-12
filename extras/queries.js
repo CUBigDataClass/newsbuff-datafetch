@@ -47,6 +47,7 @@ db.article.aggregate(
     ])
 
 db.article.find().sort({ "dateTime": 1 }).limit(1)
+db.article.find().sort({ "dateTime": -1 }).limit(1)
 
 
 db.article.aggregate([
