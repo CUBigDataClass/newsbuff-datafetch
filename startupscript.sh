@@ -2,3 +2,4 @@
 
 pip install pika
 pip install pynytimes
+pip install vaderSentiment
