@@ -5,7 +5,7 @@ import pika
 import os
 import sys
 import platform
-import mongodb
+
 
 # declaring the routing keys for different topics - info/warning/debug
 infoKey = f"{platform.node()}.logs.info"
