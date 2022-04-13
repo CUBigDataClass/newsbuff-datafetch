@@ -36,7 +36,7 @@ def callback(ch, method, properties, body):
     sys.stdout.flush()
     sys.stderr.flush()
 
-print(' [*] Waiting for logs. To exit press CTRL+C')
+print(' [*] Waiting for BACKEND logs. To exit press CTRL+C')
 
 rabbitMQChannel.basic_consume(
     queue=queue_name, on_message_callback=callback, auto_ack=True)
