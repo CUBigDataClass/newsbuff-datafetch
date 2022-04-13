@@ -137,3 +137,5 @@ db.article_raw.drop();
 db.article_loc.renameCollection('article');
 
 db.article.find().sort({ "dateTime": -1 }).limit(40)
+db.article.find({ dateTime: { $lt: new ISODate('2001-01-02'), $gte: new ISODate('2001-01-01') } })
+
