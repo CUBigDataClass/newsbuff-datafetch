@@ -1,9 +1,10 @@
-import geocoder, os, sys, inspect, json
-currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
-parentdir = os.path.dirname(currentdir)
-sys.path.insert(0, parentdir) 
+import os, geocoder, json
+from os.path import join, dirname
+from dotenv import load_dotenv
+dotenv_path = join(dirname(__file__), '../.env')
+load_dotenv(dotenv_path)
 
-import env
+bing_api_key = os.environ.get('BING_API_KEY', None)
 
 # locations = ['PHILIPSE MANOR HALL (YONKERS, NY)', 'BALDWIN', 'GREAT NECK ESTATES, NY', 'Europe', 'North Pole']
 locations = json.load(open('locations.json', 'r'))
@@ -11,7 +12,7 @@ locations = json.load(open('locations.json', 'r'))
 
 locations = locations[:50]
 
-g = geocoder.bing(locations, method='batch', key=env.bing_api_key)
+g = geocoder.bing(locations, method='batch', key=bing_api_key)
 res = []
 for result in g:
    res.append(result.latlng)

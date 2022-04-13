@@ -1,8 +1,8 @@
-require('dotenv').config()
+require('dotenv').config({ path: '../.env'});
 const fetch = require('node-fetch');
 const fs = require('fs');
 const base_url = 'https://maps.googleapis.com/maps/api/geocode/json'
-const key = process.env.google_api_key;
+const key = process.env.GOOGLE_API_KEY;
 
 const fetchTimeout = async (i, url, timeout = 10000) => {
     try {

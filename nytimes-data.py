@@ -1,30 +1,36 @@
-# "nytimes"
 
-import csv
+# import csv
 import datetime
-import json
+# import json, 
+import re
 import sys
 from datetime import datetime
 
 import requests
 from pymongo import errors
 from pynytimes import NYTAPI
-from sqlalchemy import false
+# from sqlalchemy import false
 
 import mongodb
-import env
-import NYTSampleResponse
+# import NYTSampleResponse
+
+import os
+from os.path import join, dirname
+from dotenv import load_dotenv
+dotenv_path = join(dirname(__file__), '.env')
+load_dotenv(dotenv_path)
 
 CONSTANTS = {
-    "START_YEAR": 1910,
-    "END_YEAR": 1910,
+    "START_YEAR": 2022,
+    "END_YEAR": 2022,
     "STEP_YEAR": -1,
-    "START_MONTH": 5,
-    "END_MONTH": 5
+    "START_MONTH": 4,
+    "END_MONTH": 4
 }
 
 # Specify API key to fetch the data
-myKey = env.newsapikey
+google_api_key = os.environ.get('GOOGLE_API_KEY', None)
+myKey = os.environ.get('NYT_API_KEY', None)
 nyt = NYTAPI(myKey, parse_dates=True)
 currentTime = datetime.now()
 
@@ -37,7 +43,7 @@ def getNYTData(year, month):
 
 def extract_lat_long_via_location(location):
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"
-    endpoint = f"{base_url}?address={location}&key={env.google_api_key}"
+    endpoint = f"{base_url}?address={location}&key={google_api_key}"
     r = requests.get(endpoint)
     if r.status_code not in range(200, 299):
         return None
@@ -71,14 +77,15 @@ def processLocations(locations, locationsDict, locationCollection, locationError
                 }
                 locationsInsertList.append(locationObj)
                 locationsMappedList.append(locationObj)
-                # print(f"{location} fetched and found.")
+                locationsDict[location] = locationObj
+                print(f"{location} fetched and found.")
             else:
                 print(f"{location} fetched and not found.")
                 locationErrorCollection.insert_one({"location": location})
 
     if len(locationsInsertList) > 0:
         locationCollection.insert_many(locationsInsertList)
-        print(f"Inserted {len(locationsInsertList)} new locations in DB.")
+        print(f"Inserted {len(locationsInsertList)} new locations in DB.", locationsInsertList)
 
     return locationsMappedList
 
@@ -90,20 +97,20 @@ def processNYTResponseType1(response, locationsDict, locationCollection, locatio
         articleLocationsSet = set()
         for keyword in article["keywords"]:
             if keyword["name"] == "glocations":
+                keyword["value"] = re.compile(r"\s+").sub(" ", keyword["value"].strip())
                 articleLocationsSet.add(keyword["value"])
 
         if (len(articleLocationsSet) == 0):
             continue
         articleLocations = list(articleLocationsSet)
 
-        # articleMappedLocations = processLocations(
-            # articleLocations, locationsDict, locationCollection, locationErrorCollection)
-        # if (len(articleMappedLocations) == 0):
-        #     continue
-
+        articleMappedLocations = processLocations(
+            articleLocations, locationsDict, locationCollection, locationErrorCollection)
+        if (len(articleMappedLocations) == 0):
+            continue
+        
+        # print('articleMappedLocations', articleMappedLocations)
         articleObject = {}
-        # articleObject["locations"] = articleMappedLocations
-        articleObject["locationsRaw"] = articleLocations
         articleObject["uri"] = article["uri"]
         articleObject["dateTime"] = article["pub_date"]
         articleObject["section"] = article["section_name"]
@@ -120,6 +127,9 @@ def processNYTResponseType1(response, locationsDict, locationCollection, locatio
         if imageURL:
             articleObject["imageURL"] = imageURL
 
+        articleObject["locations"] = articleMappedLocations
+        # articleObject["locationsRaw"] = articleLocations
+
         articlesObjects.append(articleObject)
 
     return articlesObjects
@@ -130,15 +140,17 @@ def main():
     client = mongodb.dbConnection()
     mydb = mongodb.createdb(client)
     articleCollection = mydb["article"]
-    print(datetime.now(), articleCollection.count_documents({ "locationsRaw": { "$exists": True } }))
-    return
+    # print(datetime.now(), articleCollection.count_documents({ "locationsRaw": { "$exists": True } }))
+    # return
     locationCollection = mydb["location"]
     apiErrorCollection = mydb["api_error"]
     locationErrorCollection = mydb["location_error"]
+    countOld = articleCollection.count_documents({})
 
     resultCursor = locationCollection.find()
     locationResults = list(resultCursor)
-    locationsDict = {x["location"]: x for x in locationResults}
+    # locationsDict = {}
+    locationsDict = {x["location"]: {"location": x["location"], "latitude": x["latitude"], "longitude": x["longitude"]} for x in locationResults}
     print(f"Loaded {len(locationsDict)} locations from DB.")
 
     startYear = CONSTANTS["START_YEAR"]
@@ -186,6 +198,10 @@ def main():
                     exceptionData = {"year": year, "month": month, "dateTime": datetime.now(), "error": error}
                     print("Exception data", exceptionData)
                     apiErrorCollection.insert_one(exceptionData)
+
+    countNew = articleCollection.count_documents({})
+    countAdded = countNew - countOld
+    print(f"Added {countAdded} new articles, new total: {countNew}")
 
     endTime = datetime.now()
     print(f"Total execution time: {endTime-startTime}")
