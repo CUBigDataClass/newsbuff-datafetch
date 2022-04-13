@@ -1,14 +1,14 @@
-import os, sys, inspect, json, requests
-currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
-parentdir = os.path.dirname(currentdir)
-sys.path.insert(0, parentdir) 
+import os, json, requests
+from os.path import join, dirname
+from dotenv import load_dotenv
+dotenv_path = join(dirname(__file__), '../.env')
+load_dotenv(dotenv_path)
 
-import env
-
+google_api_key = os.environ.get('GOOGLE_API_KEY', None)
 
 def extract_lat_long_via_location(location):
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"
-    endpoint = f"{base_url}?address={location}&key={env.google_api_key}"
+    endpoint = f"{base_url}?address={location}&key={google_api_key}"
     r = requests.get(endpoint)
     if r.status_code not in range(200, 299):
         return None
