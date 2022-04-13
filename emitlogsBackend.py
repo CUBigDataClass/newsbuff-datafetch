@@ -5,6 +5,7 @@ import pika
 import os
 import sys
 import platform
+import mongodb
 
 # declaring the routing keys for different topics - info/warning/debug
 infoKey = f"{platform.node()}.logs.info"
@@ -21,7 +22,6 @@ def fetchConnection():
         rabbitMQ = pika.BlockingConnection(
                 pika.ConnectionParameters(host=rabbitMQHost, heartbeat=0))
         rabbitMQChannel = rabbitMQ.channel()
-        #print(rabbitMQChannel)
         rabbitMQChannel.exchange_declare(exchange='backendlogs', exchange_type='topic')
         return rabbitMQChannel, rabbitMQ
 

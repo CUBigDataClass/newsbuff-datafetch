@@ -3,7 +3,7 @@
 # Step 1: Import emitlogsBackend python file
 import emitlogsBackend
 
-# Step 2: Use two variables <var1> and <var2> to fetch connection and rabbitMQ details
+# Step 2: Use two variables <var1> and <var2> to fetch "rabbitMQ connection" and "rabbitMQ client" details
 rabbitMQChannel, rabbitMQ = emitlogsBackend.fetchConnection()
 
 # Step 3: Use respective function calls to publish your respective info/debug/warning log messages into rabbitMQ backend queue 
