@@ -5,6 +5,7 @@ pycache/*
 node_modules/
 .env
 venv/
+env/
 __pycache__/
 instance/
 .pytest_cache/
@@ -13,3 +14,4 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+app.yaml
