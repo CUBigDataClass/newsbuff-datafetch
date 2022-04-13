@@ -1,19 +1,24 @@
-# "nytimes"
 
-import csv
+# import csv
 import datetime
-import json, re
+# import json, 
+import re
 import sys
 from datetime import datetime
 
 import requests
 from pymongo import errors
 from pynytimes import NYTAPI
-from sqlalchemy import false
+# from sqlalchemy import false
 
 import mongodb
-import env
-import NYTSampleResponse
+# import NYTSampleResponse
+
+import os
+from os.path import join, dirname
+from dotenv import load_dotenv
+dotenv_path = join(dirname(__file__), '.env')
+load_dotenv(dotenv_path)
 
 CONSTANTS = {
     "START_YEAR": 2022,
@@ -24,7 +29,8 @@ CONSTANTS = {
 }
 
 # Specify API key to fetch the data
-myKey = env.newsapikey
+google_api_key = os.environ.get('GOOGLE_API_KEY', None)
+myKey = os.environ.get('NYT_API_KEY', None)
 nyt = NYTAPI(myKey, parse_dates=True)
 currentTime = datetime.now()
 
@@ -37,7 +43,7 @@ def getNYTData(year, month):
 
 def extract_lat_long_via_location(location):
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"
-    endpoint = f"{base_url}?address={location}&key={env.google_api_key}"
+    endpoint = f"{base_url}?address={location}&key={google_api_key}"
     r = requests.get(endpoint)
     if r.status_code not in range(200, 299):
         return None
