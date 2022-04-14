@@ -19,13 +19,23 @@ def get_articles():
     params = request.args
     startDate = None
     endDate = None
+    sections = None
+    location = None
     try:
         startDate = datetime.strptime(params['startDate'], "%Y-%m-%d")
         endDate = datetime.strptime(params['endDate'], "%Y-%m-%d") + timedelta(days=1)
     except:
         return Response(status=400)
 
-    results = articleCollection.find({ "dateTime": { "$gte": startDate, "$lt": endDate } }, {'_id': False}).limit(20)
+    query = { "dateTime": { "$gte": startDate, "$lt": endDate } }
+
+    if sections in params:
+        sections = params['sections']
+        query['section'] = { "section": { "$in" : sections} }
+    if location in params:
+        params = params['location']
+        query['location'] = { "locations": { "$elemMatch" : { "location":  { "$eq": location} } } }
+    results = articleCollection.find(query, {'_id': False}).limit(20)
     return Response(
         json.dumps({ "success": True, "rows": list(results) }, cls=MongoDbEncoder),
         mimetype='application/json'
