@@ -1,6 +1,6 @@
 import pymongo
 from flask import Flask, jsonify, request
-from flask_jwt_extended import JWTManager, jwt_required, create_access_token
+from flask_jwt_extended import JWTManager, jwt_required, create_access_token, get_jwt_identity
 from pymongo import MongoClient
 from requests import session
 from bson.objectid import ObjectId
@@ -73,7 +73,16 @@ def like():
         return jsonify(message="Unable to increment like"), 401
 
 
-    return jsonify(message="Welcome! to Newsbuff")
+@app.route("/bookmark", methods=["POST"])
+@jwt_required()
+def bookmark():
+    login_user = get_jwt_identity()
+    bookmark = request.form["bookmark"]
+    test = user.update_one({"email" : str(login_user)},{'$push' : {'bookmarks' : bookmark}}, upsert = True)
+    if test:
+        return jsonify(message="News bookmarked"), 201
+    else:
+        return jsonify(message="Unable to bookmark news"), 401
 
 if __name__ == '__main__':
     app.run(host="localhost", debug=True)
