@@ -66,19 +66,39 @@ def login():
 @jwt_required()
 def like():
     newsid = request.form["newsid"]
-    test = news.find_one_and_update({"_id" : ObjectId(newsid)},{'$inc' : {'like' : 1}})
-    if test:
-        return jsonify(message="Like incremented"), 201
-    else:
-        return jsonify(message="Unable to increment like"), 401
+    #like is 1 if like or -1 if unlike
+    like = request.form["like"]
+    login_user = get_jwt_identity()
+    #if user has liked the document cannot like again, same for unlike
+    if(like == '1'):
+        test_like = user.update_one({"email" : str(login_user)},{'$push' : {"like" : newsid}}, upsert = True)
+        #if like successful then increment the count
+        if(test_like):
+            test = news.find_one_and_update({"_id" : ObjectId(newsid)},{'$inc' : {"like" : 1}})
+            if test:
+                return jsonify(message="Like incremented"), 201
+            else:
+                return jsonify(message="Unable to increment like"), 401
+    elif(like == '-1'):
+        #test_unlike = user.update_one({"email" : str(login_user)},{'$push' : {'like' : newsid}}, upsert = True)
+        test_unlike = user.find({"email" : str(login_user)},{"like" : {'$in' : [newsid]}})
+        print(test_unlike)
+        if(test_unlike):
+            test = news.find_one_and_update({"_id" : ObjectId(newsid)},{'$inc' : {"like" : -1}})
+            user.update_one({"email" : str(login_user)}, {'$pull' : {"like" : newsid}})
+            if test:
+                return jsonify(message="Like deccremented"), 201
+            else:
+                return jsonify(message="Unable to decrement like"), 401
 
+    return jsonify(message="Unable to handle request"), 401
 
 @app.route("/bookmark", methods=["POST"])
 @jwt_required()
 def bookmark():
     login_user = get_jwt_identity()
-    bookmark = request.form["bookmark"]
-    test = user.update_one({"email" : str(login_user)},{'$push' : {'bookmarks' : bookmark}}, upsert = True)
+    newsid = request.form["newsid"]
+    test = user.update_one({"email" : str(login_user)},{'$push' : {'bookmarks' : newsid}}, upsert = True)
     if test:
         return jsonify(message="News bookmarked"), 201
     else:
