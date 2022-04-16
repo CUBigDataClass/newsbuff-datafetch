@@ -2,6 +2,9 @@ import pymongo
 from flask import Flask, jsonify, request
 from flask_jwt_extended import JWTManager, jwt_required, create_access_token
 from pymongo import MongoClient
+from requests import session
+from bson.objectid import ObjectId
+
 import mongodbconfig
 
 
@@ -9,6 +12,7 @@ client = pymongo.MongoClient(mongodbconfig.conn_str, serverSelectionTimeoutMS=50
 print(client.server_info())
 mydb = client["testdbnewsbuff"]
 user = mydb["users"]
+news = mydb["article"]
 
 app = Flask(__name__)
 jwt = JWTManager(app)
@@ -20,7 +24,9 @@ app.config["JWT_SECRET_KEY"] = mongodbconfig.JWT_SECRET_KEY
 @app.route("/dashboard")
 @jwt_required()
 def dasboard():
-    return jsonify(message="Welcome! to Newsbuff")
+    if 'first_name' in session:
+        print('username',session['first_name'])
+        return jsonify(message="Welcome! to Newsbuff " + session['first_name'])
 
 
 @app.route("/register", methods=["POST"])
@@ -55,6 +61,19 @@ def login():
     else:
         return jsonify(message="Bad Email or Password"), 401
 
+
+@app.route("/like", methods=["POST"])
+@jwt_required()
+def like():
+    newsid = request.form["newsid"]
+    test = news.find_one_and_update({"_id" : ObjectId(newsid)},{'$inc' : {'like' : 1}})
+    if test:
+        return jsonify(message="Like incremented"), 201
+    else:
+        return jsonify(message="Unable to increment like"), 401
+
+
+    return jsonify(message="Welcome! to Newsbuff")
 
 if __name__ == '__main__':
     app.run(host="localhost", debug=True)
