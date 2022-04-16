@@ -14,30 +14,32 @@ class MongoDbEncoder(json.JSONEncoder):
             return obj.isoformat() + 'Z'
         return json.JSONEncoder.default(self, obj)
 
-@app.get("/api")
-def get_articles():
+@app.get("/api/<year>/<month>/<day>")
+def get_articles(year, month, day):
     params = request.args
-    startDate = None
-    endDate = None
-    sections = None
     location = None
+    sections = None
     try:
-        startDate = datetime.strptime(params['startDate'], "%Y-%m-%d")
-        endDate = datetime.strptime(params['endDate'], "%Y-%m-%d") + timedelta(days=1)
+        startDate = datetime(int(year), int(month), int(day))
+        endDate = startDate + timedelta(days=1)
     except:
         return Response(status=400)
 
     query = { "dateTime": { "$gte": startDate, "$lt": endDate } }
 
-    if sections in params:
+    if 'location' in params:
+        location = params['location']
+        query['location'] = { "locations": { "$elemMatch" : { "location":  { "$eq": location} } } }
+    if 'sections' in params:
         sections = params['sections']
         query['section'] = { "section": { "$in" : sections} }
-    if location in params:
-        params = params['location']
-        query['location'] = { "locations": { "$elemMatch" : { "location":  { "$eq": location} } } }
-    results = articleCollection.find(query, {'_id': False}).limit(20)
+
+    results = articleCollection.find(query, {'_id': False}).limit(30)
+    resultsList = list(results)
+    resultsCount = len(resultsList)
+    print(resultsCount, resultsList)
     return Response(
-        json.dumps({ "success": True, "rows": list(results) }, cls=MongoDbEncoder),
+        json.dumps({ "success": True, "count": resultsCount, "rows": resultsList }, cls=MongoDbEncoder),
         mimetype='application/json'
     )
 
