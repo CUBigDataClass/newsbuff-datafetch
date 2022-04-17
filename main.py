@@ -42,7 +42,9 @@ def get_articles(year, month, day):
     if 'sections' in params:
         sections = params['sections']
         query['section'] = { "section": { "$in" : sections} }
-
+    if 'polygon' in params:
+        polygon = params['polygon']
+        query['polygon'] = {"locations": {"$elemMatch" : {{"location": { "$geoWithin": { "$geometry": { "type" : "Polygon", "coordinates" : polygon}}}}}}}
     results = articleCollection.find(query, {'_id': False}).limit(30)
     resultsList = list(results)
     resultsCount = len(resultsList)
