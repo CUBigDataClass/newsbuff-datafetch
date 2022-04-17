@@ -1,9 +1,12 @@
 from flask import Flask, request, Response
+from flask_cors import CORS
 import json
 from datetime import datetime, timedelta
 import mongodb
 
 app = Flask(__name__)
+CORS(app)
+
 client = mongodb.dbConnection()
 mydb = mongodb.createdb(client)
 articleCollection = mydb["article"]
