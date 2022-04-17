@@ -43,7 +43,6 @@ def get_articles(year, month, day):
     results = articleCollection.find(query, {'_id': False}).limit(30)
     resultsList = list(results)
     resultsCount = len(resultsList)
-    print(resultsCount, resultsList)
     return Response(
         json.dumps({ "success": True, "count": resultsCount, "rows": resultsList }, cls=MongoDbEncoder),
         mimetype='application/json'
