@@ -26,7 +26,10 @@ def get_articles(year, month, day):
         startDate = datetime(int(year), int(month), int(day))
         endDate = startDate + timedelta(days=1)
     except:
-        return Response(status=400)
+        return Response(
+            json.dumps({ "success": True, "count": 0, "rows": [] }),
+            mimetype='application/json'
+        )
 
     query = { "dateTime": { "$gte": startDate, "$lt": endDate } }
 
