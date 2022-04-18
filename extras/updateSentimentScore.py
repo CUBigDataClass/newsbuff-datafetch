@@ -6,12 +6,17 @@ parentdir = os.path.dirname(currentdir)
 sys.path.insert(0, parentdir) 
 
 import mongodb
+from pymongo import InsertOne, DeleteMany, ReplaceOne, UpdateOne
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+sid_obj = SentimentIntensityAnalyzer()
+
+import multiprocessing as mp
+num_proc = mp.cpu_count()
+print("Number of processors: ", num_proc)
 
 def getSentiment(sentence):
-    sid_obj = SentimentIntensityAnalyzer()
     sentiment_dict = sid_obj.polarity_scores(sentence)
     sentimentScore = sentiment_dict['compound']
     return sentimentScore
@@ -37,74 +42,76 @@ class MongoDbEncoder(json.JSONEncoder):
 startYear = 2021
 endYear = 2021
 stepYear = 1
-startMonth = 2
-endMonth = 2
+startMonth = 1
+endMonth = 1
+
+def processSingle(article):
+    text = article['headline'] + '- ' + article['abstract']
+    article['sentimentScore'] = getSentiment(text)
+    return article
 
 def processSequentially(articlesList):
-    articlesListWithSentiment = []
     for article in articlesList:
-        text = article['headline'] + '- ' + article['abstract']
-        article['sentimentScore'] = getSentiment(text)
-        articlesListWithSentiment.append(article)
-    print(len(articlesList))
-    return articlesListWithSentiment
+        processSingle(article)
 
 def processParallely(articlesList):
-    articlesListWithSentiment = []
-    print(len(articlesList))
-    return articlesListWithSentiment
+    pool = mp.Pool(num_proc)
+    return [pool.apply(processSingle, args=(article, )) for article in articlesList]
 
 try:
     for year in range(startYear, endYear + stepYear, stepYear):
         print(f"Year: {year}")
         for month in range(startMonth, endMonth + 1):
             print(f"Month: {month}")
-            articlesList = None
-            with open(f'sample/{year}-{month}.json', 'r', encoding='utf-8') as f:
-                articlesList = json.load(f)
 
-            # startDate = datetime(int(year), int(month), 1)
-            # endDate = startDate + relativedelta(months=+1)
-            # print(startDate, endDate)
-            # query = { "sentimentScore": {"$exists" : False}, "dateTime": { "$gte": startDate, "$lt": endDate } }
-            # articles = articleCollection.find(query, { '_id': 1, 'headline': 1, 'abstract': 1 })
-            # articlesList = list(articles)
-            # # print(len(articlesList))
+            # articlesList = None
+            # with open(f'sample/{year}-{month}.json', 'r', encoding='utf-8') as f:
+            #     articlesList = json.load(f)
+
+            startDate = datetime(int(year), int(month), 1)
+            endDate = startDate + relativedelta(months=+1)
+            print(startDate, endDate)
+            query = { "sentimentScore": {"$exists" : False}, "dateTime": { "$gte": startDate, "$lt": endDate } }
+            articles = articleCollection.find(query, { '_id': 1, 'headline': 1, 'abstract': 1 })
+            articlesList = list(articles)
+            print(len(articlesList))
+
             # with open(f'sample/{year}-{month}.json', 'w', encoding='utf-8') as f:
             #     json.dump(articlesList, f, indent=2, cls=MongoDbEncoder)
 
             startTime = datetime.now()
-            articlesListWithSentiment = processSequentially(articlesList)
+            processSequentially(articlesList)
+            # articlesList = processParallely(articlesList)
             endTime = datetime.now()
-            print(f"Total execution time: {endTime-startTime}")
+            print(f"Sentiment Score Calculation- Total execution time: {endTime-startTime}")
             
-            with open(f'sample/{year}-{month}-op.json', 'w', encoding='utf-8') as f:
-                json.dump(articlesListWithSentiment, f, indent=2, cls=MongoDbEncoder)
+            # with open(f'sample/{year}-{month}-op.json', 'w', encoding='utf-8') as f:
+            #     json.dump(articlesList, f, indent=2, cls=MongoDbEncoder)
 
-            # # Create a list with object id and abstract field, use abstract field to pass it sentiment analyser
-            # bulk = articleCollection.initialize_unordered_bulk_op()
-            # counter = 0
-            # for a in articlesList:
-            #     a['sentimentScore'] = getSentiment(a['abstract'])
-            # print(articlesList)
+            startTime = datetime.now()
+            # Create a list with object id and abstract field, use abstract field to pass it sentiment analyser
+            operations = []
+            batchCount = 1
 
-            # for a in articlesList:
-            #     # process in bulk
-            #     bulk.find({ '_id': a['_id'] }).update({ '$set': { 'sentimentScore': a['sentimentScore']} })
-            #     counter += 1
+            for article in articlesList:
+                operation = UpdateOne({'_id': article['_id']}, {'$set': {'sentimentScore': article['sentimentScore']}})
+                operations.append(operation)
 
-            #     if (counter % 500 == 0):
-            #         bulk.execute()
-            #         bulk = articleCollection.initialize_ordered_bulk_op()
+                if (len(operations) % 500 == 0):
+                    print(f'Writing batch {batchCount}')
+                    articleCollection.bulk_write(operations)
+                    operations = []
+                    batchCount += 1
 
-            #     if (counter % 500 != 0):
-            #         bulk.execute()
+            if (len(operations) > 0):
+                print(f'Writing batch {batchCount}')
+                articleCollection.bulk_write(operations)
 
-            # articles = articleCollection.find(query, {'_id':1,'abstract':1}).limit(30)
-            # articlesList = list(articles)
-            # print(articlesList)
+            endTime = datetime.now()
+            print(f"DB Bulk Write- Total execution time: {endTime-startTime}")
             
-except:
+except Exception as e:
+    raise e
     errorInfo = sys.exc_info()
     print(errorInfo)
     # error = str(errorInfo[0])
