@@ -3,6 +3,7 @@ from flask_cors import CORS
 import json
 from bson import ObjectId
 from datetime import datetime, timedelta
+import pymongo
 import mongodb
 
 app = Flask(__name__)
@@ -45,7 +46,7 @@ def get_articles(year, month, day):
     if 'polygon' in params:
         polygon = params['polygon']
         query['polygon'] = {"locations": {"$elemMatch" : {{"location": { "$geoWithin": { "$geometry": { "type" : "Polygon", "coordinates" : polygon}}}}}}}
-    results = articleCollection.find(query, {'_id': False}).limit(30)
+    results = articleCollection.find(query, {'_id': False}).sort('dateTime', pymongo.DESCENDING).limit(100)
     resultsList = list(results)
     resultsCount = len(resultsList)
     return Response(

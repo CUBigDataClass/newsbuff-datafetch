@@ -14,6 +14,9 @@ from pynytimes import NYTAPI
 import mongodb
 # import NYTSampleResponse
 
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+sid_obj = SentimentIntensityAnalyzer()
+
 import os
 from os.path import join, dirname
 from dotenv import load_dotenv
@@ -33,6 +36,11 @@ google_api_key = os.environ.get('GOOGLE_API_KEY', None)
 myKey = os.environ.get('NYT_API_KEY', None)
 nyt = NYTAPI(myKey, parse_dates=True)
 currentTime = datetime.now()
+
+def getSentiment(sentence):
+    sentiment_dict = sid_obj.polarity_scores(sentence)
+    sentimentScore = sentiment_dict['compound']
+    return sentimentScore
 
 # Function definition to fetch the NY times Archive data for given month and year.
 def getNYTData(year, month):
@@ -117,6 +125,9 @@ def processNYTResponseType1(response, locationsDict, locationCollection, locatio
         articleObject["headline"] = article["headline"]["main"]
         articleObject["abstract"] = article["abstract"]
         articleObject["webURL"] = article["web_url"]
+
+        text = articleObject['headline'] + '- ' + articleObject['abstract']
+        articleObject['sentimentScore'] = getSentiment(text)
 
         imageURL = None
         for image in article['multimedia']:
