@@ -1,4 +1,4 @@
-import json
+import json, sys
 from datetime import datetime, timedelta
 
 import pymongo
@@ -50,6 +50,8 @@ class Class2(Resource):
             startDate = datetime(int(year), int(month), int(day))
             endDate = startDate + timedelta(days=1)
         except:
+            errorInfo = sys.exc_info()
+            print(errorInfo)
             return Response(
                 json.dumps({ "success": False, "count": 0, "rows": [] }),
                 mimetype='application/json'
@@ -69,6 +71,8 @@ class Class2(Resource):
                 mimetype='application/json'
             )
         except:
+            errorInfo = sys.exc_info()
+            print(errorInfo)
             return Response(
                 json.dumps({ "success": False, "count": 0, "rows": [] }),
                 mimetype='application/json'
