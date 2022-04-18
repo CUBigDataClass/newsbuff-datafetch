@@ -35,9 +35,9 @@ jobs:
       uses: google-github-actions/deploy-appengine@v0.2.0
       with:
         deliverables: app.yaml
-        version: 20220418t100546
+        version: v1
         project_id: ${{ secrets.GCP_PROJECT }}
         credentials: ${{ secrets.GCP_CREDENTIALS }}
 
     - name: Test
-      run: curl "${{ steps.deploy.outputs.url }}/api/2020/04/03"
+      run: curl "${{ steps.deploy.outputs.url }}/api/ping"
