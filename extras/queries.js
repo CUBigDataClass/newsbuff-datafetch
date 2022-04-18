@@ -1,3 +1,5 @@
+`use testdbnewsbuff`;
+
 db.article.find({ "imageURL": { $exists: false } })
 db.createView("articleNoImageThumb", "article", [{ $match: { "imageURL": { $exists: false } } }])
 db.article.deleteMany({})
@@ -142,3 +144,4 @@ db.article.find({ dateTime: { $lt: new ISODate('2001-01-02'), $gte: new ISODate(
 
 db.article.find({ sentimentScore: { $exists : false}, dateTime: { $lt: new ISODate('2021-02-01'), $gte: new ISODate('2021-01-01') } })
 
+db.article.count({ sentimentScore: { $exists : false} });

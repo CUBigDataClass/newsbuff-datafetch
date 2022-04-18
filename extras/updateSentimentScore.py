@@ -28,8 +28,8 @@ class MongoDbEncoder(json.JSONEncoder):
             return str(obj)
         return json.JSONEncoder.default(self, obj)
 
-startYear = 2015
-endYear = 2000
+startYear = 1999
+endYear = 1900
 stepYear = -1
 startMonth = 1
 endMonth = 12
