@@ -36,16 +36,10 @@ def get_articles(year, month, day):
         )
 
     query = { "dateTime": { "$gte": startDate, "$lt": endDate } }
-
-    if 'location' in params:
-        location = params['location']
-        query['location'] = { "locations": { "$elemMatch" : { "location":  { "$eq": location} } } }
-    if 'sections' in params:
-        sections = params['sections']
-        query['section'] = { "section": { "$in" : sections} }
     if 'polygon' in params:
-        polygon = params['polygon']
-        query['polygon'] = {"locations": {"$elemMatch" : {{"location": { "$geoWithin": { "$geometry": { "type" : "Polygon", "coordinates" : polygon}}}}}}}
+        polygon = json.loads(params['polygon'])
+        # polygon = [ [ [ 0 , 0 ] , [ 3 , 6 ] , [ 6 , 1 ] , [ 0 , 0  ] ] ]
+        query['locations'] = { '$elemMatch': {'location': { '$geoWithin': { '$geometry': { 'type': 'Polygon', 'coordinates': polygon } } } } }
     results = articleCollection.find(query, {'_id': False}).sort('dateTime', pymongo.DESCENDING).limit(100)
     resultsList = list(results)
     resultsCount = len(resultsList)
@@ -53,32 +47,6 @@ def get_articles(year, month, day):
         json.dumps({ "success": True, "count": resultsCount, "rows": resultsList }, cls=MongoDbEncoder),
         mimetype='application/json'
     )
-
-# #[ [ [ 0, 0 ], [ 3, 6 ], [ 6, 1 ], [ 0, 0 ] ] ]
-# @app.get("/newsbuff/polygon/<polygon>")
-# def get_news_polygon(polygon):
-#     response={}
-#     rows=[]
-#     try:
-#         client = mongodb.dbConnection()
-#         mydb = client[db_name]
-#         polygon = list(polygon)
-#         print(polygon)
-#         mycol2 = mydb[collection_name]
-#         request = mycol2.find({"location": { "$geoWithin": { "$geometry": { "type" : "Polygon", "coordinates" : polygon }}}}).limit(20)
-#         articles = list(request)
-#         for article in articles:
-#             rows.append({"datetime":article['datetime'], "section":article['section'] ,"subsection":article['subsection'],
-#             "headline":article['headline'], "description":article['description'], "location":article['location'],
-#             "webURL":article['webURL'], "imageURL":article['imageURL']})
-#         response = {"request": {"polygon": polygon}, "response": {"success": "true", "rows": rows}}
-
-#     except Exception as e:
-#         print(e)
-#         response = {"request": {"polygon": polygon}, "response": {"success": "false"}}
-
-#     return dumps(response)
-
 
 if __name__ == '__main__':
     app.run(debug=True)

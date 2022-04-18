@@ -145,3 +145,7 @@ db.article.find({ dateTime: { $lt: new ISODate('2001-01-02'), $gte: new ISODate(
 db.article.find({ sentimentScore: { $exists : false}, dateTime: { $lt: new ISODate('2021-02-01'), $gte: new ISODate('2021-01-01') } })
 
 db.article.count({ sentimentScore: { $exists : false} });
+
+db.article.find({ dateTime: { $lt: new ISODate('2021-04-02'), $gte: new ISODate('2021-04-01') }, locations: { $elemMatch: {location: { $eq: 'Minneapolis (Minn)' } } } })
+
+db.article.find({ dateTime: { $lt: new ISODate('2021-04-02'), $gte: new ISODate('2021-04-01') }, locations: { $elemMatch: {location: { $geoWithin: { $geometry: { type: "Polygon", coordinates: [ [ [ 0 , 0 ] , [ 3 , 6 ] , [ 6 , 1 ] , [ 0 , 0  ] ] ] } } } } } })
