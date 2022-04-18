@@ -34,4 +34,8 @@ jobs:
         credentials: ${{ secrets.GCP_CREDENTIALS }}
 
     - name: Test
+<<<<<<< HEAD
       run: curl "${{ steps.deploy.outputs.url }}/api/2020/04/02"
+=======
+      run: curl "${{ steps.deploy.outputs.url }}/api/2020/04/02"
+>>>>>>> 388fd2d3d8de7e7755fbdedf6d9832edfbae25dd
