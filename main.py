@@ -8,8 +8,8 @@ from flask_cors import CORS
 from flask_restx import Api, Resource
 import mongodb
 
-import emitlogsBackend
-rabbitMQChannel, rabbitMQ = emitlogsBackend.fetchConnection()
+# import emitlogsBackend
+# rabbitMQChannel, rabbitMQ = emitlogsBackend.fetchConnection()
 
 app = Flask(__name__)
 CORS(app)
@@ -69,7 +69,7 @@ class Class2(Resource):
             results = articleCollection.find(query, {'_id': False}).sort('dateTime', pymongo.DESCENDING).limit(100)
             resultsList = list(results)
             resultsCount = len(resultsList)
-            emitlogsBackend.log_info(f'year: {year}, month: {month}, day: {day}, count: {resultsCount}', rabbitMQChannel)
+            # emitlogsBackend.log_info(f'year: {year}, month: {month}, day: {day}, count: {resultsCount}', rabbitMQChannel)
             return Response(
                 json.dumps({ "success": True, "count": resultsCount, "rows": resultsList }, cls=MongoDbEncoder),
                 mimetype='application/json'
@@ -77,7 +77,7 @@ class Class2(Resource):
         except:
             errorInfo = sys.exc_info()
             print(errorInfo)
-            emitlogsBackend.log_error(errorInfo, rabbitMQChannel)
+            # emitlogsBackend.log_error(errorInfo, rabbitMQChannel)
             return Response(
                 json.dumps({ "success": False, "count": 0, "rows": [] }),
                 mimetype='application/json'
