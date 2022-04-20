@@ -22,8 +22,10 @@ spec:
             cpu: 100m
             memory: 100Mi
         env:
-        - name: RABBITMQ_HOST
-          value: rabbitmq
+        - name: DB_URL
+          value: DB_URL
+        - name: RABBITMQ_URI
+          value: RABBITMQ_URI
         - name: PYTHONUNBUFFERED
           value: "TRUE"
 ---

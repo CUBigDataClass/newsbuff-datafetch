@@ -10,17 +10,18 @@ import platform
 # declaring the routing keys for different topics - info/warning/debug
 infoKey = f"{platform.node()}.logs.info"
 warningKey = f"{platform.node()}.logs.warning"
+errorKey = f"{platform.node()}.logs.error"
 debugKey = f"{platform.node()}.logs.debug"
 
 
 # reusable object to fetch the channel details and rabbitMQ details
 def fetchConnection():
-        rabbitMQHost = os.getenv("RABBITMQ_HOST") or "localhost"
 
-        print(f"Connecting to rabbitmq({rabbitMQHost})")
+        rabbitMQUri = os.getenv("RABBITMQ_URI")
+        print("Connected to RabbitMQ")
 
         rabbitMQ = pika.BlockingConnection(
-                pika.ConnectionParameters(host=rabbitMQHost, heartbeat=0))
+                pika.URLParameters(rabbitMQUri))
         rabbitMQChannel = rabbitMQ.channel()
         rabbitMQChannel.exchange_declare(exchange='backendlogs', exchange_type='topic')
         return rabbitMQChannel, rabbitMQ
@@ -45,6 +46,14 @@ def log_debug(message, rabbitMQChannel, key=debugKey):
 # Takes two parameters: <warning message to be pusblished> and <rabbitMQChannel object received from fetchConnection() call>
 def log_warning(message, rabbitMQChannel, key=warningKey):
     print("WARNING:", message, file=sys.stdout)
+    rabbitMQChannel.basic_publish(
+        exchange='backendlogs', routing_key=key, body=message)
+
+
+# reusable object to publish "error message" into the logs.
+# Takes two parameters: <error message to be pusblished> and <rabbitMQChannel object received from fetchConnection() call>
+def log_error(message, rabbitMQChannel, key=errorKey):
+    print("ERROR:", message, file=sys.stdout)
     rabbitMQChannel.basic_publish(
         exchange='backendlogs', routing_key=key, body=message)
 

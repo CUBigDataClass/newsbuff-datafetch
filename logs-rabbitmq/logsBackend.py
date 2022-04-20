@@ -1,16 +1,33 @@
+from datetime import datetime
 import sys
-import os
+import os, pymongo
 import pika
 
 ##
 ## Configure test vs. production
 ##
-rabbitMQHost = os.getenv("RABBITMQ_HOST") or "localhost"
-print("Using host", rabbitMQHost)
+rabbitMQUri = os.getenv("RABBITMQ_URI")
+dBUrl = os.getenv("DB_URL")
+print("Connected to RabbitMQ")
+
+client = None
+try:
+    # set a 5-second connection timeout
+    client = pymongo.MongoClient(dBUrl, serverSelectionTimeoutMS=5000)
+    print("Connected to the DB server.")
+except Exception as error:
+    print("Unable to connect to the DB server.")
+    raise error
+mydb = client["testdbnewsbuff"]
+logsCollection = mydb["log"]
+
+logsCollection.insert_one({'msg': 'Connected to DB', 'ts': datetime.now() })
 
 rabbitMQ = pika.BlockingConnection(
-        pika.ConnectionParameters(host=rabbitMQHost))
+        pika.URLParameters(rabbitMQUri))
 rabbitMQChannel = rabbitMQ.channel()
+
+logsCollection.insert_one({'msg': 'Connected to RabbitMQ', 'ts': datetime.now() })
 
 rabbitMQChannel.exchange_declare(exchange='backendlogs', exchange_type='topic')
 result = rabbitMQChannel.queue_declare('', exclusive=True)
@@ -32,7 +49,10 @@ for key in binding_keys:
             routing_key=key)
 
 def callback(ch, method, properties, body):
-    print(f" [x] {method.routing_key}:{body}", file=sys.stdout, flush=True)
+    msg = f" [x] {method.routing_key}:{body}"
+    print(msg, file=sys.stdout, flush=True)
+    obj = { 'msg': msg, 'ts': datetime.now() }
+    logsCollection.insert_one(obj)
     sys.stdout.flush()
     sys.stderr.flush()
 

@@ -13,6 +13,12 @@ from pynytimes import NYTAPI
 
 import mongodb
 # import NYTSampleResponse
+import emitlogsBackend
+rabbitMQChannel, rabbitMQ = emitlogsBackend.fetchConnection()
+
+# emitlogsBackend.log_info("Your info message - sample run example - info", rabbitMQChannel)
+# emitlogsBackend.log_debug("Your debug message - sample run - debug", rabbitMQChannel)
+# emitlogsBackend.log_warning("Your warning message - sample run - warning", rabbitMQChannel)
 
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 sid_obj = SentimentIntensityAnalyzer()
@@ -212,7 +218,9 @@ def main():
 
     countNew = articleCollection.count_documents({})
     countAdded = countNew - countOld
-    print(f"Added {countAdded} new articles, new total: {countNew}")
+    msg = f"Added {countAdded} new articles, new total: {countNew}"
+    print(msg)
+    emitlogsBackend.log_info(msg, rabbitMQChannel)
 
     endTime = datetime.now()
     print(f"Total execution time: {endTime-startTime}")

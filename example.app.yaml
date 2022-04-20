@@ -3,3 +3,4 @@ env_variables:
   DB_URL: ""
   NYT_API_KEY: ""
   GOOGLE_API_KEY: ""
+  RABBITMQ_URI: ""

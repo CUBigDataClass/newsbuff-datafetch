@@ -15,3 +15,4 @@ dist/
 build/
 *.egg-info/
 app.yaml
+deployment.yaml
