@@ -13,8 +13,8 @@ from pynytimes import NYTAPI
 
 import mongodb
 # import NYTSampleResponse
-import emitlogsBackend
-rabbitMQChannel, rabbitMQ = emitlogsBackend.fetchConnection()
+# import emitlogsBackend
+# rabbitMQChannel, rabbitMQ = emitlogsBackend.fetchConnection()
 
 # emitlogsBackend.log_info("Your info message - sample run example - info", rabbitMQChannel)
 # emitlogsBackend.log_debug("Your debug message - sample run - debug", rabbitMQChannel)
@@ -220,7 +220,7 @@ def main():
     countAdded = countNew - countOld
     msg = f"Added {countAdded} new articles, new total: {countNew}"
     print(msg)
-    emitlogsBackend.log_info(msg, rabbitMQChannel)
+    # emitlogsBackend.log_info(msg, rabbitMQChannel)
 
     endTime = datetime.now()
     print(f"Total execution time: {endTime-startTime}")
