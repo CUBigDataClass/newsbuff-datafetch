@@ -1,17 +1,28 @@
-# News Buff- Backend
+# ATLS 5214: Big Data Architecture (Spring 2022)
+## Project Name: News Buff
+## Team Name: Headliners
+## Team Members-
+1. Sagar Pathare
+2. Akshay Abhyankar
+3. Anusha Basavaraja
+4. Pratyush Thota
+5. Saumya Bansal
 
-## Introduction
------------------------------------------------
-- News Buff is an interactive world map of global news
-- Check out the project on https://newsbuff.ml
+## Project Link- [https://newsbuff.ml/](https://newsbuff.ml/)
 
-## Description
------------------------------------------------
+### This repository contains the Backend Code
+* [Frontend Repository](https://github.com/CUBigDataClass/newsbuff-frontend)
+* [Final Presentation](https://drive.google.com/file/d/1ITjJ-wMPlwxX1TmN7ecbLhtJbw1PlhYu/view?usp=sharing)
+* [Demo Video](https://www.youtube.com/watch?v=0N3z6ShcNKk)
 
-- News pins are populated on the map depending on the user inputs - date, section, location
-- Each news article's location is geocoded and shown on the map  
-- Sentiment analysis is done on each news article to calculate a sentiment score from -1 to 1
-- User Authentication with like and bookmark features for personalization
+
+## Project Description
+* News Buff is an interactive world map of global news
+* News pins are populated on the map depending on the user inputs - year, month, day, query
+* Each news article's location is geocoded and shown on the map
+* Sentiment analysis is done on each news article to calculate a sentiment score from -1 to 1
+* Each location has an average sentiment score and shows its articles
+* Share article via Social Media
 
 ## Installation
 -----------------------------------------------
