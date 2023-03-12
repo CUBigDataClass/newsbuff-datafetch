@@ -12,7 +12,7 @@
 
 ### This repository contains the Backend Code
 * [Frontend Repository](https://github.com/CUBigDataClass/newsbuff-frontend)
-* [Final Presentation](https://drive.google.com/file/d/1ITjJ-wMPlwxX1TmN7ecbLhtJbw1PlhYu/view?usp=sharing)
+* [Final Presentation](News%20Buff-%20Final%20Presentation.pdf)
 * [Demo Video](https://www.youtube.com/watch?v=0N3z6ShcNKk)
 
 
